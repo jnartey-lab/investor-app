@@ -104,6 +104,11 @@ let externalData = null;
 
 const currency = new Intl.NumberFormat("en-GH", { style: "currency", currency: "GHS", maximumFractionDigits: 0 });
 const number = new Intl.NumberFormat("en-GH");
+const ghanaDateTime = new Intl.DateTimeFormat("en-GB", {
+  dateStyle: "medium",
+  timeStyle: "short",
+  timeZone: "Africa/Accra",
+});
 
 function pct(current, previous) {
   return ((current - previous) / previous) * 100;
@@ -304,15 +309,15 @@ function renderMacro() {
 }
 
 function renderSources() {
-  const generated = externalData?.generatedAtEastern
-    ? new Date(externalData.generatedAtEastern).toLocaleString("en-US", { dateStyle: "medium", timeStyle: "short" })
+  const generated = externalData?.generatedAt
+    ? ghanaDateTime.format(new Date(externalData.generatedAt))
     : "Waiting for first scheduled run";
   const okSources = externalData?.sources?.filter((source) => source.ok).length || 0;
   const totalSources = externalData?.sources?.length || marketData.sources.length;
   const items = externalData?.items || [];
 
   byId("externalMetrics").innerHTML = [
-    metric("Last update", generated, "America/New_York", "neutral"),
+    metric("Last update", generated, "Ghana time", "neutral"),
     metric("Fetched sources", `${okSources}/${totalSources}`, "Public pages and feeds", okSources === totalSources ? "positive" : "neutral"),
     metric("External items", number.format(items.length), "Research and business news", "neutral"),
     metric("Schedule", "11:00 AM", "America/New_York daily", "positive"),
@@ -343,8 +348,8 @@ async function loadExternalData() {
     const response = await fetch("data/external-sources.json", { cache: "no-store" });
     if (!response.ok) return;
     externalData = await response.json();
-    if (externalData?.generatedAtEastern) {
-      byId("lastUpdated").textContent = `Last updated: ${new Date(externalData.generatedAtEastern).toLocaleString("en-US", { dateStyle: "medium", timeStyle: "short" })} ET`;
+    if (externalData?.generatedAt) {
+      byId("lastUpdated").textContent = `Last updated: ${ghanaDateTime.format(new Date(externalData.generatedAt))} Ghana Time`;
     }
     renderSources();
   } catch (error) {
