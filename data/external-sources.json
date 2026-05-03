@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-03T03:47:45.217801+00:00",
-  "generatedAtEastern": "2026-05-02T23:47:45.217801-04:00",
+  "generatedAt": "2026-05-03T15:51:31.506497+00:00",
+  "generatedAtEastern": "2026-05-03T11:51:31.506497-04:00",
   "schedule": "Daily at 11:00 America/New_York via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
@@ -10,6 +10,13 @@
       "financialStocks": 8839.41,
       "source": "Ghana Stock Exchange",
       "url": "https://gse.com.gh/"
+    },
+    "bankOfGhana": {
+      "policyRate": 14.0,
+      "tBill91Day": 4.8645,
+      "inflation": 3.2,
+      "source": "Bank of Ghana",
+      "url": "https://www.bog.gov.gh/"
     },
     "ghanaStatisticalService": {
       "cpiInflationYoy": 3.2,
@@ -148,7 +155,63 @@
       "category": "Official issuer universe"
     },
     {
-      "title": "We apologize for the inconvenience...",
+      "title": "Current Monetary Policy Rate (%)",
+      "url": "https://www.bog.gov.gh/",
+      "summary": "",
+      "publishedAt": null,
+      "source": "Bank of Ghana",
+      "category": "Official macro"
+    },
+    {
+      "title": "Inflation Target (%)",
+      "url": "https://www.bog.gov.gh/",
+      "summary": "",
+      "publishedAt": null,
+      "source": "Bank of Ghana",
+      "category": "Official macro"
+    },
+    {
+      "title": "Current inflation rate (%)",
+      "url": "https://www.bog.gov.gh/",
+      "summary": "",
+      "publishedAt": null,
+      "source": "Bank of Ghana",
+      "category": "Official macro"
+    },
+    {
+      "title": "91-Day Treasury Bill Rate (%)",
+      "url": "https://www.bog.gov.gh/",
+      "summary": "",
+      "publishedAt": null,
+      "source": "Bank of Ghana",
+      "category": "Official macro"
+    },
+    {
+      "title": "Broadcast",
+      "url": "https://www.bog.gov.gh/",
+      "summary": "",
+      "publishedAt": null,
+      "source": "Bank of Ghana",
+      "category": "Official macro"
+    },
+    {
+      "title": "129TH MPC PRESS BRIEFING",
+      "url": "https://www.bog.gov.gh/",
+      "summary": "",
+      "publishedAt": null,
+      "source": "Bank of Ghana",
+      "category": "Official macro"
+    },
+    {
+      "title": "122nd MPC Press Briefing",
+      "url": "https://www.bog.gov.gh/",
+      "summary": "",
+      "publishedAt": null,
+      "source": "Bank of Ghana",
+      "category": "Official macro"
+    },
+    {
+      "title": "97th MPC Press Conference - Bank of Ghana",
       "url": "https://www.bog.gov.gh/",
       "summary": "",
       "publishedAt": null,
@@ -460,6 +523,14 @@
       "category": "Sovereign credit research"
     },
     {
+      "title": "Gold Fields Foundation marks World Malaria Day",
+      "url": "https://thebftonline.com/2026/05/03/gold-fields-foundation-marks-world-malaria-day/",
+      "summary": "By Juliet Aguiar DUGBARTEY The Gold Fields Ghana Foundation has marked this year’s World Malaria Day with a community-focused programme aimed at deepening awareness, strengthening prevention and promoting collective action against the disease On the theme “Dri",
+      "publishedAt": "2026-05-03T13:47:45+00:00",
+      "source": "Business & Financial Times",
+      "category": "Business news"
+    },
+    {
       "title": "J. A. Kufuor to deliver special address on Africa Cocoa Vision 2050 at ACFIF 2026",
       "url": "https://thebftonline.com/2026/05/02/j-a-kufuor-to-deliver-special-address-on-africa-cocoa-vision-2050-at-acfif-2026/",
       "summary": "The inaugural Africa Cocoa Finance & Investment Forum (ACFIF 2026) will feature a Special Address by H.E. John Agyekum Kufuor, former President of the Republic of Ghana, under the theme: “Africa Cocoa Vision 2050 – Historical Reflections and Future Pathways.” ",
@@ -472,6 +543,14 @@
       "url": "https://thebftonline.com/2026/05/01/asanko-gold-partners-with-health-authorities-to-tackle-rising-malaria-cases-in-amansie-west/",
       "summary": "A troubling public health picture is emerging in Ghana’s Amansie West District, where malaria cases have risen for a second consecutive year and children are bearing the heaviest burden. Official data now shows that cases among children under five jumped from ",
       "publishedAt": "2026-05-01T19:48:37+00:00",
+      "source": "Business & Financial Times",
+      "category": "Business news"
+    },
+    {
+      "title": "Russian researchers roadmap Africa’s investment sectors for entrepreneurs",
+      "url": "https://thebftonline.com/2026/05/01/russian-researchers-roadmap-africas-investment-sectors-for-entrepreneurs/",
+      "summary": "By Kestér Kenn KLOMEGÂH The Centre for Transition Economy Studies of the Institute for African Studies of the Russian Academy of Sciences has held a two-day scientific conference under the theme: “Industrial Development Strategies of African Countries” aimed a",
+      "publishedAt": "2026-05-01T11:36:32+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
@@ -508,19 +587,43 @@
       "category": "Business news"
     },
     {
-      "title": "Her Space with Bridget Mensah: Joana Quaye was listed as co-founder of her ex-husband’s company",
-      "url": "https://thebftonline.com/2026/05/01/her-space-with-bridget-mensah-joana-quaye-was-listed-as-co-founder-of-her-ex-husbands-company/",
-      "summary": "…He went on television and said she contributed nothing The divorce case of Joana Quaye and businessman Richard Nii Armah Quaye, widely known as RNAQ, took a fresh and deeply contentious turn when the microfinance mogul sat down with media personality Deloris ",
-      "publishedAt": "2026-05-01T09:29:32+00:00",
-      "source": "Business & Financial Times",
+      "title": "Ghana 4x100m relay team finish fourth at World Athletics Relays 2026, miss final",
+      "url": "https://www.ghanabusinessnews.com/2026/05/03/ghana-4x100m-relay-team-finish-fourth-at-world-athletics-relays-2026-miss-final/",
+      "summary": "Ghana’s men’s 4x100m relay team finished fourth in their heat at the ongoing World Athletics Relays in Botswana, missing out on qualification to the final after clocking a season-best time of 38.19 seconds. The post Ghana 4x100m relay team finish fourth at Wor",
+      "publishedAt": "2026-05-03T07:20:22+00:00",
+      "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "From showcase to success: WIB exhibition lifts Coloured Yarns Ventures",
-      "url": "https://thebftonline.com/2026/05/01/from-showcase-to-success-wib-exhibition-lifts-coloured-yarns-ventures/",
-      "summary": "By Sandra Agyeiwaa OTOO At the heart of Kumasi’s vibrant fashion scene, Coloured Yarns Ventures is quietly stitching together a story of creativity, culture and growth—one that has recently gained fresh momentum through the Women In Business (WIB) Dialogue Ser",
-      "publishedAt": "2026-05-01T08:38:56+00:00",
-      "source": "Business & Financial Times",
+      "title": "Akosombo Dam fully restored to power – Mahama",
+      "url": "https://www.ghanabusinessnews.com/2026/05/03/akosombo-dam-fully-restored-to-power-mahama/",
+      "summary": "President John Dramani Mahama on Friday announced that Ghana’s Akosombo Hydroelectric Dam has been fully restored to operation following a recent fire incident, assuring workers and businesses that the national power supply has stabilised. The post Akosombo Da",
+      "publishedAt": "2026-05-03T07:04:48+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Workers demand living wage and pension reforms",
+      "url": "https://www.ghanabusinessnews.com/2026/05/03/workers-demand-living-wage-and-pension-reforms/",
+      "summary": "Organised Labour in the Volta and Oti Regions has called on government to move beyond macroeconomic stability and pursue policies that deliver decent jobs, living wages and improved livelihoods for Ghanaian workers. The post Workers demand living wage and pens",
+      "publishedAt": "2026-05-03T06:48:15+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "CLOGSAG urges government to pay pension deductions promptly",
+      "url": "https://www.ghanabusinessnews.com/2026/05/03/clogsag-urges-government-to-pay-pension-deductions-promptly/",
+      "summary": "The Civil and Local Government Staff Association, Ghana (CLOGSAG) has called on government to ensure the prompt payment of pension deductions to safeguard the retirement income of public sector workers. The post CLOGSAG urges government to pay pension deductio",
+      "publishedAt": "2026-05-03T06:40:29+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "New US tariff on EU cars would mainly hit German automakers – Survey",
+      "url": "https://www.ghanabusinessnews.com/2026/05/03/new-us-tariff-on-eu-cars-would-mainly-hit-german-automakers-survey/",
+      "summary": "A new 25% tariff on cars produced in the European Union for import into the United States could result in additional annual costs to the German automotive sector of €2.5 billion ($2.9 billion), according to a survey published on Saturday. The post New US tarif",
+      "publishedAt": "2026-05-03T06:26:44+00:00",
+      "source": "Ghana Business News",
       "category": "Business news"
     },
     {
@@ -548,46 +651,6 @@
       "category": "Business news"
     },
     {
-      "title": "Bank of Ghana reiterates zero financing of government budget to protect price stability",
-      "url": "https://www.ghanabusinessnews.com/2026/05/02/bank-of-ghana-reiterates-zero-financing-of-government-budget-to-protect-price-stability/",
-      "summary": "The Bank of Ghana (BoG) has reaffirmed its commitment to zero monetary financing of government budgets, saying it will not print money to fund fiscal deficits in order to safeguard price stability and protect the cedi’s value. The post Bank of Ghana reiterates",
-      "publishedAt": "2026-05-02T11:40:47+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Economic growth without jobs is exclusion – TUC",
-      "url": "https://www.ghanabusinessnews.com/2026/05/02/economic-growth-without-jobs-is-exclusion-tuc/",
-      "summary": "The Trades Union Congress (TUC) has cautioned that the country's much-touted economic growth was meaningless without corresponding job creation. The post Economic growth without jobs is exclusion – TUC appeared first on Ghana Business News .",
-      "publishedAt": "2026-05-02T11:36:50+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Government assures TUC of sustained macroeconomic stability",
-      "url": "https://www.ghanabusinessnews.com/2026/05/02/government-assures-tuc-of-sustained-macroeconomic-stability/",
-      "summary": "The government has assured members of the Trade Union Congress (TUC) of its unwavering commitment to sustaining macroeconomic stability while translating economic gains into improved livelihoods for workers. The post Government assures TUC of sustained macroec",
-      "publishedAt": "2026-05-02T11:29:12+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Bank of Ghana records negative equity in 2025 following DDEP",
-      "url": "https://www.ghanabusinessnews.com/2026/05/02/bank-of-ghana-records-negative-equity-in-2025-following-ddep/",
-      "summary": "The Bank of Ghana (BoG) recorded a negative equity position at the end of 2025, largely due to losses arising from the Domestic Debt Exchange Programme (DDEP) and monetary policy operations over the period, the Financial Report disclosed. The post Bank of Ghan",
-      "publishedAt": "2026-05-02T11:22:04+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "UNDP initiative unlocks $22m for Ghana’s landscape restoration",
-      "url": "https://www.ghanabusinessnews.com/2026/05/02/undp-initiative-unlocks-22m-for-ghanas-landscape-restoration/",
-      "summary": "The United Nations Development Programme (UNDP) initiative has generated nearly $22 million in funding for landscapes across cocoa growing areas in Ghana, marking a significant financial milestone in Ghana’s environmental resilience efforts. The post UNDP init",
-      "publishedAt": "2026-05-02T11:10:38+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
       "title": "Ghana Airports Company (GACL) Earns Top Honor as ‘Most Profitable’ State-Owned Enterprise at PELT Awards 2022",
       "url": "https://citibusinessnews.com/2023/10/ghana-airports-company-gacl-earns-top-honor-as-most-profitable-state-owned-enterprise-at-pelt-awards-2022/",
       "summary": "Ghana Airports Company Limited (GACL) has earned the prestigious title of “Most Profitable State-Owned Enterprise” for the year 2022 at the Public Enterprises League Table (PELT) Awards, an event organized by the State Interests and Governance Authority (SIGA)",
@@ -602,62 +665,6 @@
       "publishedAt": "2023-10-16T12:15:38+00:00",
       "source": "Citi Business News",
       "category": "Business news"
-    },
-    {
-      "title": "IMF, World Bank work to accelerate debt treatment for Ghana, others under G20",
-      "url": "https://citibusinessnews.com/2023/10/imf-world-bank-work-to-accelerate-debt-treatment-for-ghana-others-under-g20/",
-      "summary": "The International Monetary Fund (IMF) and World Bank are working together to accelerate debt restructuring for Ghana and other countries under the Group of Twenty (G20) Common Framework. Ms Kristalina Georgieva, Managing Director, IMF said this during a plenar",
-      "publishedAt": "2023-10-16T12:11:16+00:00",
-      "source": "Citi Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Zambia advises Ghana to have restrictive laws on debt accumulation",
-      "url": "https://citibusinessnews.com/2023/10/zambia-advises-ghana-to-have-restrictive-laws-on-debt-accumulation/",
-      "summary": "Mr Situmbeko Musokotwane, Minister of Finance and National Planning, Zambia, has advised Ghana to have restrictive laws on debt accumulation. “We put a law in Parliament which tied my hands to say, going forward, you can’t be like those in the past. So, we tie",
-      "publishedAt": "2023-10-16T12:02:25+00:00",
-      "source": "Citi Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "2024 budget: Government commits to more expenditure cuts, aggressive growth, jobs",
-      "url": "https://citibusinessnews.com/2023/10/2024-budget-government-commits-to-more-expenditure-cuts-aggressive-growth-jobs/",
-      "summary": "The government has assured Ghanaians that it will safeguard current economic gains, and make it reflect in the living conditions of everyone in the coming months. To this end, there would be more expenditure reduction measures in the 2024 budget, as well as po",
-      "publishedAt": "2023-10-16T10:32:02+00:00",
-      "source": "Citi Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Zenith Bank @ 18 – Celebrating a legacy of financial excellence",
-      "url": "https://citibusinessnews.com/2023/10/zenith-bank-18-celebrating-a-legacy-of-financial-excellence/",
-      "summary": "On the fateful morning of September 16, 2005, Zenith Bank Ghana embarked on its banking journey with a grand total of 45 staff members. This marked a transformative turning point in the banking and financial services landscape of the country. Zenith Bank swift",
-      "publishedAt": "2023-10-15T20:32:02+00:00",
-      "source": "Citi Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Customer Service Week: Pan-African Savings and Loans provides medical services to clients",
-      "url": "https://citibusinessnews.com/2023/10/customer-service-week-pan-african-savings-and-loans-provides-medical-services-to-clients/",
-      "summary": "A leading non-bank financial institution, Pan-African Savings and Loans has demonstrated its appreciation to its loyal customers by organizing a free medical screening exercise as part of their planned activities for the customer service week. This initiative ",
-      "publishedAt": "2023-10-13T06:20:28+00:00",
-      "source": "Citi Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Former Capital Bank CEO Ato Essien jailed 15 years",
-      "url": "https://citibusinessnews.com/2023/10/former-capital-bank-ceo-ato-essien-jailed-15-years/",
-      "summary": "Former Chief Executive Officer of defunct Capital Bank, Ato Essien has been sentenced to 15 years imprisonment with hard labour. This follows his failure to pay in full an amount of GH¢90 million he agreed to pay the state despite several lifelines given him s",
-      "publishedAt": "2023-10-12T20:10:20+00:00",
-      "source": "Citi Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Mahama announces 1,200MW gas-fired power plant to boost electricity supply",
-      "url": "https://www.myjoyonline.com/mahama-announces-1200mw-gas-fired-power-plant-to-boost-electricity-supply/",
-      "summary": "President John Dramani Mahama has announced plans for the construction of a new 1,200-megawatt gas-fired power plant as part of efforts to expand Ghana’s electricity generation capacity and meet rising demand.",
-      "publishedAt": "2026-05-02T20:00:34+00:00",
-      "source": "MyJoyOnline Business",
-      "category": "Business news"
     }
   ],
   "sources": [
@@ -668,7 +675,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T03:47:45.217801+00:00"
+      "fetchedAt": "2026-05-03T15:51:31.506497+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -677,7 +684,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T03:47:45.217801+00:00"
+      "fetchedAt": "2026-05-03T15:51:31.506497+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -686,7 +693,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T03:47:45.217801+00:00"
+      "fetchedAt": "2026-05-03T15:51:31.506497+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -695,7 +702,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T03:47:45.217801+00:00"
+      "fetchedAt": "2026-05-03T15:51:31.506497+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -704,7 +711,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T03:47:45.217801+00:00"
+      "fetchedAt": "2026-05-03T15:51:31.506497+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -713,7 +720,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T03:47:45.217801+00:00"
+      "fetchedAt": "2026-05-03T15:51:31.506497+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -722,7 +729,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T03:47:45.217801+00:00"
+      "fetchedAt": "2026-05-03T15:51:31.506497+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -731,7 +738,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T03:47:45.217801+00:00"
+      "fetchedAt": "2026-05-03T15:51:31.506497+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -740,7 +747,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T03:47:45.217801+00:00"
+      "fetchedAt": "2026-05-03T15:51:31.506497+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -749,7 +756,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T03:47:45.217801+00:00"
+      "fetchedAt": "2026-05-03T15:51:31.506497+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -758,7 +765,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T03:47:45.217801+00:00"
+      "fetchedAt": "2026-05-03T15:51:31.506497+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -767,7 +774,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T03:47:45.217801+00:00"
+      "fetchedAt": "2026-05-03T15:51:31.506497+00:00"
     },
     {
       "name": "Citi Business News",
@@ -776,7 +783,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T03:47:45.217801+00:00"
+      "fetchedAt": "2026-05-03T15:51:31.506497+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -785,7 +792,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T03:47:45.217801+00:00"
+      "fetchedAt": "2026-05-03T15:51:31.506497+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -794,7 +801,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-05-03T03:47:45.217801+00:00"
+      "fetchedAt": "2026-05-03T15:51:31.506497+00:00"
     }
   ]
 }
