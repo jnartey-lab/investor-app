@@ -28,6 +28,7 @@
           <button class="nav-item" data-view="research">Research</button>
           <button class="nav-item" data-view="alerts">Alerts</button>
           <button class="nav-item" data-view="macro">Macro</button>
+          <button class="nav-item" data-view="sources">Sources</button>
           <button class="nav-item" data-view="admin">Admin</button>
         </nav>
 
@@ -35,7 +36,7 @@
           <span class="status-dot"></span>
           <div>
             <strong>Near real-time ready</strong>
-            <small>Sample EOD dataset loaded</small>
+            <small>Official source links attached</small>
           </div>
         </div>
       </aside>
@@ -63,8 +64,8 @@
           </div>
           <div class="freshness-card">
             <span>Data freshness</span>
-            <strong id="dataFreshness">End-of-day sample</strong>
-            <small>Connect licensed GSE feeds or upload CSV data in Admin.</small>
+            <strong id="dataFreshness">Official links attached</strong>
+            <small>Index and macro figures cite public sources; stock rows are marked where live licensed feeds are still required.</small>
           </div>
         </section>
 
@@ -257,6 +258,18 @@
               </div>
             </div>
             <canvas id="macroChart" height="260"></canvas>
+          </section>
+        </section>
+
+        <section class="view" id="sources">
+          <section class="panel">
+            <div class="panel-header">
+              <div>
+                <p class="eyebrow">Data provenance</p>
+                <h2>Real source links</h2>
+              </div>
+            </div>
+            <div class="source-grid" id="sourceGrid"></div>
           </section>
         </section>
 

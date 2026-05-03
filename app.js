@@ -1,19 +1,67 @@
 const marketData = {
-  tradingDate: "2026-05-02",
+  tradingDate: "2026-04-30",
+  sources: [
+    {
+      name: "Ghana Stock Exchange",
+      url: "https://gse.com.gh/",
+      type: "Official market source",
+      note: "Public index performance, market reports, listed-company navigation, press releases, and links to Market Watch and the Disclosure Portal.",
+    },
+    {
+      name: "GSE Market Watch",
+      url: "https://gsemarketwatch.com/",
+      type: "Official delayed market feed",
+      note: "GSE-linked market watch site showing delayed Composite Index, Financial Stock Index, last trade date/time, and delayed feed notice.",
+    },
+    {
+      name: "GSE Listed Companies",
+      url: "https://gse.com.gh/listed-companies/",
+      type: "Official issuer universe",
+      note: "Official table of GSE main market, ETF, GAX, and GFIM issuers used for ticker/company reference.",
+    },
+    {
+      name: "GSE Disclosure Portal",
+      url: "https://disclosure.gse.com.gh:8443/",
+      type: "Official filings source",
+      note: "Primary disclosure source for listed-company announcements, financial statements, dividend notices, and regulatory filings.",
+    },
+    {
+      name: "Bank of Ghana",
+      url: "https://www.bog.gov.gh/",
+      type: "Official macro and rates source",
+      note: "Public homepage indicators for monetary policy rate, inflation rate, and 91-day Treasury bill rate.",
+    },
+    {
+      name: "Bank of Ghana Daily Interbank FX Rates",
+      url: "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
+      type: "Official FX source",
+      note: "Daily weighted average and median interbank FX rates including USD/GHS, GBP/GHS, and EUR/GHS.",
+    },
+    {
+      name: "Ghana Statistical Service",
+      url: "https://statsghana.gov.gh/",
+      type: "Official statistics source",
+      note: "Official inflation, GDP, production, population, labor, and other Ghana macroeconomic indicators.",
+    },
+  ],
   indices: {
     composite: {
       name: "GSE Composite Index",
-      value: 5218.42,
-      change: 34.18,
-      percent: 0.66,
-      history: [5008, 5034, 5061, 5048, 5089, 5114, 5102, 5138, 5159, 5184, 5218],
+      value: 15130.52,
+      change: 32.3,
+      percent: 0.21,
+      source: "Ghana Stock Exchange",
+      sourceUrl: "https://gse.com.gh/",
+      history: [3099.49, 15098.22, 15130.52],
     },
     financial: {
       name: "GSE Financial Stocks Index",
-      value: 2317.9,
-      change: 18.64,
-      percent: 0.81,
-      history: [2228, 2242, 2251, 2264, 2261, 2284, 2298, 2291, 2304, 2299, 2318],
+      value: 8839.41,
+      change: -13.39,
+      percent: -0.15,
+      source: "Ghana Stock Exchange",
+      sourceUrl: "https://gse.com.gh/",
+      history: [1745.04, 8852.8, 8839.41],
     },
   },
   stocks: [
@@ -29,12 +77,12 @@ const marketData = {
     { ticker: "BOPP", name: "Benso Oil Palm Plantation PLC", sector: "Agriculture", price: 22.2, open: 22.1, previousClose: 22.1, high: 22.25, low: 22.0, volume: 1800, value: 39960, marketCap: 770340000, shares: 34700000, high52: 24.8, low52: 17.6, pe: 6.7, eps: 3.31, roe: 24.2, roa: 11.1, yield: 9.3, book: 15.5, pb: 1.43, recommendation: "Buy", history: [19.1, 19.8, 20.3, 20.9, 21.4, 21.8, 22.0, 22.1, 22.1, 22.15, 22.2] },
   ],
   macro: [
-    { name: "91-day T-bill", value: 24.8, unit: "%" },
-    { name: "Policy rate", value: 27.0, unit: "%" },
-    { name: "Inflation", value: 23.1, unit: "%" },
-    { name: "GHS/USD", value: 13.95, unit: "" },
-    { name: "Gold", value: 2325, unit: "USD/oz" },
-    { name: "Cocoa", value: 8420, unit: "USD/t" },
+    { name: "91-day T-bill", value: 4.8645, unit: "%", source: "Bank of Ghana", sourceUrl: "https://www.bog.gov.gh/" },
+    { name: "Policy rate", value: 14.0, unit: "%", source: "Bank of Ghana", sourceUrl: "https://www.bog.gov.gh/" },
+    { name: "Inflation", value: 3.2, unit: "%", source: "Bank of Ghana / GSS", sourceUrl: "https://statsghana.gov.gh/" },
+    { name: "USD/GHS", value: 11.03, unit: "mid", source: "Bank of Ghana", sourceUrl: "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/" },
+    { name: "GDP growth", value: 6.0, unit: "%", source: "Ghana Statistical Service", sourceUrl: "https://statsghana.gov.gh/" },
+    { name: "Inflation target", value: 8.0, unit: "% +/- 2", source: "Bank of Ghana", sourceUrl: "https://www.bog.gov.gh/" },
   ],
   alerts: [
     { title: "MTNGH price movement", detail: "Price declined more than 1% versus previous close.", channel: "In-app, Email", severity: "medium" },
@@ -88,10 +136,10 @@ function renderMetrics() {
 
   byId("tradingDate").textContent = marketData.tradingDate;
   byId("marketMetrics").innerHTML = [
-    metric("Composite Index", number.format(marketData.indices.composite.value), formatPercent(marketData.indices.composite.percent), "positive"),
-    metric("Financial Index", number.format(marketData.indices.financial.value), formatPercent(marketData.indices.financial.percent), "positive"),
-    metric("Market value traded", currency.format(totalValue), `${number.format(totalVolume)} shares`, "neutral"),
-    metric("Market capitalization", currency.format(totalCap), `${advancers} advancers, ${decliners} decliners`, "neutral"),
+    metric("Composite Index", number.format(marketData.indices.composite.value), formatPercent(marketData.indices.composite.percent), classFor(marketData.indices.composite.change), marketData.indices.composite.sourceUrl),
+    metric("Financial Index", number.format(marketData.indices.financial.value), formatPercent(marketData.indices.financial.percent), classFor(marketData.indices.financial.change), marketData.indices.financial.sourceUrl),
+    metric("Tracked value traded", currency.format(totalValue), `${number.format(totalVolume)} shares`, "neutral", "https://gsemarketwatch.com/"),
+    metric("Tracked market cap", currency.format(totalCap), `${advancers} advancers, ${decliners} decliners`, "neutral", "https://gse.com.gh/listed-companies/"),
   ].join("");
 
   byId("breadthSummary").innerHTML = [
@@ -102,8 +150,9 @@ function renderMetrics() {
   ].join("");
 }
 
-function metric(label, value, sub, tone) {
-  return `<div class="metric-card"><span>${label}</span><strong>${value}</strong><em class="${tone}">${sub}</em></div>`;
+function metric(label, value, sub, tone, sourceUrl) {
+  const source = sourceUrl ? `<a class="data-tag" href="${sourceUrl}" target="_blank" rel="noreferrer">Source</a>` : "";
+  return `<div class="metric-card"><span>${label}</span><strong>${value}</strong><em class="${tone}">${sub}</em>${source}</div>`;
 }
 
 function breadthItem(label, value, tone) {
@@ -148,6 +197,7 @@ function renderStockDetail() {
     <p class="eyebrow">${selectedStock.sector}</p>
     <h2>${selectedStock.ticker} · ${selectedStock.name}</h2>
     <p><strong>GHS ${selectedStock.price.toFixed(2)}</strong> <span class="${classFor(change)}">${formatPercent(change)}</span></p>
+    <p class="source-note">Company listing reference: <a class="source-link" href="https://gse.com.gh/listed-companies/" target="_blank" rel="noreferrer">GSE Listed Companies</a>. Live price, volume, and fundamentals require licensed GSE feed integration or approved uploads.</p>
     <div class="detail-grid">
       ${detail("Open", `GHS ${selectedStock.open.toFixed(2)}`)}
       ${detail("Previous close", `GHS ${selectedStock.previousClose.toFixed(2)}`)}
@@ -247,8 +297,19 @@ function renderAlerts() {
 }
 
 function renderMacro() {
-  byId("macroMetrics").innerHTML = marketData.macro.map((item) => metric(item.name, `${number.format(item.value)}${item.unit ? ` ${item.unit}` : ""}`, "Latest indicator", "neutral")).join("");
+  byId("macroMetrics").innerHTML = marketData.macro.map((item) => metric(item.name, `${number.format(item.value)}${item.unit ? ` ${item.unit}` : ""}`, item.source, "neutral", item.sourceUrl)).join("");
   drawBarChart("macroChart", marketData.macro.map((item) => item.value), marketData.macro.map((item) => item.name));
+}
+
+function renderSources() {
+  byId("sourceGrid").innerHTML = marketData.sources.map((source) => `
+    <article class="source-item">
+      <span>${source.type}</span>
+      <strong>${source.name}</strong>
+      <p>${source.note}</p>
+      <p><a href="${source.url}" target="_blank" rel="noreferrer">Open source link</a></p>
+    </article>
+  `).join("");
 }
 
 function renderAdmin() {
@@ -417,6 +478,7 @@ function init() {
   renderResearch();
   renderAlerts();
   renderMacro();
+  renderSources();
   renderAdmin();
   bindEvents();
   renderCharts();

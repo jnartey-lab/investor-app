@@ -402,7 +402,8 @@ th {
 .workflow-list,
 .alert-list,
 .log-list,
-.role-list {
+.role-list,
+.source-grid {
   display: grid;
   gap: 10px;
 }
@@ -418,7 +419,8 @@ th {
 .workflow-item,
 .alert-item,
 .log-item,
-.role-item {
+.role-item,
+.source-item {
   background: var(--surface-soft);
   border: 1px solid var(--line);
   border-radius: 8px;
@@ -431,11 +433,44 @@ th {
 .workflow-item span,
 .alert-item span,
 .log-item span,
-.role-item span {
+.role-item span,
+.source-item span {
   display: block;
   color: var(--muted);
   font-size: 12px;
   margin-bottom: 5px;
+}
+
+.source-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.source-item a,
+.source-link {
+  color: var(--accent);
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.source-item p,
+.source-note {
+  color: var(--muted);
+  margin: 8px 0 0;
+  line-height: 1.5;
+}
+
+.data-tag {
+  display: inline-flex;
+  align-items: center;
+  width: fit-content;
+  margin-top: 10px;
+  padding: 5px 8px;
+  border-radius: 999px;
+  background: rgba(11, 107, 95, 0.12);
+  color: var(--accent);
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 800;
 }
 
 .commentary-box {
@@ -520,7 +555,8 @@ th {
   }
 
   .sector-grid,
-  .detail-grid {
+  .detail-grid,
+  .source-grid {
     grid-template-columns: 1fr;
   }
 
