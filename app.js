@@ -141,7 +141,7 @@ function renderMetrics() {
   const unchanged = marketData.stocks.length - advancers - decliners;
 
   byId("tradingDate").textContent = marketData.tradingDate;
-  byId("lastUpdated").textContent = `Last updated: ${marketData.tradingDate}`;
+  byId("lastUpdated").textContent = `Last updated: ${formatStaticGhanaDate(marketData.tradingDate)} Ghana Time`;
   byId("marketMetrics").innerHTML = [
     metric("Composite Index", number.format(marketData.indices.composite.value), formatPercent(marketData.indices.composite.percent), classFor(marketData.indices.composite.change), marketData.indices.composite.sourceUrl),
     metric("Financial Index", number.format(marketData.indices.financial.value), formatPercent(marketData.indices.financial.percent), classFor(marketData.indices.financial.change), marketData.indices.financial.sourceUrl),
@@ -155,6 +155,11 @@ function renderMetrics() {
     breadthItem("Unchanged", unchanged, "neutral"),
     breadthItem("Market tone", advancers > decliners ? "Constructive" : "Mixed", advancers > decliners ? "positive" : "neutral"),
   ].join("");
+}
+
+function formatStaticGhanaDate(dateValue) {
+  const [year, month, day] = dateValue.split("-").map(Number);
+  return ghanaDateTime.format(new Date(Date.UTC(year, month - 1, day, 11, 0, 0)));
 }
 
 function metric(label, value, sub, tone, sourceUrl) {
@@ -354,6 +359,7 @@ async function loadExternalData() {
     renderSources();
   } catch (error) {
     externalData = null;
+    byId("lastUpdated").textContent = `Last updated: ${formatStaticGhanaDate(marketData.tradingDate)} Ghana Time`;
   }
 }
 
