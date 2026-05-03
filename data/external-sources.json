@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-03T03:27:55.291121+00:00",
-  "generatedAtEastern": "2026-05-02T23:27:55.291121-04:00",
+  "generatedAt": "2026-05-03T03:45:18.419921+00:00",
+  "generatedAtEastern": "2026-05-02T23:45:18.419921-04:00",
   "schedule": "Daily at 11:00 America/New_York via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
@@ -596,7 +596,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T03:27:55.291121+00:00"
+      "fetchedAt": "2026-05-03T03:45:18.419921+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -605,7 +605,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T03:27:55.291121+00:00"
+      "fetchedAt": "2026-05-03T03:45:18.419921+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -614,7 +614,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T03:27:55.291121+00:00"
+      "fetchedAt": "2026-05-03T03:45:18.419921+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -623,7 +623,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T03:27:55.291121+00:00"
+      "fetchedAt": "2026-05-03T03:45:18.419921+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -632,7 +632,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T03:27:55.291121+00:00"
+      "fetchedAt": "2026-05-03T03:45:18.419921+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -641,7 +641,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T03:27:55.291121+00:00"
+      "fetchedAt": "2026-05-03T03:45:18.419921+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -650,7 +650,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T03:27:55.291121+00:00"
+      "fetchedAt": "2026-05-03T03:45:18.419921+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -659,7 +659,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T03:27:55.291121+00:00"
+      "fetchedAt": "2026-05-03T03:45:18.419921+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -668,7 +668,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T03:27:55.291121+00:00"
+      "fetchedAt": "2026-05-03T03:45:18.419921+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -677,7 +677,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T03:27:55.291121+00:00"
+      "fetchedAt": "2026-05-03T03:45:18.419921+00:00"
     },
     {
       "name": "Citi Business News",
@@ -686,7 +686,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T03:27:55.291121+00:00"
+      "fetchedAt": "2026-05-03T03:45:18.419921+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -695,7 +695,16 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T03:27:55.291121+00:00"
+      "fetchedAt": "2026-05-03T03:45:18.419921+00:00"
+    },
+    {
+      "name": "Bloomberg Markets",
+      "url": "https://www.bloomberg.com/markets",
+      "category": "Global markets",
+      "kind": "html",
+      "ok": false,
+      "error": "HTTP Error 403: Forbidden",
+      "fetchedAt": "2026-05-03T03:45:18.419921+00:00"
     }
   ]
 }

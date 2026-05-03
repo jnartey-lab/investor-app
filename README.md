@@ -21,6 +21,7 @@ The app now attaches source links directly inside the interface. Publicly verifi
 - Ghana Business News RSS: https://www.ghanabusinessnews.com/feed/
 - Citi Business News RSS: https://citibusinessnews.com/feed/
 - MyJoyOnline Business RSS: https://www.myjoyonline.com/business/feed/
+- Bloomberg Markets: https://www.bloomberg.com/markets
 
 Current official public values included in this static build:
 
@@ -52,6 +53,8 @@ python3 scripts/update_external_data.py
 ```
 
 The frontend loads `data/external-sources.json` in the Sources view and displays the latest investment research links, business news, source counts, and update timestamp.
+
+Bloomberg note: Bloomberg's public website may block automated scraping with HTTP 403. The workflow includes Bloomberg Markets in the source list and records its availability status. For reliable production Bloomberg data, use Bloomberg Data License, Bloomberg Enterprise Access Point, Event-Driven Feeds, or another licensed Bloomberg integration.
 
 ## Features Included
 

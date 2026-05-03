@@ -30,6 +30,11 @@ ROOT = Path(__file__).resolve().parents[1]
 OUTFILE = ROOT / "data" / "external-sources.json"
 NY_TZ = ZoneInfo("America/New_York")
 USER_AGENT = "GSE-Investor-Intelligence/1.0 (+https://github.com/jnartey-lab/investor-app)"
+BROWSER_USER_AGENT = (
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) "
+    "Chrome/124.0 Safari/537.36"
+)
 
 
 @dataclass(frozen=True)
@@ -54,14 +59,16 @@ SOURCES = [
     Source("Ghana Business News", "https://www.ghanabusinessnews.com/feed/", "Business news", "rss"),
     Source("Citi Business News", "https://citibusinessnews.com/feed/", "Business news", "rss"),
     Source("MyJoyOnline Business", "https://www.myjoyonline.com/business/feed/", "Business news", "rss"),
+    Source("Bloomberg Markets", "https://www.bloomberg.com/markets", "Global markets"),
 ]
 
 
 def fetch(url: str) -> tuple[str | None, str | None]:
+    user_agent = BROWSER_USER_AGENT if "bloomberg.com" in url else USER_AGENT
     request = urllib.request.Request(
         url,
         headers={
-            "User-Agent": USER_AGENT,
+            "User-Agent": user_agent,
             "Accept": "text/html,application/rss+xml,application/xml;q=0.9,*/*;q=0.8",
         },
     )

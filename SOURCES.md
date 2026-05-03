@@ -25,6 +25,7 @@ This project includes real public source links in the application UI. The static
 - Ghana Business News RSS: https://www.ghanabusinessnews.com/feed/
 - Citi Business News RSS: https://citibusinessnews.com/feed/
 - MyJoyOnline Business RSS: https://www.myjoyonline.com/business/feed/
+- Bloomberg Markets: https://www.bloomberg.com/markets
 
 ## Values Updated in the App
 
@@ -40,3 +41,5 @@ This project includes real public source links in the application UI. The static
 Use licensed or formally approved sources for trading-grade stock prices, volume, market capitalization, fundamentals, dividends, and corporate actions. The public GSE Market Watch feed is delayed, and production systems should include data licensing, ingestion validation, reconciliation, audit logs, and source-specific freshness labels.
 
 The scripted data updater uses conservative public-page and RSS fetching once per day. Before using scraped data commercially, review each source's terms of use and replace public scraping with licensed APIs where required.
+
+Bloomberg's public website may block automated scraping. The daily updater includes Bloomberg Markets as a monitored source, but production-grade Bloomberg data should come from licensed Bloomberg products such as Data License, Enterprise Access Point, or Event-Driven Feeds.

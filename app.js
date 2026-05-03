@@ -43,6 +43,12 @@ const marketData = {
       type: "Official statistics source",
       note: "Official inflation, GDP, production, population, labor, and other Ghana macroeconomic indicators.",
     },
+    {
+      name: "Bloomberg Markets",
+      url: "https://www.bloomberg.com/markets",
+      type: "Global markets news",
+      note: "Public Bloomberg Markets page used for global market headlines and macro context affecting institutional investment decisions.",
+    },
   ],
   indices: {
     composite: {
