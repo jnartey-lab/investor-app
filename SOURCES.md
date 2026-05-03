@@ -17,6 +17,15 @@ This project includes real public source links in the application UI. The static
 - Bank of Ghana Economic Data: https://www.bog.gov.gh/economic-data/
 - Ghana Statistical Service: https://statsghana.gov.gh/
 
+## Investment Research and Business News Sources
+
+- SAS Finance Group Research: https://www.sasghana.com/brokerage/research
+- SIC Brokerage Daily Equity Market Report: https://www.sicbrokerage.com/15/5/daily-equity-market-report
+- Business & Financial Times RSS: https://thebftonline.com/feed/
+- Ghana Business News RSS: https://www.ghanabusinessnews.com/feed/
+- Citi Business News RSS: https://citibusinessnews.com/feed/
+- MyJoyOnline Business RSS: https://www.myjoyonline.com/business/feed/
+
 ## Values Updated in the App
 
 - GSE Composite Index: 15,130.52, current value shown by the Ghana Stock Exchange public index performance table for 30 April 2026.
@@ -29,3 +38,5 @@ This project includes real public source links in the application UI. The static
 ## Production Integration Notes
 
 Use licensed or formally approved sources for trading-grade stock prices, volume, market capitalization, fundamentals, dividends, and corporate actions. The public GSE Market Watch feed is delayed, and production systems should include data licensing, ingestion validation, reconciliation, audit logs, and source-specific freshness labels.
+
+The scripted data updater uses conservative public-page and RSS fetching once per day. Before using scraped data commercially, review each source's terms of use and replace public scraping with licensed APIs where required.

@@ -1,0 +1,38 @@
+name: Daily external data update
+
+on:
+  schedule:
+    # GitHub cron is UTC. Running at both 15:00 and 16:00 UTC lets the script
+    # keep the actual update at 11:00 America/New_York across daylight saving.
+    - cron: "0 15 * * *"
+    - cron: "0 16 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch public Ghana market, research, and news sources
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            python scripts/update_external_data.py --enforce-eastern-11am
+          else
+            python scripts/update_external_data.py
+          fi
+
+      - name: Commit refreshed data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Refresh external Ghana market data"
+          file_pattern: data/external-sources.json

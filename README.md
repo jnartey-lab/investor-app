@@ -15,6 +15,12 @@ The app now attaches source links directly inside the interface. Publicly verifi
 - Bank of Ghana: https://www.bog.gov.gh/
 - Bank of Ghana Daily Interbank FX Rates: https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/
 - Ghana Statistical Service: https://statsghana.gov.gh/
+- SAS Finance Group Research: https://www.sasghana.com/brokerage/research
+- SIC Brokerage Daily Equity Market Report: https://www.sicbrokerage.com/15/5/daily-equity-market-report
+- Business & Financial Times RSS: https://thebftonline.com/feed/
+- Ghana Business News RSS: https://www.ghanabusinessnews.com/feed/
+- Citi Business News RSS: https://citibusinessnews.com/feed/
+- MyJoyOnline Business RSS: https://www.myjoyonline.com/business/feed/
 
 Current official public values included in this static build:
 
@@ -26,6 +32,26 @@ Current official public values included in this static build:
 - Ghana Statistical Service annual GDP growth: 6.0% for 2025.
 
 Stock-level price rows remain a front-end dataset until a licensed GSE feed, approved CSV upload, or official market data provider API is connected. The application labels that status in the Stock Detail view.
+
+## Daily Data Update
+
+The repository includes a GitHub Actions workflow at `.github/workflows/update-data.yml`.
+
+It runs every day at 11:00 AM America/New_York and writes refreshed public-source data to:
+
+```text
+data/external-sources.json
+```
+
+The workflow is scheduled at both 15:00 and 16:00 UTC because GitHub cron uses UTC and does not automatically handle Eastern daylight saving changes. The Python script checks the actual `America/New_York` time and only updates during the 11:00 AM hour.
+
+Manual refresh:
+
+```bash
+python3 scripts/update_external_data.py
+```
+
+The frontend loads `data/external-sources.json` in the Sources view and displays the latest investment research links, business news, source counts, and update timestamp.
 
 ## Features Included
 

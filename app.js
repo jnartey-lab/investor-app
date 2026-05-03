@@ -100,6 +100,7 @@ const marketData = {
 
 let selectedStock = marketData.stocks[0];
 let alerts = [...marketData.alerts];
+let externalData = null;
 
 const currency = new Intl.NumberFormat("en-GH", { style: "currency", currency: "GHS", maximumFractionDigits: 0 });
 const number = new Intl.NumberFormat("en-GH");
@@ -302,6 +303,30 @@ function renderMacro() {
 }
 
 function renderSources() {
+  const generated = externalData?.generatedAtEastern
+    ? new Date(externalData.generatedAtEastern).toLocaleString("en-US", { dateStyle: "medium", timeStyle: "short" })
+    : "Waiting for first scheduled run";
+  const okSources = externalData?.sources?.filter((source) => source.ok).length || 0;
+  const totalSources = externalData?.sources?.length || marketData.sources.length;
+  const items = externalData?.items || [];
+
+  byId("externalMetrics").innerHTML = [
+    metric("Last update", generated, "America/New_York", "neutral"),
+    metric("Fetched sources", `${okSources}/${totalSources}`, "Public pages and feeds", okSources === totalSources ? "positive" : "neutral"),
+    metric("External items", number.format(items.length), "Research and business news", "neutral"),
+    metric("Schedule", "11:00 AM", "America/New_York daily", "positive"),
+  ].join("");
+
+  byId("externalFeed").innerHTML = items.length
+    ? items.slice(0, 15).map((item) => `
+      <article class="external-item">
+        <span>${item.source} · ${item.category}${item.publishedAt ? ` · ${new Date(item.publishedAt).toLocaleDateString("en-US")}` : ""}</span>
+        <a href="${item.url}" target="_blank" rel="noreferrer">${item.title}</a>
+        ${item.summary ? `<p>${item.summary}</p>` : ""}
+      </article>
+    `).join("")
+    : `<div class="external-item"><span>Status</span><strong>No generated feed file loaded yet.</strong><p>The GitHub Action will write data/external-sources.json during the next 11:00 AM Eastern run.</p></div>`;
+
   byId("sourceGrid").innerHTML = marketData.sources.map((source) => `
     <article class="source-item">
       <span>${source.type}</span>
@@ -310,6 +335,17 @@ function renderSources() {
       <p><a href="${source.url}" target="_blank" rel="noreferrer">Open source link</a></p>
     </article>
   `).join("");
+}
+
+async function loadExternalData() {
+  try {
+    const response = await fetch("data/external-sources.json", { cache: "no-store" });
+    if (!response.ok) return;
+    externalData = await response.json();
+    renderSources();
+  } catch (error) {
+    externalData = null;
+  }
 }
 
 function renderAdmin() {
@@ -482,6 +518,7 @@ function init() {
   renderAdmin();
   bindEvents();
   renderCharts();
+  loadExternalData();
 }
 
 init();

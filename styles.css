@@ -403,7 +403,8 @@ th {
 .alert-list,
 .log-list,
 .role-list,
-.source-grid {
+.source-grid,
+.external-feed {
   display: grid;
   gap: 10px;
 }
@@ -420,7 +421,8 @@ th {
 .alert-item,
 .log-item,
 .role-item,
-.source-item {
+.source-item,
+.external-item {
   background: var(--surface-soft);
   border: 1px solid var(--line);
   border-radius: 8px;
@@ -434,7 +436,8 @@ th {
 .alert-item span,
 .log-item span,
 .role-item span,
-.source-item span {
+.source-item span,
+.external-item span {
   display: block;
   color: var(--muted);
   font-size: 12px;
@@ -446,6 +449,7 @@ th {
 }
 
 .source-item a,
+.external-item a,
 .source-link {
   color: var(--accent);
   font-weight: 800;
@@ -453,6 +457,7 @@ th {
 }
 
 .source-item p,
+.external-item p,
 .source-note {
   color: var(--muted);
   margin: 8px 0 0;
