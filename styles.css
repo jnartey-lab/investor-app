@@ -521,6 +521,24 @@ th {
   line-height: 1.7;
 }
 
+.commentary-box h3 {
+  margin: 18px 0 8px;
+  font-size: 16px;
+}
+
+.commentary-box h3:first-child {
+  margin-top: 0;
+}
+
+.commentary-box ul {
+  margin: 8px 0 0;
+  padding-left: 20px;
+}
+
+.commentary-box li {
+  margin: 5px 0;
+}
+
 .assistant-box {
   margin-top: 14px;
   display: grid;

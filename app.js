@@ -334,12 +334,64 @@ function renderResearch() {
 function generateBrief() {
   const advancers = marketData.stocks.filter((stock) => stockChange(stock) > 0).length;
   const decliners = marketData.stocks.filter((stock) => stockChange(stock) < 0).length;
+  const unchanged = marketData.stocks.length - advancers - decliners;
   const top = [...marketData.stocks].sort((a, b) => stockChange(b) - stockChange(a))[0];
+  const weakest = [...marketData.stocks].sort((a, b) => stockChange(a) - stockChange(b))[0];
   const volumeLeader = [...marketData.stocks].sort((a, b) => b.volume - a.volume)[0];
+  const valueLeader = [...marketData.stocks].sort((a, b) => b.value - a.value)[0];
+  const totalValue = marketData.stocks.reduce((sum, stock) => sum + stock.value, 0);
+  const totalVolume = marketData.stocks.reduce((sum, stock) => sum + stock.volume, 0);
+  const sectorMoves = Object.entries(
+    marketData.stocks.reduce((sectors, stock) => {
+      sectors[stock.sector] ||= [];
+      sectors[stock.sector].push(stockChange(stock));
+      return sectors;
+    }, {})
+  ).map(([sector, changes]) => ({
+    sector,
+    average: changes.reduce((sum, value) => sum + value, 0) / changes.length,
+  })).sort((a, b) => b.average - a.average);
+  const bestSector = sectorMoves[0];
+  const weakestSector = sectorMoves[sectorMoves.length - 1];
+  const macroByName = Object.fromEntries(marketData.macro.map((item) => [item.name, item]));
+  const externalItems = externalData?.items?.slice(0, 3) || [];
+  const sourceLine = externalItems.length
+    ? `<ul>${externalItems.map((item) => `<li>${item.source}: <a href="${item.url}" target="_blank" rel="noreferrer">${item.title}</a></li>`).join("")}</ul>`
+    : `<p>External news feed will populate after the daily source update loads from GitHub Pages.</p>`;
+  const tone = advancers > decliners ? "constructive" : decliners > advancers ? "defensive" : "mixed";
+
   byId("marketBrief").innerHTML = `
-    <p>The GSE market closed with a constructive institutional tone as ${advancers} advancers outpaced ${decliners} decliners. The GSE Composite Index gained ${formatPercent(marketData.indices.composite.percent)}, while the Financial Stocks Index added ${formatPercent(marketData.indices.financial.percent)}.</p>
-    <p>${top.ticker} led price momentum with a ${formatPercent(stockChange(top))} move, supported by improved trading interest. ${volumeLeader.ticker} was the most active counter by volume, indicating continued liquidity concentration in high-cap names.</p>
-    <p>Macro conditions remain important for equity allocation because the 91-day T-bill rate is ${marketData.macro[0].value.toFixed(1)}%, creating a high hurdle rate for dividend and growth equities. Income-focused screens should continue comparing dividend yield, liquidity, and earnings quality.</p>
+    <h3>Daily Ghana Market Brief</h3>
+    <p>The Ghana equity market closed with a ${tone} tone. The GSE Composite Index moved ${formatPercent(marketData.indices.composite.percent)} to ${number.format(marketData.indices.composite.value)}, while the Financial Stocks Index moved ${formatPercent(marketData.indices.financial.percent)} to ${number.format(marketData.indices.financial.value)}.</p>
+
+    <h3>Market Breadth and Liquidity</h3>
+    <ul>
+      <li>Breadth: ${advancers} advancers, ${decliners} decliners, and ${unchanged} unchanged counters.</li>
+      <li>Tracked turnover: ${currency.format(totalValue)} in value and ${number.format(totalVolume)} shares in volume.</li>
+      <li>Most active by volume: ${volumeLeader.ticker} with ${number.format(volumeLeader.volume)} shares.</li>
+      <li>Most active by value: ${valueLeader.ticker} with ${currency.format(valueLeader.value)} traded.</li>
+    </ul>
+
+    <h3>Equity Movers</h3>
+    <p>${top.ticker} was the strongest tracked price performer at ${formatPercent(stockChange(top))}, while ${weakest.ticker} was the weakest at ${formatPercent(stockChange(weakest))}. Sector performance was led by ${bestSector.sector} at ${formatPercent(bestSector.average)}, while ${weakestSector.sector} lagged at ${formatPercent(weakestSector.average)}.</p>
+
+    <h3>Macroeconomic Environment</h3>
+    <ul>
+      <li>91-day Treasury bill rate: ${macroByName["91-day T-bill"].value.toFixed(4)}%.</li>
+      <li>Monetary policy rate: ${macroByName["Policy rate"].value.toFixed(2)}%.</li>
+      <li>Inflation: ${macroByName.Inflation.value.toFixed(1)}%.</li>
+      <li>USD/GHS reference: ${macroByName["USD/GHS"].value.toFixed(2)} ${macroByName["USD/GHS"].unit}.</li>
+      <li>GDP growth indicator: ${macroByName["GDP growth"].value.toFixed(1)}%.</li>
+    </ul>
+
+    <h3>Investment Read-Through</h3>
+    <p>High local fixed-income yields remain a key benchmark for equity allocation. Dividend and banking names should be assessed against Treasury bill yields, earnings quality, liquidity, and capital strength. Low-volume counters need extra caution because price signals may be less reliable.</p>
+
+    <h3>News and Risk Context</h3>
+    ${sourceLine}
+
+    <h3>Desk View</h3>
+    <p>For the next session, monitor ${volumeLeader.ticker} for liquidity continuation, ${top.ticker} for momentum follow-through, and financial stocks for sensitivity to policy-rate, Treasury-bill, and sovereign-credit developments.</p>
   `;
 }
 
