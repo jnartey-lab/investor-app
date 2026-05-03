@@ -55,6 +55,8 @@ SOURCES = [
     Source("Ghana Statistical Service", "https://statsghana.gov.gh/", "Official macro"),
     Source("SAS Finance Group Research", "https://www.sasghana.com/brokerage/research", "Investment research"),
     Source("SIC Brokerage Daily Equity Market Report", "https://www.sicbrokerage.com/15/5/daily-equity-market-report", "Investment research"),
+    Source("Fitch Ratings", "https://www.fitchratings.com/", "Credit ratings news"),
+    Source("Fitch Sovereigns", "https://www.fitchratings.com/sovereigns", "Sovereign credit research"),
     Source("Business & Financial Times", "https://thebftonline.com/feed/", "Business news", "rss"),
     Source("Ghana Business News", "https://www.ghanabusinessnews.com/feed/", "Business news", "rss"),
     Source("Citi Business News", "https://citibusinessnews.com/feed/", "Business news", "rss"),

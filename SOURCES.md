@@ -26,6 +26,8 @@ This project includes real public source links in the application UI. The static
 - Citi Business News RSS: https://citibusinessnews.com/feed/
 - MyJoyOnline Business RSS: https://www.myjoyonline.com/business/feed/
 - Bloomberg Markets: https://www.bloomberg.com/markets
+- Fitch Ratings: https://www.fitchratings.com/
+- Fitch Sovereigns: https://www.fitchratings.com/sovereigns
 
 ## Values Updated in the App
 
@@ -43,3 +45,5 @@ Use licensed or formally approved sources for trading-grade stock prices, volume
 The scripted data updater uses conservative public-page and RSS fetching once per day. Before using scraped data commercially, review each source's terms of use and replace public scraping with licensed APIs where required.
 
 Bloomberg's public website may block automated scraping. The daily updater includes Bloomberg Markets as a monitored source, but production-grade Bloomberg data should come from licensed Bloomberg products such as Data License, Enterprise Access Point, or Event-Driven Feeds.
+
+Fitch public pages are monitored for credit-risk and sovereign-research context. Production use of Fitch ratings history, full reports, redistribution, or analytics should use a licensed Fitch data product or approved API/data feed.

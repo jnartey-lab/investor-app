@@ -49,6 +49,18 @@ const marketData = {
       type: "Global markets news",
       note: "Public Bloomberg Markets page used for global market headlines and macro context affecting institutional investment decisions.",
     },
+    {
+      name: "Fitch Ratings",
+      url: "https://www.fitchratings.com/",
+      type: "Credit ratings news",
+      note: "Public Fitch Ratings site used for global credit-risk headlines, ratings commentary, and market-risk context.",
+    },
+    {
+      name: "Fitch Sovereigns",
+      url: "https://www.fitchratings.com/sovereigns",
+      type: "Sovereign credit research",
+      note: "Fitch sovereign research page used for country-risk, sovereign debt, ratings criteria, and emerging-market credit context.",
+    },
   ],
   indices: {
     composite: {

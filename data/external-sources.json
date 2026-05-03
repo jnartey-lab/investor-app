@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-03T03:45:18.419921+00:00",
-  "generatedAtEastern": "2026-05-02T23:45:18.419921-04:00",
+  "generatedAt": "2026-05-03T03:47:45.217801+00:00",
+  "generatedAtEastern": "2026-05-02T23:47:45.217801-04:00",
   "schedule": "Daily at 11:00 America/New_York via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
@@ -332,6 +332,134 @@
       "category": "Investment research"
     },
     {
+      "title": "01 Insights",
+      "url": "https://www.fitchratings.com/",
+      "summary": "",
+      "publishedAt": null,
+      "source": "Fitch Ratings",
+      "category": "Credit ratings news"
+    },
+    {
+      "title": "Global Economic Outlook",
+      "url": "https://www.fitchratings.com/",
+      "summary": "",
+      "publishedAt": null,
+      "source": "Fitch Ratings",
+      "category": "Credit ratings news"
+    },
+    {
+      "title": "AI Revenue Potential Could Support Current Investment Scale",
+      "url": "https://www.fitchratings.com/",
+      "summary": "",
+      "publishedAt": null,
+      "source": "Fitch Ratings",
+      "category": "Credit ratings news"
+    },
+    {
+      "title": "Join our Talent Community",
+      "url": "https://www.fitchratings.com/",
+      "summary": "",
+      "publishedAt": null,
+      "source": "Fitch Ratings",
+      "category": "Credit ratings news"
+    },
+    {
+      "title": "02 Videos",
+      "url": "https://www.fitchratings.com/",
+      "summary": "",
+      "publishedAt": null,
+      "source": "Fitch Ratings",
+      "category": "Credit ratings news"
+    },
+    {
+      "title": "03 Podcasts",
+      "url": "https://www.fitchratings.com/",
+      "summary": "",
+      "publishedAt": null,
+      "source": "Fitch Ratings",
+      "category": "Credit ratings news"
+    },
+    {
+      "title": "Financial Training Courses",
+      "url": "https://www.fitchratings.com/",
+      "summary": "",
+      "publishedAt": null,
+      "source": "Fitch Ratings",
+      "category": "Credit ratings news"
+    },
+    {
+      "title": "04 Events",
+      "url": "https://www.fitchratings.com/",
+      "summary": "",
+      "publishedAt": null,
+      "source": "Fitch Ratings",
+      "category": "Credit ratings news"
+    },
+    {
+      "title": "Sovereigns",
+      "url": "https://www.fitchratings.com/sovereigns",
+      "summary": "",
+      "publishedAt": null,
+      "source": "Fitch Sovereigns",
+      "category": "Sovereign credit research"
+    },
+    {
+      "title": "01 Insights",
+      "url": "https://www.fitchratings.com/sovereigns",
+      "summary": "",
+      "publishedAt": null,
+      "source": "Fitch Sovereigns",
+      "category": "Sovereign credit research"
+    },
+    {
+      "title": "Sovereign Credit Atlas",
+      "url": "https://www.fitchratings.com/sovereigns",
+      "summary": "",
+      "publishedAt": null,
+      "source": "Fitch Sovereigns",
+      "category": "Sovereign credit research"
+    },
+    {
+      "title": "Debt Sustainability Monitor",
+      "url": "https://www.fitchratings.com/sovereigns",
+      "summary": "",
+      "publishedAt": null,
+      "source": "Fitch Sovereigns",
+      "category": "Sovereign credit research"
+    },
+    {
+      "title": "Global Economic Outlook",
+      "url": "https://www.fitchratings.com/sovereigns",
+      "summary": "",
+      "publishedAt": null,
+      "source": "Fitch Sovereigns",
+      "category": "Sovereign credit research"
+    },
+    {
+      "title": "Global Risk Outlook - 2Q26",
+      "url": "https://www.fitchratings.com/sovereigns",
+      "summary": "",
+      "publishedAt": null,
+      "source": "Fitch Sovereigns",
+      "category": "Sovereign credit research"
+    },
+    {
+      "title": "China’s Tariff Challenges Rising Rapidly",
+      "url": "https://www.fitchratings.com/sovereigns",
+      "summary": "",
+      "publishedAt": null,
+      "source": "Fitch Sovereigns",
+      "category": "Sovereign credit research"
+    },
+    {
+      "title": "Sovereign Credit Risk Solution",
+      "url": "https://www.fitchratings.com/sovereigns",
+      "summary": "",
+      "publishedAt": null,
+      "source": "Fitch Sovereigns",
+      "category": "Sovereign credit research"
+    },
+    {
       "title": "J. A. Kufuor to deliver special address on Africa Cocoa Vision 2050 at ACFIF 2026",
       "url": "https://thebftonline.com/2026/05/02/j-a-kufuor-to-deliver-special-address-on-africa-cocoa-vision-2050-at-acfif-2026/",
       "summary": "The inaugural Africa Cocoa Finance & Investment Forum (ACFIF 2026) will feature a Special Address by H.E. John Agyekum Kufuor, former President of the Republic of Ghana, under the theme: “Africa Cocoa Vision 2050 – Historical Reflections and Future Pathways.” ",
@@ -530,62 +658,6 @@
       "publishedAt": "2026-05-02T20:00:34+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
-    },
-    {
-      "title": "TCDA CEO leads charge to scale up cashew apple value addition opportunities",
-      "url": "https://www.myjoyonline.com/tcda-ceo-leads-charge-to-scale-up-cashew-apple-value-addition-opportunities/",
-      "summary": "The Chief Executive Officer of the Tree Crops Development Authority, Dr. Andy Osei Okrah, has called for urgent investments and stronger partnerships to unlock the enormous economic potential of Ghana’s cashew apple industry, positioning value addition as the ",
-      "publishedAt": "2026-05-02T16:02:50+00:00",
-      "source": "MyJoyOnline Business",
-      "category": "Business news"
-    },
-    {
-      "title": "MGL’s May Day Egg market ends in resounding success as crowds turn out for affordable eggs",
-      "url": "https://www.myjoyonline.com/mgls-may-day-egg-market-ends-in-resounding-success-as-crowds-turn-out-for-affordable-eggs/",
-      "summary": "The Multimedia Group’s highly anticipated two-day May Day Egg Market has drawn to a triumphant close at the Joy FM Car Park, captivating throngs of shoppers eager to access affordable, high-quality eggs while championing Ghana’s poultry industry.",
-      "publishedAt": "2026-05-02T15:24:17+00:00",
-      "source": "MyJoyOnline Business",
-      "category": "Business news"
-    },
-    {
-      "title": "“Energy situation is stable” – John Jinapor assures Ghanaians",
-      "url": "https://www.myjoyonline.com/energy-situation-is-stable-john-jinapor-assures-ghanaians/",
-      "summary": "Energy Minister, John Jinapor, has assured Ghanaians that the country’s energy supply is currently stable, despite recent concerns over power reliability and infrastructure challenges follwing the Akosombo fire incident.",
-      "publishedAt": "2026-05-02T15:05:42+00:00",
-      "source": "MyJoyOnline Business",
-      "category": "Business news"
-    },
-    {
-      "title": "You don’t need to incur GH¢15.6bn loss to stabilise the economy – Dr Boako tells gov’t",
-      "url": "https://www.myjoyonline.com/you-dont-need-to-incur-gh%c2%a215-6bn-loss-to-stabilise-the-economy-dr-boako-tells-govt/",
-      "summary": "Member, Finance Committee of Parliament, Dr Gideon Boako, has questioned the scale of losses recorded by the Bank of Ghana, arguing that economic stability should not come at such a high financial cost.",
-      "publishedAt": "2026-05-02T13:29:51+00:00",
-      "source": "MyJoyOnline Business",
-      "category": "Business news"
-    },
-    {
-      "title": "Central bank’s inflation fight since 2022 came at a cost – Prof Turkson",
-      "url": "https://www.myjoyonline.com/central-banks-inflation-fight-since-2022-came-at-a-cost-prof-turkson/",
-      "summary": "External Member of the Monetary Policy Committee of the Bank of Ghana, Prof Ebo Turkson, says Ghana’s fight against inflation since 2022 could not have succeeded without significant economic costs.",
-      "publishedAt": "2026-05-02T12:36:08+00:00",
-      "source": "MyJoyOnline Business",
-      "category": "Business news"
-    },
-    {
-      "title": "If BoG isn’t a profit-making institution, it also can’t be a loss-making one – Kofi Bentil",
-      "url": "https://www.myjoyonline.com/if-bog-isnt-a-profit-making-institution-it-also-cant-be-a-loss-making-one-kofi-bentil/",
-      "summary": "Lawyer and Senior Vice-President of IMANI Africa, Kofi Bentil, has emphasised that the Bank of Ghana is neither a profit-making nor a loss-making institution, but a body tasked with stabilising the economy, raising questions over the sustainability of recent f",
-      "publishedAt": "2026-05-02T11:57:46+00:00",
-      "source": "MyJoyOnline Business",
-      "category": "Business news"
-    },
-    {
-      "title": "Accountability is defective in the energy sector – Ben Boakye",
-      "url": "https://www.myjoyonline.com/accountability-is-defective-in-the-energy-sector-ben-boakye/",
-      "summary": "Executive Director, African Centre for Energy Policy (ACEP), Benjamin Boakye has raised concerns over governance and safety standards in Ghana’s power sector, arguing that weak accountability has contributed to repeated infrastructure failures and system vulne",
-      "publishedAt": "2026-05-02T11:17:03+00:00",
-      "source": "MyJoyOnline Business",
-      "category": "Business news"
     }
   ],
   "sources": [
@@ -596,7 +668,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T03:45:18.419921+00:00"
+      "fetchedAt": "2026-05-03T03:47:45.217801+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -605,7 +677,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T03:45:18.419921+00:00"
+      "fetchedAt": "2026-05-03T03:47:45.217801+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -614,7 +686,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T03:45:18.419921+00:00"
+      "fetchedAt": "2026-05-03T03:47:45.217801+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -623,7 +695,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T03:45:18.419921+00:00"
+      "fetchedAt": "2026-05-03T03:47:45.217801+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -632,7 +704,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T03:45:18.419921+00:00"
+      "fetchedAt": "2026-05-03T03:47:45.217801+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -641,7 +713,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T03:45:18.419921+00:00"
+      "fetchedAt": "2026-05-03T03:47:45.217801+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -650,7 +722,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T03:45:18.419921+00:00"
+      "fetchedAt": "2026-05-03T03:47:45.217801+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -659,7 +731,25 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T03:45:18.419921+00:00"
+      "fetchedAt": "2026-05-03T03:47:45.217801+00:00"
+    },
+    {
+      "name": "Fitch Ratings",
+      "url": "https://www.fitchratings.com/",
+      "category": "Credit ratings news",
+      "kind": "html",
+      "ok": true,
+      "error": null,
+      "fetchedAt": "2026-05-03T03:47:45.217801+00:00"
+    },
+    {
+      "name": "Fitch Sovereigns",
+      "url": "https://www.fitchratings.com/sovereigns",
+      "category": "Sovereign credit research",
+      "kind": "html",
+      "ok": true,
+      "error": null,
+      "fetchedAt": "2026-05-03T03:47:45.217801+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -668,7 +758,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T03:45:18.419921+00:00"
+      "fetchedAt": "2026-05-03T03:47:45.217801+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -677,7 +767,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T03:45:18.419921+00:00"
+      "fetchedAt": "2026-05-03T03:47:45.217801+00:00"
     },
     {
       "name": "Citi Business News",
@@ -686,7 +776,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T03:45:18.419921+00:00"
+      "fetchedAt": "2026-05-03T03:47:45.217801+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -695,7 +785,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T03:45:18.419921+00:00"
+      "fetchedAt": "2026-05-03T03:47:45.217801+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -704,7 +794,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-05-03T03:45:18.419921+00:00"
+      "fetchedAt": "2026-05-03T03:47:45.217801+00:00"
     }
   ]
 }
