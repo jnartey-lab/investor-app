@@ -1,0 +1,294 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Institutional Ghana Stock Exchange market intelligence platform for dashboards, analytics, portfolio monitoring, alerts, reports, and AI-assisted research."
+    />
+    <title>GSE Investor Intelligence</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar" aria-label="Primary navigation">
+        <div class="brand">
+          <span class="brand-mark">GI</span>
+          <div>
+            <strong>GSE Intelligence</strong>
+            <small>Institutional market desk</small>
+          </div>
+        </div>
+
+        <nav class="nav-list" id="navList">
+          <button class="nav-item active" data-view="overview">Overview</button>
+          <button class="nav-item" data-view="stocks">Stocks</button>
+          <button class="nav-item" data-view="portfolio">Portfolio</button>
+          <button class="nav-item" data-view="research">Research</button>
+          <button class="nav-item" data-view="alerts">Alerts</button>
+          <button class="nav-item" data-view="macro">Macro</button>
+          <button class="nav-item" data-view="admin">Admin</button>
+        </nav>
+
+        <div class="sidebar-footer">
+          <span class="status-dot"></span>
+          <div>
+            <strong>Near real-time ready</strong>
+            <small>Sample EOD dataset loaded</small>
+          </div>
+        </div>
+      </aside>
+
+      <main class="main">
+        <header class="topbar">
+          <button class="mobile-menu" id="mobileMenu" aria-label="Toggle navigation">☰</button>
+          <div class="search-wrap">
+            <label for="globalSearch">Search</label>
+            <input id="globalSearch" type="search" placeholder="Search ticker, company, sector, report..." />
+          </div>
+          <div class="topbar-actions">
+            <button class="icon-button" id="themeToggle" aria-label="Toggle dark and light mode">◐</button>
+            <button class="primary-action" id="exportMarket">Export CSV</button>
+          </div>
+        </header>
+
+        <section class="hero-strip">
+          <div>
+            <p class="eyebrow">Trading date <span id="tradingDate"></span></p>
+            <h1>Ghana Stock Exchange market intelligence</h1>
+            <p class="hero-copy">
+              Daily market monitoring, portfolio risk, research workflow, alerts, macro context, and AI-assisted commentary for professional investment teams.
+            </p>
+          </div>
+          <div class="freshness-card">
+            <span>Data freshness</span>
+            <strong id="dataFreshness">End-of-day sample</strong>
+            <small>Connect licensed GSE feeds or upload CSV data in Admin.</small>
+          </div>
+        </section>
+
+        <section class="view active" id="overview">
+          <div class="metric-grid" id="marketMetrics"></div>
+
+          <div class="layout-grid">
+            <section class="panel wide">
+              <div class="panel-header">
+                <div>
+                  <p class="eyebrow">Index performance</p>
+                  <h2>GSE Composite Index</h2>
+                </div>
+                <select id="indexSelect" aria-label="Select index">
+                  <option value="composite">Composite</option>
+                  <option value="financial">Financial Stocks</option>
+                </select>
+              </div>
+              <canvas id="indexChart" height="260"></canvas>
+            </section>
+
+            <section class="panel">
+              <div class="panel-header">
+                <div>
+                  <p class="eyebrow">Breadth</p>
+                  <h2>Market direction</h2>
+                </div>
+              </div>
+              <div class="breadth" id="breadthSummary"></div>
+            </section>
+          </div>
+
+          <div class="table-grid">
+            <section class="panel">
+              <div class="panel-header">
+                <div>
+                  <p class="eyebrow">Leaders</p>
+                  <h2>Top gainers</h2>
+                </div>
+              </div>
+              <div class="table-wrap">
+                <table>
+                  <thead><tr><th>Ticker</th><th>Price</th><th>Change</th></tr></thead>
+                  <tbody id="gainersTable"></tbody>
+                </table>
+              </div>
+            </section>
+
+            <section class="panel">
+              <div class="panel-header">
+                <div>
+                  <p class="eyebrow">Pressure</p>
+                  <h2>Top losers</h2>
+                </div>
+              </div>
+              <div class="table-wrap">
+                <table>
+                  <thead><tr><th>Ticker</th><th>Price</th><th>Change</th></tr></thead>
+                  <tbody id="losersTable"></tbody>
+                </table>
+              </div>
+            </section>
+
+            <section class="panel">
+              <div class="panel-header">
+                <div>
+                  <p class="eyebrow">Liquidity</p>
+                  <h2>Most traded</h2>
+                </div>
+              </div>
+              <div class="table-wrap">
+                <table>
+                  <thead><tr><th>Ticker</th><th>Volume</th><th>Value</th></tr></thead>
+                  <tbody id="tradedTable"></tbody>
+                </table>
+              </div>
+            </section>
+          </div>
+
+          <section class="panel">
+            <div class="panel-header">
+              <div>
+                <p class="eyebrow">Sector movement</p>
+                <h2>Performance heatmap</h2>
+              </div>
+            </div>
+            <div class="sector-grid" id="sectorGrid"></div>
+          </section>
+        </section>
+
+        <section class="view" id="stocks">
+          <div class="split-layout">
+            <section class="panel stock-list-panel">
+              <div class="panel-header">
+                <div>
+                  <p class="eyebrow">Listed equities</p>
+                  <h2>Company monitor</h2>
+                </div>
+              </div>
+              <div class="table-wrap">
+                <table>
+                  <thead>
+                    <tr><th>Ticker</th><th>Company</th><th>Sector</th><th>Change</th></tr>
+                  </thead>
+                  <tbody id="stocksTable"></tbody>
+                </table>
+              </div>
+            </section>
+
+            <section class="panel stock-detail-panel">
+              <div class="stock-detail" id="stockDetail"></div>
+              <canvas id="stockChart" height="260"></canvas>
+            </section>
+          </div>
+        </section>
+
+        <section class="view" id="portfolio">
+          <div class="metric-grid" id="portfolioMetrics"></div>
+          <div class="layout-grid">
+            <section class="panel wide">
+              <div class="panel-header">
+                <div>
+                  <p class="eyebrow">Holdings</p>
+                  <h2>Institutional portfolio</h2>
+                </div>
+              </div>
+              <div class="table-wrap">
+                <table>
+                  <thead><tr><th>Ticker</th><th>Quantity</th><th>Value</th><th>P/L</th><th>Weight</th></tr></thead>
+                  <tbody id="portfolioTable"></tbody>
+                </table>
+              </div>
+            </section>
+            <section class="panel">
+              <div class="panel-header">
+                <div>
+                  <p class="eyebrow">Risk</p>
+                  <h2>Exposure summary</h2>
+                </div>
+              </div>
+              <div id="riskSummary" class="risk-list"></div>
+            </section>
+          </div>
+        </section>
+
+        <section class="view" id="research">
+          <div class="layout-grid">
+            <section class="panel wide">
+              <div class="panel-header">
+                <div>
+                  <p class="eyebrow">AI-assisted draft</p>
+                  <h2>Daily market commentary</h2>
+                </div>
+                <button class="primary-action" id="generateBrief">Generate brief</button>
+              </div>
+              <article class="commentary-box" id="marketBrief"></article>
+            </section>
+            <section class="panel">
+              <div class="panel-header">
+                <div>
+                  <p class="eyebrow">Workflow</p>
+                  <h2>Recommendations</h2>
+                </div>
+              </div>
+              <div id="recommendations" class="workflow-list"></div>
+            </section>
+          </div>
+        </section>
+
+        <section class="view" id="alerts">
+          <section class="panel">
+            <div class="panel-header">
+              <div>
+                <p class="eyebrow">Notifications</p>
+                <h2>Alert rules</h2>
+              </div>
+              <button class="primary-action" id="addAlert">Add sample alert</button>
+            </div>
+            <div id="alertsList" class="alert-list"></div>
+          </section>
+        </section>
+
+        <section class="view" id="macro">
+          <div class="metric-grid" id="macroMetrics"></div>
+          <section class="panel">
+            <div class="panel-header">
+              <div>
+                <p class="eyebrow">Fixed income comparison</p>
+                <h2>Equities and Ghana macro indicators</h2>
+              </div>
+            </div>
+            <canvas id="macroChart" height="260"></canvas>
+          </section>
+        </section>
+
+        <section class="view" id="admin">
+          <div class="layout-grid">
+            <section class="panel wide">
+              <div class="panel-header">
+                <div>
+                  <p class="eyebrow">Data operations</p>
+                  <h2>Market data ingestion</h2>
+                </div>
+              </div>
+              <div class="upload-zone">
+                <input id="csvUpload" type="file" accept=".csv" />
+                <p>Upload daily market CSV files with ticker, close, volume, value, and sector fields.</p>
+              </div>
+              <div id="ingestionLog" class="log-list"></div>
+            </section>
+            <section class="panel">
+              <div class="panel-header">
+                <div>
+                  <p class="eyebrow">Access</p>
+                  <h2>Roles</h2>
+                </div>
+              </div>
+              <div class="role-list" id="roleList"></div>
+            </section>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
