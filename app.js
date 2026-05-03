@@ -119,6 +119,9 @@ const marketData = {
 let selectedStock = marketData.stocks[0];
 let alerts = [...marketData.alerts];
 let externalData = null;
+let selectedSector = "all";
+let sortKey = "ticker";
+const watchlist = new Set(JSON.parse(localStorage.getItem("watchlist") || "[]"));
 
 const currency = new Intl.NumberFormat("en-GH", { style: "currency", currency: "GHS", maximumFractionDigits: 0 });
 const number = new Intl.NumberFormat("en-GH");
@@ -148,6 +151,10 @@ function stockChange(stock) {
 
 function byId(id) {
   return document.getElementById(id);
+}
+
+function saveWatchlist() {
+  localStorage.setItem("watchlist", JSON.stringify([...watchlist]));
 }
 
 function renderMetrics() {
@@ -193,14 +200,33 @@ function renderTables() {
   const gainers = [...marketData.stocks].sort((a, b) => stockChange(b) - stockChange(a)).slice(0, 5);
   const losers = [...marketData.stocks].sort((a, b) => stockChange(a) - stockChange(b)).slice(0, 5);
   const traded = [...marketData.stocks].sort((a, b) => b.value - a.value).slice(0, 5);
+  const stocks = getFilteredStocks();
 
   byId("gainersTable").innerHTML = gainers.map(stockChangeRow).join("");
   byId("losersTable").innerHTML = losers.map(stockChangeRow).join("");
   byId("tradedTable").innerHTML = traded.map((stock) => `<tr><td>${stock.ticker}</td><td>${number.format(stock.volume)}</td><td>${currency.format(stock.value)}</td></tr>`).join("");
-  byId("stocksTable").innerHTML = marketData.stocks.map((stock) => {
+  byId("stocksTable").innerHTML = stocks.map((stock) => {
     const change = stockChange(stock);
-    return `<tr class="stock-row" data-ticker="${stock.ticker}"><td><strong>${stock.ticker}</strong></td><td>${stock.name}</td><td>${stock.sector}</td><td class="${classFor(change)}">${formatPercent(change)}</td></tr>`;
+    const watched = watchlist.has(stock.ticker);
+    return `<tr class="stock-row" data-ticker="${stock.ticker}">
+      <td><button class="watch-button ${watched ? "active" : ""}" data-watch="${stock.ticker}" aria-label="Toggle ${stock.ticker} watchlist">${watched ? "★" : "☆"}</button></td>
+      <td><strong>${stock.ticker}</strong></td>
+      <td>${stock.name}</td>
+      <td>${stock.sector}</td>
+      <td class="${classFor(change)}">${formatPercent(change)}</td>
+    </tr>`;
   }).join("");
+}
+
+function getFilteredStocks() {
+  const filtered = selectedSector === "all"
+    ? [...marketData.stocks]
+    : marketData.stocks.filter((stock) => stock.sector === selectedSector);
+  return filtered.sort((a, b) => {
+    if (sortKey === "change") return stockChange(b) - stockChange(a);
+    if (sortKey === "volume") return b.volume - a.volume;
+    return a.ticker.localeCompare(b.ticker);
+  });
 }
 
 function stockChangeRow(stock) {
@@ -217,7 +243,7 @@ function renderSectors() {
 
   byId("sectorGrid").innerHTML = Object.entries(sectors).map(([sector, changes]) => {
     const avg = changes.reduce((sum, value) => sum + value, 0) / changes.length;
-    return `<div class="sector-tile"><strong>${sector}</strong><span class="${classFor(avg)}">${formatPercent(avg)}</span><small>${changes.length} listed equities</small></div>`;
+    return `<button class="sector-tile ${selectedSector === sector ? "active" : ""}" data-sector="${sector}"><strong>${sector}</strong><span class="${classFor(avg)}">${formatPercent(avg)}</span><small>${changes.length} listed equities</small></button>`;
   }).join("");
 }
 
@@ -226,7 +252,7 @@ function renderStockDetail() {
   byId("stockDetail").innerHTML = `
     <p class="eyebrow">${selectedStock.sector}</p>
     <h2>${selectedStock.ticker} · ${selectedStock.name}</h2>
-    <p><strong>GHS ${selectedStock.price.toFixed(2)}</strong> <span class="${classFor(change)}">${formatPercent(change)}</span></p>
+    <p><strong>GHS ${selectedStock.price.toFixed(2)}</strong> <span class="${classFor(change)}">${formatPercent(change)}</span> <button class="watch-button ${watchlist.has(selectedStock.ticker) ? "active" : ""}" data-watch="${selectedStock.ticker}" aria-label="Toggle ${selectedStock.ticker} watchlist">${watchlist.has(selectedStock.ticker) ? "★" : "☆"}</button></p>
     <p class="source-note">Company listing reference: <a class="source-link" href="https://gse.com.gh/listed-companies/" target="_blank" rel="noreferrer">GSE Listed Companies</a>. Live price, volume, and fundamentals require licensed GSE feed integration or approved uploads.</p>
     <div class="detail-grid">
       ${detail("Open", `GHS ${selectedStock.open.toFixed(2)}`)}
@@ -302,6 +328,7 @@ function renderResearch() {
     </div>
   `).join("");
   generateBrief();
+  byId("assistantAnswer").textContent = "Ask about dividend yields, banking stocks, unusual volume, or market summary.";
 }
 
 function generateBrief() {
@@ -346,8 +373,14 @@ function renderSources() {
     metric("Schedule", "11:00 AM", "America/New_York daily", "positive"),
   ].join("");
 
-  byId("externalFeed").innerHTML = items.length
-    ? items.slice(0, 15).map((item) => `
+  const query = byId("sourceSearch")?.value?.toLowerCase() || "";
+  const visibleItems = items.filter((item) => {
+    const haystack = `${item.title} ${item.source} ${item.category} ${item.summary}`.toLowerCase();
+    return haystack.includes(query);
+  });
+
+  byId("externalFeed").innerHTML = visibleItems.length
+    ? visibleItems.slice(0, 15).map((item) => `
       <article class="external-item">
         <span>${item.source} · ${item.category}${item.publishedAt ? ` · ${new Date(item.publishedAt).toLocaleDateString("en-US")}` : ""}</span>
         <a href="${item.url}" target="_blank" rel="noreferrer">${item.title}</a>
@@ -364,6 +397,28 @@ function renderSources() {
       <p><a href="${source.url}" target="_blank" rel="noreferrer">Open source link</a></p>
     </article>
   `).join("");
+}
+
+function renderSectorOptions() {
+  const sectors = [...new Set(marketData.stocks.map((stock) => stock.sector))].sort();
+  byId("sectorFilter").innerHTML = [`<option value="all">All sectors</option>`, ...sectors.map((sector) => `<option value="${sector}">${sector}</option>`)].join("");
+}
+
+function answerAssistantQuestion() {
+  const question = byId("assistantQuestion").value.toLowerCase();
+  const bestDividend = [...marketData.stocks].sort((a, b) => b.yield - a.yield).slice(0, 3);
+  const banks = marketData.stocks.filter((stock) => stock.sector === "Financials").sort((a, b) => stockChange(b) - stockChange(a));
+  const volumeLeader = [...marketData.stocks].sort((a, b) => b.volume - a.volume)[0];
+  const top = [...marketData.stocks].sort((a, b) => stockChange(b) - stockChange(a))[0];
+  let answer = `Market summary: ${top.ticker} is the strongest price mover at ${formatPercent(stockChange(top))}, while ${volumeLeader.ticker} leads volume with ${number.format(volumeLeader.volume)} shares.`;
+  if (question.includes("dividend") || question.includes("yield")) {
+    answer = `Highest dividend-yield screen: ${bestDividend.map((stock) => `${stock.ticker} ${stock.yield.toFixed(1)}%`).join(", ")}. Confirm with official filings before investment decisions.`;
+  } else if (question.includes("bank") || question.includes("financial")) {
+    answer = `Financial stocks by daily performance: ${banks.map((stock) => `${stock.ticker} ${formatPercent(stockChange(stock))}`).join(", ")}. SCB and GCB also show stronger ROE in this sample dataset.`;
+  } else if (question.includes("volume") || question.includes("unusual")) {
+    answer = `${volumeLeader.ticker} has the highest tracked volume at ${number.format(volumeLeader.volume)} shares. CAL also shows elevated liquidity compared with most non-telecom counters.`;
+  }
+  byId("assistantAnswer").textContent = answer;
 }
 
 async function loadExternalData() {
@@ -505,15 +560,53 @@ function bindEvents() {
   byId("indexSelect").addEventListener("change", renderCharts);
   byId("exportMarket").addEventListener("click", exportCsv);
   byId("generateBrief").addEventListener("click", generateBrief);
+  byId("askAssistant").addEventListener("click", answerAssistantQuestion);
+  byId("assistantQuestion").addEventListener("keydown", (event) => {
+    if (event.key === "Enter") answerAssistantQuestion();
+  });
+  byId("sectorFilter").addEventListener("change", (event) => {
+    selectedSector = event.target.value;
+    renderTables();
+    renderSectors();
+  });
+  byId("sectorGrid").addEventListener("click", (event) => {
+    const tile = event.target.closest("[data-sector]");
+    if (!tile) return;
+    selectedSector = selectedSector === tile.dataset.sector ? "all" : tile.dataset.sector;
+    byId("sectorFilter").value = selectedSector;
+    renderTables();
+    renderSectors();
+    switchView("stocks");
+  });
+  byId("sourceSearch").addEventListener("input", renderSources);
+  byId("refreshSources").addEventListener("click", () => {
+    renderSources();
+    byId("refreshSources").textContent = "Refreshed";
+  });
   byId("addAlert").addEventListener("click", () => {
     alerts = [{ title: "GSE Composite Index threshold", detail: "Index movement alert created at +/- 1.5% daily threshold.", channel: "In-app, Email", severity: "medium" }, ...alerts];
     renderAlerts();
   });
   byId("stocksTable").addEventListener("click", (event) => {
+    const watchButton = event.target.closest("[data-watch]");
+    if (watchButton) {
+      toggleWatch(watchButton.dataset.watch);
+      return;
+    }
     const row = event.target.closest("[data-ticker]");
     if (!row) return;
     selectedStock = marketData.stocks.find((stock) => stock.ticker === row.dataset.ticker);
     renderStockDetail();
+  });
+  byId("stockDetail").addEventListener("click", (event) => {
+    const watchButton = event.target.closest("[data-watch]");
+    if (watchButton) toggleWatch(watchButton.dataset.watch);
+  });
+  document.querySelectorAll(".table-sort").forEach((button) => {
+    button.addEventListener("click", () => {
+      sortKey = button.dataset.sort;
+      renderTables();
+    });
   });
   byId("globalSearch").addEventListener("input", (event) => {
     const query = event.target.value.toLowerCase();
@@ -529,6 +622,14 @@ function bindEvents() {
   window.addEventListener("resize", renderCharts);
 }
 
+function toggleWatch(ticker) {
+  if (watchlist.has(ticker)) watchlist.delete(ticker);
+  else watchlist.add(ticker);
+  saveWatchlist();
+  renderTables();
+  renderStockDetail();
+}
+
 function renderCharts() {
   const selectedIndex = byId("indexSelect").value;
   const index = marketData.indices[selectedIndex];
@@ -540,6 +641,7 @@ function renderCharts() {
 function init() {
   document.documentElement.dataset.theme = localStorage.getItem("theme") || "light";
   renderMetrics();
+  renderSectorOptions();
   renderTables();
   renderSectors();
   renderStockDetail();

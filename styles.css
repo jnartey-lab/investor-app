@@ -172,7 +172,9 @@ button {
 
 .icon-button,
 .primary-action,
-select {
+select,
+.inline-actions input,
+.assistant-input-row input {
   border: 1px solid var(--line);
   background: var(--surface);
   color: var(--text);
@@ -370,11 +372,19 @@ th {
   border-radius: 8px;
   background: var(--surface-soft);
   border: 1px solid var(--line);
+  color: var(--text);
+  text-align: left;
+  width: 100%;
 }
 
 .sector-tile strong {
   display: block;
   margin-bottom: 8px;
+}
+
+.sector-tile.active {
+  border-color: var(--accent);
+  box-shadow: inset 0 0 0 1px var(--accent);
 }
 
 .split-layout {
@@ -389,6 +399,31 @@ th {
 
 .stock-row:hover {
   background: var(--surface-soft);
+}
+
+.table-sort {
+  border: 0;
+  background: transparent;
+  color: inherit;
+  padding: 0;
+  font-size: inherit;
+  font-weight: inherit;
+  text-transform: inherit;
+}
+
+.watch-button {
+  width: 34px;
+  height: 34px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface);
+  color: var(--muted);
+}
+
+.watch-button.active {
+  border-color: var(--accent-2);
+  background: rgba(199, 154, 39, 0.16);
+  color: var(--accent-2);
 }
 
 .stock-detail h2 {
@@ -486,6 +521,40 @@ th {
   line-height: 1.7;
 }
 
+.assistant-box {
+  margin-top: 14px;
+  display: grid;
+  gap: 10px;
+}
+
+.assistant-box label {
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.assistant-input-row,
+.inline-actions {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.assistant-input-row input,
+.inline-actions input {
+  width: 100%;
+}
+
+.assistant-answer {
+  background: var(--surface-soft);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 14px;
+  line-height: 1.6;
+  color: var(--muted);
+}
+
 .upload-zone {
   border: 1px dashed var(--accent);
   border-radius: 8px;
@@ -553,6 +622,12 @@ th {
 
   .topbar-actions {
     margin-left: auto;
+  }
+
+  .assistant-input-row,
+  .inline-actions {
+    flex-direction: column;
+    align-items: stretch;
   }
 
   .hero-strip {

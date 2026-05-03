@@ -165,11 +165,20 @@
                   <p class="eyebrow">Listed equities</p>
                   <h2>Company monitor</h2>
                 </div>
+                <select id="sectorFilter" aria-label="Filter companies by sector">
+                  <option value="all">All sectors</option>
+                </select>
               </div>
               <div class="table-wrap">
                 <table>
                   <thead>
-                    <tr><th>Ticker</th><th>Company</th><th>Sector</th><th>Change</th></tr>
+                    <tr>
+                      <th>Watch</th>
+                      <th><button class="table-sort" data-sort="ticker">Ticker</button></th>
+                      <th>Company</th>
+                      <th>Sector</th>
+                      <th><button class="table-sort" data-sort="change">Change</button></th>
+                    </tr>
                   </thead>
                   <tbody id="stocksTable"></tbody>
                 </table>
@@ -223,6 +232,14 @@
                 <button class="primary-action" id="generateBrief">Generate brief</button>
               </div>
               <article class="commentary-box" id="marketBrief"></article>
+              <div class="assistant-box">
+                <label for="assistantQuestion">Ask the market assistant</label>
+                <div class="assistant-input-row">
+                  <input id="assistantQuestion" type="text" placeholder="Try: dividend yields, banking stocks, unusual volume..." />
+                  <button class="primary-action" id="askAssistant">Ask</button>
+                </div>
+                <div class="assistant-answer" id="assistantAnswer"></div>
+              </div>
             </section>
             <section class="panel">
               <div class="panel-header">
@@ -269,6 +286,10 @@
               <div>
                 <p class="eyebrow">Daily feed</p>
                 <h2>External intelligence</h2>
+              </div>
+              <div class="inline-actions">
+                <input id="sourceSearch" type="search" placeholder="Filter sources..." />
+                <button class="primary-action" id="refreshSources">Refresh view</button>
               </div>
             </div>
             <div class="external-feed" id="externalFeed"></div>
