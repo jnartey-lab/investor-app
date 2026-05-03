@@ -85,7 +85,20 @@
                   <option value="financial">Financial Stocks</option>
                 </select>
               </div>
-              <canvas id="indexChart" height="260"></canvas>
+              <div class="chart-toolbar" aria-label="Index chart controls">
+                <div class="range-buttons" id="indexRangeButtons">
+                  <button class="range-button active" data-range="1M">1M</button>
+                  <button class="range-button" data-range="3M">3M</button>
+                  <button class="range-button" data-range="6M">6M</button>
+                  <button class="range-button" data-range="YTD">YTD</button>
+                </div>
+                <span class="live-badge"><span></span> Delayed public feed</span>
+              </div>
+              <div class="interactive-chart">
+                <canvas id="indexChart" height="320"></canvas>
+                <div class="chart-tooltip" id="indexTooltip"></div>
+              </div>
+              <div class="index-chart-stats" id="indexChartStats"></div>
             </section>
 
             <section class="panel">

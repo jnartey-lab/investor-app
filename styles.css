@@ -337,6 +337,104 @@ canvas {
   border-radius: 8px;
 }
 
+.chart-toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 10px;
+}
+
+.range-buttons {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+
+.range-button {
+  border: 1px solid var(--line);
+  background: var(--surface);
+  color: var(--muted);
+  border-radius: 8px;
+  min-height: 34px;
+  padding: 0 12px;
+  font-weight: 800;
+}
+
+.range-button.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #ffffff;
+}
+
+.live-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 800;
+}
+
+.live-badge span {
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  background: var(--good);
+  box-shadow: 0 0 0 6px rgba(19, 138, 88, 0.14);
+}
+
+.interactive-chart {
+  position: relative;
+}
+
+.interactive-chart canvas {
+  cursor: crosshair;
+}
+
+.chart-tooltip {
+  position: absolute;
+  z-index: 3;
+  min-width: 150px;
+  pointer-events: none;
+  transform: translate(-50%, calc(-100% - 14px));
+  background: rgba(15, 36, 33, 0.94);
+  color: #ffffff;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  border-radius: 8px;
+  padding: 10px 12px;
+  font-size: 12px;
+  box-shadow: var(--shadow);
+  display: none;
+}
+
+.chart-tooltip strong {
+  display: block;
+  font-size: 16px;
+  margin-bottom: 3px;
+}
+
+.index-chart-stats {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.index-stat {
+  background: var(--surface-soft);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 10px;
+}
+
+.index-stat span {
+  display: block;
+  color: var(--muted);
+  font-size: 11px;
+  margin-bottom: 4px;
+}
+
 .table-wrap {
   overflow-x: auto;
 }
@@ -654,8 +752,14 @@ th {
 
   .sector-grid,
   .detail-grid,
-  .source-grid {
+  .source-grid,
+  .index-chart-stats {
     grid-template-columns: 1fr;
+  }
+
+  .chart-toolbar {
+    align-items: flex-start;
+    flex-direction: column;
   }
 
   .primary-action {

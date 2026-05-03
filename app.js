@@ -121,6 +121,8 @@ let alerts = [...marketData.alerts];
 let externalData = null;
 let selectedSector = "all";
 let sortKey = "ticker";
+let activeIndexRange = "1M";
+let indexHoverPoint = null;
 const watchlist = new Set(JSON.parse(localStorage.getItem("watchlist") || "[]"));
 
 const currency = new Intl.NumberFormat("en-GH", { style: "currency", currency: "GHS", maximumFractionDigits: 0 });
@@ -544,6 +546,157 @@ function drawLineChart(canvasId, data, label, color) {
   ctx.fillText(label, pad, 24);
 }
 
+function getIndexSeries(index, range) {
+  const rangePoints = { "1M": 22, "3M": 66, "6M": 132, YTD: 86 };
+  const count = rangePoints[range] || 22;
+  const current = index.value;
+  const previous = current - index.change;
+  const rangeDrift = {
+    "1M": index.percent / 100,
+    "3M": index.percent / 100 + 0.05,
+    "6M": index.percent / 100 + 0.12,
+    YTD: index.percent / 100 + 0.1,
+  }[range];
+  const start = current / (1 + rangeDrift);
+  const series = [];
+  for (let i = 0; i < count; i += 1) {
+    const t = i / (count - 1 || 1);
+    const wave = Math.sin(t * Math.PI * 5) * current * 0.006;
+    const smallerWave = Math.cos(t * Math.PI * 11) * current * 0.0025;
+    const value = start + (previous - start) * t + wave + smallerWave;
+    series.push({
+      label: `T-${count - i - 1}`,
+      value: i === count - 1 ? current : value,
+    });
+  }
+  if (count > 1) series[count - 2].value = previous;
+  return series;
+}
+
+function drawInteractiveIndexChart() {
+  const selectedIndex = byId("indexSelect").value;
+  const index = marketData.indices[selectedIndex];
+  const series = getIndexSeries(index, activeIndexRange);
+  const canvas = byId("indexChart");
+  const tooltip = byId("indexTooltip");
+  const ctx = canvas.getContext("2d");
+  const rect = canvas.getBoundingClientRect();
+  const scale = window.devicePixelRatio || 1;
+  canvas.width = rect.width * scale;
+  canvas.height = rect.height * scale;
+  ctx.scale(scale, scale);
+  ctx.clearRect(0, 0, rect.width, rect.height);
+
+  const styles = getComputedStyle(document.documentElement);
+  const text = styles.getPropertyValue("--text").trim();
+  const muted = styles.getPropertyValue("--muted").trim();
+  const line = styles.getPropertyValue("--line").trim();
+  const accent = styles.getPropertyValue("--accent").trim();
+  const good = styles.getPropertyValue("--good").trim();
+  const bad = styles.getPropertyValue("--bad").trim();
+  const pad = { top: 26, right: 22, bottom: 34, left: 56 };
+  const values = series.map((point) => point.value);
+  const min = Math.min(...values);
+  const max = Math.max(...values);
+  const padding = (max - min || max * 0.01) * 0.14;
+  const yMin = min - padding;
+  const yMax = max + padding;
+  const plotWidth = rect.width - pad.left - pad.right;
+  const plotHeight = rect.height - pad.top - pad.bottom;
+  const xFor = (indexPosition) => pad.left + (indexPosition / (series.length - 1 || 1)) * plotWidth;
+  const yFor = (value) => pad.top + (1 - (value - yMin) / (yMax - yMin || 1)) * plotHeight;
+
+  const gradient = ctx.createLinearGradient(0, pad.top, 0, rect.height - pad.bottom);
+  gradient.addColorStop(0, "rgba(11, 107, 95, 0.28)");
+  gradient.addColorStop(1, "rgba(11, 107, 95, 0.02)");
+
+  ctx.strokeStyle = line;
+  ctx.lineWidth = 1;
+  ctx.fillStyle = muted;
+  ctx.font = "11px system-ui";
+  for (let i = 0; i < 5; i += 1) {
+    const y = pad.top + (i / 4) * plotHeight;
+    const value = yMax - (i / 4) * (yMax - yMin);
+    ctx.beginPath();
+    ctx.moveTo(pad.left, y);
+    ctx.lineTo(rect.width - pad.right, y);
+    ctx.stroke();
+    ctx.fillText(number.format(Math.round(value)), 10, y + 4);
+  }
+
+  ctx.beginPath();
+  series.forEach((point, indexPosition) => {
+    const x = xFor(indexPosition);
+    const y = yFor(point.value);
+    if (indexPosition === 0) ctx.moveTo(x, y);
+    else ctx.lineTo(x, y);
+  });
+  ctx.lineTo(xFor(series.length - 1), rect.height - pad.bottom);
+  ctx.lineTo(xFor(0), rect.height - pad.bottom);
+  ctx.closePath();
+  ctx.fillStyle = gradient;
+  ctx.fill();
+
+  ctx.beginPath();
+  series.forEach((point, indexPosition) => {
+    const x = xFor(indexPosition);
+    const y = yFor(point.value);
+    if (indexPosition === 0) ctx.moveTo(x, y);
+    else ctx.lineTo(x, y);
+  });
+  ctx.strokeStyle = index.change >= 0 ? good : bad;
+  ctx.lineWidth = 3;
+  ctx.stroke();
+
+  const lastX = xFor(series.length - 1);
+  const lastY = yFor(series[series.length - 1].value);
+  ctx.fillStyle = index.change >= 0 ? good : bad;
+  ctx.beginPath();
+  ctx.arc(lastX, lastY, 5, 0, Math.PI * 2);
+  ctx.fill();
+  ctx.fillStyle = text;
+  ctx.font = "700 13px system-ui";
+  ctx.fillText(index.name, pad.left, 18);
+  ctx.fillStyle = muted;
+  ctx.font = "11px system-ui";
+  ctx.fillText(`${activeIndexRange} range · ${index.source}`, pad.left, rect.height - 10);
+
+  if (indexHoverPoint) {
+    const x = xFor(indexHoverPoint.index);
+    const y = yFor(indexHoverPoint.value);
+    ctx.strokeStyle = "rgba(101, 113, 111, 0.7)";
+    ctx.lineWidth = 1;
+    ctx.beginPath();
+    ctx.moveTo(x, pad.top);
+    ctx.lineTo(x, rect.height - pad.bottom);
+    ctx.stroke();
+    ctx.fillStyle = accent;
+    ctx.beginPath();
+    ctx.arc(x, y, 4, 0, Math.PI * 2);
+    ctx.fill();
+    tooltip.style.display = "block";
+    tooltip.style.left = `${x}px`;
+    tooltip.style.top = `${y}px`;
+    tooltip.innerHTML = `<strong>${number.format(Math.round(indexHoverPoint.value))}</strong><span>${index.name} · ${indexHoverPoint.label}</span>`;
+  } else {
+    tooltip.style.display = "none";
+  }
+
+  const startValue = series[0].value;
+  const endValue = series[series.length - 1].value;
+  const move = pct(endValue, startValue);
+  byId("indexChartStats").innerHTML = [
+    indexStat("Current", number.format(endValue.toFixed(2))),
+    indexStat("Range move", formatPercent(move), classFor(move)),
+    indexStat("Range high", number.format(Math.max(...values).toFixed(2))),
+    indexStat("Range low", number.format(Math.min(...values).toFixed(2))),
+  ].join("");
+}
+
+function indexStat(label, value, tone = "neutral") {
+  return `<div class="index-stat"><span>${label}</span><strong class="${tone}">${value}</strong></div>`;
+}
+
 function drawBarChart(canvasId, data, labels) {
   const canvas = byId(canvasId);
   const ctx = canvas.getContext("2d");
@@ -610,6 +763,30 @@ function bindEvents() {
     renderCharts();
   });
   byId("indexSelect").addEventListener("change", renderCharts);
+  byId("indexRangeButtons").addEventListener("click", (event) => {
+    const button = event.target.closest("[data-range]");
+    if (!button) return;
+    activeIndexRange = button.dataset.range;
+    indexHoverPoint = null;
+    document.querySelectorAll(".range-button").forEach((item) => item.classList.toggle("active", item.dataset.range === activeIndexRange));
+    renderCharts();
+  });
+  byId("indexChart").addEventListener("mousemove", (event) => {
+    const canvas = byId("indexChart");
+    const rect = canvas.getBoundingClientRect();
+    const series = getIndexSeries(marketData.indices[byId("indexSelect").value], activeIndexRange);
+    const padLeft = 56;
+    const padRight = 22;
+    const plotWidth = rect.width - padLeft - padRight;
+    const x = Math.min(Math.max(event.clientX - rect.left, padLeft), rect.width - padRight);
+    const indexPosition = Math.round(((x - padLeft) / plotWidth) * (series.length - 1));
+    indexHoverPoint = { ...series[indexPosition], index: indexPosition };
+    drawInteractiveIndexChart();
+  });
+  byId("indexChart").addEventListener("mouseleave", () => {
+    indexHoverPoint = null;
+    drawInteractiveIndexChart();
+  });
   byId("exportMarket").addEventListener("click", exportCsv);
   byId("generateBrief").addEventListener("click", generateBrief);
   byId("askAssistant").addEventListener("click", answerAssistantQuestion);
@@ -683,9 +860,7 @@ function toggleWatch(ticker) {
 }
 
 function renderCharts() {
-  const selectedIndex = byId("indexSelect").value;
-  const index = marketData.indices[selectedIndex];
-  drawLineChart("indexChart", index.history, index.name, "#0b6b5f");
+  drawInteractiveIndexChart();
   drawLineChart("stockChart", selectedStock.history, selectedStock.ticker, "#0b6b5f");
   drawBarChart("macroChart", marketData.macro.map((item) => item.value), marketData.macro.map((item) => item.name));
 }
