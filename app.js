@@ -136,6 +136,7 @@ function renderMetrics() {
   const unchanged = marketData.stocks.length - advancers - decliners;
 
   byId("tradingDate").textContent = marketData.tradingDate;
+  byId("lastUpdated").textContent = `Last updated: ${marketData.tradingDate}`;
   byId("marketMetrics").innerHTML = [
     metric("Composite Index", number.format(marketData.indices.composite.value), formatPercent(marketData.indices.composite.percent), classFor(marketData.indices.composite.change), marketData.indices.composite.sourceUrl),
     metric("Financial Index", number.format(marketData.indices.financial.value), formatPercent(marketData.indices.financial.percent), classFor(marketData.indices.financial.change), marketData.indices.financial.sourceUrl),
@@ -342,6 +343,9 @@ async function loadExternalData() {
     const response = await fetch("data/external-sources.json", { cache: "no-store" });
     if (!response.ok) return;
     externalData = await response.json();
+    if (externalData?.generatedAtEastern) {
+      byId("lastUpdated").textContent = `Last updated: ${new Date(externalData.generatedAtEastern).toLocaleString("en-US", { dateStyle: "medium", timeStyle: "short" })} ET`;
+    }
     renderSources();
   } catch (error) {
     externalData = null;
