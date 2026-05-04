@@ -2,8 +2,8 @@ name: Daily external data update
 
 on:
   schedule:
-    # GitHub cron is UTC. Running at both 15:00 and 16:00 UTC lets the script
-    # keep the actual update at 11:00 America/New_York across daylight saving.
+    # GitHub cron is UTC and scheduled jobs can be delayed. Running at both
+    # 15:00 and 16:00 UTC covers daylight saving; the script skips duplicates.
     - cron: "0 15 * * *"
     - cron: "0 16 * * *"
   workflow_dispatch:
@@ -26,7 +26,7 @@ jobs:
       - name: Fetch public Ghana market, research, and news sources
         run: |
           if [ "${{ github.event_name }}" = "schedule" ]; then
-            python scripts/update_external_data.py --enforce-eastern-11am
+            python scripts/update_external_data.py --skip-if-updated-today
           else
             python scripts/update_external_data.py
           fi

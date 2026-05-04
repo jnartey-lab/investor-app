@@ -248,18 +248,34 @@ def build_payload() -> dict[str, Any]:
     return payload
 
 
-def should_run_now() -> bool:
-    now = datetime.now(NY_TZ)
-    return now.hour == 11
+def already_updated_today() -> bool:
+    if not OUTFILE.exists():
+        return False
+
+    try:
+        payload = json.loads(OUTFILE.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return False
+
+    generated_at = payload.get("generatedAtEastern")
+    if not isinstance(generated_at, str):
+        return False
+
+    try:
+        generated_date = datetime.fromisoformat(generated_at).astimezone(NY_TZ).date()
+    except ValueError:
+        return False
+
+    return generated_date == datetime.now(NY_TZ).date()
 
 
 def main() -> int:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--enforce-eastern-11am", action="store_true")
+    parser.add_argument("--skip-if-updated-today", action="store_true")
     args = parser.parse_args()
 
-    if args.enforce_eastern_11am and not should_run_now():
-        print("Skipping: current America/New_York hour is not 11.")
+    if args.skip_if_updated_today and already_updated_today():
+        print("Skipping: data was already refreshed for today's America/New_York date.")
         return 0
 
     payload = build_payload()

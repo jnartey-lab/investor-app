@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-05-03T15:51:31.506497+00:00",
-  "generatedAtEastern": "2026-05-03T11:51:31.506497-04:00",
+  "generatedAt": "2026-05-04T17:43:15.653480+00:00",
+  "generatedAtEastern": "2026-05-04T13:43:15.653480-04:00",
   "schedule": "Daily at 11:00 America/New_York via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
     "gseIndices": {
-      "asOf": "30/04/2026",
-      "composite": 15130.52,
-      "financialStocks": 8839.41,
+      "asOf": "4/05/2026",
+      "composite": 15113.9,
+      "financialStocks": 8814.63,
       "source": "Ghana Stock Exchange",
       "url": "https://gse.com.gh/"
     },
     "bankOfGhana": {
       "policyRate": 14.0,
-      "tBill91Day": 4.8645,
+      "tBill91Day": 4.8634,
       "inflation": 3.2,
       "source": "Bank of Ghana",
       "url": "https://www.bog.gov.gh/"
@@ -523,130 +523,130 @@
       "category": "Sovereign credit research"
     },
     {
-      "title": "Gold Fields Foundation marks World Malaria Day",
-      "url": "https://thebftonline.com/2026/05/03/gold-fields-foundation-marks-world-malaria-day/",
-      "summary": "By Juliet Aguiar DUGBARTEY The Gold Fields Ghana Foundation has marked this year’s World Malaria Day with a community-focused programme aimed at deepening awareness, strengthening prevention and promoting collective action against the disease On the theme “Dri",
-      "publishedAt": "2026-05-03T13:47:45+00:00",
+      "title": "African banks, stablecoins, and the next payments inflection",
+      "url": "https://thebftonline.com/2026/05/04/african-banks-stablecoins-and-the-next-payments-inflection/",
+      "summary": "By Gillian DARKO We stand on the precipice of a new dawn in Africa. In May, Accra is set to host the 3i Africa Summit, a platform publicly positioned around innovation, investment, and impact, and framed by government and central-bank voices as a serious respo",
+      "publishedAt": "2026-05-04T16:00:29+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "J. A. Kufuor to deliver special address on Africa Cocoa Vision 2050 at ACFIF 2026",
-      "url": "https://thebftonline.com/2026/05/02/j-a-kufuor-to-deliver-special-address-on-africa-cocoa-vision-2050-at-acfif-2026/",
-      "summary": "The inaugural Africa Cocoa Finance & Investment Forum (ACFIF 2026) will feature a Special Address by H.E. John Agyekum Kufuor, former President of the Republic of Ghana, under the theme: “Africa Cocoa Vision 2050 – Historical Reflections and Future Pathways.” ",
-      "publishedAt": "2026-05-02T11:53:42+00:00",
+      "title": "South Korea’s precarious balancing act",
+      "url": "https://thebftonline.com/2026/05/04/south-koreas-precarious-balancing-act/",
+      "summary": "By Anne O. Krueger In the early 1950s, after the devastation of the Korean War, South Korea was among the world’s poorest countries. Today, it is an advanced economy, with a per capita income that exceeds that of Japan. Much of South Korea’s transformation too",
+      "publishedAt": "2026-05-04T14:00:50+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Asanko Gold partners with health authorities to tackle rising malaria cases in Amansie West",
-      "url": "https://thebftonline.com/2026/05/01/asanko-gold-partners-with-health-authorities-to-tackle-rising-malaria-cases-in-amansie-west/",
-      "summary": "A troubling public health picture is emerging in Ghana’s Amansie West District, where malaria cases have risen for a second consecutive year and children are bearing the heaviest burden. Official data now shows that cases among children under five jumped from ",
-      "publishedAt": "2026-05-01T19:48:37+00:00",
+      "title": "The Business Strategy Analyst with Jules Nartey-Tokoli: Pinpointing Responsibility, Power, and Narrative in the Transatlantic Slave Trade and the Contemporary Reparations Debate (IV)",
+      "url": "https://thebftonline.com/2026/05/04/the-business-strategy-analyst-with-jules-nartey-tokoli-pinpointing-responsibility-power-and-narrative-in-the-transatlantic-slave-trade-and-the-contemporary-reparations-debate-iv/",
+      "summary": "The story of the transatlantic slave trade is often told in ways that feel deceptively simple—reduced to slogans, moral shortcuts, and phrases like “they sold us.” But history rarely conforms to such neat conclusions. In this fourth installment, we confront on",
+      "publishedAt": "2026-05-04T13:30:05+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Russian researchers roadmap Africa’s investment sectors for entrepreneurs",
-      "url": "https://thebftonline.com/2026/05/01/russian-researchers-roadmap-africas-investment-sectors-for-entrepreneurs/",
-      "summary": "By Kestér Kenn KLOMEGÂH The Centre for Transition Economy Studies of the Institute for African Studies of the Russian Academy of Sciences has held a two-day scientific conference under the theme: “Industrial Development Strategies of African Countries” aimed a",
-      "publishedAt": "2026-05-01T11:36:32+00:00",
+      "title": "HR Frontiers with Senyo M Adjabeng: The strategic pause: Maximizing ‘Negative Capability’ in a workforce",
+      "url": "https://thebftonline.com/2026/05/04/hr-frontiers-with-senyo-m-adjabeng-the-strategic-pause-maximizing-negative-capability-in-a-workforce/",
+      "summary": "One of the most valuable advise given to candidates seeking employment and appearing before an interview panel is to refrain from rushing to answer questions but pausing, taking time to think through the question before answering. In Africa, our elders have sa",
+      "publishedAt": "2026-05-04T12:55:47+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "CSquared renews Ghana licence to advance digital transformation",
-      "url": "https://thebftonline.com/2026/05/01/csquared-renews-ghana-licence-to-advance-digital-transformation/",
-      "summary": "CSquared, the leading pan-African technology company building open-access broadband infrastructure, today announced the renewal of its operating licence in Ghana by the National Communications Authority (NCA), reinforcing the company’s long-term commitment to ",
-      "publishedAt": "2026-05-01T11:31:13+00:00",
+      "title": "Development Discourse with Amos Safo: A bold stand against United States’ health deal",
+      "url": "https://thebftonline.com/2026/05/04/development-discourse-with-amos-safo-a-bold-stand-against-united-states-health-deal/",
+      "summary": "On April 28, 2026, Ghana’s cabinet chaired by President John Mahama boldly rejected a US proposed healthcare agreement which would have compelled the current government and subsequent ones to surrender the health statistics of Ghanaians to the United States fo",
+      "publishedAt": "2026-05-04T12:45:45+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Birim Charity, Sharjah Charity support over 700 orphans in Eastern Region",
-      "url": "https://thebftonline.com/2026/05/01/birim-charity-sharjah-charity-support-over-700-orphans-in-eastern-region/",
-      "summary": "Over the weekend, the streets of Akim Oda Zongo were filled with a renewed sense of hope as the Birim Charity Organisation, in partnership with the UAE-based Sharjah Charity International, conducted its bi-annual disbursement of the Orphan Support Program. The",
-      "publishedAt": "2026-05-01T11:18:52+00:00",
+      "title": "The dawn of a new era",
+      "url": "https://thebftonline.com/2026/05/04/the-dawn-of-a-new-era-2/",
+      "summary": "By Cephas Tettey OMENYO – cephas.omenyo@ap-ghana.com, Charlotte Serwaa OWUSU, and ALEXANDER & PARTNER GHANA PRUC The Ghana Investment Promotion Centre Act, 2013 (Act 865) established the Ghana Investment Promotion Centre (GIPC) as a statutory body with a manda",
+      "publishedAt": "2026-05-04T12:35:06+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "AFC’s vision for Africa’s infrastructural development gets political backing",
-      "url": "https://thebftonline.com/2026/05/01/afcs-vision-for-africas-infrastructural-development-gets-political-backing/",
-      "summary": "By Seth KRAMPAH, back from Nairobi, Kenya The Africa Finance Corporation’s (AFC) ambitious vision to transform Africa’s infrastructure landscape has received strong political endorsement at the recently concluded Africa We Build Summit 2026 in Nairobi, Kenya. ",
-      "publishedAt": "2026-05-01T11:00:01+00:00",
+      "title": "ICT Insight with Institute of ICT Professionals: Why the digital transformation must prioritize cybersecurity",
+      "url": "https://thebftonline.com/2026/05/04/ict-insight-with-institute-of-ict-professionals-why-the-digital-transformation-must-prioritize-cybersecurity/",
+      "summary": "By Abubakari Saddiq Adams Ghana is steadily advancing toward a digital future. Across government institutions, financial services, healthcare systems, and private enterprises, digital technologies are transforming how services are delivered and how citizens in",
+      "publishedAt": "2026-05-04T12:29:10+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "The relevance of the traditional newsroom in a digital era",
-      "url": "https://thebftonline.com/2026/05/01/the-relevance-of-the-traditional-newsroom-in-a-digital-era/",
-      "summary": "For decades, the newsroom has been the heartbeat of journalism—a space where critical decisions are made, stories are shaped, and careers are built or broken. It is the engine room of every media organization. Within every media organization, the newsrooms ser",
-      "publishedAt": "2026-05-01T09:43:06+00:00",
+      "title": "Rising tidal waves threaten livelihoods in Volta Region",
+      "url": "https://thebftonline.com/2026/05/04/rising-tidal-waves-threaten-livelihoods-in-volta-region/",
+      "summary": "By Edward Adjei FRIMPONG Rising tidal waves are wreaking havoc on the livelihoods of residents in fishing communities in the Anloga District of Volta Region, including Fuveme and Dzaflagbe, destroying homes, fishing assets and critical infrastructure; and plac",
+      "publishedAt": "2026-05-04T12:20:01+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Ghana 4x100m relay team finish fourth at World Athletics Relays 2026, miss final",
-      "url": "https://www.ghanabusinessnews.com/2026/05/03/ghana-4x100m-relay-team-finish-fourth-at-world-athletics-relays-2026-miss-final/",
-      "summary": "Ghana’s men’s 4x100m relay team finished fourth in their heat at the ongoing World Athletics Relays in Botswana, missing out on qualification to the final after clocking a season-best time of 38.19 seconds. The post Ghana 4x100m relay team finish fourth at Wor",
-      "publishedAt": "2026-05-03T07:20:22+00:00",
+      "title": "Ghana’s press freedom rankings improve, but gains remain modest – MRi",
+      "url": "https://www.ghanabusinessnews.com/2026/05/04/ghanas-press-freedom-rankings-improve-but-gains-remain-modest-mri/",
+      "summary": "Ghana has made notable progress on the Reporters Without Borders (RSF) 2026 World Press Freedom Index, climbing 13 places from 52nd in 2025 to 39th in 2026. The post Ghana’s press freedom rankings improve, but gains remain modest – MRi appeared first on Ghana ",
+      "publishedAt": "2026-05-04T15:48:29+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Akosombo Dam fully restored to power – Mahama",
-      "url": "https://www.ghanabusinessnews.com/2026/05/03/akosombo-dam-fully-restored-to-power-mahama/",
-      "summary": "President John Dramani Mahama on Friday announced that Ghana’s Akosombo Hydroelectric Dam has been fully restored to operation following a recent fire incident, assuring workers and businesses that the national power supply has stabilised. The post Akosombo Da",
-      "publishedAt": "2026-05-03T07:04:48+00:00",
+      "title": "Regional Conference spotlights economic value of cashew apples",
+      "url": "https://www.ghanabusinessnews.com/2026/05/04/regional-conference-spotlights-economic-value-of-cashew-apples/",
+      "summary": "Ghana has hosted a regional conference to highlight the economic potential of cashew apple valorisation, as policymakers and industry players called for urgent investment and collaboration to reduce waste. The post Regional Conference spotlights economic value",
+      "publishedAt": "2026-05-04T15:43:49+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Workers demand living wage and pension reforms",
-      "url": "https://www.ghanabusinessnews.com/2026/05/03/workers-demand-living-wage-and-pension-reforms/",
-      "summary": "Organised Labour in the Volta and Oti Regions has called on government to move beyond macroeconomic stability and pursue policies that deliver decent jobs, living wages and improved livelihoods for Ghanaian workers. The post Workers demand living wage and pens",
-      "publishedAt": "2026-05-03T06:48:15+00:00",
+      "title": "Pharmaceutical Society of Ghana launches 90th anniversary celebrations",
+      "url": "https://www.ghanabusinessnews.com/2026/05/04/pharmaceutical-society-of-ghana-launches-90th-anniversary-celebrations/",
+      "summary": "The Pharmaceutical Society of Ghana (PSGH) has launched activities to mark its 90th anniversary, with calls for strengthened ethics and patient-centred practice. The post Pharmaceutical Society of Ghana launches 90th anniversary celebrations appeared first on ",
+      "publishedAt": "2026-05-04T15:30:47+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "CLOGSAG urges government to pay pension deductions promptly",
-      "url": "https://www.ghanabusinessnews.com/2026/05/03/clogsag-urges-government-to-pay-pension-deductions-promptly/",
-      "summary": "The Civil and Local Government Staff Association, Ghana (CLOGSAG) has called on government to ensure the prompt payment of pension deductions to safeguard the retirement income of public sector workers. The post CLOGSAG urges government to pay pension deductio",
-      "publishedAt": "2026-05-03T06:40:29+00:00",
+      "title": "More than 600,000 candidates nationwide start BECE today",
+      "url": "https://www.ghanabusinessnews.com/2026/05/04/more-than-600000-candidates-nationwide-start-bece-today/",
+      "summary": "A total of 619,985 candidates are expected to sit for this year’s Basic Education Certificate Examination (BECE), scheduled to run from Monday, May 4 to Monday, May 11, 2026. The post More than 600,000 candidates nationwide start BECE today appeared first on G",
+      "publishedAt": "2026-05-04T08:03:41+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "New US tariff on EU cars would mainly hit German automakers – Survey",
-      "url": "https://www.ghanabusinessnews.com/2026/05/03/new-us-tariff-on-eu-cars-would-mainly-hit-german-automakers-survey/",
-      "summary": "A new 25% tariff on cars produced in the European Union for import into the United States could result in additional annual costs to the German automotive sector of €2.5 billion ($2.9 billion), according to a survey published on Saturday. The post New US tarif",
-      "publishedAt": "2026-05-03T06:26:44+00:00",
+      "title": "Minority accuses Bank of Ghana of concealing true scale of 2025 financial losses",
+      "url": "https://www.ghanabusinessnews.com/2026/05/04/minority-accuses-bank-of-ghana-of-concealing-true-scale-of-2025-financial-losses/",
+      "summary": "The New Patriotic Party (NPP) Minority Caucus has accused the Bank of Ghana (BoG) of concealing the full extent of its 2025 financial losses, noting that the central bank is now “policy insolvent” and operating on “borrowed time.” The post Minority accuses Ban",
+      "publishedAt": "2026-05-04T07:56:29+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Bank of Ghana records GH¢25b joint loss from reserve revaluations and monetary policy costs",
-      "url": "https://www.ghanabusinessnews.com/2026/05/02/bank-of-ghana-records-gh%c2%a225b-joint-loss-from-reserve-revaluations-and-monetary-policy-costs/",
-      "summary": "The Bank of Ghana (BoG) incurred a combined loss of about GH¢25 billion in the 2025 financial year from reserve‑related revaluations and sterilisation costs. The post Bank of Ghana records GH¢25b joint loss from reserve revaluations and monetary policy costs a",
-      "publishedAt": "2026-05-02T11:55:12+00:00",
+      "title": "WAJSIC urges protection of journalists",
+      "url": "https://www.ghanabusinessnews.com/2026/05/04/wajsic-urges-protection-of-journalists/",
+      "summary": "The Whistleblowers, Activists and Journalists Safety International Center (WAJSIC), has called on governments and citizens to intensify efforts to protect press freedom and ensure the safety of journalists, despite recent gains recorded by Ghana on the global ",
+      "publishedAt": "2026-05-04T07:40:16+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Ghana government receives significant financial contributions ahead of 2026 FIFA World Cup",
-      "url": "https://www.ghanabusinessnews.com/2026/05/02/ghana-government-receives-significant-financial-contributions-ahead-of-2026-fifa-world-cup/",
-      "summary": "The Ministry of Finance has received significant financial contributions from corporate institutions and stakeholders to support the Senior National football team, the Black Stars, ahead of the 2026 FIFA World Cup. The post Ghana government receives significan",
-      "publishedAt": "2026-05-02T11:51:17+00:00",
+      "title": "GRNMA condemns managers charging student nurses for logbook signatures",
+      "url": "https://www.ghanabusinessnews.com/2026/05/04/grnma-condemns-managers-charging-student-nurses-for-logbook-signatures/",
+      "summary": "Mr Samuel Alagkora Akolgo, the First Vice President of the Ghana Registered Nurses and Midwives Association (GRNMA), has expressed outright disgust over reports that some ward managers are charging students fees before signing their clinical logbooks. The post",
+      "publishedAt": "2026-05-04T07:36:32+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "CSIR urges investors to turn Ghanaian research into bankable projects",
-      "url": "https://www.ghanabusinessnews.com/2026/05/02/csir-urges-investors-to-turn-ghanaian-research-into-bankable-projects/",
-      "summary": "Ghana’s Council for Scientific and Industrial Research (CSIR) has urged industry leaders, investors and policymakers to work with scientists to turn locally generated research into commercially viable projects that create jobs and drive industrial growth. The ",
-      "publishedAt": "2026-05-02T11:44:41+00:00",
+      "title": "I was only his worker. He was not my friend – Julius Debrah",
+      "url": "https://www.ghanabusinessnews.com/2026/05/04/i-was-only-his-worker-he-was-not-my-friend-julius-debrah/",
+      "summary": "In a rare, deeply personal reflection at the Pentecost International Worship Centre (PIWC), Atomic, Chief of Staff, Dr. Samuel Julius Debrah on Sunday, April 26, 2026, offered Ghanaians a window into what loyalty looks like when it is practiced quietly, consis",
+      "publishedAt": "2026-05-04T07:30:51+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
@@ -675,7 +675,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T15:51:31.506497+00:00"
+      "fetchedAt": "2026-05-04T17:43:15.653480+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -684,7 +684,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T15:51:31.506497+00:00"
+      "fetchedAt": "2026-05-04T17:43:15.653480+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -693,7 +693,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T15:51:31.506497+00:00"
+      "fetchedAt": "2026-05-04T17:43:15.653480+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -702,7 +702,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T15:51:31.506497+00:00"
+      "fetchedAt": "2026-05-04T17:43:15.653480+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -711,7 +711,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T15:51:31.506497+00:00"
+      "fetchedAt": "2026-05-04T17:43:15.653480+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -720,7 +720,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T15:51:31.506497+00:00"
+      "fetchedAt": "2026-05-04T17:43:15.653480+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -729,7 +729,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T15:51:31.506497+00:00"
+      "fetchedAt": "2026-05-04T17:43:15.653480+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -738,7 +738,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T15:51:31.506497+00:00"
+      "fetchedAt": "2026-05-04T17:43:15.653480+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -747,7 +747,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T15:51:31.506497+00:00"
+      "fetchedAt": "2026-05-04T17:43:15.653480+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -756,7 +756,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T15:51:31.506497+00:00"
+      "fetchedAt": "2026-05-04T17:43:15.653480+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -765,7 +765,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T15:51:31.506497+00:00"
+      "fetchedAt": "2026-05-04T17:43:15.653480+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -774,7 +774,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T15:51:31.506497+00:00"
+      "fetchedAt": "2026-05-04T17:43:15.653480+00:00"
     },
     {
       "name": "Citi Business News",
@@ -783,7 +783,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T15:51:31.506497+00:00"
+      "fetchedAt": "2026-05-04T17:43:15.653480+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -792,7 +792,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-03T15:51:31.506497+00:00"
+      "fetchedAt": "2026-05-04T17:43:15.653480+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -801,7 +801,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-05-03T15:51:31.506497+00:00"
+      "fetchedAt": "2026-05-04T17:43:15.653480+00:00"
     }
   ]
 }
