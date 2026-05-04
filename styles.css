@@ -556,7 +556,8 @@ th {
 .log-item,
 .role-item,
 .source-item,
-.external-item {
+.external-item,
+.recommendation-detail {
   background: var(--surface-soft);
   border: 1px solid var(--line);
   border-radius: 8px;
@@ -576,6 +577,54 @@ th {
   color: var(--muted);
   font-size: 12px;
   margin-bottom: 5px;
+}
+
+.workflow-item {
+  color: var(--text);
+  text-align: left;
+  width: 100%;
+}
+
+.workflow-item.active {
+  border-color: var(--accent);
+  box-shadow: inset 0 0 0 1px var(--accent);
+}
+
+.recommendation-detail {
+  margin-top: 12px;
+  display: grid;
+  gap: 12px;
+}
+
+.recommendation-detail h3 {
+  margin: 0;
+  font-size: 20px;
+}
+
+.recommendation-detail p {
+  margin: 0;
+  color: var(--muted);
+  line-height: 1.55;
+}
+
+.recommendation-score-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 8px;
+}
+
+.recommendation-score {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 10px;
+}
+
+.recommendation-score span {
+  display: block;
+  color: var(--muted);
+  font-size: 11px;
+  margin-bottom: 4px;
 }
 
 .source-grid {
@@ -875,7 +924,8 @@ th {
   .source-grid,
   .index-chart-stats,
   .company-grid,
-  .company-facts {
+  .company-facts,
+  .recommendation-score-grid {
     grid-template-columns: 1fr;
   }
 

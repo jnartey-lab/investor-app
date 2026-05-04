@@ -124,6 +124,7 @@ let sortKey = "ticker";
 let activeIndexRange = "1M";
 let indexHoverPoint = null;
 let briefVersion = 0;
+let selectedRecommendationTicker = "GCB";
 const watchlist = new Set(JSON.parse(localStorage.getItem("watchlist") || "[]"));
 
 const currency = new Intl.NumberFormat("en-GH", { style: "currency", currency: "GHS", maximumFractionDigits: 0 });
@@ -324,14 +325,48 @@ function risk(label, value, tone) {
 
 function renderResearch() {
   byId("recommendations").innerHTML = marketData.stocks.slice(0, 6).map((stock) => `
-    <div class="workflow-item">
+    <button class="workflow-item ${stock.ticker === selectedRecommendationTicker ? "active" : ""}" data-recommendation="${stock.ticker}" type="button">
       <span>${stock.ticker} · ${stock.sector}</span>
       <strong>${stock.recommendation}</strong>
       <p>P/E ${stock.pe.toFixed(1)} · Dividend yield ${stock.yield.toFixed(1)}% · ROE ${stock.roe.toFixed(1)}%</p>
-    </div>
+    </button>
   `).join("");
+  renderRecommendationDetail(selectedRecommendationTicker);
   generateBrief();
   byId("assistantAnswer").textContent = "Ask about dividend yields, banking stocks, unusual volume, or market summary.";
+}
+
+function renderRecommendationDetail(ticker) {
+  const stock = marketData.stocks.find((item) => item.ticker === ticker) || marketData.stocks[0];
+  const change = stockChange(stock);
+  const valuationView = stock.pe <= 7 ? "undemanding valuation versus tracked peer set" : "fuller valuation that needs earnings delivery";
+  const incomeView = stock.yield >= 6 ? "attractive income profile" : "moderate income contribution";
+  const profitabilityView = stock.roe >= 20 ? "strong return on equity" : "stable but less exceptional profitability";
+  const liquidityView = stock.volume >= 100000 ? "reasonable trading liquidity" : "thin liquidity, so execution discipline is important";
+  const action = stock.recommendation === "Buy"
+    ? "Accumulate selectively on liquidity windows and confirm the thesis with latest filings."
+    : stock.recommendation === "Hold"
+      ? "Maintain exposure, monitor catalysts, and wait for clearer upside or valuation support."
+      : "Reduce exposure unless new information improves the risk-return balance.";
+
+  byId("recommendationDetail").innerHTML = `
+    <div>
+      <span class="eyebrow">Recommendation detail</span>
+      <h3>${stock.ticker} · ${stock.recommendation}</h3>
+    </div>
+    <p>${stock.name} is currently classified as <strong>${stock.recommendation}</strong>. The view reflects ${valuationView}, ${incomeView}, ${profitabilityView}, and ${liquidityView}.</p>
+    <div class="recommendation-score-grid">
+      <div class="recommendation-score"><span>Price move</span><strong class="${classFor(change)}">${formatPercent(change)}</strong></div>
+      <div class="recommendation-score"><span>P/E ratio</span><strong>${stock.pe.toFixed(1)}</strong></div>
+      <div class="recommendation-score"><span>Dividend yield</span><strong>${stock.yield.toFixed(1)}%</strong></div>
+      <div class="recommendation-score"><span>ROE</span><strong>${stock.roe.toFixed(1)}%</strong></div>
+      <div class="recommendation-score"><span>Volume</span><strong>${number.format(stock.volume)}</strong></div>
+      <div class="recommendation-score"><span>Market cap</span><strong>${currency.format(stock.marketCap)}</strong></div>
+    </div>
+    <p><strong>Rationale:</strong> ${stock.historyNote}</p>
+    <p><strong>Action:</strong> ${action}</p>
+    <p><strong>Compliance note:</strong> This is a model-generated research workflow view using the current app dataset. Validate with official GSE filings, licensed data, and internal approval before client distribution.</p>
+  `;
 }
 
 function generateBrief(userTriggered = false) {
@@ -854,6 +889,13 @@ function bindEvents() {
   byId("askAssistant").addEventListener("click", answerAssistantQuestion);
   byId("assistantQuestion").addEventListener("keydown", (event) => {
     if (event.key === "Enter") answerAssistantQuestion();
+  });
+  byId("recommendations").addEventListener("click", (event) => {
+    const button = event.target.closest("[data-recommendation]");
+    if (!button) return;
+    selectedRecommendationTicker = button.dataset.recommendation;
+    document.querySelectorAll("[data-recommendation]").forEach((item) => item.classList.toggle("active", item.dataset.recommendation === selectedRecommendationTicker));
+    renderRecommendationDetail(selectedRecommendationTicker);
   });
   byId("sectorFilter").addEventListener("change", (event) => {
     selectedSector = event.target.value;
