@@ -83,16 +83,16 @@ const marketData = {
     },
   },
   stocks: [
-    { ticker: "GCB", name: "GCB Bank PLC", sector: "Financials", price: 6.42, open: 6.31, previousClose: 6.29, high: 6.48, low: 6.28, volume: 189400, value: 1215948, marketCap: 1701300000, shares: 265000000, high52: 7.08, low52: 4.72, pe: 4.8, eps: 1.34, roe: 22.6, roa: 3.1, yield: 6.9, book: 8.4, pb: 0.76, recommendation: "Buy", history: [5.72, 5.88, 5.91, 6.02, 5.97, 6.1, 6.18, 6.21, 6.29, 6.35, 6.42] },
-    { ticker: "CAL", name: "CalBank PLC", sector: "Financials", price: 0.67, open: 0.64, previousClose: 0.64, high: 0.68, low: 0.63, volume: 871000, value: 583570, marketCap: 375200000, shares: 560000000, high52: 0.85, low52: 0.48, pe: 3.2, eps: 0.21, roe: 18.1, roa: 2.4, yield: 5.2, book: 1.08, pb: 0.62, recommendation: "Hold", history: [0.58, 0.59, 0.6, 0.61, 0.6, 0.63, 0.62, 0.64, 0.64, 0.65, 0.67] },
-    { ticker: "SCB", name: "Standard Chartered Bank Ghana PLC", sector: "Financials", price: 24.1, open: 23.6, previousClose: 23.5, high: 24.3, low: 23.4, volume: 24100, value: 580810, marketCap: 3243860000, shares: 134600000, high52: 25.4, low52: 18.2, pe: 5.9, eps: 4.08, roe: 27.8, roa: 4.4, yield: 8.1, book: 19.2, pb: 1.26, recommendation: "Buy", history: [21.6, 22.0, 22.4, 22.1, 22.8, 23.0, 23.1, 23.5, 23.7, 23.9, 24.1] },
-    { ticker: "EGL", name: "Enterprise Group PLC", sector: "Insurance", price: 3.22, open: 3.2, previousClose: 3.21, high: 3.24, low: 3.18, volume: 58200, value: 187404, marketCap: 521640000, shares: 162000000, high52: 3.8, low52: 2.74, pe: 6.1, eps: 0.53, roe: 17.2, roa: 2.8, yield: 4.7, book: 4.05, pb: 0.8, recommendation: "Hold", history: [3.02, 3.05, 3.08, 3.1, 3.09, 3.14, 3.16, 3.21, 3.2, 3.2, 3.22] },
-    { ticker: "MTNGH", name: "MTN Ghana", sector: "Telecom", price: 2.84, open: 2.86, previousClose: 2.88, high: 2.89, low: 2.82, volume: 1320000, value: 3748800, marketCap: 37062000000, shares: 13050000000, high52: 3.05, low52: 1.88, pe: 12.4, eps: 0.23, roe: 31.5, roa: 12.8, yield: 7.4, book: 0.68, pb: 4.18, recommendation: "Hold", history: [2.54, 2.6, 2.69, 2.74, 2.76, 2.82, 2.9, 2.92, 2.88, 2.86, 2.84] },
-    { ticker: "GOIL", name: "GOIL PLC", sector: "Energy", price: 1.78, open: 1.82, previousClose: 1.83, high: 1.84, low: 1.76, volume: 94400, value: 168032, marketCap: 696000000, shares: 391000000, high52: 2.1, low52: 1.32, pe: 7.0, eps: 0.25, roe: 14.3, roa: 5.5, yield: 3.8, book: 2.12, pb: 0.84, recommendation: "Hold", history: [1.62, 1.65, 1.71, 1.75, 1.77, 1.81, 1.86, 1.85, 1.83, 1.8, 1.78] },
-    { ticker: "TOTAL", name: "TotalEnergies Marketing Ghana PLC", sector: "Energy", price: 13.9, open: 14.0, previousClose: 14.1, high: 14.05, low: 13.85, volume: 7200, value: 100080, marketCap: 1540000000, shares: 110800000, high52: 15.2, low52: 11.1, pe: 8.5, eps: 1.64, roe: 19.4, roa: 7.1, yield: 5.6, book: 11.8, pb: 1.18, recommendation: "Hold", history: [12.4, 12.7, 13.1, 13.4, 13.6, 13.9, 14.3, 14.2, 14.1, 14.0, 13.9] },
-    { ticker: "UNIL", name: "Unilever Ghana PLC", sector: "Consumer", price: 18.44, open: 18.5, previousClose: 18.52, high: 18.6, low: 18.4, volume: 3400, value: 62696, marketCap: 1152500000, shares: 62500000, high52: 20.3, low52: 14.2, pe: 10.8, eps: 1.71, roe: 15.8, roa: 8.3, yield: 4.1, book: 13.2, pb: 1.4, recommendation: "Hold", history: [17.4, 17.8, 18.1, 18.0, 18.3, 18.6, 18.7, 18.52, 18.46, 18.5, 18.44] },
-    { ticker: "FML", name: "Fan Milk PLC", sector: "Consumer", price: 3.75, open: 3.7, previousClose: 3.68, high: 3.77, low: 3.68, volume: 21200, value: 79500, marketCap: 437250000, shares: 116600000, high52: 4.2, low52: 2.9, pe: 9.4, eps: 0.4, roe: 13.6, roa: 6.0, yield: 3.6, book: 3.1, pb: 1.21, recommendation: "Buy", history: [3.2, 3.28, 3.33, 3.4, 3.48, 3.55, 3.6, 3.68, 3.7, 3.73, 3.75] },
-    { ticker: "BOPP", name: "Benso Oil Palm Plantation PLC", sector: "Agriculture", price: 22.2, open: 22.1, previousClose: 22.1, high: 22.25, low: 22.0, volume: 1800, value: 39960, marketCap: 770340000, shares: 34700000, high52: 24.8, low52: 17.6, pe: 6.7, eps: 3.31, roe: 24.2, roa: 11.1, yield: 9.3, book: 15.5, pb: 1.43, recommendation: "Buy", history: [19.1, 19.8, 20.3, 20.9, 21.4, 21.8, 22.0, 22.1, 22.1, 22.15, 22.2] },
+    { ticker: "GCB", name: "GCB Bank PLC", sector: "Financials", listed: "1953", historyNote: "GCB Bank is one of Ghana's oldest indigenous banks and has grown from a state-backed commercial bank into a broad retail, corporate, and public-sector banking franchise.", price: 6.42, open: 6.31, previousClose: 6.29, high: 6.48, low: 6.28, volume: 189400, value: 1215948, marketCap: 1701300000, shares: 265000000, high52: 7.08, low52: 4.72, pe: 4.8, eps: 1.34, roe: 22.6, roa: 3.1, yield: 6.9, book: 8.4, pb: 0.76, recommendation: "Buy", history: [5.72, 5.88, 5.91, 6.02, 5.97, 6.1, 6.18, 6.21, 6.29, 6.35, 6.42] },
+    { ticker: "CAL", name: "CalBank PLC", sector: "Financials", listed: "2004", historyNote: "CalBank began as a merchant bank and evolved into a universal bank serving corporate, retail, and digital banking clients across Ghana.", price: 0.67, open: 0.64, previousClose: 0.64, high: 0.68, low: 0.63, volume: 871000, value: 583570, marketCap: 375200000, shares: 560000000, high52: 0.85, low52: 0.48, pe: 3.2, eps: 0.21, roe: 18.1, roa: 2.4, yield: 5.2, book: 1.08, pb: 0.62, recommendation: "Hold", history: [0.58, 0.59, 0.6, 0.61, 0.6, 0.63, 0.62, 0.64, 0.64, 0.65, 0.67] },
+    { ticker: "SCB", name: "Standard Chartered Bank Ghana PLC", sector: "Financials", listed: "1991", historyNote: "Standard Chartered has operated in Ghana for more than a century and remains a major international banking franchise focused on corporate, commercial, and wealth clients.", price: 24.1, open: 23.6, previousClose: 23.5, high: 24.3, low: 23.4, volume: 24100, value: 580810, marketCap: 3243860000, shares: 134600000, high52: 25.4, low52: 18.2, pe: 5.9, eps: 4.08, roe: 27.8, roa: 4.4, yield: 8.1, book: 19.2, pb: 1.26, recommendation: "Buy", history: [21.6, 22.0, 22.4, 22.1, 22.8, 23.0, 23.1, 23.5, 23.7, 23.9, 24.1] },
+    { ticker: "EGL", name: "Enterprise Group PLC", sector: "Insurance", listed: "1990", historyNote: "Enterprise Group is a Ghanaian financial services holding company with roots in insurance and a footprint across life, general insurance, pensions, and related services.", price: 3.22, open: 3.2, previousClose: 3.21, high: 3.24, low: 3.18, volume: 58200, value: 187404, marketCap: 521640000, shares: 162000000, high52: 3.8, low52: 2.74, pe: 6.1, eps: 0.53, roe: 17.2, roa: 2.8, yield: 4.7, book: 4.05, pb: 0.8, recommendation: "Hold", history: [3.02, 3.05, 3.08, 3.1, 3.09, 3.14, 3.16, 3.21, 3.2, 3.2, 3.22] },
+    { ticker: "MTNGH", name: "MTN Ghana", sector: "Telecom", listed: "2018", historyNote: "MTN Ghana is the country's largest mobile network operator by subscribers and became one of the GSE's largest listings after its public offer in 2018.", price: 2.84, open: 2.86, previousClose: 2.88, high: 2.89, low: 2.82, volume: 1320000, value: 3748800, marketCap: 37062000000, shares: 13050000000, high52: 3.05, low52: 1.88, pe: 12.4, eps: 0.23, roe: 31.5, roa: 12.8, yield: 7.4, book: 0.68, pb: 4.18, recommendation: "Hold", history: [2.54, 2.6, 2.69, 2.74, 2.76, 2.82, 2.9, 2.92, 2.88, 2.86, 2.84] },
+    { ticker: "GOIL", name: "GOIL PLC", sector: "Energy", listed: "2007", historyNote: "GOIL is a Ghanaian downstream petroleum company with a nationwide service-station network and a strategic role in fuel distribution and energy retailing.", price: 1.78, open: 1.82, previousClose: 1.83, high: 1.84, low: 1.76, volume: 94400, value: 168032, marketCap: 696000000, shares: 391000000, high52: 2.1, low52: 1.32, pe: 7.0, eps: 0.25, roe: 14.3, roa: 5.5, yield: 3.8, book: 2.12, pb: 0.84, recommendation: "Hold", history: [1.62, 1.65, 1.71, 1.75, 1.77, 1.81, 1.86, 1.85, 1.83, 1.8, 1.78] },
+    { ticker: "TOTAL", name: "TotalEnergies Marketing Ghana PLC", sector: "Energy", listed: "1991", historyNote: "TotalEnergies Marketing Ghana traces its local operations through a long-running petroleum marketing business focused on fuels, lubricants, retail stations, and commercial customers.", price: 13.9, open: 14.0, previousClose: 14.1, high: 14.05, low: 13.85, volume: 7200, value: 100080, marketCap: 1540000000, shares: 110800000, high52: 15.2, low52: 11.1, pe: 8.5, eps: 1.64, roe: 19.4, roa: 7.1, yield: 5.6, book: 11.8, pb: 1.18, recommendation: "Hold", history: [12.4, 12.7, 13.1, 13.4, 13.6, 13.9, 14.3, 14.2, 14.1, 14.0, 13.9] },
+    { ticker: "UNIL", name: "Unilever Ghana PLC", sector: "Consumer", listed: "1991", historyNote: "Unilever Ghana is a long-established consumer goods company serving Ghanaian households through personal care, home care, and food-related brands.", price: 18.44, open: 18.5, previousClose: 18.52, high: 18.6, low: 18.4, volume: 3400, value: 62696, marketCap: 1152500000, shares: 62500000, high52: 20.3, low52: 14.2, pe: 10.8, eps: 1.71, roe: 15.8, roa: 8.3, yield: 4.1, book: 13.2, pb: 1.4, recommendation: "Hold", history: [17.4, 17.8, 18.1, 18.0, 18.3, 18.6, 18.7, 18.52, 18.46, 18.5, 18.44] },
+    { ticker: "FML", name: "Fan Milk PLC", sector: "Consumer", listed: "1991", historyNote: "Fan Milk is a dairy and frozen-snack company known for mass-market consumer products and a distribution model built around Ghana's informal and formal retail channels.", price: 3.75, open: 3.7, previousClose: 3.68, high: 3.77, low: 3.68, volume: 21200, value: 79500, marketCap: 437250000, shares: 116600000, high52: 4.2, low52: 2.9, pe: 9.4, eps: 0.4, roe: 13.6, roa: 6.0, yield: 3.6, book: 3.1, pb: 1.21, recommendation: "Buy", history: [3.2, 3.28, 3.33, 3.4, 3.48, 3.55, 3.6, 3.68, 3.7, 3.73, 3.75] },
+    { ticker: "BOPP", name: "Benso Oil Palm Plantation PLC", sector: "Agriculture", listed: "2004", historyNote: "Benso Oil Palm Plantation operates in Ghana's palm-oil value chain and is viewed by income investors for its agricultural exposure and dividend profile.", price: 22.2, open: 22.1, previousClose: 22.1, high: 22.25, low: 22.0, volume: 1800, value: 39960, marketCap: 770340000, shares: 34700000, high52: 24.8, low52: 17.6, pe: 6.7, eps: 3.31, roe: 24.2, roa: 11.1, yield: 9.3, book: 15.5, pb: 1.43, recommendation: "Buy", history: [19.1, 19.8, 20.3, 20.9, 21.4, 21.8, 22.0, 22.1, 22.1, 22.15, 22.2] },
   ],
   macro: [
     { name: "91-day T-bill", value: 4.8645, unit: "%", source: "Bank of Ghana", sourceUrl: "https://www.bog.gov.gh/" },
@@ -488,6 +488,37 @@ function renderSources() {
 function renderSectorOptions() {
   const sectors = [...new Set(marketData.stocks.map((stock) => stock.sector))].sort();
   byId("sectorFilter").innerHTML = [`<option value="all">All sectors</option>`, ...sectors.map((sector) => `<option value="${sector}">${sector}</option>`)].join("");
+  byId("companySectorFilter").innerHTML = [`<option value="all">All sectors</option>`, ...sectors.map((sector) => `<option value="${sector}">${sector}</option>`)].join("");
+}
+
+function renderCompanies() {
+  const query = byId("companySearch")?.value?.toLowerCase() || "";
+  const sector = byId("companySectorFilter")?.value || "all";
+  const companies = marketData.stocks
+    .filter((stock) => sector === "all" || stock.sector === sector)
+    .filter((stock) => `${stock.ticker} ${stock.name} ${stock.sector} ${stock.historyNote}`.toLowerCase().includes(query))
+    .sort((a, b) => a.name.localeCompare(b.name));
+
+  byId("companyGrid").innerHTML = companies.length
+    ? companies.map((stock) => `
+      <article class="company-card">
+        <div class="company-card-header">
+          <div>
+            <span class="eyebrow">${stock.sector}</span>
+            <h3>${stock.name}</h3>
+          </div>
+          <span class="company-badge">${stock.ticker}</span>
+        </div>
+        <p>${stock.historyNote}</p>
+        <div class="company-facts">
+          <div class="company-fact"><span>Listed</span><strong>${stock.listed || "GSE"}</strong></div>
+          <div class="company-fact"><span>Market cap</span><strong>${currency.format(stock.marketCap)}</strong></div>
+          <div class="company-fact"><span>Dividend yield</span><strong>${stock.yield.toFixed(1)}%</strong></div>
+        </div>
+        <p><a class="source-link" href="https://gse.com.gh/listed-companies/" target="_blank" rel="noreferrer">Verify on GSE Listed Companies</a></p>
+      </article>
+    `).join("")
+    : `<div class="company-card"><h3>No companies found</h3><p>Adjust the search or sector filter.</p></div>`;
 }
 
 function answerAssistantQuestion() {
@@ -829,6 +860,8 @@ function bindEvents() {
     renderTables();
     renderSectors();
   });
+  byId("companySearch").addEventListener("input", renderCompanies);
+  byId("companySectorFilter").addEventListener("change", renderCompanies);
   byId("sectorGrid").addEventListener("click", (event) => {
     const tile = event.target.closest("[data-sector]");
     if (!tile) return;
@@ -900,6 +933,7 @@ function init() {
   document.documentElement.dataset.theme = localStorage.getItem("theme") || "light";
   renderMetrics();
   renderSectorOptions();
+  renderCompanies();
   renderTables();
   renderSectors();
   renderStockDetail();

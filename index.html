@@ -23,6 +23,7 @@
 
         <nav class="nav-list" id="navList">
           <button class="nav-item active" data-view="overview">Overview</button>
+          <button class="nav-item" data-view="companies">Companies</button>
           <button class="nav-item" data-view="stocks">Stocks</button>
           <button class="nav-item" data-view="portfolio">Portfolio</button>
           <button class="nav-item" data-view="research">Research</button>
@@ -167,6 +168,24 @@
               </div>
             </div>
             <div class="sector-grid" id="sectorGrid"></div>
+          </section>
+        </section>
+
+        <section class="view" id="companies">
+          <section class="panel">
+            <div class="panel-header">
+              <div>
+                <p class="eyebrow">GSE issuer universe</p>
+                <h2>Listed companies and brief histories</h2>
+              </div>
+              <div class="inline-actions">
+                <input id="companySearch" type="search" placeholder="Search company, ticker, sector..." />
+                <select id="companySectorFilter" aria-label="Filter companies by sector">
+                  <option value="all">All sectors</option>
+                </select>
+              </div>
+            </div>
+            <div class="company-grid" id="companyGrid"></div>
           </section>
         </section>
 
