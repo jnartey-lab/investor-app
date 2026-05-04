@@ -13,7 +13,7 @@
     },
     "bankOfGhana": {
       "policyRate": 14.0,
-      "tBill91Day": 4.8634,
+      "tBill91Day": 4.8645,
       "inflation": 3.2,
       "source": "Bank of Ghana",
       "url": "https://www.bog.gov.gh/"
