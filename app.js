@@ -157,6 +157,7 @@ function applyExternalIndicators() {
   updateMacro("91-day T-bill", indicators.bankOfGhana?.tBill91Day, "Bank of Ghana", "https://www.bog.gov.gh/");
   updateMacro("Policy rate", indicators.bankOfGhana?.policyRate, "Bank of Ghana", "https://www.bog.gov.gh/");
   updateMacro("Inflation", indicators.bankOfGhana?.inflation ?? indicators.ghanaStatisticalService?.cpiInflationYoy, "Bank of Ghana / GSS", "https://statsghana.gov.gh/");
+  updateMacro("USD/GHS", indicators.fx?.usdGhsMid, "Bank of Ghana Daily Interbank FX Rates", "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/");
   updateMacro("GDP growth", indicators.ghanaStatisticalService?.annualGdpGrowth, "Ghana Statistical Service", "https://statsghana.gov.gh/");
 }
 

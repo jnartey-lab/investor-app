@@ -18,6 +18,14 @@
       "source": "Bank of Ghana",
       "url": "https://www.bog.gov.gh/"
     },
+    "fx": {
+      "asOf": "04 May 2026",
+      "usdGhsBuying": 11.2201,
+      "usdGhsSelling": 11.2313,
+      "usdGhsMid": 11.2257,
+      "source": "Bank of Ghana Daily Interbank FX Rates",
+      "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/"
+    },
     "ghanaStatisticalService": {
       "cpiInflationYoy": 3.2,
       "annualGdpGrowth": 6.0,
