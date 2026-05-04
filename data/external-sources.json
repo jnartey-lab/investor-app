@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-04T18:14:35.615032+00:00",
-  "generatedAtGhana": "2026-05-04T18:14:35.615032+00:00",
+  "generatedAt": "2026-05-04T18:45:06.014944+00:00",
+  "generatedAtGhana": "2026-05-04T18:45:06.014944+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
@@ -651,6 +651,14 @@
       "category": "Business news"
     },
     {
+      "title": "Kasapreko PLC announces GH¢700million IPO on Ghana Stock Exchange",
+      "url": "https://www.myjoyonline.com/kasapreko-plc-announces-gh%c2%a2700million-ipo-on-ghana-stock-exchange/",
+      "summary": "Kasapreko PLC, the Ghanaian beverage manufacturer behind the iconic Alomo Bitters brand, has launched an initial public offering (IPO) of up to 583,333,333 ordinary shares at an offer price of GH¢1.20 per share, in a move that will see the company list on the ",
+      "publishedAt": "2026-05-04T18:14:41+00:00",
+      "source": "MyJoyOnline Business",
+      "category": "Business news"
+    },
+    {
       "title": "Heath Goldfields clears GH¢139 million in worker arrears as Bogoso-Prestea recovery begins",
       "url": "https://www.myjoyonline.com/heath-goldfields-clears-gh%c2%a2139-million-in-worker-arrears-as-bogoso-prestea-recovery-begins/",
       "summary": "Heath Goldfields has paid over GH¢139 million to workers at the Bogoso-Prestea mine since taking over operations, as it works to clear a backlog of unpaid salaries and stabilise the mine. According to the company’s General Manager, Patrick Appiah Mensah, the p",
@@ -665,14 +673,6 @@
       "publishedAt": "2026-05-04T16:27:05+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
-    },
-    {
-      "title": "“I agree with one aspect of BoG’s argument”, but under its own accounting framework it’s policy insolvent – Dr. Nsafoah",
-      "url": "https://www.myjoyonline.com/i-agree-with-one-aspect-of-bogs-argument-but-under-its-own-accounting-framework-its-policy-insolvent-dr-nsafoah/",
-      "summary": "In its 2025 Financial Report, the Bank of Ghana reported very large accounting losses, including a comprehensive loss of approximately GH¢34.95 billion, a net operating loss of approximately GH¢15.63 billion, and a deepening negative equity position.",
-      "publishedAt": "2026-05-04T16:08:08+00:00",
-      "source": "MyJoyOnline Business",
-      "category": "Business news"
     }
   ],
   "sources": [
@@ -683,7 +683,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-04T18:14:35.615032+00:00"
+      "fetchedAt": "2026-05-04T18:45:06.014944+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -692,7 +692,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-04T18:14:35.615032+00:00"
+      "fetchedAt": "2026-05-04T18:45:06.014944+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -701,7 +701,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-04T18:14:35.615032+00:00"
+      "fetchedAt": "2026-05-04T18:45:06.014944+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -710,7 +710,7 @@
       "kind": "html",
       "ok": false,
       "error": "Source returned a placeholder/unavailable page.",
-      "fetchedAt": "2026-05-04T18:14:35.615032+00:00"
+      "fetchedAt": "2026-05-04T18:45:06.014944+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -719,7 +719,7 @@
       "kind": "html",
       "ok": false,
       "error": "Source returned a placeholder/unavailable page.",
-      "fetchedAt": "2026-05-04T18:14:35.615032+00:00"
+      "fetchedAt": "2026-05-04T18:45:06.014944+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -728,7 +728,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-04T18:14:35.615032+00:00"
+      "fetchedAt": "2026-05-04T18:45:06.014944+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -737,7 +737,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-04T18:14:35.615032+00:00"
+      "fetchedAt": "2026-05-04T18:45:06.014944+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -746,7 +746,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-04T18:14:35.615032+00:00"
+      "fetchedAt": "2026-05-04T18:45:06.014944+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -755,7 +755,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-04T18:14:35.615032+00:00"
+      "fetchedAt": "2026-05-04T18:45:06.014944+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -764,7 +764,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-04T18:14:35.615032+00:00"
+      "fetchedAt": "2026-05-04T18:45:06.014944+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -773,7 +773,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-04T18:14:35.615032+00:00"
+      "fetchedAt": "2026-05-04T18:45:06.014944+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -782,7 +782,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-04T18:14:35.615032+00:00"
+      "fetchedAt": "2026-05-04T18:45:06.014944+00:00"
     },
     {
       "name": "Citi Business News",
@@ -791,7 +791,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-04T18:14:35.615032+00:00"
+      "fetchedAt": "2026-05-04T18:45:06.014944+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -800,7 +800,61 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-04T18:14:35.615032+00:00"
+      "fetchedAt": "2026-05-04T18:45:06.014944+00:00"
+    },
+    {
+      "name": "MyJoyOnline USD GHS Search",
+      "url": "https://www.myjoyonline.com/?s=cedi+dollar",
+      "category": "Public FX fallback",
+      "kind": "html",
+      "ok": true,
+      "error": null,
+      "fetchedAt": "2026-05-04T18:45:06.014944+00:00"
+    },
+    {
+      "name": "MyJoyOnline GSE Search",
+      "url": "https://www.myjoyonline.com/?s=GSE+Composite+Index",
+      "category": "Public market fallback",
+      "kind": "html",
+      "ok": true,
+      "error": null,
+      "fetchedAt": "2026-05-04T18:45:06.014944+00:00"
+    },
+    {
+      "name": "MyJoyOnline Policy Rate Search",
+      "url": "https://www.myjoyonline.com/?s=Ghana+policy+rate",
+      "category": "Public macro fallback",
+      "kind": "html",
+      "ok": true,
+      "error": null,
+      "fetchedAt": "2026-05-04T18:45:06.014944+00:00"
+    },
+    {
+      "name": "MyJoyOnline Treasury Bill Search",
+      "url": "https://www.myjoyonline.com/?s=91-day+treasury+bill+rate",
+      "category": "Public macro fallback",
+      "kind": "html",
+      "ok": true,
+      "error": null,
+      "fetchedAt": "2026-05-04T18:45:06.014944+00:00"
+    },
+    {
+      "name": "MyJoyOnline Inflation Search",
+      "url": "https://www.myjoyonline.com/?s=Ghana+inflation+rate",
+      "category": "Public macro fallback",
+      "kind": "html",
+      "ok": true,
+      "error": null,
+      "fetchedAt": "2026-05-04T18:45:06.014944+00:00"
+    },
+    {
+      "name": "MyJoyOnline GDP Search",
+      "url": "https://www.myjoyonline.com/?s=Ghana+GDP+growth",
+      "category": "Public macro fallback",
+      "kind": "html",
+      "ok": true,
+      "error": null,
+      "fetchedAt": "2026-05-04T18:45:06.014944+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -809,7 +863,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-05-04T18:14:35.615032+00:00"
+      "fetchedAt": "2026-05-04T18:45:06.014944+00:00"
     }
   ]
 }

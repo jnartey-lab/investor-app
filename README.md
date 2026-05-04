@@ -22,6 +22,11 @@ The app now attaches source links directly inside the interface. Publicly verifi
 - Citi Business News RSS: https://citibusinessnews.com/feed/
 - MyJoyOnline Business RSS: https://www.myjoyonline.com/business/feed/
 - MyJoyOnline public cedi/dollar search fallback: https://www.myjoyonline.com/?s=cedi+dollar
+- MyJoyOnline public GSE index search fallback: https://www.myjoyonline.com/?s=GSE+Composite+Index
+- MyJoyOnline public Ghana policy rate search fallback: https://www.myjoyonline.com/?s=Ghana+policy+rate
+- MyJoyOnline public 91-day Treasury bill search fallback: https://www.myjoyonline.com/?s=91-day+treasury+bill+rate
+- MyJoyOnline public Ghana inflation search fallback: https://www.myjoyonline.com/?s=Ghana+inflation+rate
+- MyJoyOnline public Ghana GDP growth search fallback: https://www.myjoyonline.com/?s=Ghana+GDP+growth
 - Bloomberg Markets: https://www.bloomberg.com/markets
 - Fitch Ratings: https://www.fitchratings.com/
 - Fitch Sovereigns: https://www.fitchratings.com/sovereigns
@@ -49,7 +54,7 @@ data/external-sources.json
 
 The workflow is scheduled at 11:00 UTC because Ghana time is UTC year-round. The Python script checks the current `Africa/Accra` date and skips duplicate same-day scheduled refreshes.
 
-If the Bank of Ghana FX page is unavailable or returns a blocking/placeholder page, the updater now attempts to extract USD/GHS from public business-news fallbacks such as MyJoyOnline Business, Business & Financial Times, Ghana Business News, and Citi Business News. Any fallback FX value is labeled as a public-news fallback in `data/external-sources.json`.
+If an official source is unavailable or returns a blocking/placeholder page, the updater attempts labeled public-news fallbacks for GSE index levels, Bank of Ghana macro rates, USD/GHS, inflation, and GDP growth. Fallback sources include MyJoyOnline Business/search pages, Business & Financial Times, Ghana Business News, and Citi Business News. Any fallback value is labeled as a public-news fallback in `data/external-sources.json`.
 
 Manual refresh:
 

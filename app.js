@@ -135,12 +135,16 @@ function applyExternalIndicators() {
   if (indicators.gseIndices) {
     const composite = Number(indicators.gseIndices.composite);
     const financial = Number(indicators.gseIndices.financialStocks);
+    const gseSource = indicators.gseIndices.source || "Ghana Stock Exchange";
+    const gseUrl = indicators.gseIndices.url || "https://gse.com.gh/";
     if (Number.isFinite(composite)) {
       const previous = marketData.indices.composite.value;
       marketData.indices.composite.value = composite;
       marketData.indices.composite.change = composite - previous;
       marketData.indices.composite.percent = previous ? ((composite - previous) / previous) * 100 : 0;
       marketData.indices.composite.history = [...marketData.indices.composite.history.slice(-2), composite];
+      marketData.indices.composite.source = gseSource;
+      marketData.indices.composite.sourceUrl = gseUrl;
     }
     if (Number.isFinite(financial)) {
       const previous = marketData.indices.financial.value;
@@ -148,22 +152,35 @@ function applyExternalIndicators() {
       marketData.indices.financial.change = financial - previous;
       marketData.indices.financial.percent = previous ? ((financial - previous) / previous) * 100 : 0;
       marketData.indices.financial.history = [...marketData.indices.financial.history.slice(-2), financial];
+      marketData.indices.financial.source = gseSource;
+      marketData.indices.financial.sourceUrl = gseUrl;
     }
     if (indicators.gseIndices.asOf) {
       marketData.tradingDate = parseGseDate(indicators.gseIndices.asOf) || marketData.tradingDate;
     }
   }
 
-  updateMacro("91-day T-bill", indicators.bankOfGhana?.tBill91Day, "Bank of Ghana", "https://www.bog.gov.gh/");
-  updateMacro("Policy rate", indicators.bankOfGhana?.policyRate, "Bank of Ghana", "https://www.bog.gov.gh/");
-  updateMacro("Inflation", indicators.bankOfGhana?.inflation ?? indicators.ghanaStatisticalService?.cpiInflationYoy, "Bank of Ghana / GSS", "https://statsghana.gov.gh/");
+  const bogSource = indicators.bankOfGhana?.source || "Bank of Ghana";
+  const bogUrl = indicators.bankOfGhana?.url || "https://www.bog.gov.gh/";
+  const gssSource = indicators.ghanaStatisticalService?.source || "Ghana Statistical Service";
+  const gssUrl = indicators.ghanaStatisticalService?.url || "https://statsghana.gov.gh/";
+  const inflationFromBog = indicators.bankOfGhana?.inflation != null;
+
+  updateMacro("91-day T-bill", indicators.bankOfGhana?.tBill91Day, bogSource, bogUrl);
+  updateMacro("Policy rate", indicators.bankOfGhana?.policyRate, bogSource, bogUrl);
+  updateMacro(
+    "Inflation",
+    indicators.bankOfGhana?.inflation ?? indicators.ghanaStatisticalService?.cpiInflationYoy,
+    inflationFromBog ? bogSource : gssSource,
+    inflationFromBog ? bogUrl : gssUrl
+  );
   updateMacro(
     "USD/GHS",
     indicators.fx?.usdGhsMid,
     indicators.fx?.source || "Bank of Ghana Daily Interbank FX Rates",
     indicators.fx?.url || "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/"
   );
-  updateMacro("GDP growth", indicators.ghanaStatisticalService?.annualGdpGrowth, "Ghana Statistical Service", "https://statsghana.gov.gh/");
+  updateMacro("GDP growth", indicators.ghanaStatisticalService?.annualGdpGrowth, gssSource, gssUrl);
 }
 
 function parseGseDate(value) {

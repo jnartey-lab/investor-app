@@ -26,6 +26,11 @@ This project includes real public source links in the application UI. The static
 - Citi Business News RSS: https://citibusinessnews.com/feed/
 - MyJoyOnline Business RSS: https://www.myjoyonline.com/business/feed/
 - MyJoyOnline public cedi/dollar search fallback: https://www.myjoyonline.com/?s=cedi+dollar
+- MyJoyOnline public GSE index search fallback: https://www.myjoyonline.com/?s=GSE+Composite+Index
+- MyJoyOnline public Ghana policy rate search fallback: https://www.myjoyonline.com/?s=Ghana+policy+rate
+- MyJoyOnline public 91-day Treasury bill search fallback: https://www.myjoyonline.com/?s=91-day+treasury+bill+rate
+- MyJoyOnline public Ghana inflation search fallback: https://www.myjoyonline.com/?s=Ghana+inflation+rate
+- MyJoyOnline public Ghana GDP growth search fallback: https://www.myjoyonline.com/?s=Ghana+GDP+growth
 - Bloomberg Markets: https://www.bloomberg.com/markets
 - Fitch Ratings: https://www.fitchratings.com/
 - Fitch Sovereigns: https://www.fitchratings.com/sovereigns
@@ -45,7 +50,7 @@ Use licensed or formally approved sources for trading-grade stock prices, volume
 
 The scripted data updater uses conservative public-page and RSS fetching once per day. Before using scraped data commercially, review each source's terms of use and replace public scraping with licensed APIs where required.
 
-When Bank of Ghana's daily FX page is unavailable, the updater attempts a labeled USD/GHS fallback from public business-news pages and RSS feeds, including MyJoyOnline Business. Fallback FX should be treated as indicative unless reconciled against the official Bank of Ghana page.
+When an official source is unavailable, the updater attempts labeled fallbacks from public business-news pages and RSS feeds, including MyJoyOnline Business. Fallback market and macro values should be treated as indicative unless reconciled against the official GSE, Bank of Ghana, or Ghana Statistical Service pages.
 
 Bloomberg's public website may block automated scraping. The daily updater includes Bloomberg Markets as a monitored source, but production-grade Bloomberg data should come from licensed Bloomberg products such as Data License, Enterprise Access Point, or Event-Driven Feeds.
 

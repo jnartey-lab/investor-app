@@ -62,11 +62,21 @@ SOURCES = [
     Source("Citi Business News", "https://citibusinessnews.com/feed/", "Business news", "rss"),
     Source("MyJoyOnline Business", "https://www.myjoyonline.com/business/feed/", "Business news", "rss"),
     Source("MyJoyOnline USD GHS Search", "https://www.myjoyonline.com/?s=cedi+dollar", "Public FX fallback", limit=4),
+    Source("MyJoyOnline GSE Search", "https://www.myjoyonline.com/?s=GSE+Composite+Index", "Public market fallback", limit=4),
+    Source("MyJoyOnline Policy Rate Search", "https://www.myjoyonline.com/?s=Ghana+policy+rate", "Public macro fallback", limit=4),
+    Source("MyJoyOnline Treasury Bill Search", "https://www.myjoyonline.com/?s=91-day+treasury+bill+rate", "Public macro fallback", limit=4),
+    Source("MyJoyOnline Inflation Search", "https://www.myjoyonline.com/?s=Ghana+inflation+rate", "Public macro fallback", limit=4),
+    Source("MyJoyOnline GDP Search", "https://www.myjoyonline.com/?s=Ghana+GDP+growth", "Public macro fallback", limit=4),
     Source("Bloomberg Markets", "https://www.bloomberg.com/markets", "Global markets"),
 ]
 
-PUBLIC_FX_FALLBACK_SOURCES = [
+PUBLIC_NEWS_FALLBACK_SOURCES = [
     "MyJoyOnline USD GHS Search",
+    "MyJoyOnline GSE Search",
+    "MyJoyOnline Policy Rate Search",
+    "MyJoyOnline Treasury Bill Search",
+    "MyJoyOnline Inflation Search",
+    "MyJoyOnline GDP Search",
     "MyJoyOnline Business",
     "Business & Financial Times",
     "Ghana Business News",
@@ -96,6 +106,10 @@ def clean_text(value: str) -> str:
     value = re.sub(r"<[^>]+>", " ", value)
     value = re.sub(r"\s+", " ", value)
     return value.strip()
+
+
+def source_url(source_name: str) -> str:
+    return next((source.url for source in SOURCES if source.name == source_name), "")
 
 
 def load_previous_indicators() -> dict[str, Any]:
@@ -178,12 +192,25 @@ def parse_html_headlines(source: Source, content: str) -> list[dict[str, Any]]:
     return items
 
 
-def valid_usd_ghs_rate(value: str) -> float | None:
+def valid_number(value: str, low: float, high: float) -> float | None:
     try:
-        rate = float(value.replace(",", ""))
+        parsed = float(value.replace(",", ""))
     except ValueError:
         return None
-    return rate if 5 <= rate <= 30 else None
+    return parsed if low <= parsed <= high else None
+
+
+def valid_usd_ghs_rate(value: str) -> float | None:
+    return valid_number(value, 5, 30)
+
+
+def fallback_source(source_name: str, basis: str) -> dict[str, str]:
+    return {
+        "source": f"{source_name} (public fallback)",
+        "url": source_url(source_name),
+        "sourceType": "public_news_fallback",
+        "rateBasis": basis,
+    }
 
 
 def extract_public_news_usd_ghs(text: str) -> dict[str, float | str] | None:
@@ -227,7 +254,7 @@ def extract_public_news_usd_ghs(text: str) -> dict[str, float | str] | None:
 
 
 def extract_fallback_fx(content_by_source: dict[str, str]) -> dict[str, Any] | None:
-    for source_name in PUBLIC_FX_FALLBACK_SOURCES:
+    for source_name in PUBLIC_NEWS_FALLBACK_SOURCES:
         content = content_by_source.get(source_name, "")
         if not content:
             continue
@@ -236,11 +263,157 @@ def extract_fallback_fx(content_by_source: dict[str, str]) -> dict[str, Any] | N
         if extracted:
             return {
                 **extracted,
-                "source": f"{source_name} (public fallback)",
-                "url": next((source.url for source in SOURCES if source.name == source_name), ""),
-                "sourceType": "public_news_fallback",
+                **fallback_source(source_name, str(extracted.get("rateBasis", "public news reported rate"))),
             }
     return None
+
+
+def extract_fallback_gse_indices(content_by_source: dict[str, str]) -> dict[str, Any] | None:
+    for source_name in PUBLIC_NEWS_FALLBACK_SOURCES:
+        text = clean_text(content_by_source.get(source_name, ""))
+        if not text or not re.search(r"\b(?:GSE|Composite Index|Financial Stocks Index)\b", text, flags=re.I):
+            continue
+
+        composite_match = re.search(
+            r"(?:GSE\s+)?Composite(?:\s+Index)?.{0,100}?([\d,]+\.\d+)",
+            text,
+            flags=re.I,
+        )
+        financial_match = re.search(
+            r"(?:GSE\s+)?Financial(?:\s+Stocks)?(?:\s+Index)?.{0,100}?([\d,]+\.\d+)",
+            text,
+            flags=re.I,
+        )
+        composite = valid_number(composite_match.group(1), 1000, 100000) if composite_match else None
+        financial = valid_number(financial_match.group(1), 1000, 100000) if financial_match else None
+        if composite is not None or financial is not None:
+            return {
+                "composite": composite,
+                "financialStocks": financial,
+                **fallback_source(source_name, "public news reported market index"),
+            }
+    return None
+
+
+def extract_fallback_bank_of_ghana(content_by_source: dict[str, str]) -> dict[str, Any] | None:
+    result: dict[str, Any] = {}
+    result_source = ""
+    for source_name in PUBLIC_NEWS_FALLBACK_SOURCES:
+        text = clean_text(content_by_source.get(source_name, ""))
+        if not text:
+            continue
+
+        policy_match = re.search(
+            r"(?:policy rate|monetary policy rate|MPR).{0,80}?(\d+(?:\.\d+)?)\s*%",
+            text,
+            flags=re.I,
+        )
+        t_bill_match = re.search(
+            r"(?:91-day|treasury bill|t-bill).{0,100}?(\d+(?:\.\d+)?)\s*%",
+            text,
+            flags=re.I,
+        )
+        inflation_match = re.search(
+            r"(?:inflation|CPI).{0,80}?(\d+(?:\.\d+)?)\s*%",
+            text,
+            flags=re.I,
+        )
+
+        if "policyRate" not in result and policy_match:
+            policy = valid_number(policy_match.group(1), 0, 60)
+            if policy is not None:
+                result["policyRate"] = policy
+                result_source = result_source or source_name
+        if "tBill91Day" not in result and t_bill_match:
+            t_bill = valid_number(t_bill_match.group(1), 0, 80)
+            if t_bill is not None:
+                result["tBill91Day"] = t_bill
+                result_source = result_source or source_name
+        if "inflation" not in result and inflation_match:
+            inflation = valid_number(inflation_match.group(1), -10, 80)
+            if inflation is not None:
+                result["inflation"] = inflation
+                result_source = result_source or source_name
+
+        if {"policyRate", "tBill91Day", "inflation"}.issubset(result):
+            break
+
+    if not result:
+        return None
+    return {
+        **result,
+        **fallback_source(result_source, "public news reported macro indicator"),
+    }
+
+
+def extract_fallback_gss(content_by_source: dict[str, str]) -> dict[str, Any] | None:
+    result: dict[str, Any] = {}
+    result_source = ""
+    for source_name in PUBLIC_NEWS_FALLBACK_SOURCES:
+        text = clean_text(content_by_source.get(source_name, ""))
+        if not text:
+            continue
+
+        inflation_match = re.search(
+            r"(?:inflation|CPI).{0,80}?(\d+(?:\.\d+)?)\s*%",
+            text,
+            flags=re.I,
+        )
+        gdp_match = re.search(
+            r"(?:GDP|gross domestic product).{0,120}?growth.{0,80}?(\d+(?:\.\d+)?)\s*%",
+            text,
+            flags=re.I,
+        ) or re.search(
+            r"(?:GDP|gross domestic product).{0,120}?(\d+(?:\.\d+)?)\s*%.{0,60}?growth",
+            text,
+            flags=re.I,
+        )
+
+        if "cpiInflationYoy" not in result and inflation_match:
+            inflation = valid_number(inflation_match.group(1), -10, 80)
+            if inflation is not None:
+                result["cpiInflationYoy"] = inflation
+                result_source = result_source or source_name
+        if "annualGdpGrowth" not in result and gdp_match:
+            gdp = valid_number(gdp_match.group(1), -30, 40)
+            if gdp is not None:
+                result["annualGdpGrowth"] = gdp
+                result_source = result_source or source_name
+
+        if {"cpiInflationYoy", "annualGdpGrowth"}.issubset(result):
+            break
+
+    if not result:
+        return None
+    return {
+        **result,
+        **fallback_source(result_source, "public news reported macro indicator"),
+    }
+
+
+def merge_indicators(previous: dict[str, Any], current: dict[str, Any]) -> dict[str, Any]:
+    merged = dict(previous)
+    for key, value in current.items():
+        if isinstance(value, dict) and isinstance(merged.get(key), dict):
+            nested = dict(merged[key])
+            current_is_fallback = value.get("sourceType") == "public_news_fallback"
+            previous_is_fallback = nested.get("sourceType") == "public_news_fallback"
+            if current_is_fallback and not previous_is_fallback:
+                changed = False
+                for nested_key, nested_value in value.items():
+                    if nested_value is None or nested_key in {"source", "url", "sourceType", "rateBasis"}:
+                        continue
+                    if nested.get(nested_key) is None:
+                        nested[nested_key] = nested_value
+                        changed = True
+                if changed:
+                    nested.update({meta_key: value[meta_key] for meta_key in ("source", "url", "sourceType", "rateBasis") if meta_key in value})
+            else:
+                nested.update({nested_key: nested_value for nested_key, nested_value in value.items() if nested_value is not None})
+            merged[key] = nested
+        else:
+            merged[key] = value
+    return merged
 
 
 def extract_indicators(content_by_source: dict[str, str]) -> dict[str, Any]:
@@ -263,6 +436,10 @@ def extract_indicators(content_by_source: dict[str, str]) -> dict[str, Any]:
             "source": "Ghana Stock Exchange",
             "url": "https://gse.com.gh/",
         }
+    else:
+        fallback_gse = extract_fallback_gse_indices(content_by_source)
+        if fallback_gse:
+            indicators["gseIndices"] = fallback_gse
 
     policy_match = re.search(r"(\d+(?:\.\d+)?)\s+Current Monetary Policy Rate", clean_text(bog), flags=re.I)
     t_bill_match = re.search(r"(\d+(?:\.\d+)?)\s+91-Day Treasury Bill Rate", clean_text(bog), flags=re.I)
@@ -275,6 +452,10 @@ def extract_indicators(content_by_source: dict[str, str]) -> dict[str, Any]:
             "source": "Bank of Ghana",
             "url": "https://www.bog.gov.gh/",
         }
+    else:
+        fallback_bog = extract_fallback_bank_of_ghana(content_by_source)
+        if fallback_bog:
+            indicators["bankOfGhana"] = fallback_bog
 
     fx_text = clean_text(fx)
     usd_match = re.search(
@@ -306,6 +487,10 @@ def extract_indicators(content_by_source: dict[str, str]) -> dict[str, Any]:
             "source": "Ghana Statistical Service",
             "url": "https://statsghana.gov.gh/",
         }
+    else:
+        fallback_gss = extract_fallback_gss(content_by_source)
+        if fallback_gss:
+            indicators["ghanaStatisticalService"] = fallback_gss
 
     return indicators
 
@@ -343,7 +528,7 @@ def build_payload() -> dict[str, Any]:
             news_items.extend(parse_html_headlines(source, content))
         time.sleep(0.5)
 
-    indicators = previous_indicators | extract_indicators(content_by_source)
+    indicators = merge_indicators(previous_indicators, extract_indicators(content_by_source))
 
     payload = {
         "generatedAt": now_utc.isoformat(),
