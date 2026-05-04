@@ -128,6 +128,55 @@ let selectedRecommendationTicker = "GCB";
 let currentCompanyResults = [];
 const watchlist = new Set(JSON.parse(localStorage.getItem("watchlist") || "[]"));
 
+function applyExternalIndicators() {
+  const indicators = externalData?.indicators;
+  if (!indicators) return;
+
+  if (indicators.gseIndices) {
+    const composite = Number(indicators.gseIndices.composite);
+    const financial = Number(indicators.gseIndices.financialStocks);
+    if (Number.isFinite(composite)) {
+      const previous = marketData.indices.composite.value;
+      marketData.indices.composite.value = composite;
+      marketData.indices.composite.change = composite - previous;
+      marketData.indices.composite.percent = previous ? ((composite - previous) / previous) * 100 : 0;
+      marketData.indices.composite.history = [...marketData.indices.composite.history.slice(-2), composite];
+    }
+    if (Number.isFinite(financial)) {
+      const previous = marketData.indices.financial.value;
+      marketData.indices.financial.value = financial;
+      marketData.indices.financial.change = financial - previous;
+      marketData.indices.financial.percent = previous ? ((financial - previous) / previous) * 100 : 0;
+      marketData.indices.financial.history = [...marketData.indices.financial.history.slice(-2), financial];
+    }
+    if (indicators.gseIndices.asOf) {
+      marketData.tradingDate = parseGseDate(indicators.gseIndices.asOf) || marketData.tradingDate;
+    }
+  }
+
+  updateMacro("91-day T-bill", indicators.bankOfGhana?.tBill91Day, "Bank of Ghana", "https://www.bog.gov.gh/");
+  updateMacro("Policy rate", indicators.bankOfGhana?.policyRate, "Bank of Ghana", "https://www.bog.gov.gh/");
+  updateMacro("Inflation", indicators.bankOfGhana?.inflation ?? indicators.ghanaStatisticalService?.cpiInflationYoy, "Bank of Ghana / GSS", "https://statsghana.gov.gh/");
+  updateMacro("GDP growth", indicators.ghanaStatisticalService?.annualGdpGrowth, "Ghana Statistical Service", "https://statsghana.gov.gh/");
+}
+
+function parseGseDate(value) {
+  const match = String(value).match(/^(\d{1,2})\/(\d{1,2})\/(\d{4})$/);
+  if (!match) return null;
+  const [, day, month, year] = match;
+  return `${year}-${month.padStart(2, "0")}-${day.padStart(2, "0")}`;
+}
+
+function updateMacro(name, value, source, sourceUrl) {
+  const numeric = Number(value);
+  if (!Number.isFinite(numeric)) return;
+  const item = marketData.macro.find((macro) => macro.name === name);
+  if (!item) return;
+  item.value = numeric;
+  item.source = source;
+  item.sourceUrl = sourceUrl;
+}
+
 const currency = new Intl.NumberFormat("en-GH", { style: "currency", currency: "GHS", maximumFractionDigits: 0 });
 const number = new Intl.NumberFormat("en-GH");
 const ghanaDateTime = new Intl.DateTimeFormat("en-GB", {
@@ -611,12 +660,17 @@ function answerAssistantQuestion() {
 
 async function loadExternalData() {
   try {
-    const response = await fetch("data/external-sources.json", { cache: "no-store" });
+    const response = await fetch(`data/external-sources.json?v=${Date.now()}`, { cache: "no-store" });
     if (!response.ok) return;
     externalData = await response.json();
+    applyExternalIndicators();
     if (externalData?.generatedAt) {
       byId("lastUpdated").textContent = `Last updated: ${ghanaDateTime.format(new Date(externalData.generatedAt))} Ghana Time`;
     }
+    renderMetrics();
+    renderMacro();
+    renderCharts();
+    generateBrief(false);
     renderSources();
   } catch (error) {
     externalData = null;
