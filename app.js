@@ -546,27 +546,52 @@ function renderCompanies() {
     .filter((stock) => sector === "all" || stock.sector === sector)
     .filter((stock) => `${stock.ticker} ${stock.name} ${stock.sector} ${stock.historyNote}`.toLowerCase().includes(query))
     .sort((a, b) => a.name.localeCompare(b.name));
+  const totalCap = companies.reduce((sum, stock) => sum + stock.marketCap, 0);
+  const avgYield = companies.reduce((sum, stock) => sum + stock.yield, 0) / (companies.length || 1);
+  const sectors = new Set(companies.map((stock) => stock.sector)).size;
+
+  byId("companyDirectoryMetrics").innerHTML = [
+    directoryMetric("Companies", number.format(companies.length)),
+    directoryMetric("Sectors", number.format(sectors)),
+    directoryMetric("Tracked market cap", currency.format(totalCap)),
+    directoryMetric("Avg dividend yield", `${avgYield.toFixed(1)}%`),
+  ].join("");
 
   byId("companyGrid").innerHTML = companies.length
     ? companies.map((stock) => `
       <article class="company-card">
-        <div class="company-card-header">
-          <div>
-            <span class="eyebrow">${stock.sector}</span>
-            <div class="company-card-title">${companyLogo(stock, "lg")}<h3>${stock.name}</h3></div>
+        <div class="company-card-main">
+          <div class="company-card-header">
+            <div>
+              <span class="eyebrow">${stock.sector}</span>
+              <div class="company-card-title">${companyLogo(stock, "lg")}<h3>${stock.name}</h3></div>
+            </div>
+            <span class="company-badge">${stock.ticker}</span>
           </div>
-          <span class="company-badge">${stock.ticker}</span>
+          <p>${stock.historyNote}</p>
+          <div class="company-card-actions">
+            <button class="primary-action" type="button" data-company-stock="${stock.ticker}">Open stock view</button>
+            <a class="data-tag" href="https://gse.com.gh/listed-companies/" target="_blank" rel="noreferrer">GSE verification</a>
+          </div>
         </div>
-        <p>${stock.historyNote}</p>
-        <div class="company-facts">
-          <div class="company-fact"><span>Listed</span><strong>${stock.listed || "GSE"}</strong></div>
-          <div class="company-fact"><span>Market cap</span><strong>${currency.format(stock.marketCap)}</strong></div>
-          <div class="company-fact"><span>Dividend yield</span><strong>${stock.yield.toFixed(1)}%</strong></div>
+        <div class="company-card-side">
+          <div class="company-facts">
+            <div class="company-fact"><span>Listed</span><strong>${stock.listed || "GSE"}</strong></div>
+            <div class="company-fact"><span>Market cap</span><strong>${currency.format(stock.marketCap)}</strong></div>
+            <div class="company-fact"><span>Dividend yield</span><strong>${stock.yield.toFixed(1)}%</strong></div>
+            <div class="company-fact"><span>P/E</span><strong>${stock.pe.toFixed(1)}</strong></div>
+            <div class="company-fact"><span>ROE</span><strong>${stock.roe.toFixed(1)}%</strong></div>
+            <div class="company-fact"><span>Recommendation</span><strong>${stock.recommendation}</strong></div>
+          </div>
+          <p>Use the stock view for charts, valuation indicators, and daily movement context.</p>
         </div>
-        <p><a class="source-link" href="https://gse.com.gh/listed-companies/" target="_blank" rel="noreferrer">Verify on GSE Listed Companies</a></p>
       </article>
     `).join("")
     : `<div class="company-card"><h3>No companies found</h3><p>Adjust the search or sector filter.</p></div>`;
+}
+
+function directoryMetric(label, value) {
+  return `<div class="company-directory-metric"><span>${label}</span><strong>${value}</strong></div>`;
 }
 
 function answerAssistantQuestion() {
@@ -917,6 +942,16 @@ function bindEvents() {
   });
   byId("companySearch").addEventListener("input", renderCompanies);
   byId("companySectorFilter").addEventListener("change", renderCompanies);
+  byId("companyGrid").addEventListener("click", (event) => {
+    const button = event.target.closest("[data-company-stock]");
+    if (!button) return;
+    selectedStock = marketData.stocks.find((stock) => stock.ticker === button.dataset.companyStock) || selectedStock;
+    selectedSector = "all";
+    byId("sectorFilter").value = "all";
+    renderTables();
+    renderStockDetail();
+    switchView("stocks");
+  });
   byId("sectorGrid").addEventListener("click", (event) => {
     const tile = event.target.closest("[data-sector]");
     if (!tile) return;

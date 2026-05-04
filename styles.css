@@ -682,17 +682,66 @@ th {
   grid-template-columns: repeat(2, minmax(0, 1fr));
 }
 
-.company-grid {
+.company-directory-hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1.6fr) minmax(320px, 1fr);
+  gap: 14px;
+  margin-bottom: 14px;
+  padding: 22px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface);
+  box-shadow: var(--shadow);
+}
+
+.company-directory-hero h2 {
+  margin: 0 0 8px;
+  font-size: 30px;
+}
+
+.company-directory-hero p {
+  margin: 0;
+  color: var(--muted);
+  line-height: 1.6;
+}
+
+.company-directory-metrics {
+  display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.company-directory-metric {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface-soft);
+  padding: 12px;
+}
+
+.company-directory-metric span {
+  display: block;
+  color: var(--muted);
+  font-size: 11px;
+  margin-bottom: 5px;
+}
+
+.company-directory-metric strong {
+  display: block;
+  font-size: 20px;
+}
+
+.company-grid {
+  grid-template-columns: 1fr;
 }
 
 .company-card {
-  background: var(--surface-soft);
+  background: var(--surface);
   border: 1px solid var(--line);
   border-radius: 8px;
-  padding: 16px;
+  padding: 0;
   display: grid;
-  gap: 10px;
+  grid-template-columns: minmax(0, 1.5fr) minmax(300px, 0.9fr);
+  overflow: hidden;
 }
 
 .company-card-header {
@@ -702,9 +751,24 @@ th {
   gap: 12px;
 }
 
+.company-card-main {
+  padding: 18px;
+  display: grid;
+  gap: 12px;
+}
+
+.company-card-side {
+  border-left: 1px solid var(--line);
+  background: var(--surface-soft);
+  padding: 18px;
+  display: grid;
+  align-content: space-between;
+  gap: 16px;
+}
+
 .company-card h3 {
   margin: 0;
-  font-size: 18px;
+  font-size: 20px;
 }
 
 .company-card p {
@@ -726,7 +790,7 @@ th {
 
 .company-facts {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 8px;
 }
 
@@ -742,6 +806,17 @@ th {
   color: var(--muted);
   font-size: 11px;
   margin-bottom: 4px;
+}
+
+.company-card-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.company-card-actions a,
+.company-card-actions button {
+  min-height: 36px;
 }
 
 .source-item a,
@@ -932,8 +1007,15 @@ th {
   .metric-grid,
   .table-grid,
   .layout-grid,
-  .split-layout {
+  .split-layout,
+  .company-directory-hero,
+  .company-card {
     grid-template-columns: 1fr;
+  }
+
+  .company-card-side {
+    border-left: 0;
+    border-top: 1px solid var(--line);
   }
 
   .hero-strip {
