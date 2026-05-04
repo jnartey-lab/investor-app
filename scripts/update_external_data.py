@@ -61,7 +61,16 @@ SOURCES = [
     Source("Ghana Business News", "https://www.ghanabusinessnews.com/feed/", "Business news", "rss"),
     Source("Citi Business News", "https://citibusinessnews.com/feed/", "Business news", "rss"),
     Source("MyJoyOnline Business", "https://www.myjoyonline.com/business/feed/", "Business news", "rss"),
+    Source("MyJoyOnline USD GHS Search", "https://www.myjoyonline.com/?s=cedi+dollar", "Public FX fallback", limit=4),
     Source("Bloomberg Markets", "https://www.bloomberg.com/markets", "Global markets"),
+]
+
+PUBLIC_FX_FALLBACK_SOURCES = [
+    "MyJoyOnline USD GHS Search",
+    "MyJoyOnline Business",
+    "Business & Financial Times",
+    "Ghana Business News",
+    "Citi Business News",
 ]
 
 
@@ -169,6 +178,71 @@ def parse_html_headlines(source: Source, content: str) -> list[dict[str, Any]]:
     return items
 
 
+def valid_usd_ghs_rate(value: str) -> float | None:
+    try:
+        rate = float(value.replace(",", ""))
+    except ValueError:
+        return None
+    return rate if 5 <= rate <= 30 else None
+
+
+def extract_public_news_usd_ghs(text: str) -> dict[str, float | str] | None:
+    if not re.search(r"\b(?:dollar|usd)\b", text, flags=re.I):
+        return None
+
+    spread_match = re.search(
+        r"(?:dollar|usd).{0,160}?buying(?:\s+rate)?(?:\s+(?:of|at))?\s+GH[¢cS]?\s*([\d,.]+)"
+        r".{0,160}?selling(?:\s+rate)?(?:\s+(?:of|at))?\s+GH[¢cS]?\s*([\d,.]+)",
+        text,
+        flags=re.I,
+    )
+    if spread_match:
+        buying = valid_usd_ghs_rate(spread_match.group(1))
+        selling = valid_usd_ghs_rate(spread_match.group(2))
+        if buying is not None and selling is not None:
+            return {
+                "usdGhsBuying": buying,
+                "usdGhsSelling": selling,
+                "usdGhsMid": round((buying + selling) / 2, 4),
+                "rateBasis": "public news reported buying/selling",
+            }
+
+    single_rate_patterns = [
+        r"(?:one\s+)?dollar(?:\s+equals|\s+is\s+selling\s+at|\s+is\s+trading\s+at|\s+trades?\s+at).{0,40}?GH[¢cS]?\s*([\d,.]+)",
+        r"cedi\s+trades?\s+at\s+GH[¢cS]?\s*([\d,.]+)\s+(?:to|per)\s+(?:the\s+)?(?:US\s+)?dollar",
+        r"GH[¢cS]?\s*([\d,.]+)\s+(?:to|per)\s+(?:the\s+)?(?:US\s+)?dollar",
+    ]
+    for pattern in single_rate_patterns:
+        match = re.search(pattern, text, flags=re.I)
+        if not match:
+            continue
+        rate = valid_usd_ghs_rate(match.group(1))
+        if rate is not None:
+            return {
+                "usdGhsMid": rate,
+                "rateBasis": "public news reported rate",
+            }
+
+    return None
+
+
+def extract_fallback_fx(content_by_source: dict[str, str]) -> dict[str, Any] | None:
+    for source_name in PUBLIC_FX_FALLBACK_SOURCES:
+        content = content_by_source.get(source_name, "")
+        if not content:
+            continue
+        text = clean_text(content)
+        extracted = extract_public_news_usd_ghs(text)
+        if extracted:
+            return {
+                **extracted,
+                "source": f"{source_name} (public fallback)",
+                "url": next((source.url for source in SOURCES if source.name == source_name), ""),
+                "sourceType": "public_news_fallback",
+            }
+    return None
+
+
 def extract_indicators(content_by_source: dict[str, str]) -> dict[str, Any]:
     indicators: dict[str, Any] = {}
     gse = content_by_source.get("Ghana Stock Exchange", "")
@@ -202,15 +276,25 @@ def extract_indicators(content_by_source: dict[str, str]) -> dict[str, Any]:
             "url": "https://www.bog.gov.gh/",
         }
 
-    usd_match = re.search(r"US Dollar\s+USDGHS\s+([\d.]+)\s+([\d.]+)\s+([\d.]+)", clean_text(fx), flags=re.I)
+    fx_text = clean_text(fx)
+    usd_match = re.search(
+        r"(?:(\d{1,2}\s+[A-Za-z]+\s+\d{4})\s+)?US Dollar\s+USDGHS\s+([\d.]+)\s+([\d.]+)\s+([\d.]+)",
+        fx_text,
+        flags=re.I,
+    )
     if usd_match:
         indicators["fx"] = {
-            "usdGhsBuying": float(usd_match.group(1)),
-            "usdGhsSelling": float(usd_match.group(2)),
-            "usdGhsMid": float(usd_match.group(3)),
+            "asOf": usd_match.group(1),
+            "usdGhsBuying": float(usd_match.group(2)),
+            "usdGhsSelling": float(usd_match.group(3)),
+            "usdGhsMid": float(usd_match.group(4)),
             "source": "Bank of Ghana Daily Interbank FX Rates",
             "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
         }
+    else:
+        fallback_fx = extract_fallback_fx(content_by_source)
+        if fallback_fx:
+            indicators["fx"] = fallback_fx
 
     gss_text = clean_text(gss)
     gss_inflation = re.search(r"CPI Inflation\(YoY\)\s*(\d+(?:\.\d+)?)%", gss_text, flags=re.I)
