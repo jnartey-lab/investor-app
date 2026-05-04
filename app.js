@@ -408,7 +408,9 @@ function generateBrief(userTriggered = false) {
     <p>For the next session, monitor ${volumeLeader.ticker} for liquidity continuation, ${top.ticker} for momentum follow-through, and financial stocks for sensitivity to policy-rate, Treasury-bill, and sovereign-credit developments.</p>
   `;
   const button = byId("generateBrief");
+  const status = byId("briefStatus");
   button.textContent = `Generated ${briefVersion}`;
+  if (status) status.textContent = `Last generated: ${generatedAt} Ghana Time · Version ${briefVersion}`;
   const brief = byId("marketBrief");
   brief.classList.remove("flash");
   void brief.offsetWidth;
@@ -419,7 +421,13 @@ function generateBrief(userTriggered = false) {
   }, 1400);
 }
 
+function handleGenerateBriefClick() {
+  generateBrief(true);
+  return false;
+}
+
 window.generateBrief = generateBrief;
+window.handleGenerateBriefClick = handleGenerateBriefClick;
 
 function renderAlerts() {
   byId("alertsList").innerHTML = alerts.map((alert) => `

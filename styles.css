@@ -635,6 +635,20 @@ th {
   margin-bottom: 12px;
 }
 
+.brief-actions {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
+.brief-actions span {
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 800;
+}
+
 .brief-meta span {
   display: inline-flex;
   align-items: center;
@@ -783,7 +797,8 @@ th {
   }
 
   .assistant-input-row,
-  .inline-actions {
+  .inline-actions,
+  .brief-actions {
     flex-direction: column;
     align-items: stretch;
   }

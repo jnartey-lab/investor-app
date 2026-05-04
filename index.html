@@ -242,7 +242,10 @@
                   <p class="eyebrow">AI-assisted draft</p>
                   <h2>Daily market commentary</h2>
                 </div>
-                <button class="primary-action" id="generateBrief" type="button" onclick="generateBrief(true)">Generate daily brief</button>
+                <div class="brief-actions">
+                  <button class="primary-action" id="generateBrief" type="button" onclick="return handleGenerateBriefClick()">Generate daily brief</button>
+                  <span id="briefStatus">Not generated in this session</span>
+                </div>
               </div>
               <article class="commentary-box" id="marketBrief"></article>
               <div class="assistant-box">
@@ -348,6 +351,6 @@
       </main>
     </div>
 
-    <script src="app.js"></script>
+    <script src="app.js?v=20260503-brief-refresh"></script>
   </body>
 </html>
