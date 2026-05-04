@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-04T17:43:15.653480+00:00",
-  "generatedAtEastern": "2026-05-04T13:43:15.653480-04:00",
+  "generatedAt": "2026-05-04T17:54:24.444379+00:00",
+  "generatedAtEastern": "2026-05-04T13:54:24.444379-04:00",
   "schedule": "Daily at 11:00 America/New_York via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
@@ -153,78 +153,6 @@
       "publishedAt": null,
       "source": "GSE Listed Companies",
       "category": "Official issuer universe"
-    },
-    {
-      "title": "Current Monetary Policy Rate (%)",
-      "url": "https://www.bog.gov.gh/",
-      "summary": "",
-      "publishedAt": null,
-      "source": "Bank of Ghana",
-      "category": "Official macro"
-    },
-    {
-      "title": "Inflation Target (%)",
-      "url": "https://www.bog.gov.gh/",
-      "summary": "",
-      "publishedAt": null,
-      "source": "Bank of Ghana",
-      "category": "Official macro"
-    },
-    {
-      "title": "Current inflation rate (%)",
-      "url": "https://www.bog.gov.gh/",
-      "summary": "",
-      "publishedAt": null,
-      "source": "Bank of Ghana",
-      "category": "Official macro"
-    },
-    {
-      "title": "91-Day Treasury Bill Rate (%)",
-      "url": "https://www.bog.gov.gh/",
-      "summary": "",
-      "publishedAt": null,
-      "source": "Bank of Ghana",
-      "category": "Official macro"
-    },
-    {
-      "title": "Broadcast",
-      "url": "https://www.bog.gov.gh/",
-      "summary": "",
-      "publishedAt": null,
-      "source": "Bank of Ghana",
-      "category": "Official macro"
-    },
-    {
-      "title": "129TH MPC PRESS BRIEFING",
-      "url": "https://www.bog.gov.gh/",
-      "summary": "",
-      "publishedAt": null,
-      "source": "Bank of Ghana",
-      "category": "Official macro"
-    },
-    {
-      "title": "122nd MPC Press Briefing",
-      "url": "https://www.bog.gov.gh/",
-      "summary": "",
-      "publishedAt": null,
-      "source": "Bank of Ghana",
-      "category": "Official macro"
-    },
-    {
-      "title": "97th MPC Press Conference - Bank of Ghana",
-      "url": "https://www.bog.gov.gh/",
-      "summary": "",
-      "publishedAt": null,
-      "source": "Bank of Ghana",
-      "category": "Official macro"
-    },
-    {
-      "title": "We apologize for the inconvenience...",
-      "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
-      "summary": "",
-      "publishedAt": null,
-      "source": "Bank of Ghana FX Rates",
-      "category": "Official FX"
     },
     {
       "title": "Ghana at a Glance",
@@ -665,6 +593,78 @@
       "publishedAt": "2023-10-16T12:15:38+00:00",
       "source": "Citi Business News",
       "category": "Business news"
+    },
+    {
+      "title": "IMF, World Bank work to accelerate debt treatment for Ghana, others under G20",
+      "url": "https://citibusinessnews.com/2023/10/imf-world-bank-work-to-accelerate-debt-treatment-for-ghana-others-under-g20/",
+      "summary": "The International Monetary Fund (IMF) and World Bank are working together to accelerate debt restructuring for Ghana and other countries under the Group of Twenty (G20) Common Framework. Ms Kristalina Georgieva, Managing Director, IMF said this during a plenar",
+      "publishedAt": "2023-10-16T12:11:16+00:00",
+      "source": "Citi Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Zambia advises Ghana to have restrictive laws on debt accumulation",
+      "url": "https://citibusinessnews.com/2023/10/zambia-advises-ghana-to-have-restrictive-laws-on-debt-accumulation/",
+      "summary": "Mr Situmbeko Musokotwane, Minister of Finance and National Planning, Zambia, has advised Ghana to have restrictive laws on debt accumulation. “We put a law in Parliament which tied my hands to say, going forward, you can’t be like those in the past. So, we tie",
+      "publishedAt": "2023-10-16T12:02:25+00:00",
+      "source": "Citi Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "2024 budget: Government commits to more expenditure cuts, aggressive growth, jobs",
+      "url": "https://citibusinessnews.com/2023/10/2024-budget-government-commits-to-more-expenditure-cuts-aggressive-growth-jobs/",
+      "summary": "The government has assured Ghanaians that it will safeguard current economic gains, and make it reflect in the living conditions of everyone in the coming months. To this end, there would be more expenditure reduction measures in the 2024 budget, as well as po",
+      "publishedAt": "2023-10-16T10:32:02+00:00",
+      "source": "Citi Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Zenith Bank @ 18 – Celebrating a legacy of financial excellence",
+      "url": "https://citibusinessnews.com/2023/10/zenith-bank-18-celebrating-a-legacy-of-financial-excellence/",
+      "summary": "On the fateful morning of September 16, 2005, Zenith Bank Ghana embarked on its banking journey with a grand total of 45 staff members. This marked a transformative turning point in the banking and financial services landscape of the country. Zenith Bank swift",
+      "publishedAt": "2023-10-15T20:32:02+00:00",
+      "source": "Citi Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Customer Service Week: Pan-African Savings and Loans provides medical services to clients",
+      "url": "https://citibusinessnews.com/2023/10/customer-service-week-pan-african-savings-and-loans-provides-medical-services-to-clients/",
+      "summary": "A leading non-bank financial institution, Pan-African Savings and Loans has demonstrated its appreciation to its loyal customers by organizing a free medical screening exercise as part of their planned activities for the customer service week. This initiative ",
+      "publishedAt": "2023-10-13T06:20:28+00:00",
+      "source": "Citi Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Former Capital Bank CEO Ato Essien jailed 15 years",
+      "url": "https://citibusinessnews.com/2023/10/former-capital-bank-ceo-ato-essien-jailed-15-years/",
+      "summary": "Former Chief Executive Officer of defunct Capital Bank, Ato Essien has been sentenced to 15 years imprisonment with hard labour. This follows his failure to pay in full an amount of GH¢90 million he agreed to pay the state despite several lifelines given him s",
+      "publishedAt": "2023-10-12T20:10:20+00:00",
+      "source": "Citi Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Heath Goldfields clears GH¢139 million in worker arrears as Bogoso-Prestea recovery begins",
+      "url": "https://www.myjoyonline.com/heath-goldfields-clears-gh%c2%a2139-million-in-worker-arrears-as-bogoso-prestea-recovery-begins/",
+      "summary": "Heath Goldfields has paid over GH¢139 million to workers at the Bogoso-Prestea mine since taking over operations, as it works to clear a backlog of unpaid salaries and stabilise the mine. According to the company’s General Manager, Patrick Appiah Mensah, the p",
+      "publishedAt": "2026-05-04T16:58:31+00:00",
+      "source": "MyJoyOnline Business",
+      "category": "Business news"
+    },
+    {
+      "title": "Central Banks should not be evaluated solely on accounting losses – Dr. Nsafoah",
+      "url": "https://www.myjoyonline.com/central-banks-should-not-be-evaluated-solely-on-accounting-losses-dr-nsafoah/",
+      "summary": "“Unlike private firms or commercial banks, central banks are not profit-maximising institutions. Their primary responsibilities include controlling inflation, preserving exchange rate stability and maintaining monetary credibility”, he disclosed in an article.",
+      "publishedAt": "2026-05-04T16:27:05+00:00",
+      "source": "MyJoyOnline Business",
+      "category": "Business news"
+    },
+    {
+      "title": "“I agree with one aspect of BoG’s argument”, but under its own accounting framework it’s policy insolvent – Dr. Nsafoah",
+      "url": "https://www.myjoyonline.com/i-agree-with-one-aspect-of-bogs-argument-but-under-its-own-accounting-framework-its-policy-insolvent-dr-nsafoah/",
+      "summary": "In its 2025 Financial Report, the Bank of Ghana reported very large accounting losses, including a comprehensive loss of approximately GH¢34.95 billion, a net operating loss of approximately GH¢15.63 billion, and a deepening negative equity position.",
+      "publishedAt": "2026-05-04T16:08:08+00:00",
+      "source": "MyJoyOnline Business",
+      "category": "Business news"
     }
   ],
   "sources": [
@@ -675,7 +675,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-04T17:43:15.653480+00:00"
+      "fetchedAt": "2026-05-04T17:54:24.444379+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -684,7 +684,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-04T17:43:15.653480+00:00"
+      "fetchedAt": "2026-05-04T17:54:24.444379+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -693,25 +693,25 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-04T17:43:15.653480+00:00"
+      "fetchedAt": "2026-05-04T17:54:24.444379+00:00"
     },
     {
       "name": "Bank of Ghana",
       "url": "https://www.bog.gov.gh/",
       "category": "Official macro",
       "kind": "html",
-      "ok": true,
-      "error": null,
-      "fetchedAt": "2026-05-04T17:43:15.653480+00:00"
+      "ok": false,
+      "error": "Source returned a placeholder/unavailable page.",
+      "fetchedAt": "2026-05-04T17:54:24.444379+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
       "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
       "category": "Official FX",
       "kind": "html",
-      "ok": true,
-      "error": null,
-      "fetchedAt": "2026-05-04T17:43:15.653480+00:00"
+      "ok": false,
+      "error": "Source returned a placeholder/unavailable page.",
+      "fetchedAt": "2026-05-04T17:54:24.444379+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -720,7 +720,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-04T17:43:15.653480+00:00"
+      "fetchedAt": "2026-05-04T17:54:24.444379+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -729,7 +729,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-04T17:43:15.653480+00:00"
+      "fetchedAt": "2026-05-04T17:54:24.444379+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -738,7 +738,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-04T17:43:15.653480+00:00"
+      "fetchedAt": "2026-05-04T17:54:24.444379+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -747,7 +747,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-04T17:43:15.653480+00:00"
+      "fetchedAt": "2026-05-04T17:54:24.444379+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -756,7 +756,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-04T17:43:15.653480+00:00"
+      "fetchedAt": "2026-05-04T17:54:24.444379+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -765,7 +765,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-04T17:43:15.653480+00:00"
+      "fetchedAt": "2026-05-04T17:54:24.444379+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -774,7 +774,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-04T17:43:15.653480+00:00"
+      "fetchedAt": "2026-05-04T17:54:24.444379+00:00"
     },
     {
       "name": "Citi Business News",
@@ -783,7 +783,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-04T17:43:15.653480+00:00"
+      "fetchedAt": "2026-05-04T17:54:24.444379+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -792,7 +792,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-04T17:43:15.653480+00:00"
+      "fetchedAt": "2026-05-04T17:54:24.444379+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -801,7 +801,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-05-04T17:43:15.653480+00:00"
+      "fetchedAt": "2026-05-04T17:54:24.444379+00:00"
     }
   ]
 }

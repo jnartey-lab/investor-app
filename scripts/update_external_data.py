@@ -89,6 +89,24 @@ def clean_text(value: str) -> str:
     return value.strip()
 
 
+def load_previous_indicators() -> dict[str, Any]:
+    if not OUTFILE.exists():
+        return {}
+
+    try:
+        payload = json.loads(OUTFILE.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return {}
+
+    indicators = payload.get("indicators")
+    return indicators if isinstance(indicators, dict) else {}
+
+
+def is_placeholder_page(content: str) -> bool:
+    text = clean_text(content).lower()
+    return "we apologize for the inconvenience" in text
+
+
 def parse_date(value: str | None) -> str | None:
     if not value:
         return None
@@ -212,11 +230,16 @@ def build_payload() -> dict[str, Any]:
     now_utc = datetime.now(timezone.utc)
     now_ny = now_utc.astimezone(NY_TZ)
     content_by_source: dict[str, str] = {}
+    previous_indicators = load_previous_indicators()
     source_status = []
     news_items = []
 
     for source in SOURCES:
         content, error = fetch(source.url)
+        if content and is_placeholder_page(content):
+            error = "Source returned a placeholder/unavailable page."
+            content = None
+
         status = {
             "name": source.name,
             "url": source.url,
@@ -236,12 +259,14 @@ def build_payload() -> dict[str, Any]:
             news_items.extend(parse_html_headlines(source, content))
         time.sleep(0.5)
 
+    indicators = previous_indicators | extract_indicators(content_by_source)
+
     payload = {
         "generatedAt": now_utc.isoformat(),
         "generatedAtEastern": now_ny.isoformat(),
         "schedule": "Daily at 11:00 America/New_York via GitHub Actions",
         "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
-        "indicators": extract_indicators(content_by_source),
+        "indicators": indicators,
         "items": news_items[:80],
         "sources": source_status,
     }
