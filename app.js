@@ -334,7 +334,7 @@ function renderResearch() {
   byId("assistantAnswer").textContent = "Ask about dividend yields, banking stocks, unusual volume, or market summary.";
 }
 
-function generateBrief() {
+function generateBrief(userTriggered = false) {
   briefVersion += 1;
   const generatedAt = ghanaDateTime.format(new Date());
   const sourceUpdatedAt = externalData?.generatedAt
@@ -369,6 +369,7 @@ function generateBrief() {
   const tone = advancers > decliners ? "constructive" : decliners > advancers ? "defensive" : "mixed";
 
   byId("marketBrief").innerHTML = `
+    ${userTriggered ? `<p class="brief-status">Daily brief refreshed successfully.</p>` : ""}
     <div class="brief-meta">
       <span>Generated: ${generatedAt} Ghana Time</span>
       <span>Brief version: ${briefVersion}</span>
@@ -408,10 +409,17 @@ function generateBrief() {
   `;
   const button = byId("generateBrief");
   button.textContent = `Generated ${briefVersion}`;
+  const brief = byId("marketBrief");
+  brief.classList.remove("flash");
+  void brief.offsetWidth;
+  brief.classList.add("flash");
+  if (userTriggered) brief.scrollIntoView({ behavior: "smooth", block: "start" });
   window.setTimeout(() => {
     button.textContent = "Generate daily brief";
   }, 1400);
 }
+
+window.generateBrief = generateBrief;
 
 function renderAlerts() {
   byId("alertsList").innerHTML = alerts.map((alert) => `
@@ -804,7 +812,6 @@ function bindEvents() {
     drawInteractiveIndexChart();
   });
   byId("exportMarket").addEventListener("click", exportCsv);
-  byId("generateBrief").addEventListener("click", generateBrief);
   byId("askAssistant").addEventListener("click", answerAssistantQuestion);
   byId("assistantQuestion").addEventListener("keydown", (event) => {
     if (event.key === "Enter") answerAssistantQuestion();
