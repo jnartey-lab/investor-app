@@ -125,6 +125,7 @@ let activeIndexRange = "1M";
 let indexHoverPoint = null;
 let briefVersion = 0;
 let selectedRecommendationTicker = "GCB";
+let currentCompanyResults = [];
 const watchlist = new Set(JSON.parse(localStorage.getItem("watchlist") || "[]"));
 
 const currency = new Intl.NumberFormat("en-GH", { style: "currency", currency: "GHS", maximumFractionDigits: 0 });
@@ -546,6 +547,7 @@ function renderCompanies() {
     .filter((stock) => sector === "all" || stock.sector === sector)
     .filter((stock) => `${stock.ticker} ${stock.name} ${stock.sector} ${stock.historyNote}`.toLowerCase().includes(query))
     .sort((a, b) => a.name.localeCompare(b.name));
+  currentCompanyResults = companies;
   const totalCap = companies.reduce((sum, stock) => sum + stock.marketCap, 0);
   const avgYield = companies.reduce((sum, stock) => sum + stock.yield, 0) / (companies.length || 1);
   const sectors = new Set(companies.map((stock) => stock.sector)).size;
@@ -569,10 +571,6 @@ function renderCompanies() {
             <span class="company-badge">${stock.ticker}</span>
           </div>
           <p>${stock.historyNote}</p>
-          <div class="company-card-actions">
-            <button class="primary-action" type="button" data-company-stock="${stock.ticker}">Open stock view</button>
-            <a class="data-tag" href="https://gse.com.gh/listed-companies/" target="_blank" rel="noreferrer">GSE verification</a>
-          </div>
         </div>
         <div class="company-card-side">
           <div class="company-facts">
@@ -942,10 +940,8 @@ function bindEvents() {
   });
   byId("companySearch").addEventListener("input", renderCompanies);
   byId("companySectorFilter").addEventListener("change", renderCompanies);
-  byId("companyGrid").addEventListener("click", (event) => {
-    const button = event.target.closest("[data-company-stock]");
-    if (!button) return;
-    selectedStock = marketData.stocks.find((stock) => stock.ticker === button.dataset.companyStock) || selectedStock;
+  byId("openCompanyStock").addEventListener("click", () => {
+    selectedStock = currentCompanyResults[0] || selectedStock;
     selectedSector = "all";
     byId("sectorFilter").value = "all";
     renderTables();

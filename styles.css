@@ -737,6 +737,13 @@ th {
   color: #ffffff;
 }
 
+.company-page-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+  margin: -6px 0 14px;
+}
+
 .company-grid {
   grid-template-columns: 1fr;
 }
@@ -814,17 +821,6 @@ th {
   color: var(--muted);
   font-size: 11px;
   margin-bottom: 4px;
-}
-
-.company-card-actions {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-}
-
-.company-card-actions a,
-.company-card-actions button {
-  min-height: 36px;
 }
 
 .source-item a,
@@ -1051,7 +1047,8 @@ th {
 
   .assistant-input-row,
   .inline-actions,
-  .brief-actions {
+  .brief-actions,
+  .company-page-actions {
     flex-direction: column;
     align-items: stretch;
   }
