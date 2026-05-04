@@ -123,6 +123,7 @@ let selectedSector = "all";
 let sortKey = "ticker";
 let activeIndexRange = "1M";
 let indexHoverPoint = null;
+let briefVersion = 0;
 const watchlist = new Set(JSON.parse(localStorage.getItem("watchlist") || "[]"));
 
 const currency = new Intl.NumberFormat("en-GH", { style: "currency", currency: "GHS", maximumFractionDigits: 0 });
@@ -334,6 +335,11 @@ function renderResearch() {
 }
 
 function generateBrief() {
+  briefVersion += 1;
+  const generatedAt = ghanaDateTime.format(new Date());
+  const sourceUpdatedAt = externalData?.generatedAt
+    ? ghanaDateTime.format(new Date(externalData.generatedAt))
+    : formatStaticGhanaDate(marketData.tradingDate);
   const advancers = marketData.stocks.filter((stock) => stockChange(stock) > 0).length;
   const decliners = marketData.stocks.filter((stock) => stockChange(stock) < 0).length;
   const unchanged = marketData.stocks.length - advancers - decliners;
@@ -363,6 +369,11 @@ function generateBrief() {
   const tone = advancers > decliners ? "constructive" : decliners > advancers ? "defensive" : "mixed";
 
   byId("marketBrief").innerHTML = `
+    <div class="brief-meta">
+      <span>Generated: ${generatedAt} Ghana Time</span>
+      <span>Brief version: ${briefVersion}</span>
+      <span>Source update: ${sourceUpdatedAt} Ghana Time</span>
+    </div>
     <h3>Daily Ghana Market Brief</h3>
     <p>The Ghana equity market closed with a ${tone} tone. The GSE Composite Index moved ${formatPercent(marketData.indices.composite.percent)} to ${number.format(marketData.indices.composite.value)}, while the Financial Stocks Index moved ${formatPercent(marketData.indices.financial.percent)} to ${number.format(marketData.indices.financial.value)}.</p>
 
@@ -395,6 +406,11 @@ function generateBrief() {
     <h3>Desk View</h3>
     <p>For the next session, monitor ${volumeLeader.ticker} for liquidity continuation, ${top.ticker} for momentum follow-through, and financial stocks for sensitivity to policy-rate, Treasury-bill, and sovereign-credit developments.</p>
   `;
+  const button = byId("generateBrief");
+  button.textContent = `Generated ${briefVersion}`;
+  window.setTimeout(() => {
+    button.textContent = "Generate daily brief";
+  }, 1400);
 }
 
 function renderAlerts() {
