@@ -167,11 +167,9 @@ function companyInitials(stock) {
 
 function companyLogo(stock, size = "sm") {
   const initials = companyInitials(stock);
-  const src = stock.logoDomain ? `https://www.google.com/s2/favicons?domain=${stock.logoDomain}&sz=64` : "";
   return `
-    <span class="company-logo ${size}" aria-hidden="true">
+    <span class="company-logo ${size} logo-${stock.ticker.toLowerCase()}" aria-hidden="true">
       <span>${initials}</span>
-      ${src ? `<img src="${src}" alt="" loading="lazy" onerror="this.remove()" />` : ""}
     </span>
   `;
 }
