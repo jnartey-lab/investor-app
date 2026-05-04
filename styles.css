@@ -529,6 +529,56 @@ th {
   font-size: 28px;
 }
 
+.company-logo {
+  position: relative;
+  flex: 0 0 auto;
+  width: 30px;
+  height: 30px;
+  display: inline-grid;
+  place-items: center;
+  overflow: hidden;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface);
+  color: var(--accent);
+  font-size: 10px;
+  font-weight: 900;
+}
+
+.company-logo.lg {
+  width: 44px;
+  height: 44px;
+  font-size: 12px;
+}
+
+.company-logo img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  background: #ffffff;
+  padding: 4px;
+}
+
+.company-name-cell,
+.stock-title,
+.company-card-title,
+.recommendation-title {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.stock-title {
+  margin-bottom: 8px;
+}
+
+.stock-title h2,
+.company-card-title h3 {
+  margin: 0;
+}
+
 .detail-grid,
 .breadth,
 .risk-list,
