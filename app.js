@@ -554,7 +554,7 @@ function renderSources() {
     metric("Last update", generated, "Ghana time", "neutral"),
     metric("Fetched sources", `${okSources}/${totalSources}`, "Public pages and feeds", okSources === totalSources ? "positive" : "neutral"),
     metric("External items", number.format(items.length), "Research and business news", "neutral"),
-    metric("Schedule", "11:00 AM", "America/New_York daily", "positive"),
+    metric("Schedule", "11:00 AM", "Africa/Accra daily", "positive"),
   ].join("");
 
   const query = byId("sourceSearch")?.value?.toLowerCase() || "";
@@ -571,7 +571,7 @@ function renderSources() {
         ${item.summary ? `<p>${item.summary}</p>` : ""}
       </article>
     `).join("")
-    : `<div class="external-item"><span>Status</span><strong>No generated feed file loaded yet.</strong><p>The GitHub Action will write data/external-sources.json during the next 11:00 AM Eastern run.</p></div>`;
+    : `<div class="external-item"><span>Status</span><strong>No generated feed file loaded yet.</strong><p>The GitHub Action will write data/external-sources.json during the next 11:00 AM Ghana time run.</p></div>`;
 
   byId("sourceGrid").innerHTML = marketData.sources.map((source) => `
     <article class="source-item">

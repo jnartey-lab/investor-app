@@ -28,7 +28,7 @@ from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parents[1]
 OUTFILE = ROOT / "data" / "external-sources.json"
-NY_TZ = ZoneInfo("America/New_York")
+GHANA_TZ = ZoneInfo("Africa/Accra")
 USER_AGENT = "GSE-Investor-Intelligence/1.0 (+https://github.com/jnartey-lab/investor-app)"
 BROWSER_USER_AGENT = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
@@ -228,7 +228,7 @@ def extract_indicators(content_by_source: dict[str, str]) -> dict[str, Any]:
 
 def build_payload() -> dict[str, Any]:
     now_utc = datetime.now(timezone.utc)
-    now_ny = now_utc.astimezone(NY_TZ)
+    now_ghana = now_utc.astimezone(GHANA_TZ)
     content_by_source: dict[str, str] = {}
     previous_indicators = load_previous_indicators()
     source_status = []
@@ -263,8 +263,8 @@ def build_payload() -> dict[str, Any]:
 
     payload = {
         "generatedAt": now_utc.isoformat(),
-        "generatedAtEastern": now_ny.isoformat(),
-        "schedule": "Daily at 11:00 America/New_York via GitHub Actions",
+        "generatedAtGhana": now_ghana.isoformat(),
+        "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
         "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
         "indicators": indicators,
         "items": news_items[:80],
@@ -282,16 +282,16 @@ def already_updated_today() -> bool:
     except (OSError, json.JSONDecodeError):
         return False
 
-    generated_at = payload.get("generatedAtEastern")
+    generated_at = payload.get("generatedAtGhana") or payload.get("generatedAt")
     if not isinstance(generated_at, str):
         return False
 
     try:
-        generated_date = datetime.fromisoformat(generated_at).astimezone(NY_TZ).date()
+        generated_date = datetime.fromisoformat(generated_at).astimezone(GHANA_TZ).date()
     except ValueError:
         return False
 
-    return generated_date == datetime.now(NY_TZ).date()
+    return generated_date == datetime.now(GHANA_TZ).date()
 
 
 def main() -> int:
@@ -300,7 +300,7 @@ def main() -> int:
     args = parser.parse_args()
 
     if args.skip_if_updated_today and already_updated_today():
-        print("Skipping: data was already refreshed for today's America/New_York date.")
+        print("Skipping: data was already refreshed for today's Africa/Accra date.")
         return 0
 
     payload = build_payload()

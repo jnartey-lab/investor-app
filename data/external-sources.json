@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-04T17:54:24.444379+00:00",
-  "generatedAtEastern": "2026-05-04T13:54:24.444379-04:00",
-  "schedule": "Daily at 11:00 America/New_York via GitHub Actions",
+  "generatedAt": "2026-05-04T18:14:35.615032+00:00",
+  "generatedAtGhana": "2026-05-04T18:14:35.615032+00:00",
+  "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
     "gseIndices": {
@@ -675,7 +675,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-04T17:54:24.444379+00:00"
+      "fetchedAt": "2026-05-04T18:14:35.615032+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -684,7 +684,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-04T17:54:24.444379+00:00"
+      "fetchedAt": "2026-05-04T18:14:35.615032+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -693,7 +693,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-04T17:54:24.444379+00:00"
+      "fetchedAt": "2026-05-04T18:14:35.615032+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -702,7 +702,7 @@
       "kind": "html",
       "ok": false,
       "error": "Source returned a placeholder/unavailable page.",
-      "fetchedAt": "2026-05-04T17:54:24.444379+00:00"
+      "fetchedAt": "2026-05-04T18:14:35.615032+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -711,7 +711,7 @@
       "kind": "html",
       "ok": false,
       "error": "Source returned a placeholder/unavailable page.",
-      "fetchedAt": "2026-05-04T17:54:24.444379+00:00"
+      "fetchedAt": "2026-05-04T18:14:35.615032+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -720,7 +720,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-04T17:54:24.444379+00:00"
+      "fetchedAt": "2026-05-04T18:14:35.615032+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -729,7 +729,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-04T17:54:24.444379+00:00"
+      "fetchedAt": "2026-05-04T18:14:35.615032+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -738,7 +738,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-04T17:54:24.444379+00:00"
+      "fetchedAt": "2026-05-04T18:14:35.615032+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -747,7 +747,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-04T17:54:24.444379+00:00"
+      "fetchedAt": "2026-05-04T18:14:35.615032+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -756,7 +756,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-04T17:54:24.444379+00:00"
+      "fetchedAt": "2026-05-04T18:14:35.615032+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -765,7 +765,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-04T17:54:24.444379+00:00"
+      "fetchedAt": "2026-05-04T18:14:35.615032+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -774,7 +774,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-04T17:54:24.444379+00:00"
+      "fetchedAt": "2026-05-04T18:14:35.615032+00:00"
     },
     {
       "name": "Citi Business News",
@@ -783,7 +783,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-04T17:54:24.444379+00:00"
+      "fetchedAt": "2026-05-04T18:14:35.615032+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -792,7 +792,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-04T17:54:24.444379+00:00"
+      "fetchedAt": "2026-05-04T18:14:35.615032+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -801,7 +801,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-05-04T17:54:24.444379+00:00"
+      "fetchedAt": "2026-05-04T18:14:35.615032+00:00"
     }
   ]
 }

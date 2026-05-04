@@ -40,13 +40,13 @@ Stock-level price rows remain a front-end dataset until a licensed GSE feed, app
 
 The repository includes a GitHub Actions workflow at `.github/workflows/update-data.yml`.
 
-It runs every day at 11:00 AM America/New_York and writes refreshed public-source data to:
+It runs every day at 11:00 AM Africa/Accra and writes refreshed public-source data to:
 
 ```text
 data/external-sources.json
 ```
 
-The workflow is scheduled at both 15:00 and 16:00 UTC because GitHub cron uses UTC and does not automatically handle Eastern daylight saving changes. The Python script checks the actual `America/New_York` time and only updates during the 11:00 AM hour.
+The workflow is scheduled at 11:00 UTC because Ghana time is UTC year-round. The Python script checks the current `Africa/Accra` date and skips duplicate same-day scheduled refreshes.
 
 Manual refresh:
 

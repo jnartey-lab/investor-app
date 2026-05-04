@@ -2,10 +2,9 @@ name: Daily external data update
 
 on:
   schedule:
-    # GitHub cron is UTC and scheduled jobs can be delayed. Running at both
-    # 15:00 and 16:00 UTC covers daylight saving; the script skips duplicates.
-    - cron: "0 15 * * *"
-    - cron: "0 16 * * *"
+    # GitHub cron is UTC. Ghana time is UTC year-round, so this runs at
+    # 11:00 Africa/Accra; the script skips duplicate same-day refreshes.
+    - cron: "0 11 * * *"
   workflow_dispatch:
 
 permissions:
