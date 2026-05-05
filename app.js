@@ -256,7 +256,7 @@ function renderMetrics() {
   const unchanged = marketData.stocks.length - advancers - decliners;
 
   byId("tradingDate").textContent = marketData.tradingDate;
-  byId("lastUpdated").textContent = `Last updated: ${formatStaticGhanaDate(marketData.tradingDate)} Ghana Time`;
+  renderFreshness();
   byId("marketMetrics").innerHTML = [
     metric("Composite Index", number.format(marketData.indices.composite.value), formatPercent(marketData.indices.composite.percent), classFor(marketData.indices.composite.change), marketData.indices.composite.sourceUrl),
     metric("Financial Index", number.format(marketData.indices.financial.value), formatPercent(marketData.indices.financial.percent), classFor(marketData.indices.financial.change), marketData.indices.financial.sourceUrl),
@@ -275,6 +275,19 @@ function renderMetrics() {
 function formatStaticGhanaDate(dateValue) {
   const [year, month, day] = dateValue.split("-").map(Number);
   return ghanaDateTime.format(new Date(Date.UTC(year, month - 1, day, 11, 0, 0)));
+}
+
+function renderFreshness() {
+  const generatedAt = externalData?.generatedAt;
+  if (generatedAt) {
+    const generatedDate = new Date(generatedAt);
+    byId("dataFreshness").textContent = "Updated from scheduled feed";
+    byId("lastUpdated").textContent = `Last updated: ${ghanaDateTime.format(generatedDate)} Ghana Time`;
+    return;
+  }
+
+  byId("dataFreshness").textContent = "Official links attached";
+  byId("lastUpdated").textContent = `Market trading date: ${formatStaticGhanaDate(marketData.tradingDate)} Ghana Time`;
 }
 
 function metric(label, value, sub, tone, sourceUrl) {
@@ -687,9 +700,6 @@ async function loadExternalData() {
     if (!response.ok) return;
     externalData = await response.json();
     applyExternalIndicators();
-    if (externalData?.generatedAt) {
-      byId("lastUpdated").textContent = `Last updated: ${ghanaDateTime.format(new Date(externalData.generatedAt))} Ghana Time`;
-    }
     renderMetrics();
     renderMacro();
     renderCharts();
@@ -697,7 +707,7 @@ async function loadExternalData() {
     renderSources();
   } catch (error) {
     externalData = null;
-    byId("lastUpdated").textContent = `Last updated: ${formatStaticGhanaDate(marketData.tradingDate)} Ghana Time`;
+    renderFreshness();
   }
 }
 
