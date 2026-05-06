@@ -62,6 +62,7 @@ SOURCES = [
     Source("Citi Business News", "https://citibusinessnews.com/feed/", "Business news", "rss"),
     Source("MyJoyOnline Business", "https://www.myjoyonline.com/business/feed/", "Business news", "rss"),
     Source("MyJoyOnline USD GHS Search", "https://www.myjoyonline.com/?s=cedi+dollar", "Public FX fallback", limit=4),
+    Source("CurrencyRate USD GHS", "https://usd.currencyrate.today/ghs", "Public FX fallback", limit=4),
     Source("MyJoyOnline GSE Search", "https://www.myjoyonline.com/?s=GSE+Composite+Index", "Public market fallback", limit=4),
     Source("MyJoyOnline Policy Rate Search", "https://www.myjoyonline.com/?s=Ghana+policy+rate", "Public macro fallback", limit=4),
     Source("MyJoyOnline Treasury Bill Search", "https://www.myjoyonline.com/?s=91-day+treasury+bill+rate", "Public macro fallback", limit=4),
@@ -72,6 +73,7 @@ SOURCES = [
 
 PUBLIC_NEWS_FALLBACK_SOURCES = [
     "MyJoyOnline USD GHS Search",
+    "CurrencyRate USD GHS",
     "MyJoyOnline GSE Search",
     "MyJoyOnline Policy Rate Search",
     "MyJoyOnline Treasury Bill Search",
@@ -236,6 +238,8 @@ def extract_public_news_usd_ghs(text: str) -> dict[str, float | str] | None:
 
     single_rate_patterns = [
         r"(?:one\s+)?dollar(?:\s+equals|\s+is\s+selling\s+at|\s+is\s+trading\s+at|\s+trades?\s+at).{0,40}?GH[¢cS]?\s*([\d,.]+)",
+        r"(?:current\s+)?exchange\s+rate\s+is\s+([\d,.]+)",
+        r"1\s+USD\s*(?:=|equals)\s*([\d,.]+)\s*GHS",
         r"cedi\s+trades?\s+at\s+GH[¢cS]?\s*([\d,.]+)\s+(?:to|per)\s+(?:the\s+)?(?:US\s+)?dollar",
         r"GH[¢cS]?\s*([\d,.]+)\s+(?:to|per)\s+(?:the\s+)?(?:US\s+)?dollar",
     ]
@@ -398,6 +402,9 @@ def merge_indicators(previous: dict[str, Any], current: dict[str, Any]) -> dict[
             nested = dict(merged[key])
             current_is_fallback = value.get("sourceType") == "public_news_fallback"
             previous_is_fallback = nested.get("sourceType") == "public_news_fallback"
+            if key == "fx" and current_is_fallback:
+                merged[key] = {nested_key: nested_value for nested_key, nested_value in value.items() if nested_value is not None}
+                continue
             if current_is_fallback and not previous_is_fallback:
                 changed = False
                 for nested_key, nested_value in value.items():
