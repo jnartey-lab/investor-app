@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-05T12:06:14.286529+00:00",
-  "generatedAtGhana": "2026-05-05T12:06:14.286529+00:00",
+  "generatedAt": "2026-05-06T12:58:04.400451+00:00",
+  "generatedAtGhana": "2026-05-06T12:58:04.400451+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
@@ -14,7 +14,7 @@
     "bankOfGhana": {
       "policyRate": 14.0,
       "tBill91Day": 4.8634,
-      "inflation": 3.2,
+      "inflation": 3.4,
       "source": "Bank of Ghana",
       "url": "https://www.bog.gov.gh/"
     },
@@ -523,67 +523,123 @@
       "category": "Sovereign credit research"
     },
     {
-      "title": "Banks can close digital gap through fintech alliances – Prudential Bank Ag. MD",
-      "url": "https://thebftonline.com/2026/05/05/banks-can-close-digital-gap-through-fintech-alliances-prudential-bank-ag-md/",
-      "summary": "Ebow Quayson, Acting Managing Director of Prudential Bank, said lenders that were slow to digitise can still close the gap by forming strategic partnerships with fintech firms, arguing that collaboration is now central to scaling digital capabilities. “Banks t",
-      "publishedAt": "2026-05-05T11:58:41+00:00",
+      "title": "IMF, World Bank responses risk deepening debt, austerity crisis: Global South warns",
+      "url": "https://thebftonline.com/2026/05/06/imf-world-bank-responses-risk-deepening-debt-austerity-crisis-global-south-warns/",
+      "summary": "By Kizito CUDJOE Civil society groups and policy advocates from Africa and the wider Global South have warned that policy prescriptions emerging from the 2026 Spring Meetings of the International Monetary Fund (IMF) and World Bank risk entrenching a cycle of d",
+      "publishedAt": "2026-05-06T12:40:09+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Editorial: Bank of Ghana answers critics",
-      "url": "https://thebftonline.com/2026/05/05/editorial-bank-of-ghana-answers-critics/",
-      "summary": "The nation’s central bank, the Bank of Ghana (BoG), has defended its financial position for 2025 – insisting that despite recording a GH¢15.6billion operating loss and negative equity, it remains capable of delivering on its core monetary policy mandate. This ",
-      "publishedAt": "2026-05-05T11:30:52+00:00",
+      "title": "AfCFTA Secretary-General urges action-oriented climate and trade agenda in Africa",
+      "url": "https://thebftonline.com/2026/05/06/afcfta-secretary-general-urges-action-oriented-climate-and-trade-agenda-in-africa/",
+      "summary": "The Secretary-General of the AfCFTA Secretariat, Wamkele Mene, has underscored the urgency of translating strategic frameworks into concrete programmes capable of attracting financing and delivering measurable impact across the continent at a Presidential Init",
+      "publishedAt": "2026-05-06T12:30:07+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Internal controls and MSME survival: Reducing fraud, theft and financial leakages",
-      "url": "https://thebftonline.com/2026/05/05/internal-controls-and-msme-survival-reducing-fraud-theft-and-financial-leakages/",
-      "summary": "By Dickson ASSAN Employee dishonesty, particularly among young workers entrusted with critical operational responsibilities, has emerged as one of the most pressing concerns for owners of Micro, Small, and Medium Enterprises (MSMEs) in Ghana. Across most MSMEs",
-      "publishedAt": "2026-05-05T11:24:19+00:00",
+      "title": "MISORNU, FOSDA hold landmark safety and security awareness training for over 200 cadet leaders",
+      "url": "https://thebftonline.com/2026/05/06/misornu-fosda-hold-landmark-safety-and-security-awareness-training-for-over-200-cadet-leaders/",
+      "summary": "MISORNU Safety Center and the Foundation for Security and Development in Africa (FOSDA) held a groundbreaking joint Security and Safety Awareness training session for more than 200 Cadet Leaders and Trainers across Ghana. The two‑hour virtual session, hosted f",
+      "publishedAt": "2026-05-06T12:20:12+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Bank of Ghana in 2025: Financially impaired but operationally resilient",
-      "url": "https://thebftonline.com/2026/05/05/bank-of-ghana-in-2025-financially-impaired-but-operationally-resilient/",
-      "summary": "By: Williams Kwasi PEPRAH, PhD The Bank of Ghana’s 2025 financial statements present a striking paradox; one that would appear alarming in any conventional financial institution but is, in the context of central banking, more nuanced. The Bank of Ghana has rep",
-      "publishedAt": "2026-05-05T11:17:31+00:00",
+      "title": "Tony Bonsu supports Madina BECE candidates",
+      "url": "https://thebftonline.com/2026/05/06/tony-bonsu-supports-madina-bece-candidates/",
+      "summary": "The Chief Executive Officer (CEO) of TAG Transport & Logistics and an aspiring National Democratic Congress (NDC) Executive Member for the Madina Constituency, Tony Bonsu, has donated a significant supply of educational materials to final-year students in a de",
+      "publishedAt": "2026-05-06T12:12:28+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Editorial: Local rice producers ‘up in arms’ against influx of cheap, smuggled rice",
-      "url": "https://thebftonline.com/2026/05/05/editorial-local-rice-producers-up-in-arms-against-influx-of-cheap-smuggled-rice/",
-      "summary": "The Association of Ghana Rice Producers and Processors is angered and perplexed by an estimated one million metric tonnes of unsold paddy rice on the local market. The association says the glut – estimated at GH¢5billion – is due to a severe shortage of buyers",
-      "publishedAt": "2026-05-05T11:05:14+00:00",
+      "title": "OPIT introduces new online doctorate in AI",
+      "url": "https://thebftonline.com/2026/05/06/opit-introduces-new-online-doctorate-in-ai/",
+      "summary": "…Targets growing demand for tech leadership in Africa The Open Institute of Technology (OPIT) has launched a professional doctorate in applied Artificial Intelligence (AI), starting in September 2026 and delivered entirely online. This new programme is a Level",
+      "publishedAt": "2026-05-06T12:10:09+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "The growing relationship between Africa and Denmark",
-      "url": "https://thebftonline.com/2026/05/05/the-growing-relationship-between-africa-and-denmark/",
-      "summary": "By Desmond NYAMPONG While global attention often focuses on Africa’s ties with major powers like the United States and China, Denmark is quietly emerging as a significant and reliable development partner on the continent. Denmark, a Northern European country, ",
-      "publishedAt": "2026-05-05T11:00:46+00:00",
+      "title": "Africa-China 2.0 with Paul Frimpong: From market access to market readiness: Making the most of China’s Zero Tariff Opportunity",
+      "url": "https://thebftonline.com/2026/05/06/africa-china-2-0-with-paul-frimpong-from-market-access-to-market-readiness-making-the-most-of-chinas-zero-tariff-opportunity/",
+      "summary": "A Historic Shift On May 1, China’s zero tariff policy for African countries entered full implementation, marking a significant milestone in Africa–China economic relations. For the first time, African exporters have near-complete tariff-free access to one of t",
+      "publishedAt": "2026-05-06T12:10:00+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "RTIC awards deserving workers to mark May day",
-      "url": "https://thebftonline.com/2026/05/05/rtic-awards-deserving-workers-to-mark-may-day/",
-      "summary": "Staff of the Right To Information Commission (RTIC) have been reminded that they are the custodians of a national mandate to ensure that democratic and inclusive governance is upheld in the country and must therefore showcase excellence, discipline and integri",
-      "publishedAt": "2026-05-05T10:54:14+00:00",
+      "title": "GTDC CEO Prof. Kobby Mensah ranked among global leaders shaping place branding",
+      "url": "https://thebftonline.com/2026/05/06/gtdc-ceo-prof-kobby-mensah-ranked-among-global-leaders-shaping-place-branding/",
+      "summary": "The Chief Executive Officer of the Ghana Tourism Development Company (GTDC), Professor Kobby Mensah, has been named among the 2026 “Twelve Leaders Shaping Place Branding Right Now” by The Place Brand Observer (TPBO). The annual list, unveiled on April 28, 2026",
+      "publishedAt": "2026-05-06T12:07:45+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Our moment at the African Union: Beyond symbolism, toward substance",
-      "url": "https://thebftonline.com/2026/05/05/our-moment-at-the-african-union-beyond-symbolism-toward-substance/",
-      "summary": "By Samuel Koranteng ADJEI Africa does not lack vision. What it lacks is execution. The disparity between aspiration and execution characterises the African Union (AU) now. The AU has for decades advocated for a comprehensive agenda that includes economic integ",
-      "publishedAt": "2026-05-05T10:44:46+00:00",
+      "title": "Forty-four years of standing still: The manufacturing stagnation and the price paid in people",
+      "url": "https://thebftonline.com/2026/05/06/forty-four-years-of-standing-still-the-manufacturing-stagnation-and-the-price-paid-in-people/",
+      "summary": "By Stephen AGBEMASIKU There is a question that has followed me through every economics lecture, every policy seminar, every set of national accounts I have opened as a student in Ghana: why is a son of one of Africa’s most resource-endowed nations struggling t",
+      "publishedAt": "2026-05-06T12:06:02+00:00",
       "source": "Business & Financial Times",
+      "category": "Business news"
+    },
+    {
+      "title": "Ghana Minister engages Moroccan officials on bilateral trade expansion",
+      "url": "https://www.ghanabusinessnews.com/2026/05/06/ghana-minister-engages-moroccan-officials-on-bilateral-trade-expansion/",
+      "summary": "Madam Elizabeth Ofosu-Adjare, Minister of Trade, Agribusiness and Industry, is on a three-day working visit to Morocco to deepen trade relations and promote investment cooperation between the two countries. The post Ghana Minister engages Moroccan officials on",
+      "publishedAt": "2026-05-06T12:44:40+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Okada rider remanded over GH¢37,000 gold necklace robbery",
+      "url": "https://www.ghanabusinessnews.com/2026/05/06/okada-rider-remanded-over-gh%c2%a237000-gold-necklace-robbery/",
+      "summary": "An Accra Circuit Court has remanded an Okada rider accused of robbing a man of a gold necklace valued at GH¢37,000.00. The post Okada rider remanded over GH¢37,000 gold necklace robbery appeared first on Ghana Business News .",
+      "publishedAt": "2026-05-06T12:35:28+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Germany receives €4.6b from EU’s COVID-19 recovery fund",
+      "url": "https://www.ghanabusinessnews.com/2026/05/06/germany-receives-e4-6b-from-eus-covid-19-recovery-fund/",
+      "summary": "Germany has received a disbursement of €4.6 billion ($5.4 billion) from the European Union's COVID-19 recovery fund, the European Commission said. The post Germany receives €4.6b from EU’s COVID-19 recovery fund appeared first on Ghana Business News .",
+      "publishedAt": "2026-05-06T12:28:36+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Court remands three men in jewellery shop robberies",
+      "url": "https://www.ghanabusinessnews.com/2026/05/06/court-remands-three-men-in-jewellery-shop-robberies/",
+      "summary": "An Accra Circuit Court has remanded three persons accused of robbing jewellery shops at Airport Residential Area and Westlands. The post Court remands three men in jewellery shop robberies appeared first on Ghana Business News .",
+      "publishedAt": "2026-05-06T12:20:44+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Lands Minister inaugurates committee to examine ADAMUS’ petition",
+      "url": "https://www.ghanabusinessnews.com/2026/05/06/lands-minister-inaugurates-committee-to-examine-adamus-petition/",
+      "summary": "Mr Emmanuel Armah-Kofi Buah, the Minister of Lands and Natural Resources, has inaugurated an Independent Petition Review Committee to examine the petition submitted by Adamus Resources Limited, a gold prospecting company in the Ellembelle District regarding th",
+      "publishedAt": "2026-05-06T07:51:16+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "GRMA urges government to scale up specialised midwifery training to reduce maternal deaths",
+      "url": "https://www.ghanabusinessnews.com/2026/05/06/grma-urges-government-to-scale-up-specialised-midwifery-training-to-reduce-maternal-deaths/",
+      "summary": "Mrs Netta Forson Ackon, President of the Ghana Registered Midwives Association, has called on the government to prioritise the expansion of the midwifery workforce in national health planning, budgeting, and implementation to accelerate recruitment and deploym",
+      "publishedAt": "2026-05-06T07:48:09+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Bank of Ghana’s 2025 loss tied to economic stabilisation – NDC Majority Caucus",
+      "url": "https://www.ghanabusinessnews.com/2026/05/05/bank-of-ghanas-2025-loss-tied-to-economic-stabilisation-ndc-majority-caucus/",
+      "summary": "The Majority side of Parliament’s Committee on Economy and Development has clarified that the Bank of Ghana’s (BoG) 2025 financial loss was the result of deliberate policy interventions aimed at stabilising the economy, rather than a sign of institutional fail",
+      "publishedAt": "2026-05-05T17:08:20+00:00",
+      "source": "Ghana Business News",
       "category": "Business news"
     },
     {
@@ -591,62 +647,6 @@
       "url": "https://www.ghanabusinessnews.com/2026/05/05/joberg-ghana-donates-gh%c2%a22-25m-to-getfund/",
       "summary": "JOBerg Ghana Limited has donated GH¢2,250,000 to the Ghana Education Trust Fund (GETFund) for the construction of a six-unit classroom block and a six-seater toilet facility at Afife Roman Catholic Primary School in the Ketu North Municipality of the Volta Reg",
       "publishedAt": "2026-05-05T07:48:43+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Ghana Parliament to reconvene on May 21 for Second Meeting of Second Session",
-      "url": "https://www.ghanabusinessnews.com/2026/05/05/ghana-parliament-to-reconvene-on-may-21-for-second-meeting-of-second-session/",
-      "summary": "The Second Meeting of the Second Session of the Ninth Parliament of the Fourth Republic will resume sitting on Thursday, May 21. Speaker of Parliament, Mr Alban Sumana Kingsford Bagbin has announced in a formal notice made available to the Ghana News Agency on",
-      "publishedAt": "2026-05-05T07:43:29+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "BNI arrests four for questioning over PDS",
-      "url": "https://www.ghanabusinessnews.com/2026/05/05/bni-arrests-four-for-questioning-over-pds/",
-      "summary": "The Bureau of National Intelligence (BNI) has arrested four persons affiliated to PDS last week as part of investigations into the transfer of large sums of money believed to belong to the Electricity Company of Ghana (ECG). The post BNI arrests four for quest",
-      "publishedAt": "2026-05-05T07:34:55+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Seven teachers arrested over BECE infractions",
-      "url": "https://www.ghanabusinessnews.com/2026/05/05/seven-teachers-arrested-over-bece-infractions/",
-      "summary": "Seven teachers have been arrested for various examination infractions in the ongoing Basic Education Certificate Examination (BECE), the West African Examinations Council (WAEC) has confirmed. The post Seven teachers arrested over BECE infractions appeared fir",
-      "publishedAt": "2026-05-05T07:28:34+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Ghana’s press freedom rankings improve, but gains remain modest – MRi",
-      "url": "https://www.ghanabusinessnews.com/2026/05/04/ghanas-press-freedom-rankings-improve-but-gains-remain-modest-mri/",
-      "summary": "Ghana has made notable progress on the Reporters Without Borders (RSF) 2026 World Press Freedom Index, climbing 13 places from 52nd in 2025 to 39th in 2026. The post Ghana’s press freedom rankings improve, but gains remain modest – MRi appeared first on Ghana ",
-      "publishedAt": "2026-05-04T15:48:29+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Regional Conference spotlights economic value of cashew apples",
-      "url": "https://www.ghanabusinessnews.com/2026/05/04/regional-conference-spotlights-economic-value-of-cashew-apples/",
-      "summary": "Ghana has hosted a regional conference to highlight the economic potential of cashew apple valorisation, as policymakers and industry players called for urgent investment and collaboration to reduce waste. The post Regional Conference spotlights economic value",
-      "publishedAt": "2026-05-04T15:43:49+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Pharmaceutical Society of Ghana launches 90th anniversary celebrations",
-      "url": "https://www.ghanabusinessnews.com/2026/05/04/pharmaceutical-society-of-ghana-launches-90th-anniversary-celebrations/",
-      "summary": "The Pharmaceutical Society of Ghana (PSGH) has launched activities to mark its 90th anniversary, with calls for strengthened ethics and patient-centred practice. The post Pharmaceutical Society of Ghana launches 90th anniversary celebrations appeared first on ",
-      "publishedAt": "2026-05-04T15:30:47+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "More than 600,000 candidates nationwide start BECE today",
-      "url": "https://www.ghanabusinessnews.com/2026/05/04/more-than-600000-candidates-nationwide-start-bece-today/",
-      "summary": "A total of 619,985 candidates are expected to sit for this year’s Basic Education Certificate Examination (BECE), scheduled to run from Monday, May 4 to Monday, May 11, 2026. The post More than 600,000 candidates nationwide start BECE today appeared first on G",
-      "publishedAt": "2026-05-04T08:03:41+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
@@ -683,7 +683,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-05T12:06:14.286529+00:00"
+      "fetchedAt": "2026-05-06T12:58:04.400451+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -692,7 +692,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-05T12:06:14.286529+00:00"
+      "fetchedAt": "2026-05-06T12:58:04.400451+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -701,7 +701,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-05T12:06:14.286529+00:00"
+      "fetchedAt": "2026-05-06T12:58:04.400451+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -710,7 +710,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-05T12:06:14.286529+00:00"
+      "fetchedAt": "2026-05-06T12:58:04.400451+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -719,7 +719,7 @@
       "kind": "html",
       "ok": false,
       "error": "Source returned a placeholder/unavailable page.",
-      "fetchedAt": "2026-05-05T12:06:14.286529+00:00"
+      "fetchedAt": "2026-05-06T12:58:04.400451+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -728,7 +728,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-05T12:06:14.286529+00:00"
+      "fetchedAt": "2026-05-06T12:58:04.400451+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -737,7 +737,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-05T12:06:14.286529+00:00"
+      "fetchedAt": "2026-05-06T12:58:04.400451+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -746,7 +746,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-05T12:06:14.286529+00:00"
+      "fetchedAt": "2026-05-06T12:58:04.400451+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -755,7 +755,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-05T12:06:14.286529+00:00"
+      "fetchedAt": "2026-05-06T12:58:04.400451+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -764,7 +764,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-05T12:06:14.286529+00:00"
+      "fetchedAt": "2026-05-06T12:58:04.400451+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -773,7 +773,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-05T12:06:14.286529+00:00"
+      "fetchedAt": "2026-05-06T12:58:04.400451+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -782,7 +782,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-05T12:06:14.286529+00:00"
+      "fetchedAt": "2026-05-06T12:58:04.400451+00:00"
     },
     {
       "name": "Citi Business News",
@@ -791,7 +791,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-05T12:06:14.286529+00:00"
+      "fetchedAt": "2026-05-06T12:58:04.400451+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -800,7 +800,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-05T12:06:14.286529+00:00"
+      "fetchedAt": "2026-05-06T12:58:04.400451+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -809,7 +809,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-05T12:06:14.286529+00:00"
+      "fetchedAt": "2026-05-06T12:58:04.400451+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -818,7 +818,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-05T12:06:14.286529+00:00"
+      "fetchedAt": "2026-05-06T12:58:04.400451+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -827,7 +827,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-05T12:06:14.286529+00:00"
+      "fetchedAt": "2026-05-06T12:58:04.400451+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -836,7 +836,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-05T12:06:14.286529+00:00"
+      "fetchedAt": "2026-05-06T12:58:04.400451+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -845,7 +845,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-05T12:06:14.286529+00:00"
+      "fetchedAt": "2026-05-06T12:58:04.400451+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -854,16 +854,16 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-05T12:06:14.286529+00:00"
+      "fetchedAt": "2026-05-06T12:58:04.400451+00:00"
     },
     {
       "name": "Bloomberg Markets",
       "url": "https://www.bloomberg.com/markets",
       "category": "Global markets",
       "kind": "html",
-      "ok": true,
-      "error": null,
-      "fetchedAt": "2026-05-05T12:06:14.286529+00:00"
+      "ok": false,
+      "error": "HTTP Error 403: Forbidden",
+      "fetchedAt": "2026-05-06T12:58:04.400451+00:00"
     }
   ]
 }
