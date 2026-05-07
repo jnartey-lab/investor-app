@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-06T19:28:37.171100+00:00",
-  "generatedAtGhana": "2026-05-06T19:28:37.171100+00:00",
+  "generatedAt": "2026-05-07T12:59:26.366358+00:00",
+  "generatedAtGhana": "2026-05-07T12:59:26.366358+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
@@ -160,6 +160,70 @@
       "publishedAt": null,
       "source": "GSE Listed Companies",
       "category": "Official issuer universe"
+    },
+    {
+      "title": "Current Monetary Policy Rate (%)",
+      "url": "https://www.bog.gov.gh/",
+      "summary": "",
+      "publishedAt": null,
+      "source": "Bank of Ghana",
+      "category": "Official macro"
+    },
+    {
+      "title": "Inflation Target (%)",
+      "url": "https://www.bog.gov.gh/",
+      "summary": "",
+      "publishedAt": null,
+      "source": "Bank of Ghana",
+      "category": "Official macro"
+    },
+    {
+      "title": "Current inflation rate (%)",
+      "url": "https://www.bog.gov.gh/",
+      "summary": "",
+      "publishedAt": null,
+      "source": "Bank of Ghana",
+      "category": "Official macro"
+    },
+    {
+      "title": "91-Day Treasury Bill Rate (%)",
+      "url": "https://www.bog.gov.gh/",
+      "summary": "",
+      "publishedAt": null,
+      "source": "Bank of Ghana",
+      "category": "Official macro"
+    },
+    {
+      "title": "Broadcast",
+      "url": "https://www.bog.gov.gh/",
+      "summary": "",
+      "publishedAt": null,
+      "source": "Bank of Ghana",
+      "category": "Official macro"
+    },
+    {
+      "title": "129TH MPC PRESS BRIEFING",
+      "url": "https://www.bog.gov.gh/",
+      "summary": "",
+      "publishedAt": null,
+      "source": "Bank of Ghana",
+      "category": "Official macro"
+    },
+    {
+      "title": "122nd MPC Press Briefing",
+      "url": "https://www.bog.gov.gh/",
+      "summary": "",
+      "publishedAt": null,
+      "source": "Bank of Ghana",
+      "category": "Official macro"
+    },
+    {
+      "title": "97th MPC Press Conference - Bank of Ghana",
+      "url": "https://www.bog.gov.gh/",
+      "summary": "",
+      "publishedAt": null,
+      "source": "Bank of Ghana",
+      "category": "Official macro"
     },
     {
       "title": "Ghana at a Glance",
@@ -458,67 +522,99 @@
       "category": "Sovereign credit research"
     },
     {
-      "title": "Amusan, Samukonga confirmed for Accra 2026",
-      "url": "https://thebftonline.com/2026/05/06/amusan-samukonga-confirmed-for-accra-2026/",
-      "summary": "Nigerian superstar and former world champion, Tobi Amusan has confirmed her participation at the African Senior Athletics Championship billed to open in Ghana on May, 12, 2026. The 100mH speedster is expected to lead a star- studded Nigerian team for the Champ",
-      "publishedAt": "2026-05-06T16:22:48+00:00",
+      "title": "AAK calls for stronger regional alignment to unlock full value of West Africa’s Shea industry",
+      "url": "https://thebftonline.com/2026/05/07/aak-calls-for-stronger-regional-alignment-to-unlock-full-value-of-west-africas-shea-industry/",
+      "summary": "AAK, a globally recognised leader in plant-based oils and fats production with a long-standing presence in the West African shea industry, has called for stronger regional coordination and resilience across the shea value chain, as critical priorities for unlo",
+      "publishedAt": "2026-05-07T12:23:05+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Maison Yusif’s “The Beast” set for summer 2026 Release: Notes, Team, Backstory unveiled",
-      "url": "https://thebftonline.com/2026/05/06/maison-yusifs-the-beast-set-for-summer-2026-release-notes-team-backstory-unveiled/",
-      "summary": "Maison Yusif has confirmed the summer 2026 release of _The Beast_, and the details signal a major play in modern oud. The concept: Per master perfumer *Yusif Jnr Meizongo*, _The Beast_ is “not just another fragrance. It is a statement. A reflection of power, l",
-      "publishedAt": "2026-05-06T16:15:40+00:00",
+      "title": "Editorial: Prioritise workplace health and safety",
+      "url": "https://thebftonline.com/2026/05/07/editorial-prioritise-workplace-health-and-safety/",
+      "summary": "Businesses, regulators and health and safety practitioners must go beyond physical safety and pay more attention to workers’ mental wellbeing and overall safety. The President-Safety, Health, Environmental and Quality Professionals Association of Ghana (SHEQ-P",
+      "publishedAt": "2026-05-07T12:15:59+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "GPHA delegation attends Burkina Faso culture week, tours its newly refurbished office",
-      "url": "https://thebftonline.com/2026/05/06/gpha-delegation-attends-burkina-faso-culture-week-tours-its-newly-refurbished-office/",
-      "summary": "The Director-General of the Ghana Ports and Harbours Authority (GPHA), Major General Paul Seidu Tanye Kulono, has led a delegation of the Authority as part of Ghana’s participation in the 22nd edition of Burkina Faso’s National Culture Week. Burkina Faso remai",
-      "publishedAt": "2026-05-06T16:05:23+00:00",
+      "title": "AfCFTA Secretary General engages African Diplomatic Corps in Canada to deepen trade cooperation",
+      "url": "https://thebftonline.com/2026/05/07/afcfta-secretary-general-engages-african-diplomatic-corps-in-canada-to-deepen-trade-cooperation/",
+      "summary": "As part of his official visit to Canada, . Wamkele Mene, Secretary-General of the AfCFTA Secretariat, has reinforced diplomatic engagement with African missions in Canada through a courtesy call on Prosper Higiro, Rwanda’s High Commissioner to Canada and Dean ",
+      "publishedAt": "2026-05-07T12:08:55+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Chiiief bridges gaps for fans with Stadium Tours",
-      "url": "https://thebftonline.com/2026/05/06/chiiief-bridges-gaps-for-fans-with-stadium-tours/",
-      "summary": "Ghanaian media entrepreneur Chiiief has debuted the first episode of his highly anticipated new digital series, Stadium Tours With Chiiief (STWC)- marking the start of an exciting new chapter in sports-led entertainment, travel storytelling and destination con",
-      "publishedAt": "2026-05-06T16:00:32+00:00",
+      "title": "AfCFTA Secretariat deepens Canada ties in high-level Ottawa talks",
+      "url": "https://thebftonline.com/2026/05/07/afcfta-secretariat-deepens-canada-ties-in-high-level-ottawa-talks/",
+      "summary": "The African Continental Free Trade Area (AfCFTA) Secretariat has taken a significant step toward strengthening global partnerships following a high-level engagement in Ottawa with senior officials of Global Affairs Canada (GAC). The meeting, held during an off",
+      "publishedAt": "2026-05-07T12:06:59+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "CEPIL trains mining community members on compensation rights under Fair Finance Project",
-      "url": "https://thebftonline.com/2026/05/06/cepil-trains-mining-community-members-on-compensation-rights-under-fair-finance-project/",
-      "summary": "The Centre for Public Interest Law (CEPIL) has equipped 39 community members affected by mining operations with practical legal knowledge on compensation, land rights and grievance mechanisms under the Oxfam in Ghana Fair Finance Project. The one-day workshop,",
-      "publishedAt": "2026-05-06T15:42:12+00:00",
+      "title": "On Cue with Kafui Dey: Signs you’re not ready for media interviews",
+      "url": "https://thebftonline.com/2026/05/07/on-cue-with-kafui-dey-signs-youre-not-ready-for-media-interviews/",
+      "summary": "Every so often, I meet a very accomplished professional who says, “I’m ready for media.” They have the experience. They have the credentials. They have the confidence. Then the camera comes on. And suddenly… things change. Sentences become longer. Answers beco",
+      "publishedAt": "2026-05-07T12:04:46+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Implication of new investment law for AFCFTA Implementation",
-      "url": "https://thebftonline.com/2026/05/06/implication-of-new-investment-law-for-afcfta-implementation/",
-      "summary": "By Dode Seidu, Chief Executive, Africa Trade Academy a) Introduction On April 4th 2026, Ghana’s Parliament approved the Ghana Investment Promotion Act (GIPA) Bill 2025 into law, replacing the over a decade old investment code and ushering a new era in Ghana’s ",
-      "publishedAt": "2026-05-06T15:16:16+00:00",
+      "title": "Editorial: Strengthening poultry value chain to reduce huge import bill",
+      "url": "https://thebftonline.com/2026/05/07/editorial-strengthening-poultry-value-chain-to-reduce-huge-import-bill/",
+      "summary": "As part of efforts to revitalise the local poultry sector and reduce the country’s dependence on imports, the Ministry of Food and Agriculture will begin distributing poultry to large-scale commercial farmers in June. This forms part of the broader poultry rev",
+      "publishedAt": "2026-05-07T12:03:16+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "RoNAG marks Earth Day with Lake Bosomtwe clean-up, rights workshop",
-      "url": "https://thebftonline.com/2026/05/06/ronag-marks-earth-day-with-lake-bosomtwe-clean-up-rights-workshop/",
-      "summary": "In commemoration of World Earth Day (WED), Rights of Nature Movement Ghana (RoNAG) spearheaded a major clean-up exercise and a Rights of Nature (RoN) sensitisation workshop with members of the Abono community in the Ashanti Region. The exercise highlighted the",
-      "publishedAt": "2026-05-06T15:09:06+00:00",
+      "title": "Transparency, trust, and leadership: How accounting and finance shape organisational credibility",
+      "url": "https://thebftonline.com/2026/05/07/transparency-trust-and-leadership-how-accounting-and-finance-shape-organisational-credibility/",
+      "summary": "By Ruby Ntiri In an era where corporate accountability is constantly under scrutiny, transparency has emerged as one of the most valuable currencies in business. Organizations are no longer judged solely by profitability, but by how openly and ethically they o",
+      "publishedAt": "2026-05-07T12:01:52+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Maison Yusif Fragrance expands to New York: Marking a bold new chapter",
-      "url": "https://thebftonline.com/2026/05/06/maison-yusif-fragrance-expands-to-new-york-marking-a-bold-new-chapter/",
-      "summary": "Ghana’s trailblazing niche fragrance house, Maison Yusif Fragrance, has officially landed in the global capital of fashion and culture, bringing its distinctive African storytelling to the heart of downtown Manhattan. In a move that signals both gratitude and ",
-      "publishedAt": "2026-05-06T14:56:52+00:00",
+      "title": "Comms and branding with Samuel OWUSU-ADUOMI: How Crocs reinvented itself: Lessons from a brand’s remarkable comeback",
+      "url": "https://thebftonline.com/2026/05/07/comms-and-branding-with-samuel-owusu-aduomi-how-crocs-reinvented-itself-lessons-from-a-brands-remarkable-comeback/",
+      "summary": "Few brands in the world of fashion and consumer products have undergone as dramatic a transformation as Crocs. Once the subject of ridicule, with many dismissing them as the epitome of poor taste, Crocs has managed to completely reinvent itself. What was once ",
+      "publishedAt": "2026-05-07T12:00:48+00:00",
       "source": "Business & Financial Times",
+      "category": "Business news"
+    },
+    {
+      "title": "Climate action must support Ghana’s Resetting Agenda – Climate",
+      "url": "https://www.ghanabusinessnews.com/2026/05/07/climate-action-must-support-ghanas-resetting-agenda-climate/",
+      "summary": "Climate action must support Ghana’s Reset Agenda and industrial transformation, create new economic opportunities, and strengthen long-term energy security, Mr Baba Seidu Issifu, the Minister of State in-charge of Climate Change and Sustainability, has stated.",
+      "publishedAt": "2026-05-07T07:46:08+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Energy Commission pushes for inclusive energy transition",
+      "url": "https://www.ghanabusinessnews.com/2026/05/07/energy-commission-pushes-for-inclusive-energy-transition/",
+      "summary": "The Energy Commission has called for an inclusive, transparent and accountable approach to Ghana’s energy transition. The post Energy Commission pushes for inclusive energy transition appeared first on Ghana Business News .",
+      "publishedAt": "2026-05-07T07:28:56+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "CSIR-CRI trains rice farmers, value chain actors on good agronomic practices",
+      "url": "https://www.ghanabusinessnews.com/2026/05/07/csir-cri-trains-rice-farmers-value-chain-actors-on-good-agronomic-practices/",
+      "summary": "Rice Farmers, millers, aggregators, seed producers, and other key value-chain actors have received training on good agronomic practices. The post CSIR-CRI trains rice farmers, value chain actors on good agronomic practices appeared first on Ghana Business News",
+      "publishedAt": "2026-05-07T07:17:40+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Expose young people to courts and prisons to curb crime – Judge",
+      "url": "https://www.ghanabusinessnews.com/2026/05/07/expose-young-people-to-courts-and-prisons-to-curb-crime-judge/",
+      "summary": "Justice Ernest Pascal Gemadzie, the Upper East Regional Supervising High Court Judge, has advocated for structured educational visits for young people to courts and prisons as a strategy to reduce crime and promote law-abiding behaviour. The post Expose young ",
+      "publishedAt": "2026-05-07T07:10:03+00:00",
+      "source": "Ghana Business News",
       "category": "Business news"
     },
     {
@@ -554,38 +650,6 @@
       "category": "Business news"
     },
     {
-      "title": "Germany receives €4.6b from EU’s COVID-19 recovery fund",
-      "url": "https://www.ghanabusinessnews.com/2026/05/06/germany-receives-e4-6b-from-eus-covid-19-recovery-fund/",
-      "summary": "Germany has received a disbursement of €4.6 billion ($5.4 billion) from the European Union's COVID-19 recovery fund, the European Commission said. The post Germany receives €4.6b from EU’s COVID-19 recovery fund appeared first on Ghana Business News .",
-      "publishedAt": "2026-05-06T12:28:36+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Court remands three men in jewellery shop robberies",
-      "url": "https://www.ghanabusinessnews.com/2026/05/06/court-remands-three-men-in-jewellery-shop-robberies/",
-      "summary": "An Accra Circuit Court has remanded three persons accused of robbing jewellery shops at Airport Residential Area and Westlands. The post Court remands three men in jewellery shop robberies appeared first on Ghana Business News .",
-      "publishedAt": "2026-05-06T12:20:44+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Lands Minister inaugurates committee to examine ADAMUS’ petition",
-      "url": "https://www.ghanabusinessnews.com/2026/05/06/lands-minister-inaugurates-committee-to-examine-adamus-petition/",
-      "summary": "Mr Emmanuel Armah-Kofi Buah, the Minister of Lands and Natural Resources, has inaugurated an Independent Petition Review Committee to examine the petition submitted by Adamus Resources Limited, a gold prospecting company in the Ellembelle District regarding th",
-      "publishedAt": "2026-05-06T07:51:16+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "GRMA urges government to scale up specialised midwifery training to reduce maternal deaths",
-      "url": "https://www.ghanabusinessnews.com/2026/05/06/grma-urges-government-to-scale-up-specialised-midwifery-training-to-reduce-maternal-deaths/",
-      "summary": "Mrs Netta Forson Ackon, President of the Ghana Registered Midwives Association, has called on the government to prioritise the expansion of the midwifery workforce in national health planning, budgeting, and implementation to accelerate recruitment and deploym",
-      "publishedAt": "2026-05-06T07:48:09+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
       "title": "Ghana Airports Company (GACL) Earns Top Honor as ‘Most Profitable’ State-Owned Enterprise at PELT Awards 2022",
       "url": "https://citibusinessnews.com/2023/10/ghana-airports-company-gacl-earns-top-honor-as-most-profitable-state-owned-enterprise-at-pelt-awards-2022/",
       "summary": "Ghana Airports Company Limited (GACL) has earned the prestigious title of “Most Profitable State-Owned Enterprise” for the year 2022 at the Public Enterprises League Table (PELT) Awards, an event organized by the State Interests and Governance Authority (SIGA)",
@@ -608,70 +672,6 @@
       "publishedAt": "2023-10-16T12:11:16+00:00",
       "source": "Citi Business News",
       "category": "Business news"
-    },
-    {
-      "title": "Zambia advises Ghana to have restrictive laws on debt accumulation",
-      "url": "https://citibusinessnews.com/2023/10/zambia-advises-ghana-to-have-restrictive-laws-on-debt-accumulation/",
-      "summary": "Mr Situmbeko Musokotwane, Minister of Finance and National Planning, Zambia, has advised Ghana to have restrictive laws on debt accumulation. “We put a law in Parliament which tied my hands to say, going forward, you can’t be like those in the past. So, we tie",
-      "publishedAt": "2023-10-16T12:02:25+00:00",
-      "source": "Citi Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "2024 budget: Government commits to more expenditure cuts, aggressive growth, jobs",
-      "url": "https://citibusinessnews.com/2023/10/2024-budget-government-commits-to-more-expenditure-cuts-aggressive-growth-jobs/",
-      "summary": "The government has assured Ghanaians that it will safeguard current economic gains, and make it reflect in the living conditions of everyone in the coming months. To this end, there would be more expenditure reduction measures in the 2024 budget, as well as po",
-      "publishedAt": "2023-10-16T10:32:02+00:00",
-      "source": "Citi Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Zenith Bank @ 18 – Celebrating a legacy of financial excellence",
-      "url": "https://citibusinessnews.com/2023/10/zenith-bank-18-celebrating-a-legacy-of-financial-excellence/",
-      "summary": "On the fateful morning of September 16, 2005, Zenith Bank Ghana embarked on its banking journey with a grand total of 45 staff members. This marked a transformative turning point in the banking and financial services landscape of the country. Zenith Bank swift",
-      "publishedAt": "2023-10-15T20:32:02+00:00",
-      "source": "Citi Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Customer Service Week: Pan-African Savings and Loans provides medical services to clients",
-      "url": "https://citibusinessnews.com/2023/10/customer-service-week-pan-african-savings-and-loans-provides-medical-services-to-clients/",
-      "summary": "A leading non-bank financial institution, Pan-African Savings and Loans has demonstrated its appreciation to its loyal customers by organizing a free medical screening exercise as part of their planned activities for the customer service week. This initiative ",
-      "publishedAt": "2023-10-13T06:20:28+00:00",
-      "source": "Citi Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Former Capital Bank CEO Ato Essien jailed 15 years",
-      "url": "https://citibusinessnews.com/2023/10/former-capital-bank-ceo-ato-essien-jailed-15-years/",
-      "summary": "Former Chief Executive Officer of defunct Capital Bank, Ato Essien has been sentenced to 15 years imprisonment with hard labour. This follows his failure to pay in full an amount of GH¢90 million he agreed to pay the state despite several lifelines given him s",
-      "publishedAt": "2023-10-12T20:10:20+00:00",
-      "source": "Citi Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Former president John Agyekum Kufuor and ICCO back strategic cocoa transformation at ACFIF 2026",
-      "url": "https://www.myjoyonline.com/former-president-john-agyekum-kufuor-and-icco-back-strategic-cocoa-transformation-at-acfif-2026/",
-      "summary": "Former president John Agyekum Kufuor is calling for structural transformation across Africa’s cocoa economy given its importance to foreign exchange earnings, employment and livelihoods.",
-      "publishedAt": "2026-05-06T18:23:42+00:00",
-      "source": "MyJoyOnline Business",
-      "category": "Business news"
-    },
-    {
-      "title": "MoMo Ghana CEO backs golf as platform for business, community building",
-      "url": "https://www.myjoyonline.com/momo-ghana-ceo-backs-golf-as-platform-for-business-community-building/",
-      "summary": "The Chief Executive Officer of MoMo Ghana, Shaibu Haruna, has expressed enthusiasm for golf's role as a powerful platform for building connections that drive growth.",
-      "publishedAt": "2026-05-06T16:16:18+00:00",
-      "source": "MyJoyOnline Business",
-      "category": "Business news"
-    },
-    {
-      "title": "COLORBOND vs Aluzinc: Which roofing sheet should you actually buy for your Ghana Home in 2026?",
-      "url": "https://www.myjoyonline.com/colorbond-vs-aluzinc-which-roofing-sheet-should-you-actually-buy-for-your-ghana-home-in-2026/",
-      "summary": "You are building a house in Ghana. You have sat through a construction meeting, and the roofing discussion comes down to two options: COLORBOND or aluzinc.",
-      "publishedAt": "2026-05-06T15:03:45+00:00",
-      "source": "MyJoyOnline Business",
-      "category": "Business news"
     }
   ],
   "sources": [
@@ -682,7 +682,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-06T19:28:37.171100+00:00"
+      "fetchedAt": "2026-05-07T12:59:26.366358+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -691,7 +691,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-06T19:28:37.171100+00:00"
+      "fetchedAt": "2026-05-07T12:59:26.366358+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -700,16 +700,16 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-06T19:28:37.171100+00:00"
+      "fetchedAt": "2026-05-07T12:59:26.366358+00:00"
     },
     {
       "name": "Bank of Ghana",
       "url": "https://www.bog.gov.gh/",
       "category": "Official macro",
       "kind": "html",
-      "ok": false,
-      "error": "Source returned a placeholder/unavailable page.",
-      "fetchedAt": "2026-05-06T19:28:37.171100+00:00"
+      "ok": true,
+      "error": null,
+      "fetchedAt": "2026-05-07T12:59:26.366358+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -718,7 +718,7 @@
       "kind": "html",
       "ok": false,
       "error": "Source returned a placeholder/unavailable page.",
-      "fetchedAt": "2026-05-06T19:28:37.171100+00:00"
+      "fetchedAt": "2026-05-07T12:59:26.366358+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -727,7 +727,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-06T19:28:37.171100+00:00"
+      "fetchedAt": "2026-05-07T12:59:26.366358+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -736,7 +736,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-06T19:28:37.171100+00:00"
+      "fetchedAt": "2026-05-07T12:59:26.366358+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -745,7 +745,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-06T19:28:37.171100+00:00"
+      "fetchedAt": "2026-05-07T12:59:26.366358+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -754,7 +754,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-06T19:28:37.171100+00:00"
+      "fetchedAt": "2026-05-07T12:59:26.366358+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -763,7 +763,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-06T19:28:37.171100+00:00"
+      "fetchedAt": "2026-05-07T12:59:26.366358+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -772,7 +772,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-06T19:28:37.171100+00:00"
+      "fetchedAt": "2026-05-07T12:59:26.366358+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -781,7 +781,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-06T19:28:37.171100+00:00"
+      "fetchedAt": "2026-05-07T12:59:26.366358+00:00"
     },
     {
       "name": "Citi Business News",
@@ -790,7 +790,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-06T19:28:37.171100+00:00"
+      "fetchedAt": "2026-05-07T12:59:26.366358+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -799,7 +799,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-06T19:28:37.171100+00:00"
+      "fetchedAt": "2026-05-07T12:59:26.366358+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -808,7 +808,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-06T19:28:37.171100+00:00"
+      "fetchedAt": "2026-05-07T12:59:26.366358+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -817,7 +817,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-06T19:28:37.171100+00:00"
+      "fetchedAt": "2026-05-07T12:59:26.366358+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -826,7 +826,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-06T19:28:37.171100+00:00"
+      "fetchedAt": "2026-05-07T12:59:26.366358+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -835,7 +835,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-06T19:28:37.171100+00:00"
+      "fetchedAt": "2026-05-07T12:59:26.366358+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -844,7 +844,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-06T19:28:37.171100+00:00"
+      "fetchedAt": "2026-05-07T12:59:26.366358+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -853,7 +853,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-06T19:28:37.171100+00:00"
+      "fetchedAt": "2026-05-07T12:59:26.366358+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -862,7 +862,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-06T19:28:37.171100+00:00"
+      "fetchedAt": "2026-05-07T12:59:26.366358+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -871,7 +871,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-05-06T19:28:37.171100+00:00"
+      "fetchedAt": "2026-05-07T12:59:26.366358+00:00"
     }
   ]
 }
