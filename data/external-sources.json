@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-09T11:53:58.359461+00:00",
-  "generatedAtGhana": "2026-05-09T11:53:58.359461+00:00",
+  "generatedAt": "2026-05-10T11:55:46.129543+00:00",
+  "generatedAtGhana": "2026-05-10T11:55:46.129543+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
@@ -522,6 +522,22 @@
       "category": "Sovereign credit research"
     },
     {
+      "title": "Fidic Africa Infrastructure Conference (FAIC 2026) opens in Accra",
+      "url": "https://thebftonline.com/2026/05/09/fidic-africa-infrastructure-conference-faic-2026-opens-in-accra/",
+      "summary": "The 31st Fidic Africa Infrastructure Conference (FAIC 2026) is underway in Accra. The opening ceremony, which is scheduled for Monday, 11th May, 2026 at the Movenpick Ambassador Hotel, Accra, is expected to be attended by delegates from within and outside Afri",
+      "publishedAt": "2026-05-09T21:43:55+00:00",
+      "source": "Business & Financial Times",
+      "category": "Business news"
+    },
+    {
+      "title": "COCOBOD signals new funding model for 2026/27 cocoa season at 2026 ACFIF Conference",
+      "url": "https://thebftonline.com/2026/05/09/cocobod-signals-new-funding-model-for-2026-27-cocoa-season-at-2026-acfif-conference/",
+      "summary": "The Chief Executive of Ghana Cocoa Board (COCOBOD), Dr. Ransford Abbey, has disclosed that modalities for a new funding model for Ghana’s cocoa sector are nearing completion ahead of its implementation in the 2026/2027 crop season. He said the new model marks ",
+      "publishedAt": "2026-05-09T12:44:21+00:00",
+      "source": "Business & Financial Times",
+      "category": "Business news"
+    },
+    {
       "title": "World Bank eyes health workforce expansion to create 2m jobs in Africa",
       "url": "https://thebftonline.com/2026/05/08/world-bank-eyes-health-workforce-expansion/",
       "summary": "By Joshua AMLANU The World Bank is positioning health sector investment as both a social and economic strategy for West and Central Africa, estimating that addressing shortages in healthcare personnel could create more than 2 million jobs across the region as ",
@@ -570,19 +586,59 @@
       "category": "Business news"
     },
     {
-      "title": "Banks can close digital gap through fintech alliances – Prudential Bank Ag. MD",
-      "url": "https://thebftonline.com/2026/05/08/banks-can-close-digital-gap-through-fintech-alliances-prudential-bank-ag-md-2/",
-      "summary": "Ebow Quayson, Acting Managing Director of Prudential Bank, said lenders that were slow to digitise can still close the gap by forming strategic partnerships with fintech firms, arguing that collaboration is now central to scaling digital capabilities. “Banks t",
-      "publishedAt": "2026-05-08T12:14:58+00:00",
-      "source": "Business & Financial Times",
+      "title": "CloudyPOS turns Ghana’s market traders into bankable businesses with digital receipts",
+      "url": "https://www.ghanabusinessnews.com/2026/05/10/cloudypos-turns-ghanas-market-traders-into-bankable-businesses-with-digital-receipts/",
+      "summary": "The informal sector is estimated to make about 80 per cent of Ghana’s economy. Market women, men and traders who serve the basic needs of the population to eke out a living while they lubricate the economy. F The post CloudyPOS turns Ghana’s market traders int",
+      "publishedAt": "2026-05-10T11:29:54+00:00",
+      "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Maritime Bulletin with CIMAG: The giant stirs",
-      "url": "https://thebftonline.com/2026/05/08/maritime-bulletin-with-cimag-the-giant-stirs/",
-      "summary": "Tema Shipyard and Drydock Limited occupy a peculiar place in Ghana’s industrial imagination. Founded in 1962 at the height of Kwame Nkrumah’s determination to forge a self-sufficient nation, it was designed to be more than a repair yard. It was meant to be a s",
-      "publishedAt": "2026-05-08T12:13:43+00:00",
-      "source": "Business & Financial Times",
+      "title": "GoldBod ends forex bureau rate gold purchases under GANRAP – CEO",
+      "url": "https://www.ghanabusinessnews.com/2026/05/10/goldbod-ends-forex-bureau-rate-gold-purchases-under-ganrap-ceo/",
+      "summary": "The Chief Executive Officer of the Ghana Gold Board (GoldBod), Sammy Gyamfi, has announced that GoldBod will no longer purchase gold using forex bureau exchange rates under the newly introduced Ghana Accelerated National Reserve Accumulation Programme (GANRAP)",
+      "publishedAt": "2026-05-10T10:13:29+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Former Minister urges Ghana to prioritise translation of science to improve lives",
+      "url": "https://www.ghanabusinessnews.com/2026/05/10/former-minister-urges-ghana-to-prioritise-translation-of-science-to-improve-lives/",
+      "summary": "Dr Yaw Osei Adutwum, former Minister of Education, has called on Thrivus University biomedical graduates to look beyond academic research and become active advocates for practical application of scientific knowledge to improve human lives globally. The post Fo",
+      "publishedAt": "2026-05-10T10:06:45+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Office of the Registrar of Companies urges SMEs to formalise businesses",
+      "url": "https://www.ghanabusinessnews.com/2026/05/10/office-of-the-registrar-of-companies-urges-smes-to-formalise-businesses/",
+      "summary": "The Kumasi Zonal Office of the Office of the Registrar of Companies (ORC) has embarked on a sensitisation campaign to encourage Small and Medium Enterprises (SMEs) to formalise their businesses through registration to improve access to loans, government suppor",
+      "publishedAt": "2026-05-10T10:03:25+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "World Shea Expo: A renewed vision for Ghana’s shea industry – Dr Otokunor",
+      "url": "https://www.ghanabusinessnews.com/2026/05/10/world-shea-expo-a-renewed-vision-for-ghanas-shea-industry-dr-otokunor/",
+      "summary": "The Government of Ghana has described the World Shea Expo as a renewed vision to position the country as a global leader in the shea industry through investment, innovation, value addition, and women empowerment. The post World Shea Expo: A renewed vision for ",
+      "publishedAt": "2026-05-10T09:57:55+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "German airports warn millions of flights could be cancelled",
+      "url": "https://www.ghanabusinessnews.com/2026/05/10/german-airports-warn-millions-of-flights-could-be-cancelled/",
+      "summary": "The Association of German Airports (ADV) is warning that flights may be cancelled and prices are likely to rise in future, as jet fuel shortages loom. The post German airports warn millions of flights could be cancelled appeared first on Ghana Business News .",
+      "publishedAt": "2026-05-10T09:51:14+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "German Chancellor Merz says NATO strength not just about troop numbers",
+      "url": "https://www.ghanabusinessnews.com/2026/05/10/german-chancellor-merz-says-nato-strength-not-just-about-troop-numbers/",
+      "summary": "Despite tensions with Washington and the planned withdrawal of US troops from Germany, Chancellor Friedrich Merz remained optimistic about NATO's cohesion during a trip to Sweden on Saturday. The post German Chancellor Merz says NATO strength not just about tr",
+      "publishedAt": "2026-05-10T09:45:33+00:00",
+      "source": "Ghana Business News",
       "category": "Business news"
     },
     {
@@ -590,62 +646,6 @@
       "url": "https://www.ghanabusinessnews.com/2026/05/09/ghana-taps-into-virtual-assets-to-produce-under-40-billionaires/",
       "summary": "Ghana’s Securities and Exchange Commission (SEC) says it is creating the right regulatory atmosphere for virtual assets growth to produce the country’s first wave of self-made millionaires and billionaires under the age of 40. The post Ghana taps into virtual ",
       "publishedAt": "2026-05-09T10:41:08+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Ghana urged to develop new National Action Plan to combat illegal fishing",
-      "url": "https://www.ghanabusinessnews.com/2026/05/09/ghana-urged-to-develop-new-national-action-plan-to-combat-illegal-fishing/",
-      "summary": "The Ministry of Fisheries and Aquaculture and the Fisheries Commission have been urged to develop a new National Plan of Action to prevent, deter, and eliminate illegal, unreported, and unregulated fishing (NPOA-IUU) to strengthen Ghana’s fight against illegal",
-      "publishedAt": "2026-05-09T10:16:04+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Gulf of Guinea security demands collective action – Defence Ministry",
-      "url": "https://www.ghanabusinessnews.com/2026/05/09/gulf-of-guinea-security-demands-collective-action-defence-ministry/",
-      "summary": "The government of Ghana has called for stronger regional collaboration, intelligence sharing, and joint maritime operations to tackle growing insecurity within the Gulf of Guinea. The post Gulf of Guinea security demands collective action – Defence Ministry ap",
-      "publishedAt": "2026-05-09T09:44:19+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Young people hardest hit by Ghana’s growing injury burden – Dr Owusu",
-      "url": "https://www.ghanabusinessnews.com/2026/05/09/young-people-hardest-hit-by-ghanas-growing-injury-burden-dr-owusu/",
-      "summary": "Dr. George Kwadwo Owusu, Chief Executive Officer of the National Ambulance Service, has expressed concern over the increasing rate of injuries and deaths among young people in Ghana, describing the situation as a major threat to the country’s workforce and fut",
-      "publishedAt": "2026-05-09T09:25:47+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "CSO tells Ghana government to make water affordable for all citizens",
-      "url": "https://www.ghanabusinessnews.com/2026/05/08/cso-tells-ghana-government-to-make-water-affordable-for-all-citizens/",
-      "summary": "The Ghana Water Justice Network (GWJN), a civil society organization, has called on the government to make water affordable and accessible to Ghanaians in the country. The post CSO tells Ghana government to make water affordable for all citizens appeared first",
-      "publishedAt": "2026-05-08T15:18:33+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Minister warns of public health risks of illegal fishing practices",
-      "url": "https://www.ghanabusinessnews.com/2026/05/08/minister-warns-of-public-health-risks-of-illegal-fishing-practices/",
-      "summary": "Madam Emelia Arthur, Fisheries and Aquaculture Minister, has cautioned fishermen and fishmongers nationwide against illegal and unsafe fishing practices within the sector, as they endanger public health and contribute to shorter lifespans among Ghanaians. The ",
-      "publishedAt": "2026-05-08T09:41:12+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Inspiring Teachers Ghana flags critical shortfalls in national literacy, numeracy standards",
-      "url": "https://www.ghanabusinessnews.com/2026/05/08/inspiring-teachers-ghana-flags-critical-shortfalls-in-national-literacy-numeracy-standards/",
-      "summary": "Dr Emmanuel Larbi Mantey, the Programme Director of Inspiring Teachers Ghana, a dedicated non-profit organisation committed to elevating teaching standards, had raised serious concerns over persistent gaps in literacy skills across the country. The post Inspir",
-      "publishedAt": "2026-05-08T08:12:17+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Ghana calls for renewed commitment to nuclear disarmament",
-      "url": "https://www.ghanabusinessnews.com/2026/05/08/ghana-calls-for-renewed-commitment-to-nuclear-disarmament/",
-      "summary": "Ghana has renewed its call for the total elimination of nuclear weapons, cautioning that continued delays in disarmament threaten the credibility of the global non-proliferation regime. The post Ghana calls for renewed commitment to nuclear disarmament appeare",
-      "publishedAt": "2026-05-08T08:05:07+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
@@ -682,7 +682,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-09T11:53:58.359461+00:00"
+      "fetchedAt": "2026-05-10T11:55:46.129543+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -691,7 +691,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-09T11:53:58.359461+00:00"
+      "fetchedAt": "2026-05-10T11:55:46.129543+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -700,7 +700,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-09T11:53:58.359461+00:00"
+      "fetchedAt": "2026-05-10T11:55:46.129543+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -709,7 +709,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-09T11:53:58.359461+00:00"
+      "fetchedAt": "2026-05-10T11:55:46.129543+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -718,7 +718,7 @@
       "kind": "html",
       "ok": false,
       "error": "Source returned a placeholder/unavailable page.",
-      "fetchedAt": "2026-05-09T11:53:58.359461+00:00"
+      "fetchedAt": "2026-05-10T11:55:46.129543+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -727,7 +727,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-09T11:53:58.359461+00:00"
+      "fetchedAt": "2026-05-10T11:55:46.129543+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -736,7 +736,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-09T11:53:58.359461+00:00"
+      "fetchedAt": "2026-05-10T11:55:46.129543+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -745,7 +745,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-09T11:53:58.359461+00:00"
+      "fetchedAt": "2026-05-10T11:55:46.129543+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -754,7 +754,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-09T11:53:58.359461+00:00"
+      "fetchedAt": "2026-05-10T11:55:46.129543+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -763,7 +763,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-09T11:53:58.359461+00:00"
+      "fetchedAt": "2026-05-10T11:55:46.129543+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -772,7 +772,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-09T11:53:58.359461+00:00"
+      "fetchedAt": "2026-05-10T11:55:46.129543+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -781,7 +781,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-09T11:53:58.359461+00:00"
+      "fetchedAt": "2026-05-10T11:55:46.129543+00:00"
     },
     {
       "name": "Citi Business News",
@@ -790,7 +790,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-09T11:53:58.359461+00:00"
+      "fetchedAt": "2026-05-10T11:55:46.129543+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -799,7 +799,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-09T11:53:58.359461+00:00"
+      "fetchedAt": "2026-05-10T11:55:46.129543+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -808,7 +808,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-09T11:53:58.359461+00:00"
+      "fetchedAt": "2026-05-10T11:55:46.129543+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -817,7 +817,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-09T11:53:58.359461+00:00"
+      "fetchedAt": "2026-05-10T11:55:46.129543+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -826,7 +826,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-09T11:53:58.359461+00:00"
+      "fetchedAt": "2026-05-10T11:55:46.129543+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -835,7 +835,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-09T11:53:58.359461+00:00"
+      "fetchedAt": "2026-05-10T11:55:46.129543+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -844,7 +844,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-09T11:53:58.359461+00:00"
+      "fetchedAt": "2026-05-10T11:55:46.129543+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -853,7 +853,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-09T11:53:58.359461+00:00"
+      "fetchedAt": "2026-05-10T11:55:46.129543+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -862,7 +862,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-09T11:53:58.359461+00:00"
+      "fetchedAt": "2026-05-10T11:55:46.129543+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -871,7 +871,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-05-09T11:53:58.359461+00:00"
+      "fetchedAt": "2026-05-10T11:55:46.129543+00:00"
     }
   ]
 }
