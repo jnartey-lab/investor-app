@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-10T11:55:46.129543+00:00",
-  "generatedAtGhana": "2026-05-10T11:55:46.129543+00:00",
+  "generatedAt": "2026-05-11T13:49:52.739579+00:00",
+  "generatedAtGhana": "2026-05-11T13:49:52.739579+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
@@ -13,13 +13,13 @@
     },
     "bankOfGhana": {
       "policyRate": 14.0,
-      "tBill91Day": 4.8634,
+      "tBill91Day": 4.8243,
       "inflation": 3.4,
       "source": "Bank of Ghana",
       "url": "https://www.bog.gov.gh/"
     },
     "fx": {
-      "usdGhsMid": 11.85,
+      "usdGhsMid": 11.9,
       "rateBasis": "public news reported rate",
       "source": "MyJoyOnline USD GHS Search (public fallback)",
       "url": "https://www.myjoyonline.com/?s=cedi+dollar",
@@ -522,130 +522,130 @@
       "category": "Sovereign credit research"
     },
     {
-      "title": "Fidic Africa Infrastructure Conference (FAIC 2026) opens in Accra",
-      "url": "https://thebftonline.com/2026/05/09/fidic-africa-infrastructure-conference-faic-2026-opens-in-accra/",
-      "summary": "The 31st Fidic Africa Infrastructure Conference (FAIC 2026) is underway in Accra. The opening ceremony, which is scheduled for Monday, 11th May, 2026 at the Movenpick Ambassador Hotel, Accra, is expected to be attended by delegates from within and outside Afri",
-      "publishedAt": "2026-05-09T21:43:55+00:00",
+      "title": "Why Ghana’s investment sector must adopt GIPS Compliance",
+      "url": "https://thebftonline.com/2026/05/11/why-ghanas-investment-sector-must-adopt-gips-compliance/",
+      "summary": "Building Investor Confidence, Transparency, and Global Competitiveness in Ghana’s Capital Market The Ghanaian investment industry has experienced significant growth over the past two decades. Pension reforms, the emergence of fund management companies, increas",
+      "publishedAt": "2026-05-11T13:49:57+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "COCOBOD signals new funding model for 2026/27 cocoa season at 2026 ACFIF Conference",
-      "url": "https://thebftonline.com/2026/05/09/cocobod-signals-new-funding-model-for-2026-27-cocoa-season-at-2026-acfif-conference/",
-      "summary": "The Chief Executive of Ghana Cocoa Board (COCOBOD), Dr. Ransford Abbey, has disclosed that modalities for a new funding model for Ghana’s cocoa sector are nearing completion ahead of its implementation in the 2026/2027 crop season. He said the new model marks ",
-      "publishedAt": "2026-05-09T12:44:21+00:00",
+      "title": "Low TB rates: Ghana’s true test for banks",
+      "url": "https://thebftonline.com/2026/05/11/low-tb-rates-ghanas-true-test-for-banks/",
+      "summary": "By Elikem Desewu End of easy money exposes past imbalances and opens a new path for real sector growth. In a defining shift in the economy of Ghana, the sharp decline in Treasury Bill (TB) rates under the policy direction of the Bank of Ghana is doing more tha",
+      "publishedAt": "2026-05-11T13:43:21+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "World Bank eyes health workforce expansion to create 2m jobs in Africa",
-      "url": "https://thebftonline.com/2026/05/08/world-bank-eyes-health-workforce-expansion/",
-      "summary": "By Joshua AMLANU The World Bank is positioning health sector investment as both a social and economic strategy for West and Central Africa, estimating that addressing shortages in healthcare personnel could create more than 2 million jobs across the region as ",
-      "publishedAt": "2026-05-08T16:00:58+00:00",
+      "title": "Resilience by design: Bank systems that withstand disruption and protect customers",
+      "url": "https://thebftonline.com/2026/05/11/resilience-by-design-bank-systems-that-withstand-disruption-and-protect-customers/",
+      "summary": "By Justice AMEGASHIE There is a paradox at the heart of banking technology: the better it works, the less visible it becomes. When a customer transfers money and it arrives instantly, they do not think about the systems that made it possible. When a customer c",
+      "publishedAt": "2026-05-11T13:13:52+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "BoG Governor tees off 3i africa summit activities with golf tournament",
-      "url": "https://thebftonline.com/2026/05/08/bog-governor-tees-off-3i-africa-summit-activities-with-golf-tournament/",
-      "summary": "The 3i Africa Summit 2026 officially opened with an invitational golf tournament at the Achimota Golf Club in Accra, as the Bank of Ghana positioned the event as both a sporting competition and a strategic networking platform ahead of the main summit. Bank of ",
-      "publishedAt": "2026-05-08T13:36:56+00:00",
+      "title": "Fidelity Bank reinforces commitment to leadership development at District 94 Toastmasters annual conference",
+      "url": "https://thebftonline.com/2026/05/11/fidelity-bank-reinforces-commitment-to-leadership-development-at-district-94-toastmasters-annual-conference/",
+      "summary": "Fidelity Bank Ghana has reaffirmed its belief that Africa’s most pressing development challenge is not a deficit of talent, but a gap in the platforms and investment needed to translate that talent into lasting leadership; a conviction the bank brought to the ",
+      "publishedAt": "2026-05-11T13:05:43+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "India and Africa: A New SPIRIT of shared growth and resilience",
-      "url": "https://thebftonline.com/2026/05/08/india-and-africa-a-new-spirit-of-shared-growth-and-resilience/",
-      "summary": "By V.N. Parameswaran, Charge d’ Affaires of the High Commission of India in Accra As the global spotlight turns to New Delhi this month, the fourth India-Africa Forum Summit (IAFS-IV) feels less like a routine diplomatic gathering and more like a coming togeth",
-      "publishedAt": "2026-05-08T13:28:14+00:00",
+      "title": "Easy loans, costly privacy",
+      "url": "https://thebftonline.com/2026/05/11/easy-loans-costly-privacy/",
+      "summary": "By Yeboah Joseph Yaw In today’s digital world, access to money is no longer limited to banks or lengthy procedures. With just a few clicks, individuals can download mobile loan applications and receive instant cash. These platforms promise convenience and spee",
+      "publishedAt": "2026-05-11T13:00:01+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "IndigoHomes liberalises homeownership with Tier 3 financing at Greenwich Park",
-      "url": "https://thebftonline.com/2026/05/08/indigohomes-liberalises-homeownership-with-tier-3-financing-at-greenwich-park/",
-      "summary": "By Kingsley Webora TANKEH In an effort to alleviate the huge financial cost involved in purchasing a home in Ghana, IndigoHomes, the developer of Ayi Mensah Park and Oyarifa Park communities, has unveiled a novelle pathway to homeownership for salaried workers",
-      "publishedAt": "2026-05-08T13:00:29+00:00",
+      "title": "Development Discourse with Amos Safo: When South Africans bite the fingers that once fed them",
+      "url": "https://thebftonline.com/2026/05/11/development-discourse-with-amos-safo-when-south-africans-bite-the-fingers-that-once-fed-them/",
+      "summary": "A few weeks ago, news, videos and photos on xenophobic attacks on Ghanaians and Nigerians again dominated both mainstream media and new media. Previous attacks mostly focused on Nigerians and other Southern African nationals like Zimbabweans, Mozambicans, Zamb",
+      "publishedAt": "2026-05-11T12:59:51+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "PURC Western and Western North regions achieves 96.12% complaint resolution rate in Q1 2026",
-      "url": "https://thebftonline.com/2026/05/08/purc-western-and-western-north-regions-achieves-96-12-complaint-resolution-rate-in-q1-2026-2/",
-      "summary": "Juliet Aguiar DUGBARTEY, Takoradi The Public Utilities Regulatory Commission (PURC) Western and Western North Regional Office has reported a strong performance in addressing consumer concerns during the first quarter of 2026, achieving an impressive complaint ",
-      "publishedAt": "2026-05-08T12:30:23+00:00",
+      "title": "AAK commences 2026 pre-season disbursements",
+      "url": "https://thebftonline.com/2026/05/11/aak-commences-2026-pre-season-disbursements/",
+      "summary": "AAK, a global leader in the production of plant-based oils and fats, has started disbursement of its annual pre-financing to women shea collectors in the Kolo Nafaso program, ahead of the shea season. This pre-finance investment, in the sum of over 13 million ",
+      "publishedAt": "2026-05-11T12:55:32+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Yinson renovates Dixcove hospital wards to support malaria fight",
-      "url": "https://thebftonline.com/2026/05/08/yinson-renovates-dixcove-hospital-wards-to-support-malaria-fight-2/",
-      "summary": "By Juliet Aguiar DUGBARTEY, Dixcove Yinson Ghana has refurbished the male and female wards of Nana Hema Dekyi Government Hospital at Dixcove in the Ahanta West Municipality, to strengthen healthcare delivery in the area. The intervention, undertaken to mark Wo",
-      "publishedAt": "2026-05-08T12:26:00+00:00",
+      "title": "Service and Experience with J. N. Halm: Consumer cynicism: When customers distrust",
+      "url": "https://thebftonline.com/2026/05/11/service-and-experience-with-j-n-halm-consumer-cynicism-when-customers-distrust/",
+      "summary": "The term researchers call this occurrence is Double Deviation. It is when an attempt to resolve an earlier failure leads to a second failure. In other words, it is when a recovery of an original service error also fails. For instance, I recently dropped my pho",
+      "publishedAt": "2026-05-11T12:48:24+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "CloudyPOS turns Ghana’s market traders into bankable businesses with digital receipts",
-      "url": "https://www.ghanabusinessnews.com/2026/05/10/cloudypos-turns-ghanas-market-traders-into-bankable-businesses-with-digital-receipts/",
-      "summary": "The informal sector is estimated to make about 80 per cent of Ghana’s economy. Market women, men and traders who serve the basic needs of the population to eke out a living while they lubricate the economy. F The post CloudyPOS turns Ghana’s market traders int",
-      "publishedAt": "2026-05-10T11:29:54+00:00",
+      "title": "Ecologists say Germany has used up its natural resources for 2026",
+      "url": "https://www.ghanabusinessnews.com/2026/05/11/ecologists-say-germany-has-used-up-its-natural-resources-for-2026/",
+      "summary": "Germany will by Sunday have already used up the natural resources that should theoretically have lasted the country for the whole year, according to ecological researchers of the Global Footprint Network. The post Ecologists say Germany has used up its natural",
+      "publishedAt": "2026-05-11T07:07:46+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "GoldBod ends forex bureau rate gold purchases under GANRAP – CEO",
-      "url": "https://www.ghanabusinessnews.com/2026/05/10/goldbod-ends-forex-bureau-rate-gold-purchases-under-ganrap-ceo/",
-      "summary": "The Chief Executive Officer of the Ghana Gold Board (GoldBod), Sammy Gyamfi, has announced that GoldBod will no longer purchase gold using forex bureau exchange rates under the newly introduced Ghana Accelerated National Reserve Accumulation Programme (GANRAP)",
-      "publishedAt": "2026-05-10T10:13:29+00:00",
+      "title": "Weeds take over multi-million 1D1F starch factory in Assin South",
+      "url": "https://www.ghanabusinessnews.com/2026/05/11/weeds-take-over-multi-million-1d1f-starch-factory-in-assin-south/",
+      "summary": "Overgrown weeds and grass have completely overtaken over the One District One Factory (1D1F) starch processing facility at Kyekyewere in the Assin South District of the Central Region. The post Weeds take over multi-million 1D1F starch factory in Assin South a",
+      "publishedAt": "2026-05-11T06:59:32+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Former Minister urges Ghana to prioritise translation of science to improve lives",
-      "url": "https://www.ghanabusinessnews.com/2026/05/10/former-minister-urges-ghana-to-prioritise-translation-of-science-to-improve-lives/",
-      "summary": "Dr Yaw Osei Adutwum, former Minister of Education, has called on Thrivus University biomedical graduates to look beyond academic research and become active advocates for practical application of scientific knowledge to improve human lives globally. The post Fo",
-      "publishedAt": "2026-05-10T10:06:45+00:00",
+      "title": "President Mahama announces new housing scheme for workers",
+      "url": "https://www.ghanabusinessnews.com/2026/05/11/president-mahama-announces-new-housing-scheme-for-workers/",
+      "summary": "President John Dramani Mahama has announced that the Government intends to roll out a new social housing initiative for workers, driven at the district level to reduce financial barriers to ownership. The post President Mahama announces new housing scheme for ",
+      "publishedAt": "2026-05-11T06:50:59+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Office of the Registrar of Companies urges SMEs to formalise businesses",
-      "url": "https://www.ghanabusinessnews.com/2026/05/10/office-of-the-registrar-of-companies-urges-smes-to-formalise-businesses/",
-      "summary": "The Kumasi Zonal Office of the Office of the Registrar of Companies (ORC) has embarked on a sensitisation campaign to encourage Small and Medium Enterprises (SMEs) to formalise their businesses through registration to improve access to loans, government suppor",
-      "publishedAt": "2026-05-10T10:03:25+00:00",
+      "title": "Otumfuo gives TDC land to build housing units in Kumasi",
+      "url": "https://www.ghanabusinessnews.com/2026/05/11/otumfuo-gives-tdc-land-to-build-housing-units-in-kumasi/",
+      "summary": "The Asantehene, Otumfuo Osei Tutu II, has released a parcel of land to the Tema Development Corporation (TDC) for the development of housing units in Kumasi. The post Otumfuo gives TDC land to build housing units in Kumasi appeared first on Ghana Business News",
+      "publishedAt": "2026-05-11T06:39:41+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "World Shea Expo: A renewed vision for Ghana’s shea industry – Dr Otokunor",
-      "url": "https://www.ghanabusinessnews.com/2026/05/10/world-shea-expo-a-renewed-vision-for-ghanas-shea-industry-dr-otokunor/",
-      "summary": "The Government of Ghana has described the World Shea Expo as a renewed vision to position the country as a global leader in the shea industry through investment, innovation, value addition, and women empowerment. The post World Shea Expo: A renewed vision for ",
-      "publishedAt": "2026-05-10T09:57:55+00:00",
+      "title": "Fitch upgrades Ghana’s Issuer Default Rating to B from B-",
+      "url": "https://www.ghanabusinessnews.com/2026/05/11/fitch-upgrades-ghanas-issuer-default-rating-to-b-from-b/",
+      "summary": "Fitch Ratings has upgraded Ghana’s Long-Term Foreign-Currency Issuer Default Rating (IDR) to ‘B’ from ‘B-’, with a Positive Outlook. The post Fitch upgrades Ghana’s Issuer Default Rating to B from B- appeared first on Ghana Business News .",
+      "publishedAt": "2026-05-11T06:35:55+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "German airports warn millions of flights could be cancelled",
-      "url": "https://www.ghanabusinessnews.com/2026/05/10/german-airports-warn-millions-of-flights-could-be-cancelled/",
-      "summary": "The Association of German Airports (ADV) is warning that flights may be cancelled and prices are likely to rise in future, as jet fuel shortages loom. The post German airports warn millions of flights could be cancelled appeared first on Ghana Business News .",
-      "publishedAt": "2026-05-10T09:51:14+00:00",
+      "title": "Lightning kills one, injures six at a funeral in Pai-Katanga",
+      "url": "https://www.ghanabusinessnews.com/2026/05/11/lightning-kills-one-injures-six-at-a-funeral-in-pai-katanga/",
+      "summary": "A 32-year-old man, Felix Yaw, has died and six others sustaining injuries after lightning struck during funeral rites at Pai-Katanga in the Krachi East Municipality of the Oti Region. The post Lightning kills one, injures six at a funeral in Pai-Katanga appear",
+      "publishedAt": "2026-05-11T06:31:46+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "German Chancellor Merz says NATO strength not just about troop numbers",
-      "url": "https://www.ghanabusinessnews.com/2026/05/10/german-chancellor-merz-says-nato-strength-not-just-about-troop-numbers/",
-      "summary": "Despite tensions with Washington and the planned withdrawal of US troops from Germany, Chancellor Friedrich Merz remained optimistic about NATO's cohesion during a trip to Sweden on Saturday. The post German Chancellor Merz says NATO strength not just about tr",
-      "publishedAt": "2026-05-10T09:45:33+00:00",
+      "title": "UNESCO hands over nine weather stations to boost GMet capacity.",
+      "url": "https://www.ghanabusinessnews.com/2026/05/11/unesco-hands-over-nine-weather-stations-to-boost-gmet-capacity/",
+      "summary": "The United Nations Educational, Scientific and Cultural Organisation (UNESCO) on Wednesday handed over nine automated weather stations to the Ghana Meteorological Agency (GMet) to strengthen early warning systems and climate resilience in northern Ghana. The p",
+      "publishedAt": "2026-05-11T06:26:30+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Ghana taps into virtual assets to produce under-40 billionaires",
-      "url": "https://www.ghanabusinessnews.com/2026/05/09/ghana-taps-into-virtual-assets-to-produce-under-40-billionaires/",
-      "summary": "Ghana’s Securities and Exchange Commission (SEC) says it is creating the right regulatory atmosphere for virtual assets growth to produce the country’s first wave of self-made millionaires and billionaires under the age of 40. The post Ghana taps into virtual ",
-      "publishedAt": "2026-05-09T10:41:08+00:00",
+      "title": "NIA workers threaten industrial action over delays in staff migration",
+      "url": "https://www.ghanabusinessnews.com/2026/05/11/nia-workers-threaten-industrial-action-over-delays-in-staff-migration/",
+      "summary": "Staff of the National Identification Authority (NIA) of the Public Services Workers’ Union (PSWU) of the Trades Union Congress, have declared their intended industrial strike action beginning May 13, 2026 over delays in staff migration. The post NIA workers th",
+      "publishedAt": "2026-05-11T06:23:24+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
@@ -682,7 +682,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-10T11:55:46.129543+00:00"
+      "fetchedAt": "2026-05-11T13:49:52.739579+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -691,7 +691,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-10T11:55:46.129543+00:00"
+      "fetchedAt": "2026-05-11T13:49:52.739579+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -700,7 +700,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-10T11:55:46.129543+00:00"
+      "fetchedAt": "2026-05-11T13:49:52.739579+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -709,7 +709,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-10T11:55:46.129543+00:00"
+      "fetchedAt": "2026-05-11T13:49:52.739579+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -718,7 +718,7 @@
       "kind": "html",
       "ok": false,
       "error": "Source returned a placeholder/unavailable page.",
-      "fetchedAt": "2026-05-10T11:55:46.129543+00:00"
+      "fetchedAt": "2026-05-11T13:49:52.739579+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -727,7 +727,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-10T11:55:46.129543+00:00"
+      "fetchedAt": "2026-05-11T13:49:52.739579+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -736,7 +736,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-10T11:55:46.129543+00:00"
+      "fetchedAt": "2026-05-11T13:49:52.739579+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -745,7 +745,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-10T11:55:46.129543+00:00"
+      "fetchedAt": "2026-05-11T13:49:52.739579+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -754,7 +754,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-10T11:55:46.129543+00:00"
+      "fetchedAt": "2026-05-11T13:49:52.739579+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -763,7 +763,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-10T11:55:46.129543+00:00"
+      "fetchedAt": "2026-05-11T13:49:52.739579+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -772,7 +772,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-10T11:55:46.129543+00:00"
+      "fetchedAt": "2026-05-11T13:49:52.739579+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -781,7 +781,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-10T11:55:46.129543+00:00"
+      "fetchedAt": "2026-05-11T13:49:52.739579+00:00"
     },
     {
       "name": "Citi Business News",
@@ -790,7 +790,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-10T11:55:46.129543+00:00"
+      "fetchedAt": "2026-05-11T13:49:52.739579+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -799,7 +799,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-10T11:55:46.129543+00:00"
+      "fetchedAt": "2026-05-11T13:49:52.739579+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -808,7 +808,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-10T11:55:46.129543+00:00"
+      "fetchedAt": "2026-05-11T13:49:52.739579+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -817,7 +817,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-10T11:55:46.129543+00:00"
+      "fetchedAt": "2026-05-11T13:49:52.739579+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -826,7 +826,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-10T11:55:46.129543+00:00"
+      "fetchedAt": "2026-05-11T13:49:52.739579+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -835,7 +835,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-10T11:55:46.129543+00:00"
+      "fetchedAt": "2026-05-11T13:49:52.739579+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -844,7 +844,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-10T11:55:46.129543+00:00"
+      "fetchedAt": "2026-05-11T13:49:52.739579+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -853,7 +853,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-10T11:55:46.129543+00:00"
+      "fetchedAt": "2026-05-11T13:49:52.739579+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -862,7 +862,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-10T11:55:46.129543+00:00"
+      "fetchedAt": "2026-05-11T13:49:52.739579+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -871,7 +871,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-05-10T11:55:46.129543+00:00"
+      "fetchedAt": "2026-05-11T13:49:52.739579+00:00"
     }
   ]
 }
