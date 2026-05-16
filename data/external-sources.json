@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-05-15T12:59:54.862095+00:00",
-  "generatedAtGhana": "2026-05-15T12:59:54.862095+00:00",
+  "generatedAt": "2026-05-16T11:55:09.629101+00:00",
+  "generatedAtGhana": "2026-05-16T11:55:09.629101+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
     "gseIndices": {
-      "asOf": "14/05/2026",
-      "composite": 14332.97,
-      "financialStocks": 8072.33,
+      "asOf": "15/05/2026",
+      "composite": 14320.45,
+      "financialStocks": 8068.95,
       "source": "Ghana Stock Exchange",
       "url": "https://gse.com.gh/"
     },
@@ -514,6 +514,46 @@
       "category": "Sovereign credit research"
     },
     {
+      "title": "Asiama wins Best Male Vocal Performance with debut single Akoma",
+      "url": "https://thebftonline.com/2026/05/15/asiama-wins-best-male-vocal-performance-with-debut-single-akoma/",
+      "summary": "Before many audiences knew his story, they first heard the voice. At the 27th Telecel Ghana Music Awards, that voice proved impossible to ignore, as emerging singer Asiama claimed the Best Male Vocal Performance award with his debut single, Akoma. The song als",
+      "publishedAt": "2026-05-15T16:15:50+00:00",
+      "source": "Business & Financial Times",
+      "category": "Business news"
+    },
+    {
+      "title": "When does research really shape policy?",
+      "url": "https://thebftonline.com/2026/05/15/when-does-research-really-shape-policy/",
+      "summary": "A classroom question opens a wider reflection on why evidence often struggles to move from academic output to real-world decision-making. By Vicentia Quartey During a recent student engagement organised by the Institute of Statistical, Social and Economic Rese",
+      "publishedAt": "2026-05-15T15:30:42+00:00",
+      "source": "Business & Financial Times",
+      "category": "Business news"
+    },
+    {
+      "title": "Ghana leads Africa in forest reforms, secures global spotlight at UN",
+      "url": "https://thebftonline.com/2026/05/15/ghana-leads-africa-in-forest-reforms-secures-global-spotlight-at-un/",
+      "summary": "By Juliet Aguiar DUGBARTEY Emmanuel Armah Kofi Buah, Minister of Lands and Natural Resources, has announced that Ghana has emerged as a continental leader in forest governance, becoming the first country in Africa to issue a Forest Law Enforcement, Governance ",
+      "publishedAt": "2026-05-15T15:10:59+00:00",
+      "source": "Business & Financial Times",
+      "category": "Business news"
+    },
+    {
+      "title": "IMF backs shift to reform-focused PCI after bailout exit",
+      "url": "https://thebftonline.com/2026/05/15/imf-backs-shift-to-reform-focused-pci-after-bailout-exit/",
+      "summary": "The International Monetary Fund has reached a staff-level agreement with Ghana on the final review of its Extended Credit Facility programme and a new 36-month Policy Coordination Instrument (PCI), marking the country’s transition from bailout financing to ref",
+      "publishedAt": "2026-05-15T14:36:43+00:00",
+      "source": "Business & Financial Times",
+      "category": "Business news"
+    },
+    {
+      "title": "Fam Affair 2026: Technology, family life: Navigating the digital age",
+      "url": "https://thebftonline.com/2026/05/15/fam-affair-2026-technology-family-life-navigating-the-digital-age/",
+      "summary": "Ghana’s premier family-focused event returns for its second edition, Fam Affair 2026, happening on Friday, July 3rd 2026 at the University of Ghana Campus. Building on the success of last year’s inaugural event, Fam Affair 2026 promises impactful discussions, ",
+      "publishedAt": "2026-05-15T14:10:59+00:00",
+      "source": "Business & Financial Times",
+      "category": "Business news"
+    },
+    {
       "title": "The $2.9 Trillion Question: Will Ghana shape Africa’s AI decade or be shaped by it?",
       "url": "https://thebftonline.com/2026/05/15/the-2-9-trillion-question-will-ghana-shape-africas-ai-decade-or-be-shaped-by-it/",
       "summary": "According to Further Africa report and SAP research, AI is projected to contribute up to $2.9 trillion to Africa’s economy, with 230 million new digital jobs forecast for the continent over the same period. For Ghana’s business leaders, where do you sit when t",
@@ -538,106 +578,66 @@
       "category": "Business news"
     },
     {
-      "title": "Africa Business with Seth Krampah: Afreximbank Annual Meetings 2026 to spotlight Intra-African Trade and economic sovereignty",
-      "url": "https://thebftonline.com/2026/05/15/africa-business-with-seth-krampah-afreximbank-annual-meetings-2026-to-spotlight-intra-african-trade-and-economic-sovereignty/",
-      "summary": "Africa’s economic future will take centre stage in El Alamein, Egypt, this June as Afreximbank convenes its 33rd Annual Meetings (AAM2026). The gathering, expected to draw more than 4,000 delegates from across Global Africa and beyond, will focus on how intra-",
-      "publishedAt": "2026-05-15T12:12:05+00:00",
-      "source": "Business & Financial Times",
-      "category": "Business news"
-    },
-    {
-      "title": "Nkabom targets 55,000 agri-food jobs in 10 years",
-      "url": "https://thebftonline.com/2026/05/15/nkabom-targets-55000-agri-food-jobs-in-10-years/",
-      "summary": "…private sector urged to open doors to youth-led SMEs By Kingsley Webora TANKEH The Nkabom Venture Quest Bootcamp aims to empower 3,000 Small and Medium Enterprises (SMEs) in Ghana’s agri-food ecosystem to create 55,000 jobs in 10 years, the Director of Secret",
-      "publishedAt": "2026-05-15T12:10:18+00:00",
-      "source": "Business & Financial Times",
-      "category": "Business news"
-    },
-    {
-      "title": "Winning the battle for attention, affordability & advocacy",
-      "url": "https://thebftonline.com/2026/05/15/winning-the-battle-for-attention-affordability-advocacy/",
-      "summary": "By Eric Osei ANNOR As a marketing strategist operating in Ghana in 2026, one thing is clear: we are no longer competing on shelf space—we are competing for mental availability in a market shaped by three hard realities: High inflation & Cedi volatility → incre",
-      "publishedAt": "2026-05-15T12:08:13+00:00",
-      "source": "Business & Financial Times",
-      "category": "Business news"
-    },
-    {
-      "title": "Endorsed by the Ministry of Lands and Natural Resources, WAMPEX 2026 to convene over 6,000 mining professionals for 19th Edition",
-      "url": "https://thebftonline.com/2026/05/15/endorsed-by-the-ministry-of-lands-and-natural-resources-wampex-2026-to-convene-over-6000-mining-professionals-for-19th-edition/",
-      "summary": "19th edition at the La Palm Royal Beach Hotel welcomes more than 6,000 mining professionals across three days of sourcing, networking and high-level conference sessions West Africa’s mining and power community has a new gathering point as the West African Mini",
-      "publishedAt": "2026-05-15T12:07:35+00:00",
-      "source": "Business & Financial Times",
-      "category": "Business news"
-    },
-    {
-      "title": "Quality Insurance marks 30 years of growth, innovation",
-      "url": "https://thebftonline.com/2026/05/15/quality-insurance-marks-30-years-of-growth-innovation/",
-      "summary": "By Sandra Agyeiwaa OTOO Quality Insurance Company has highlighted its financial growth and product innovation as it marks 30 years of operations in Ghana’s insurance industry. Cecil Ribeiro, Head of Operations at Quality Insurance Company (QIC), in an intervie",
-      "publishedAt": "2026-05-15T12:06:21+00:00",
-      "source": "Business & Financial Times",
-      "category": "Business news"
-    },
-    {
-      "title": "Government to phase out double track educational system by 2027 – Mahama",
-      "url": "https://www.ghanabusinessnews.com/2026/05/15/government-to-phase-out-double-track-educational-system-by-2027-mahama/",
-      "summary": "President John Dramani Mahama has announced that the Government will phase out the \"double track\" educational system by 2027. The post Government to phase out double track educational system by 2027 – Mahama appeared first on Ghana Business News .",
-      "publishedAt": "2026-05-15T10:23:49+00:00",
+      "title": "Ghana officially exits $3b IMF ECF programme",
+      "url": "https://www.ghanabusinessnews.com/2026/05/16/ghana-officially-exits-3b-imf-ecf-programme/",
+      "summary": "Ghana has officially exited its Extended Credit Facility (ECF) programme with the International Monetary Fund (IMF). The post Ghana officially exits $3b IMF ECF programme appeared first on Ghana Business News .",
+      "publishedAt": "2026-05-16T10:12:48+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Asantehene calls for bold local procurement policy to transform Ghana’s textile industry",
-      "url": "https://www.ghanabusinessnews.com/2026/05/15/asantehene-calls-for-bold-local-procurement-policy-to-transform-ghanas-textile-industry/",
-      "summary": "Otumfuo Osei Tutu II, the Asantehene, has called for a deliberate national commitment to local procurement and industrial transformation to reposition Ghana’s textile, garment and apparel industry as a major driver of economic growth, job creation and national",
-      "publishedAt": "2026-05-15T10:11:54+00:00",
+      "title": "Genetics linked to kidney disease in West Africa – Study",
+      "url": "https://www.ghanabusinessnews.com/2026/05/16/genetics-linked-to-kidney-disease-in-west-africa-study/",
+      "summary": "A study by Professor Vincent Boima, Head, Department of Medicine and Therapeutics, University of Ghana, has revealed that genetics may play an important role in the increasing cases of kidney disease in West Africa, including Ghana. The post Genetics linked to",
+      "publishedAt": "2026-05-16T10:00:31+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Government sets up Catheterisation Laboratories at three major teaching Hospitals – Mahama",
-      "url": "https://www.ghanabusinessnews.com/2026/05/15/government-sets-up-catheterisation-laboratories-at-three-major-teaching-hospitals-mahama/",
-      "summary": "President John Dramani Mahama says government through the Ghana Medical Trust Fund (MahamaCares) has initiated the construction of Catheterisation Laboratories (Cath Labs) at the nation's three major teaching Hospitals to treat cardiovascular patients. The pos",
-      "publishedAt": "2026-05-15T09:52:07+00:00",
+      "title": "Government commits to fully recapitalising Bank of Ghana by 2032",
+      "url": "https://www.ghanabusinessnews.com/2026/05/16/government-commits-to-fully-recapitalising-bank-of-ghana-by-2032/",
+      "summary": "The government has affirmed its commitment to fully recapitalising the Bank of Ghana by 2032, following the passage of the Central Bank’s amended legislation by Parliament to ensure its long-term financial stability. The post Government commits to fully recapi",
+      "publishedAt": "2026-05-16T09:58:47+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Zero tariff policy gateway to deep Africa-China value chain integration – Experts",
-      "url": "https://www.ghanabusinessnews.com/2026/05/15/zero-tariff-policy-gateway-to-deep-africa-china-value-chain-integration-experts/",
-      "summary": "China’s new zero tariff trade policy for Africa, which took effect on May 1, is a springboard for enhanced, two-way value chain integration, international trade experts have said. The post Zero tariff policy gateway to deep Africa-China value chain integration",
-      "publishedAt": "2026-05-15T09:41:35+00:00",
+      "title": "No more blanket tax exemptions — President",
+      "url": "https://www.ghanabusinessnews.com/2026/05/16/no-more-blanket-tax-exemptions-president/",
+      "summary": "The government will no longer grant blanket tax exemptions on import duties, but it will be on a case-by-case basis, the President John Dramani Mahama announced on Thursday in Accra. The post No more blanket tax exemptions — President appeared first on Ghana B",
+      "publishedAt": "2026-05-16T09:56:11+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Stop weaponising Bank of Ghana financial reports – Expert",
-      "url": "https://www.ghanabusinessnews.com/2026/05/15/stop-weaponising-bank-of-ghana-financial-reports-expert/",
-      "summary": "Losses recorded by the Bank of Ghana (BoG) reflect policy intervention costs and international accounting rules rather than institutional insolvency, Chartered Accountant Francis Abudu Zimmaleh has stated, urging political actors to stop weaponising the centra",
-      "publishedAt": "2026-05-15T09:33:39+00:00",
+      "title": "Ghana must seize hard-won fiscal space to drive growth and jobs – IMF",
+      "url": "https://www.ghanabusinessnews.com/2026/05/16/ghana-must-seize-hard-won-fiscal-space-to-drive-growth-and-jobs-imf/",
+      "summary": "The International Monetary Fund (IMF) on Friday urged Ghana to take full advantage of the significant fiscal space created by its strong policy reforms and economic stabilisation programme to drive strategic investments and provide jobs for the people. The pos",
+      "publishedAt": "2026-05-16T09:44:15+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "High Court awards damages against Ghana police for abuses during #OccupyJulorbiHouse protest",
-      "url": "https://www.ghanabusinessnews.com/2026/05/15/high-court-awards-damages-against-ghana-police-for-abuses-during-occupyjulorbihouse-protest/",
-      "summary": "The Human Rights Division of the High Court has awarded damages against the Ghana Police Service for violating the rights of journalists and protesters during the #OccupyJulorbiHouse demonstration held in September 2023. The post High Court awards damages agai",
-      "publishedAt": "2026-05-15T09:07:20+00:00",
+      "title": "Patients may spend more on dialysis than kidney transplants – Nephrologist",
+      "url": "https://www.ghanabusinessnews.com/2026/05/16/patients-may-spend-more-on-dialysis-than-kidney-transplants-nephrologist/",
+      "summary": "Patients with kidney failure in Ghana may spend more on dialysis over time than they would on kidney transplants, a nephrologist said on Thursday. The post Patients may spend more on dialysis than kidney transplants – Nephrologist appeared first on Ghana Busin",
+      "publishedAt": "2026-05-16T09:21:39+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Students are being priced out – NUGS on hostel fees",
-      "url": "https://www.ghanabusinessnews.com/2026/05/15/students-are-being-priced-out-nugs-on-hostel-fees/",
-      "summary": "Mr Rashid Ibrahim, President of the National Union of Ghana Students (NUGS), says students are being forced out of school with the high increment in university hostels facilities. The post Students are being priced out – NUGS on hostel fees appeared first on G",
-      "publishedAt": "2026-05-15T09:00:01+00:00",
+      "title": "Rice glut in Ghana because inadequate storage facilities hampers food mop-up – NAFCO",
+      "url": "https://www.ghanabusinessnews.com/2026/05/16/rice-glut-in-ghana-because-inadequate-storage-facilities-hampers-food-mop-up-nafco/",
+      "summary": "Inadequate storage infrastructure is constraining efforts to purchase and preserve surplus rice and grains despite government’s release of GH¢300 million for strategic food reserves. The post Rice glut in Ghana because inadequate storage facilities hampers foo",
+      "publishedAt": "2026-05-16T09:13:43+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Over 61,000 candidates to sit for 2026 TVET Certificate II examinations",
-      "url": "https://www.ghanabusinessnews.com/2026/05/15/over-61000-candidates-to-sit-for-2026-tvet-certificate-ii-examinations/",
-      "summary": "A total of 61,506 candidates from public and private Technical and Vocational Education and Training (TVET) institutions across the country will sit for the 2026 TVET Certificate II examinations. The post Over 61,000 candidates to sit for 2026 TVET Certificate",
-      "publishedAt": "2026-05-15T08:41:45+00:00",
+      "title": "IMF pledges support for Africa’s structural reforms",
+      "url": "https://www.ghanabusinessnews.com/2026/05/16/imf-pledges-support-for-africas-structural-reforms/",
+      "summary": "The International Monetary Fund (IMF) has pledged firm support for Africa’s economic reforms, describing the continent as a “leading light” for the global economy. The post IMF pledges support for Africa’s structural reforms appeared first on Ghana Business Ne",
+      "publishedAt": "2026-05-16T08:59:15+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
@@ -682,7 +682,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-15T12:59:54.862095+00:00"
+      "fetchedAt": "2026-05-16T11:55:09.629101+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -691,7 +691,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-15T12:59:54.862095+00:00"
+      "fetchedAt": "2026-05-16T11:55:09.629101+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -700,7 +700,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-15T12:59:54.862095+00:00"
+      "fetchedAt": "2026-05-16T11:55:09.629101+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -709,7 +709,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-15T12:59:54.862095+00:00"
+      "fetchedAt": "2026-05-16T11:55:09.629101+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -718,7 +718,7 @@
       "kind": "html",
       "ok": false,
       "error": "Source returned a placeholder/unavailable page.",
-      "fetchedAt": "2026-05-15T12:59:54.862095+00:00"
+      "fetchedAt": "2026-05-16T11:55:09.629101+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -727,7 +727,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-15T12:59:54.862095+00:00"
+      "fetchedAt": "2026-05-16T11:55:09.629101+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -736,7 +736,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-15T12:59:54.862095+00:00"
+      "fetchedAt": "2026-05-16T11:55:09.629101+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -745,7 +745,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-15T12:59:54.862095+00:00"
+      "fetchedAt": "2026-05-16T11:55:09.629101+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -754,7 +754,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-15T12:59:54.862095+00:00"
+      "fetchedAt": "2026-05-16T11:55:09.629101+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -763,7 +763,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-15T12:59:54.862095+00:00"
+      "fetchedAt": "2026-05-16T11:55:09.629101+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -772,7 +772,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-15T12:59:54.862095+00:00"
+      "fetchedAt": "2026-05-16T11:55:09.629101+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -781,7 +781,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-15T12:59:54.862095+00:00"
+      "fetchedAt": "2026-05-16T11:55:09.629101+00:00"
     },
     {
       "name": "Citi Business News",
@@ -790,7 +790,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-15T12:59:54.862095+00:00"
+      "fetchedAt": "2026-05-16T11:55:09.629101+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -799,7 +799,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-15T12:59:54.862095+00:00"
+      "fetchedAt": "2026-05-16T11:55:09.629101+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -808,7 +808,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-15T12:59:54.862095+00:00"
+      "fetchedAt": "2026-05-16T11:55:09.629101+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -817,7 +817,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-15T12:59:54.862095+00:00"
+      "fetchedAt": "2026-05-16T11:55:09.629101+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -826,7 +826,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-15T12:59:54.862095+00:00"
+      "fetchedAt": "2026-05-16T11:55:09.629101+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -835,7 +835,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-15T12:59:54.862095+00:00"
+      "fetchedAt": "2026-05-16T11:55:09.629101+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -844,7 +844,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-15T12:59:54.862095+00:00"
+      "fetchedAt": "2026-05-16T11:55:09.629101+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -853,7 +853,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-15T12:59:54.862095+00:00"
+      "fetchedAt": "2026-05-16T11:55:09.629101+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -862,7 +862,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-15T12:59:54.862095+00:00"
+      "fetchedAt": "2026-05-16T11:55:09.629101+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -871,7 +871,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-05-15T12:59:54.862095+00:00"
+      "fetchedAt": "2026-05-16T11:55:09.629101+00:00"
     }
   ]
 }
