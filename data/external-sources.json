@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-16T11:55:09.629101+00:00",
-  "generatedAtGhana": "2026-05-16T11:55:09.629101+00:00",
+  "generatedAt": "2026-05-17T12:01:01.325865+00:00",
+  "generatedAtGhana": "2026-05-17T12:01:01.325865+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
@@ -514,6 +514,22 @@
       "category": "Sovereign credit research"
     },
     {
+      "title": "Advtech announces launch of Rosebank International",
+      "url": "https://thebftonline.com/2026/05/17/advtech-announces-launch-of-rosebank-international/",
+      "summary": "Iconic IIE Rosebank College steps into the future as it positions for university status Advtech today announced the launch of Rosebank International, a significant rebranding and strategic elevation of its iconic IIE Rosebank College as it positions for full u",
+      "publishedAt": "2026-05-17T10:19:48+00:00",
+      "source": "Business & Financial Times",
+      "category": "Business news"
+    },
+    {
+      "title": "Ecobank Ghana PLC statement",
+      "url": "https://thebftonline.com/2026/05/16/ecobank-ghana-plc-statement/",
+      "summary": "Ecobank Ghana PLC is aware of the recent court ruling in respect of claims on the Bank. As a responsible financial institution, Ecobank Ghana PLC respects the judicial process and will continue to uphold the rule of law. We wish to reassure our customers that ",
+      "publishedAt": "2026-05-16T18:38:23+00:00",
+      "source": "Business & Financial Times",
+      "category": "Business news"
+    },
+    {
       "title": "Asiama wins Best Male Vocal Performance with debut single Akoma",
       "url": "https://thebftonline.com/2026/05/15/asiama-wins-best-male-vocal-performance-with-debut-single-akoma/",
       "summary": "Before many audiences knew his story, they first heard the voice. At the 27th Telecel Ghana Music Awards, that voice proved impossible to ignore, as emerging singer Asiama claimed the Best Male Vocal Performance award with his debut single, Akoma. The song als",
@@ -562,82 +578,66 @@
       "category": "Business news"
     },
     {
-      "title": "EV push collides with diesel bus rollout",
-      "url": "https://thebftonline.com/2026/05/15/ev-push-collides-with-diesel-bus-rollout/",
-      "summary": "By Kizito CUDJOE The country’s plan to expand public transport with 300 newly procured diesel buses is raising questions about policy coherence, as the move apparently runs counter to ambitions of accelerating electric vehicle (EV) adoption and cutting transpo",
-      "publishedAt": "2026-05-15T12:25:18+00:00",
-      "source": "Business & Financial Times",
-      "category": "Business news"
-    },
-    {
-      "title": "GRA to charge VAT on online purchases from August",
-      "url": "https://thebftonline.com/2026/05/15/gra-to-charge-vat-on-online-purchases-from-august/",
-      "summary": "By Kingsley Webora TANKEH The Commissioner-General of the Ghana Revenue Authority (GRA), Anthony Sarpong, has announced plans to deploy an automated system that will deduct Value Added Tax (VAT) from online payments for goods and digital services at the point ",
-      "publishedAt": "2026-05-15T12:20:15+00:00",
-      "source": "Business & Financial Times",
-      "category": "Business news"
-    },
-    {
-      "title": "Ghana officially exits $3b IMF ECF programme",
-      "url": "https://www.ghanabusinessnews.com/2026/05/16/ghana-officially-exits-3b-imf-ecf-programme/",
-      "summary": "Ghana has officially exited its Extended Credit Facility (ECF) programme with the International Monetary Fund (IMF). The post Ghana officially exits $3b IMF ECF programme appeared first on Ghana Business News .",
-      "publishedAt": "2026-05-16T10:12:48+00:00",
+      "title": "Ghana government rules out compensation for bondholders affected by DDEP haircuts",
+      "url": "https://www.ghanabusinessnews.com/2026/05/17/ghana-government-rules-out-compensation-for-bondholders-affected-by-ddep-haircuts/",
+      "summary": "The Ghana government has ruled out compensation for bondholders who incurred losses under the Domestic Debt Exchange Programme (DDEP), Dr Cassiel Ato Baah Forson, Finance Minister, has said. The post Ghana government rules out compensation for bondholders affe",
+      "publishedAt": "2026-05-17T11:39:10+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Genetics linked to kidney disease in West Africa – Study",
-      "url": "https://www.ghanabusinessnews.com/2026/05/16/genetics-linked-to-kidney-disease-in-west-africa-study/",
-      "summary": "A study by Professor Vincent Boima, Head, Department of Medicine and Therapeutics, University of Ghana, has revealed that genetics may play an important role in the increasing cases of kidney disease in West Africa, including Ghana. The post Genetics linked to",
-      "publishedAt": "2026-05-16T10:00:31+00:00",
+      "title": "IMF identifies Ghana’s key risks post-$3b loan-supported programme",
+      "url": "https://www.ghanabusinessnews.com/2026/05/17/imf-identifies-ghanas-key-risks-post-3b-loan-supported-programme/",
+      "summary": "Ghana on Friday, May 15, exited its $3 billion loan-supported programme with the International Monetary Fund (IMF), going through three-years of austerity to restore macroeconomic stability, but “the grass is still not green” for the country. The post IMF iden",
+      "publishedAt": "2026-05-17T11:33:57+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Government commits to fully recapitalising Bank of Ghana by 2032",
-      "url": "https://www.ghanabusinessnews.com/2026/05/16/government-commits-to-fully-recapitalising-bank-of-ghana-by-2032/",
-      "summary": "The government has affirmed its commitment to fully recapitalising the Bank of Ghana by 2032, following the passage of the Central Bank’s amended legislation by Parliament to ensure its long-term financial stability. The post Government commits to fully recapi",
-      "publishedAt": "2026-05-16T09:58:47+00:00",
+      "title": "Bank of Ghana tightens risks oversight as financial sector assets hit GH¢647b",
+      "url": "https://www.ghanabusinessnews.com/2026/05/17/bank-of-ghana-tightens-risks-oversight-as-financial-sector-assets-hit-gh%c2%a2647b/",
+      "summary": "Ghana’s financial sector is showing stronger resilience, with total assets rising by 23.3 per cent to GH¢647.25 billion in 2025, as the Bank of Ghana (BoG), sector regulator, tightens oversight of emerging risks. The post Bank of Ghana tightens risks oversight",
+      "publishedAt": "2026-05-17T11:19:14+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "No more blanket tax exemptions — President",
-      "url": "https://www.ghanabusinessnews.com/2026/05/16/no-more-blanket-tax-exemptions-president/",
-      "summary": "The government will no longer grant blanket tax exemptions on import duties, but it will be on a case-by-case basis, the President John Dramani Mahama announced on Thursday in Accra. The post No more blanket tax exemptions — President appeared first on Ghana B",
-      "publishedAt": "2026-05-16T09:56:11+00:00",
+      "title": "Ghana Vice President delivers keynote address at 16th Oxford Africa Conference",
+      "url": "https://www.ghanabusinessnews.com/2026/05/17/ghana-vice-president-delivers-keynote-address-at-16th-oxford-africa-conference/",
+      "summary": "Africa must position itself to lead in areas such as artificial intelligence, digital infrastructure, energy transition, and data sovereignty as African Continental Free Trade Area presents opportunities for market integration and growth, the Vice President Pr",
+      "publishedAt": "2026-05-17T11:11:44+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Ghana must seize hard-won fiscal space to drive growth and jobs – IMF",
-      "url": "https://www.ghanabusinessnews.com/2026/05/16/ghana-must-seize-hard-won-fiscal-space-to-drive-growth-and-jobs-imf/",
-      "summary": "The International Monetary Fund (IMF) on Friday urged Ghana to take full advantage of the significant fiscal space created by its strong policy reforms and economic stabilisation programme to drive strategic investments and provide jobs for the people. The pos",
-      "publishedAt": "2026-05-16T09:44:15+00:00",
+      "title": "Ghana Navy rescues seven suspected Ivorian stowaways",
+      "url": "https://www.ghanabusinessnews.com/2026/05/17/ghana-navy-rescues-seven-suspected-ivorian-stowaways/",
+      "summary": "The Ghana Navy has rescued seven suspected Ivorian stowaways from the rudder trunk of a Belgium-registered crude oil tanker, MT Cap Felix, during a maritime operation off the Tema coast. The post Ghana Navy rescues seven suspected Ivorian stowaways appeared fi",
+      "publishedAt": "2026-05-17T11:02:48+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Patients may spend more on dialysis than kidney transplants – Nephrologist",
-      "url": "https://www.ghanabusinessnews.com/2026/05/16/patients-may-spend-more-on-dialysis-than-kidney-transplants-nephrologist/",
-      "summary": "Patients with kidney failure in Ghana may spend more on dialysis over time than they would on kidney transplants, a nephrologist said on Thursday. The post Patients may spend more on dialysis than kidney transplants – Nephrologist appeared first on Ghana Busin",
-      "publishedAt": "2026-05-16T09:21:39+00:00",
+      "title": "UCC appoints Prof Denis Worlanyo Aheto Vice-Chancellor",
+      "url": "https://www.ghanabusinessnews.com/2026/05/17/ucc-appoints-prof-denis-worlanyo-aheto-vice-chancellor/",
+      "summary": "The Governing Council of the University of Cape Coast (UCC) has appointed Professor Denis Worlanyo Aheto as the new Vice-Chancellor of the University, effective August 1, 2026. The post UCC appoints Prof Denis Worlanyo Aheto Vice-Chancellor appeared first on G",
+      "publishedAt": "2026-05-17T10:43:38+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Rice glut in Ghana because inadequate storage facilities hampers food mop-up – NAFCO",
-      "url": "https://www.ghanabusinessnews.com/2026/05/16/rice-glut-in-ghana-because-inadequate-storage-facilities-hampers-food-mop-up-nafco/",
-      "summary": "Inadequate storage infrastructure is constraining efforts to purchase and preserve surplus rice and grains despite government’s release of GH¢300 million for strategic food reserves. The post Rice glut in Ghana because inadequate storage facilities hampers foo",
-      "publishedAt": "2026-05-16T09:13:43+00:00",
+      "title": "Residents protest location of 24-Hour Economy market and UHAS pharmacy projects",
+      "url": "https://www.ghanabusinessnews.com/2026/05/17/residents-protest-location-of-24-hour-economy-market-and-uhas-pharmacy-projects/",
+      "summary": "Some residents of Keta Central in the Keta Municipality of the Volta Region, have protested against the decision to site the government’s proposed 24-hour economy market and a University of Health and Allied Sciences (UHAS) pharmacy projects outside the commun",
+      "publishedAt": "2026-05-17T10:32:33+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "IMF pledges support for Africa’s structural reforms",
-      "url": "https://www.ghanabusinessnews.com/2026/05/16/imf-pledges-support-for-africas-structural-reforms/",
-      "summary": "The International Monetary Fund (IMF) has pledged firm support for Africa’s economic reforms, describing the continent as a “leading light” for the global economy. The post IMF pledges support for Africa’s structural reforms appeared first on Ghana Business Ne",
-      "publishedAt": "2026-05-16T08:59:15+00:00",
+      "title": "Nearly 40 countries commit to join special tribunal for Ukraine",
+      "url": "https://www.ghanabusinessnews.com/2026/05/17/nearly-40-countries-commit-to-join-special-tribunal-for-ukraine/",
+      "summary": "A total of 36 countries and the European Union have committed to joining an agreement establishing a special tribunal to prosecute crimes committed during Russia's war against Ukraine, the Council of Europe said on Friday. The post Nearly 40 countries commit t",
+      "publishedAt": "2026-05-17T10:23:20+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
@@ -682,7 +682,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-16T11:55:09.629101+00:00"
+      "fetchedAt": "2026-05-17T12:01:01.325865+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -691,7 +691,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-16T11:55:09.629101+00:00"
+      "fetchedAt": "2026-05-17T12:01:01.325865+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -700,7 +700,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-16T11:55:09.629101+00:00"
+      "fetchedAt": "2026-05-17T12:01:01.325865+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -709,7 +709,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-16T11:55:09.629101+00:00"
+      "fetchedAt": "2026-05-17T12:01:01.325865+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -718,7 +718,7 @@
       "kind": "html",
       "ok": false,
       "error": "Source returned a placeholder/unavailable page.",
-      "fetchedAt": "2026-05-16T11:55:09.629101+00:00"
+      "fetchedAt": "2026-05-17T12:01:01.325865+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -727,7 +727,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-16T11:55:09.629101+00:00"
+      "fetchedAt": "2026-05-17T12:01:01.325865+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -736,7 +736,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-16T11:55:09.629101+00:00"
+      "fetchedAt": "2026-05-17T12:01:01.325865+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -745,7 +745,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-16T11:55:09.629101+00:00"
+      "fetchedAt": "2026-05-17T12:01:01.325865+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -754,7 +754,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-16T11:55:09.629101+00:00"
+      "fetchedAt": "2026-05-17T12:01:01.325865+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -763,7 +763,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-16T11:55:09.629101+00:00"
+      "fetchedAt": "2026-05-17T12:01:01.325865+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -772,7 +772,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-16T11:55:09.629101+00:00"
+      "fetchedAt": "2026-05-17T12:01:01.325865+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -781,7 +781,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-16T11:55:09.629101+00:00"
+      "fetchedAt": "2026-05-17T12:01:01.325865+00:00"
     },
     {
       "name": "Citi Business News",
@@ -790,7 +790,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-16T11:55:09.629101+00:00"
+      "fetchedAt": "2026-05-17T12:01:01.325865+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -799,7 +799,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-16T11:55:09.629101+00:00"
+      "fetchedAt": "2026-05-17T12:01:01.325865+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -808,7 +808,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-16T11:55:09.629101+00:00"
+      "fetchedAt": "2026-05-17T12:01:01.325865+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -817,7 +817,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-16T11:55:09.629101+00:00"
+      "fetchedAt": "2026-05-17T12:01:01.325865+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -826,7 +826,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-16T11:55:09.629101+00:00"
+      "fetchedAt": "2026-05-17T12:01:01.325865+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -835,7 +835,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-16T11:55:09.629101+00:00"
+      "fetchedAt": "2026-05-17T12:01:01.325865+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -844,7 +844,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-16T11:55:09.629101+00:00"
+      "fetchedAt": "2026-05-17T12:01:01.325865+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -853,7 +853,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-16T11:55:09.629101+00:00"
+      "fetchedAt": "2026-05-17T12:01:01.325865+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -862,7 +862,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-16T11:55:09.629101+00:00"
+      "fetchedAt": "2026-05-17T12:01:01.325865+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -871,7 +871,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-05-16T11:55:09.629101+00:00"
+      "fetchedAt": "2026-05-17T12:01:01.325865+00:00"
     }
   ]
 }
