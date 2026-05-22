@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-05-21T14:15:39.050713+00:00",
-  "generatedAtGhana": "2026-05-21T14:15:39.050713+00:00",
+  "generatedAt": "2026-05-22T13:33:16.356619+00:00",
+  "generatedAtGhana": "2026-05-22T13:33:16.356619+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
     "gseIndices": {
-      "asOf": "20/05/2026",
+      "asOf": "21/05/2026",
       "composite": 14489.47,
-      "financialStocks": 7955.66,
+      "financialStocks": 7941.28,
       "source": "Ghana Stock Exchange",
       "url": "https://gse.com.gh/"
     },
@@ -514,130 +514,130 @@
       "category": "Sovereign credit research"
     },
     {
-      "title": "Court of Appeal restores GN S&L licence",
-      "url": "https://thebftonline.com/2026/05/21/court-of-appeal-restores-gn-sl-licence/",
-      "summary": "The Court of Appeal has unanimously restored the operating licence of GN Savings and Loans Company Limited, overturning both a High Court ruling and the Bank of Ghana’s (BoG) 2019 decision to revoke the institution’s licence. This has been described as a landm",
-      "publishedAt": "2026-05-21T13:18:37+00:00",
+      "title": "Skills Impact Bonds gain backing",
+      "url": "https://thebftonline.com/2026/05/22/skills-impact-bonds-gain-backing/",
+      "summary": "… as analysts push jobs-focused financing model By Ebenezer Chike Adjei NJOKU Policymakers should introduce a Skills Impact Bond (SIB) — an outcomes-based financing instrument that ties investor returns to verified employment results, to address a worsening yo",
+      "publishedAt": "2026-05-22T12:57:38+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "The Attitude Lounge with Kodwo Brumpon: Your body speaks. Do you listen?",
-      "url": "https://thebftonline.com/2026/05/21/the-attitude-lounge-with-kodwo-brumpon-your-body-speaks-do-you-listen/",
-      "summary": "“When the small toe is hurting, the whole self, swoops down to attend to it.” – African proverb Recently, whilst driving, I was debating on which route to use to avoid traffic. I had a tightness in my stomach to use a particular one, but I ignored it and used ",
-      "publishedAt": "2026-05-21T13:00:43+00:00",
+      "title": "Meta announces feature Testing Status in the WhatsApp Chat tab",
+      "url": "https://thebftonline.com/2026/05/22/meta-announces-feature-testing-status-in-the-whatsapp-chat-tab/",
+      "summary": "WhatsApp is trying out a new placement for Status updates, showing them at the top of the chats tab. The tech company is running a limited test to see if making statuses more visible will help people catch updates before they disappear in 24 hours. Status is u",
+      "publishedAt": "2026-05-22T12:24:10+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Savana Signatures commended for empowering girls, women and youth",
-      "url": "https://thebftonline.com/2026/05/21/savana-signatures-commended-for-empowering-girls-women-and-youth/",
-      "summary": "By Samuel SAM Savana Signatures, a non-governmental organisation in Tamale, has been commended for empowering girls, women and youth while fostering community-led development across Ghana by curbing the unemployment rate and ensuring community development, res",
-      "publishedAt": "2026-05-21T13:00:33+00:00",
+      "title": "MUSIGA hosts Nigerian delegation",
+      "url": "https://thebftonline.com/2026/05/22/musiga-hosts-nigerian-delegation/",
+      "summary": "The Musicians Union of Ghana (MUSIGA) has hosted a high powered delegation from the National Institute for Policy and Strategic Studies Kuru, Nigeria who were in Ghana for a Study Tour on the Creative Economy. The delegation was led by Prof Dabin Haruna Khitwe",
+      "publishedAt": "2026-05-22T12:13:25+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Ghana Association of Banks to launch 6-month Nationwide Anti-Fraud Campaign",
-      "url": "https://thebftonline.com/2026/05/21/ghana-association-of-banks-to-launch-6-month-nationwide-anti-fraud-campaign/",
-      "summary": "The Ghana Association of Banks (GAB) is set to roll out a six-month nationwide anti-fraud campaign aimed at tackling the rising incidence of financial fraud and restoring public confidence in Ghana’s banking sector. The campaign, which is expected to run from ",
-      "publishedAt": "2026-05-21T12:44:38+00:00",
+      "title": "The exponential growth of Fintechs in Africa and the talent gap: How to scale the growth",
+      "url": "https://thebftonline.com/2026/05/22/the-exponential-growth-of-fintechs-in-africa-and-the-talent-gap-how-to-scale-the-growth/",
+      "summary": "By Dr. Prince Osei HYEAMAN-ADDAI .This month, Ghana hosted another 3i Africa Summit, which brought together players across the digital economy. The interconnectedness of digital infrastructure, platforms, markets, talents, regulations, and capital was discusse",
+      "publishedAt": "2026-05-22T12:10:40+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Trump’s security strategy: A more ‘surgical’ approach?",
-      "url": "https://thebftonline.com/2026/05/21/trumps-security-strategy-a-more-surgical-approach/",
-      "summary": "By Martin MINNS US President Donald Trump’s recently announced new counter-terrorism strategy for Africa marks a departure from a policy of long-term troop deployments and wider governance building to tackle terrorist groups, to favouring short term campaigns ",
-      "publishedAt": "2026-05-21T12:40:01+00:00",
+      "title": "Ghana CEO Awards @ 10: The power of vision, trust, consistency",
+      "url": "https://thebftonline.com/2026/05/22/ghana-ceo-awards-10-the-power-of-vision-trust-consistency/",
+      "summary": "By Charles Benoni Okine Ten years ago, what began as a modest initiative with a bold vision has today evolved into one of Ghana’s most respected and influential platforms for celebrating leadership excellence and corporate achievement. Reaching a decade is not",
+      "publishedAt": "2026-05-22T12:09:28+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Guarding the gains",
-      "url": "https://thebftonline.com/2026/05/21/guarding-the-gains/",
-      "summary": "By Constance Gbedzo The successful conclusion of Ghana’s 17th Extended Credit Facility (ECF) programme with the International Monetary Fund (IMF) ahead of schedule marks a watershed moment in the nation’s economic narrative. For a country that has frequently f",
-      "publishedAt": "2026-05-21T12:28:30+00:00",
+      "title": "Living with finesse: Confidence is quiet, insecurity is loud",
+      "url": "https://thebftonline.com/2026/05/22/living-with-finesse-confidence-is-quiet-insecurity-is-loud/",
+      "summary": "“Confidence does not need a microphone, it speaks clearly even in silence.” There’s a kind of confidence that doesn’t need to be loud or boisterous. You notice it immediately; it is calm, grounded, and unhurried. It is the kind of presence that listens more th",
+      "publishedAt": "2026-05-22T12:07:28+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Sustainable finance roadmap in the offing",
-      "url": "https://thebftonline.com/2026/05/21/sustainable-finance-roadmap-in-the-offing/",
-      "summary": "regulators to ensure green finance practices in sync across sector banks directed to screen borrowers for environmental impact By Kingsley Webora TANKEH The Bank of Ghana (BoG) is working with the Securities and Exchange Commission (SEC), the National Insuranc",
-      "publishedAt": "2026-05-21T12:19:11+00:00",
+      "title": "Dubai Chambers engages trade institutions to deepen investment cooperation",
+      "url": "https://thebftonline.com/2026/05/22/dubai-chambers-engages-trade-institutions-to-deepen-investment-cooperation/",
+      "summary": "Dubai Chambers has held a series of high-level meetings with key trade and economic institutions in Ghana as part of efforts to strengthen bilateral trade, investment cooperation and private-sector partnerships between Dubai and Ghana. The engagements, held in",
+      "publishedAt": "2026-05-22T12:06:21+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Banks are lending again, but not to the economy that needs it most",
-      "url": "https://thebftonline.com/2026/05/21/banks-are-lending-again-but-not-to-the-economy-that-needs-it-most/",
-      "summary": "… Credit recovery and the structural problem beneath it By Sydney Nii Armah Codjoe &Ahmed Tahiru Ghana’s banking sector is reopening the credit taps. After a prolonged period of macroeconomic turbulence marked by surging inflation, sharp currency depreciation,",
-      "publishedAt": "2026-05-21T12:17:46+00:00",
+      "title": "ICAG-GRI deepens partnership on ESG reporting future",
+      "url": "https://thebftonline.com/2026/05/22/icag-gri-deepens-partnership-on-esg-reporting-future/",
+      "summary": "By Dr. Eric Boachie Yiadom When the leadership of the Institute of Chartered Accountants, Ghana (ICAG) and the Global Reporting Initiative (GRI) sat down together on the sidelines of the 2026 Global Sustainability Workshop in Cape Town, the conversation was no",
+      "publishedAt": "2026-05-22T12:05:27+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Ghana government announces support package for South Africa evacuees",
-      "url": "https://www.ghanabusinessnews.com/2026/05/21/ghana-government-announces-support-package-for-south-africa-evacuees/",
-      "summary": "The Ghana government has announced a support package for 300 nationals being evacuated from South Africa following renewed xenophobic attacks targeting foreign migrants. The post Ghana government announces support package for South Africa evacuees appeared fir",
-      "publishedAt": "2026-05-21T14:00:35+00:00",
+      "title": "Advocates say sustainable financing needed to address malnutrition in Ghana",
+      "url": "https://www.ghanabusinessnews.com/2026/05/22/advocates-say-sustainable-financing-needed-to-address-malnutrition-in-ghana/",
+      "summary": "The need to look for sustainable financing to address maternal and child nutrition took centre stage at a meeting to tackle the morbidity and mortality cases associated with malnutrition among vulnerable groups in the country. The post Advocates say sustainabl",
+      "publishedAt": "2026-05-22T11:49:12+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Bank of Ghana maintains policy rate at 14% as global tensions cloud outlook",
-      "url": "https://www.ghanabusinessnews.com/2026/05/21/bank-of-ghana-maintains-policy-rate-at-14-as-global-tensions-cloud-outlook/",
-      "summary": "The Bank of Ghana (BoG) has maintained its Monetary Policy Rate (MPR) at 14 per cent amid heightened global inflationary risks linked to the protracted Middle East conflict. The post Bank of Ghana maintains policy rate at 14% as global tensions cloud outlook a",
-      "publishedAt": "2026-05-21T13:17:20+00:00",
+      "title": "Ghana’s digital cedi targets cross-border trade, financial integration",
+      "url": "https://www.ghanabusinessnews.com/2026/05/22/ghanas-digital-cedi-targets-cross-border-trade-financial-integration/",
+      "summary": "Ghana is preparing to deploy its Central Bank Digital Currency (e-Cedi) for cross-border transactions and regional financial integration, Dr Johnson Pandit Asiama, Governor of the Bank of Ghana, has said. The post Ghana’s digital cedi targets cross-border trad",
+      "publishedAt": "2026-05-22T11:36:27+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Ghana Revenue Authority warns businesses against selective issuance of VAT receipts",
-      "url": "https://www.ghanabusinessnews.com/2026/05/21/ghana-revenue-authority-warns-businesses-against-selective-issuance-of-vat-receipts/",
-      "summary": "Mr Joseph Adjeikwei Annan, the Assistant Commissioner in charge of Accra Area Enforcement at the Ghana Revenue Authority (GRA), has warned businesses against the selective issuance of VAT receipts, stressing that the practice undermined tax compliance and reve",
-      "publishedAt": "2026-05-21T13:13:24+00:00",
+      "title": "Producer inflation rises to 2.7% in April 2026",
+      "url": "https://www.ghanabusinessnews.com/2026/05/22/producer-inflation-rises-to-2-7-in-april-2026/",
+      "summary": "Producer price inflation in Ghana rose to 2.7 per cent in April 2026, up from 1.6 per cent recorded in March, according to the latest data released by the Ghana Statistical Service (GSS). The post Producer inflation rises to 2.7% in April 2026 appeared first o",
+      "publishedAt": "2026-05-22T11:33:20+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Regulator announces first non-interest bank in Ghana to start this year",
-      "url": "https://www.ghanabusinessnews.com/2026/05/21/regulator-announces-first-non-interest-bank-in-ghana-to-start-this-year/",
-      "summary": "Ghana is expected to launch its first non-interest banking institution this year, marking a significant step in diversifying the country’s financial sector. The post Regulator announces first non-interest bank in Ghana to start this year appeared first on Ghan",
-      "publishedAt": "2026-05-21T13:07:56+00:00",
+      "title": "Akonta Mining Company never operated on Samreboi concession – Wontumi tells court",
+      "url": "https://www.ghanabusinessnews.com/2026/05/22/akonta-mining-company-never-operated-on-samreboi-concession-wontumi-tells-court/",
+      "summary": "Mr Bernard Antwi Boasiako, popularly known as Wontumi, the Ashanti Regional Chairman of the New Patriotic Party, has told an Accra High Court that the Akonta Mining Company Limited never operated or mined on its concession at Samreboi. The post Akonta Mining C",
+      "publishedAt": "2026-05-22T11:25:15+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Ghana railway workers demand payment of 11-month salary arrears",
-      "url": "https://www.ghanabusinessnews.com/2026/05/21/ghana-railway-workers-demand-payment-of-11-month-salary-arrears/",
-      "summary": "The Railway Workers Union of Ghana has called on the Government and the management of the Railway Company Limited (GRCL) to immediately settle the 11 months’ salary arrears owed workers. The post Ghana railway workers demand payment of 11-month salary arrears ",
-      "publishedAt": "2026-05-21T12:34:25+00:00",
+      "title": "Parliament resumes amid clash over economy, governance as leaders outline competing visions",
+      "url": "https://www.ghanabusinessnews.com/2026/05/22/parliament-resumes-amid-clash-over-economy-governance-as-leaders-outline-competing-visions/",
+      "summary": "Parliament reconvened on Thursday for the First Sitting of the Second Meeting of the Second Session of the Ninth Parliament, with the Majority and Minority trading sharply contrasting assessments of the country’s direction as the Speaker urged pragmatism on co",
+      "publishedAt": "2026-05-22T11:20:58+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "A Super El Niño is coming: What does it mean for Ghana?",
-      "url": "https://www.ghanabusinessnews.com/2026/05/21/a-super-el-nino-is-coming-what-does-it-mean-for-ghana/",
-      "summary": "In Ghana, these major El Niño events such as those of 1982-1983, 1997-1998, 2015-2016, and the recent 2023-2024 episode have been linked to prolonged dry spells, reduced rainfall, increased temperatures, and heightened risks of drought and wildfires. The post ",
-      "publishedAt": "2026-05-21T12:29:34+00:00",
+      "title": "Speaker defends Parliament over Spouses Property Bill delay, cites cultural, religious sensitivities",
+      "url": "https://www.ghanabusinessnews.com/2026/05/22/speaker-defends-parliament-over-spouses-property-bill-delay-cites-cultural-religious-sensitivities/",
+      "summary": "Speaker of Parliament, Mr Alban Sumana Kingsford Bagbin has defended the House over delays in passing the long-awaited Property Rights of Spouses Bill. The post Speaker defends Parliament over Spouses Property Bill delay, cites cultural, religious sensitivitie",
+      "publishedAt": "2026-05-22T11:14:33+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "When due process is convenient",
-      "url": "https://www.ghanabusinessnews.com/2026/05/21/when-due-process-is-convenient/",
-      "summary": "The Republic of Ghana has long been defined by the rule of law. But in recent times, the public has watched a troubling pattern emerge: when consequences fall on people allied to the powerful, outrage becomes loud and political; when consequences fall on ordin",
-      "publishedAt": "2026-05-21T12:09:33+00:00",
+      "title": "Medical and Dental Council worried over growing misconduct complaints",
+      "url": "https://www.ghanabusinessnews.com/2026/05/22/medical-and-dental-council-worried-over-growing-misconduct-complaints/",
+      "summary": "Professor Agyeman Badu Akosa, Chairman of the Medical and Dental Council, has expressed concern over the increasing number of malpractice and professional misconduct complaints against health professionals. The post Medical and Dental Council worried over grow",
+      "publishedAt": "2026-05-22T11:07:13+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Free speech in Ghana is not a switch",
-      "url": "https://www.ghanabusinessnews.com/2026/05/21/free-speech-in-ghana-is-not-a-switch/",
-      "summary": "Ghana’s democracy has always been tested not only at the ballot box, but in the quiet moments when citizens are expected to tolerate scrutiny, especially when the scrutiny targets powerful people. The post Free speech in Ghana is not a switch appeared first on",
-      "publishedAt": "2026-05-21T07:04:48+00:00",
+      "title": "Jinapor demands Foreign Affairs Minister briefs Parliament on postponed evacuation of Ghanaians from South Africa",
+      "url": "https://www.ghanabusinessnews.com/2026/05/22/jinapor-demands-foreign-affairs-minister-briefs-parliament-on-postponed-evacuation-of-ghanaians-from-south-africa/",
+      "summary": "Mr Samuel Abu Jinapor, the New Patriotic Party (NPP) Member of Parliament (MP) for Damongo has called on the Minister for Foreign Affairs, Mr Samuel Okudzeto Ablakwa, to appear before Parliament to explain the postponement of plans to evacuate Ghanaians affect",
+      "publishedAt": "2026-05-22T10:55:29+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
@@ -682,7 +682,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-21T14:15:39.050713+00:00"
+      "fetchedAt": "2026-05-22T13:33:16.356619+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -691,7 +691,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-21T14:15:39.050713+00:00"
+      "fetchedAt": "2026-05-22T13:33:16.356619+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -700,7 +700,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-21T14:15:39.050713+00:00"
+      "fetchedAt": "2026-05-22T13:33:16.356619+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -709,7 +709,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-21T14:15:39.050713+00:00"
+      "fetchedAt": "2026-05-22T13:33:16.356619+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -718,7 +718,7 @@
       "kind": "html",
       "ok": false,
       "error": "Source returned a placeholder/unavailable page.",
-      "fetchedAt": "2026-05-21T14:15:39.050713+00:00"
+      "fetchedAt": "2026-05-22T13:33:16.356619+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -727,7 +727,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-21T14:15:39.050713+00:00"
+      "fetchedAt": "2026-05-22T13:33:16.356619+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -736,7 +736,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-21T14:15:39.050713+00:00"
+      "fetchedAt": "2026-05-22T13:33:16.356619+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -745,7 +745,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-21T14:15:39.050713+00:00"
+      "fetchedAt": "2026-05-22T13:33:16.356619+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -754,7 +754,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-21T14:15:39.050713+00:00"
+      "fetchedAt": "2026-05-22T13:33:16.356619+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -763,7 +763,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-21T14:15:39.050713+00:00"
+      "fetchedAt": "2026-05-22T13:33:16.356619+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -772,7 +772,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-21T14:15:39.050713+00:00"
+      "fetchedAt": "2026-05-22T13:33:16.356619+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -781,7 +781,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-21T14:15:39.050713+00:00"
+      "fetchedAt": "2026-05-22T13:33:16.356619+00:00"
     },
     {
       "name": "Citi Business News",
@@ -790,7 +790,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-21T14:15:39.050713+00:00"
+      "fetchedAt": "2026-05-22T13:33:16.356619+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -799,7 +799,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-21T14:15:39.050713+00:00"
+      "fetchedAt": "2026-05-22T13:33:16.356619+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -808,7 +808,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-21T14:15:39.050713+00:00"
+      "fetchedAt": "2026-05-22T13:33:16.356619+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -817,7 +817,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-21T14:15:39.050713+00:00"
+      "fetchedAt": "2026-05-22T13:33:16.356619+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -826,7 +826,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-21T14:15:39.050713+00:00"
+      "fetchedAt": "2026-05-22T13:33:16.356619+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -835,7 +835,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-21T14:15:39.050713+00:00"
+      "fetchedAt": "2026-05-22T13:33:16.356619+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -844,7 +844,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-21T14:15:39.050713+00:00"
+      "fetchedAt": "2026-05-22T13:33:16.356619+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -853,7 +853,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-21T14:15:39.050713+00:00"
+      "fetchedAt": "2026-05-22T13:33:16.356619+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -862,7 +862,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-21T14:15:39.050713+00:00"
+      "fetchedAt": "2026-05-22T13:33:16.356619+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -871,7 +871,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-05-21T14:15:39.050713+00:00"
+      "fetchedAt": "2026-05-22T13:33:16.356619+00:00"
     }
   ]
 }
