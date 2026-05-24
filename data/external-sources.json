@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-23T12:02:01.973811+00:00",
-  "generatedAtGhana": "2026-05-23T12:02:01.973811+00:00",
+  "generatedAt": "2026-05-24T12:02:32.050802+00:00",
+  "generatedAtGhana": "2026-05-24T12:02:32.050802+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
@@ -160,70 +160,6 @@
       "publishedAt": null,
       "source": "GSE Listed Companies",
       "category": "Official issuer universe"
-    },
-    {
-      "title": "Current Monetary Policy Rate (%)",
-      "url": "https://www.bog.gov.gh/",
-      "summary": "",
-      "publishedAt": null,
-      "source": "Bank of Ghana",
-      "category": "Official macro"
-    },
-    {
-      "title": "Inflation Target (%)",
-      "url": "https://www.bog.gov.gh/",
-      "summary": "",
-      "publishedAt": null,
-      "source": "Bank of Ghana",
-      "category": "Official macro"
-    },
-    {
-      "title": "Current inflation rate (%)",
-      "url": "https://www.bog.gov.gh/",
-      "summary": "",
-      "publishedAt": null,
-      "source": "Bank of Ghana",
-      "category": "Official macro"
-    },
-    {
-      "title": "91-Day Treasury Bill Rate (%)",
-      "url": "https://www.bog.gov.gh/",
-      "summary": "",
-      "publishedAt": null,
-      "source": "Bank of Ghana",
-      "category": "Official macro"
-    },
-    {
-      "title": "Broadcast",
-      "url": "https://www.bog.gov.gh/",
-      "summary": "",
-      "publishedAt": null,
-      "source": "Bank of Ghana",
-      "category": "Official macro"
-    },
-    {
-      "title": "130TH MPC PRESS BRIEFING",
-      "url": "https://www.bog.gov.gh/",
-      "summary": "",
-      "publishedAt": null,
-      "source": "Bank of Ghana",
-      "category": "Official macro"
-    },
-    {
-      "title": "122nd MPC Press Briefing",
-      "url": "https://www.bog.gov.gh/",
-      "summary": "",
-      "publishedAt": null,
-      "source": "Bank of Ghana",
-      "category": "Official macro"
-    },
-    {
-      "title": "97th MPC Press Conference - Bank of Ghana",
-      "url": "https://www.bog.gov.gh/",
-      "summary": "",
-      "publishedAt": null,
-      "source": "Bank of Ghana",
-      "category": "Official macro"
     },
     {
       "title": "Ghana at a Glance",
@@ -514,6 +450,22 @@
       "category": "Sovereign credit research"
     },
     {
+      "title": "Millennium Marathon hosts corporate wellness forum to promote healthier workplaces",
+      "url": "https://thebftonline.com/2026/05/23/millennium-marathon-hosts-corporate-wellness-forum-to-promote-healthier-workplaces/",
+      "summary": "Millennium Marathon, the country’s premier road-running event, has hosted a Corporate Wellness Forum in Accra, bringing together corporate leaders, HR professionals and wellness experts to advocate healthier and more productive workplaces. The forum, held at T",
+      "publishedAt": "2026-05-23T22:34:07+00:00",
+      "source": "Business & Financial Times",
+      "category": "Business news"
+    },
+    {
+      "title": "To what degree can universities alone save Africa?",
+      "url": "https://thebftonline.com/2026/05/23/to-what-degree-can-universities-alone-save-africa/",
+      "summary": "By George Asamani, MD, PMI Sub-Saharan Africa & Dr. Sanele W Nhlabatsi, Senior Lecturer, Project Management, UNISA African universities are facing two crises at once. The first is scale. Africa is home to the world’s youngest and fastest-growing population, wi",
+      "publishedAt": "2026-05-23T19:25:51+00:00",
+      "source": "Business & Financial Times",
+      "category": "Business news"
+    },
+    {
       "title": "Her Space with Bridget Mensah: Dear Maame Tiwaa, 14 truths for a girl turning 14: For every girl who is becoming",
       "url": "https://thebftonline.com/2026/05/23/her-space-with-bridget-mensah-dear-maame-tiwaa-14-truths-for-a-girl-turning-14-for-every-girl-who-is-becoming/",
       "summary": "When Chimamanda Ngozi Adichie wrote Dear Ijeawele, or A Feminist Manifesto in Fifteen Suggestions, she was writing to a friend about how to raise a daughter. It was honest, brave, and the kind of writing that makes you feel seen. That book inspired this one. O",
@@ -562,19 +514,35 @@
       "category": "Business news"
     },
     {
-      "title": "Africa’s fintech sector to hit US$65bn by 2030 despite policy headwinds",
-      "url": "https://thebftonline.com/2026/05/22/africas-fintech-sector-to-hit-us65bn-by-2030-despite-policy-headwinds/",
-      "summary": "By Elizabeth PUNSU Africa’s fintech sector is experiencing unprecedented growth, with revenues projected to reach US$65billion by 2030 following a remarkable 180 percent expansion since 2020, according to a new report by Africanews. The report highlights how m",
-      "publishedAt": "2026-05-22T14:43:25+00:00",
-      "source": "Business & Financial Times",
+      "title": "Torgbui Fiti calls for African unity amid South Africa tensions",
+      "url": "https://www.ghanabusinessnews.com/2026/05/24/torgbui-fiti-calls-for-african-unity-amid-south-africa-tensions/",
+      "summary": "Torgbui Adzonugaga Amenya Fiti V, Paramount Chief of Aflao Traditional Area and President of the Forum of Kings of Africa, has called for calm and renewed African solidarity following rising xenophobic tensions in South Africa. The post Torgbui Fiti calls for ",
+      "publishedAt": "2026-05-24T10:26:17+00:00",
+      "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Shippers’ Authority defend cap on container administrative charges amid legal pushback",
-      "url": "https://thebftonline.com/2026/05/22/shippers-authority-defend-cap-on-container-administrative-charges-amid-legal-pushback/",
-      "summary": "The Ghana Shippers’ Authority has reaffirmed its commitment to regulating Container Administrative Charges (CAC) imposed by Shipping Lines and their Agents, despite growing opposition and pending legal action by industry players. In a statement issued on Wedne",
-      "publishedAt": "2026-05-22T14:30:08+00:00",
-      "source": "Business & Financial Times",
+      "title": "Ghana’s Black Stars suffer defeat to Mexico in pre-World Cup friendly",
+      "url": "https://www.ghanabusinessnews.com/2026/05/24/ghanas-black-stars-suffer-defeat-to-mexico-in-pre-world-cup-friendly/",
+      "summary": "Ghana’s Black Stars fell 2-0 to Mexico in an international friendly on Saturday, conceding in each half as part of preparations for the 2026 FIFA World Cup. The post Ghana’s Black Stars suffer defeat to Mexico in pre-World Cup friendly appeared first on Ghana ",
+      "publishedAt": "2026-05-24T08:38:26+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Mental disorders related more to epidemiology, disability than spiritual… – Study",
+      "url": "https://www.ghanabusinessnews.com/2026/05/24/mental-disorders-related-more-to-epidemiology-disability-than-spiritual-study/",
+      "summary": "A new study has linked mental disorders more to epidemiological and disability-based estimates rather than spiritual, religious, or broader cultural interpretations of mental wellbeing. The post Mental disorders related more to epidemiology, disability than sp",
+      "publishedAt": "2026-05-24T08:32:44+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Adaklu Mountain now a security zone – Minister",
+      "url": "https://www.ghanabusinessnews.com/2026/05/24/adaklu-mountain-now-a-security-zone-minister/",
+      "summary": "Mr James Gunu, Volta Regional Minister Thursday declared the Adaklu Mountain a security zone. The post Adaklu Mountain now a security zone – Minister appeared first on Ghana Business News .",
+      "publishedAt": "2026-05-24T08:25:43+00:00",
+      "source": "Ghana Business News",
       "category": "Business news"
     },
     {
@@ -610,38 +578,6 @@
       "category": "Business news"
     },
     {
-      "title": "Ghana assures no citizen will be left behind in South Africa evacuation",
-      "url": "https://www.ghanabusinessnews.com/2026/05/23/ghana-assures-no-citizen-will-be-left-behind-in-south-africa-evacuation/",
-      "summary": "No Ghanaian wishing to return home from South Africa will be left behind in the government’s evacuation exercise, Mr Samuel Okudzeto Ablakwa, Minister of Foreign Affairs, has assured. The post Ghana assures no citizen will be left behind in South Africa evacua",
-      "publishedAt": "2026-05-23T06:38:48+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Otaakrom Technical Institute to get AfDB-funded skills training centre",
-      "url": "https://www.ghanabusinessnews.com/2026/05/23/otaakrom-technical-institute-to-get-afdb-funded-skills-training-centre/",
-      "summary": "The Social Investment Fund (SIF) has handed over the construction site for a GH¢7.5 million technical training centre at Otaakrom Technical Institute to Fapim Construction and Engineering Limited. The post Otaakrom Technical Institute to get AfDB-funded skills",
-      "publishedAt": "2026-05-23T06:35:15+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Minority NPP rejects new taxes, accuses NDC of breaking levy promises",
-      "url": "https://www.ghanabusinessnews.com/2026/05/23/minority-npp-rejects-new-taxes-accuses-ndc-of-breaking-levy-promises/",
-      "summary": "The New Patriotic Party (NPP) Minority Caucus in Parliament has firmly opposed any government plans to introduce new taxes or levies, citing the economic hardships already faced by Ghanaians. The post Minority NPP rejects new taxes, accuses NDC of breaking lev",
-      "publishedAt": "2026-05-23T06:30:35+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Scientist identifies more vitamin B6 in beer than previously anticipated",
-      "url": "https://www.ghanabusinessnews.com/2026/05/22/scientist-identifies-more-vitamin-b6-in-beer-than-previously-anticipated/",
-      "summary": "A new study advocates that a pint of beer contains a surprisingly meaningful amount of vitamin B6 – and that an alcohol-free version may be one of the better options for getting it. The post Scientist identifies more vitamin B6 in beer than previously anticipa",
-      "publishedAt": "2026-05-22T16:07:15+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
       "title": "Ghana Airports Company (GACL) Earns Top Honor as ‘Most Profitable’ State-Owned Enterprise at PELT Awards 2022",
       "url": "https://citibusinessnews.com/2023/10/ghana-airports-company-gacl-earns-top-honor-as-most-profitable-state-owned-enterprise-at-pelt-awards-2022/",
       "summary": "Ghana Airports Company Limited (GACL) has earned the prestigious title of “Most Profitable State-Owned Enterprise” for the year 2022 at the Public Enterprises League Table (PELT) Awards, an event organized by the State Interests and Governance Authority (SIGA)",
@@ -672,6 +608,70 @@
       "publishedAt": "2023-10-16T12:02:25+00:00",
       "source": "Citi Business News",
       "category": "Business news"
+    },
+    {
+      "title": "2024 budget: Government commits to more expenditure cuts, aggressive growth, jobs",
+      "url": "https://citibusinessnews.com/2023/10/2024-budget-government-commits-to-more-expenditure-cuts-aggressive-growth-jobs/",
+      "summary": "The government has assured Ghanaians that it will safeguard current economic gains, and make it reflect in the living conditions of everyone in the coming months. To this end, there would be more expenditure reduction measures in the 2024 budget, as well as po",
+      "publishedAt": "2023-10-16T10:32:02+00:00",
+      "source": "Citi Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Zenith Bank @ 18 – Celebrating a legacy of financial excellence",
+      "url": "https://citibusinessnews.com/2023/10/zenith-bank-18-celebrating-a-legacy-of-financial-excellence/",
+      "summary": "On the fateful morning of September 16, 2005, Zenith Bank Ghana embarked on its banking journey with a grand total of 45 staff members. This marked a transformative turning point in the banking and financial services landscape of the country. Zenith Bank swift",
+      "publishedAt": "2023-10-15T20:32:02+00:00",
+      "source": "Citi Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Customer Service Week: Pan-African Savings and Loans provides medical services to clients",
+      "url": "https://citibusinessnews.com/2023/10/customer-service-week-pan-african-savings-and-loans-provides-medical-services-to-clients/",
+      "summary": "A leading non-bank financial institution, Pan-African Savings and Loans has demonstrated its appreciation to its loyal customers by organizing a free medical screening exercise as part of their planned activities for the customer service week. This initiative ",
+      "publishedAt": "2023-10-13T06:20:28+00:00",
+      "source": "Citi Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Former Capital Bank CEO Ato Essien jailed 15 years",
+      "url": "https://citibusinessnews.com/2023/10/former-capital-bank-ceo-ato-essien-jailed-15-years/",
+      "summary": "Former Chief Executive Officer of defunct Capital Bank, Ato Essien has been sentenced to 15 years imprisonment with hard labour. This follows his failure to pay in full an amount of GH¢90 million he agreed to pay the state despite several lifelines given him s",
+      "publishedAt": "2023-10-12T20:10:20+00:00",
+      "source": "Citi Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Publican AI and the A–B–C Corridor",
+      "url": "https://www.myjoyonline.com/publican-ai-and-the-a-b-c-corridor/",
+      "summary": "How Publican AI Sees Your Declaration: The A–B–C Model Explained Part I — Before the Legal Debate In the weeks following the April 2026 deployment of the Publican AI-assisted valuation and classification support system by the Customs Division of the Ghana Reve",
+      "publishedAt": "2026-05-24T09:37:02+00:00",
+      "source": "MyJoyOnline Business",
+      "category": "Business news"
+    },
+    {
+      "title": "Gov’t targets petroleum upstream recovery after five years of consecutive decline",
+      "url": "https://www.myjoyonline.com/govt-targets-petroleum-upstream-recovery-after-five-years-of-consecutive-decline/",
+      "summary": "The Ministry of Energy has projected a major turnaround for Ghana’s upstream petroleum sector, forecasting a decisive rebound in crude oil production after five consecutive years of a worrying decline in output.",
+      "publishedAt": "2026-05-24T05:39:00+00:00",
+      "source": "MyJoyOnline Business",
+      "category": "Business news"
+    },
+    {
+      "title": "GN Savings and Loans to reopen first branch in Elmina – Nduom",
+      "url": "https://www.myjoyonline.com/gn-savings-and-loans-to-reopen-first-branch-in-elmina-nduom/",
+      "summary": "The historic town of Elmina is set to host the very first operational branch of GN Savings and Loans as it prepares to reopen its doors to the public.",
+      "publishedAt": "2026-05-24T04:26:36+00:00",
+      "source": "MyJoyOnline Business",
+      "category": "Business news"
+    },
+    {
+      "title": "Mr Eazi’s Zagadat Capital acquires 17.31 per cent stake in Intravenous Infusions PLC",
+      "url": "https://www.myjoyonline.com/mr-eazis-zagadat-capital-acquires-17-31-per-cent-stake-in-intravenous-infusions-plc/",
+      "summary": "Investor confidence in Ghana’s indigenous industrial manufacturing capacity has received a significant boost following a major equity acquisition on the local stock market.",
+      "publishedAt": "2026-05-24T03:37:21+00:00",
+      "source": "MyJoyOnline Business",
+      "category": "Business news"
     }
   ],
   "sources": [
@@ -682,7 +682,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-23T12:02:01.973811+00:00"
+      "fetchedAt": "2026-05-24T12:02:32.050802+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -691,7 +691,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-23T12:02:01.973811+00:00"
+      "fetchedAt": "2026-05-24T12:02:32.050802+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -700,16 +700,16 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-23T12:02:01.973811+00:00"
+      "fetchedAt": "2026-05-24T12:02:32.050802+00:00"
     },
     {
       "name": "Bank of Ghana",
       "url": "https://www.bog.gov.gh/",
       "category": "Official macro",
       "kind": "html",
-      "ok": true,
-      "error": null,
-      "fetchedAt": "2026-05-23T12:02:01.973811+00:00"
+      "ok": false,
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
+      "fetchedAt": "2026-05-24T12:02:32.050802+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -717,8 +717,8 @@
       "category": "Official FX",
       "kind": "html",
       "ok": false,
-      "error": "Source returned a placeholder/unavailable page.",
-      "fetchedAt": "2026-05-23T12:02:01.973811+00:00"
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
+      "fetchedAt": "2026-05-24T12:02:32.050802+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -727,7 +727,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-23T12:02:01.973811+00:00"
+      "fetchedAt": "2026-05-24T12:02:32.050802+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -736,7 +736,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-23T12:02:01.973811+00:00"
+      "fetchedAt": "2026-05-24T12:02:32.050802+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -745,7 +745,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-23T12:02:01.973811+00:00"
+      "fetchedAt": "2026-05-24T12:02:32.050802+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -754,7 +754,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-23T12:02:01.973811+00:00"
+      "fetchedAt": "2026-05-24T12:02:32.050802+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -763,7 +763,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-23T12:02:01.973811+00:00"
+      "fetchedAt": "2026-05-24T12:02:32.050802+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -772,7 +772,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-23T12:02:01.973811+00:00"
+      "fetchedAt": "2026-05-24T12:02:32.050802+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -781,7 +781,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-23T12:02:01.973811+00:00"
+      "fetchedAt": "2026-05-24T12:02:32.050802+00:00"
     },
     {
       "name": "Citi Business News",
@@ -790,7 +790,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-23T12:02:01.973811+00:00"
+      "fetchedAt": "2026-05-24T12:02:32.050802+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -799,7 +799,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-23T12:02:01.973811+00:00"
+      "fetchedAt": "2026-05-24T12:02:32.050802+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -808,7 +808,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-23T12:02:01.973811+00:00"
+      "fetchedAt": "2026-05-24T12:02:32.050802+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -817,7 +817,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-23T12:02:01.973811+00:00"
+      "fetchedAt": "2026-05-24T12:02:32.050802+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -826,7 +826,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-23T12:02:01.973811+00:00"
+      "fetchedAt": "2026-05-24T12:02:32.050802+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -835,7 +835,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-23T12:02:01.973811+00:00"
+      "fetchedAt": "2026-05-24T12:02:32.050802+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -844,7 +844,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-23T12:02:01.973811+00:00"
+      "fetchedAt": "2026-05-24T12:02:32.050802+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -853,7 +853,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-23T12:02:01.973811+00:00"
+      "fetchedAt": "2026-05-24T12:02:32.050802+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -862,7 +862,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-23T12:02:01.973811+00:00"
+      "fetchedAt": "2026-05-24T12:02:32.050802+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -871,7 +871,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-05-23T12:02:01.973811+00:00"
+      "fetchedAt": "2026-05-24T12:02:32.050802+00:00"
     }
   ]
 }
