@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-05-26T13:55:52.048831+00:00",
-  "generatedAtGhana": "2026-05-26T13:55:52.048831+00:00",
+  "generatedAt": "2026-05-27T14:28:55.374347+00:00",
+  "generatedAtGhana": "2026-05-27T14:28:55.374347+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
     "gseIndices": {
-      "asOf": "25/05/2026",
-      "composite": 14542.48,
-      "financialStocks": 7849.8,
+      "asOf": "26/05/2026",
+      "composite": 14379.41,
+      "financialStocks": 7873.87,
       "source": "Ghana Stock Exchange",
       "url": "https://gse.com.gh/"
     },
@@ -450,6 +450,38 @@
       "category": "Sovereign credit research"
     },
     {
+      "title": "AFROMEDI VI opens in Nairobi with push for stronger media scrutiny of Africa’s debt crisis",
+      "url": "https://thebftonline.com/2026/05/27/afromedi-vi-opens-in-nairobi-with-push-for-stronger-media-scrutiny-of-africas-debt-crisis/",
+      "summary": "By Kizito CUDJOE African journalists have been urged to intensify scrutiny of the continent’s mounting debt burden, illicit financial flows and governance failures as the sixth edition of the AFRODAD Media Initiative (AFROMEDI VI) opened in Nairobi, Kenya. The",
+      "publishedAt": "2026-05-27T10:05:33+00:00",
+      "source": "Business & Financial Times",
+      "category": "Business news"
+    },
+    {
+      "title": "Capital follows clarity: What Africa’s evidence tells Ghana about the NITA debate",
+      "url": "https://thebftonline.com/2026/05/26/capital-follows-clarity-what-africas-evidence-tells-ghana-about-the-nita-debate/",
+      "summary": "…a contribution to national discourse on the NITA Bill 2025 and existing enforcement A disclosure that is also a credential The author, Eric Annan, is the founder and CEO of AyaHQ. This pan-African founder infrastructure platform has run five incubation cohort",
+      "publishedAt": "2026-05-26T21:08:07+00:00",
+      "source": "Business & Financial Times",
+      "category": "Business news"
+    },
+    {
+      "title": "Cocoa industry steps up EUDR readiness efforts",
+      "url": "https://thebftonline.com/2026/05/26/cocoa-industry-steps-up-eudr-readiness-efforts/",
+      "summary": "Stakeholders in the country’s cocoa sector have intensified preparations towards the implementation of the European Union Deforestation Regulation (EUDR), as industry players met in Accra to discuss compliance measures ahead of the December 2026 deadline. The ",
+      "publishedAt": "2026-05-26T16:00:36+00:00",
+      "source": "Business & Financial Times",
+      "category": "Business news"
+    },
+    {
+      "title": "ESG and climate change insights with Chamber of ESG & Sustainability Ghana: Discovery ESG & climate change summit 2026 sets national agenda",
+      "url": "https://thebftonline.com/2026/05/26/esg-and-climate-change-insights-with-chamber-of-esg-sustainability-ghana-discovery-esg-climate-change-summit-2026-sets-national-agenda/",
+      "summary": "…for ESG excellence, climate resilience and sustainable transformation By: Frank Adu Anim Ghana’s sustainability and climate governance conversation received a significant boost following the successful hosting of the 3rd Discovery ESG & Climate Change Summit ",
+      "publishedAt": "2026-05-26T13:04:22+00:00",
+      "source": "Business & Financial Times",
+      "category": "Business news"
+    },
+    {
       "title": "The Black Stars and Africa’s World Cup dream",
       "url": "https://thebftonline.com/2026/05/26/the-black-stars-and-africas-world-cup-dream/",
       "summary": "By Steven E. HENDRIX As Ghana returns to the World Cup, the Black Stars carry more than football hopes. They carry a history of independence, Pan-African pride and a country’s search for renewed confidence. I have lived in Nigeria and Ghana. In both countries,",
@@ -482,98 +514,66 @@
       "category": "Business news"
     },
     {
-      "title": "The burnout hiding in your performance review: Why Ghana’s most ambitious professionals are burning out inside systems designed to reward them — and what organisations must do about it",
-      "url": "https://thebftonline.com/2026/05/26/the-burnout-hiding-in-your-performance-review-why-ghanas-most-ambitious-professionals-are-burning-out-inside-systems-designed-to-reward-them-and-what-organisations-must-do-about-it/",
-      "summary": "By Michael Kwame Mickson (PhD) She had just received the best performance review of her career. Five out of five on every competency. “Exceeds expectations” across the board. Her line manager had praised her in front of the entire department. Her name was shor",
-      "publishedAt": "2026-05-26T12:05:02+00:00",
-      "source": "Business & Financial Times",
-      "category": "Business news"
-    },
-    {
-      "title": "The banking arena with Benjamin TETTEH: Fintech and payment Systems: The new battle for banking is being fought through payments",
-      "url": "https://thebftonline.com/2026/05/26/the-banking-arena-with-benjamin-tetteh-fintech-and-payment-systems-the-new-battle-for-banking-is-being-fought-through-payments/",
-      "summary": "Not too long ago, when people spoke about the strength of a bank, it was usually about branch presence, balance sheet size, deposit base, lending capacity, and the quality of relationship managers. Those things still matter. But anyone watching the financial s",
-      "publishedAt": "2026-05-26T12:03:29+00:00",
-      "source": "Business & Financial Times",
-      "category": "Business news"
-    },
-    {
-      "title": "On Cue with Kafui Dey: How to handle panel discussions like a pro",
-      "url": "https://thebftonline.com/2026/05/26/on-cue-with-kafui-dey-how-to-handle-panel-discussions-like-a-pro/",
-      "summary": "Panel discussions are fascinating. When handled well, they are dynamic, insightful and engaging. Ideas collide. Perspectives emerge. The audience learns something valuable. When handled badly, however, they become a public group chat with microphones. One pane",
-      "publishedAt": "2026-05-26T12:02:55+00:00",
-      "source": "Business & Financial Times",
-      "category": "Business news"
-    },
-    {
-      "title": "Build inclusion into core of workplace culture – Telecel Ghana HR Director",
-      "url": "https://thebftonline.com/2026/05/26/build-inclusion-into-core-of-workplace-culture-telecel-ghana-hr-director/",
-      "summary": "Telecel Ghana’s Human Resources Director, Rachael Appenteng, has advised businesses to embed diversity and inclusion practices as core components of their workplace culture to encourage innovation, increase engagement and drive long-term success. Speaking on a",
-      "publishedAt": "2026-05-26T12:00:16+00:00",
-      "source": "Business & Financial Times",
-      "category": "Business news"
-    },
-    {
-      "title": "Congo President announces visa-free entry for all Africans on Africa Day",
-      "url": "https://www.ghanabusinessnews.com/2026/05/26/congo-president-announces-visa-free-entry-for-all-africans-on-africa-day/",
-      "summary": "Starting from January 1, 2027, all Africans entering the Republic of Congo, will not require a visa, the President Denis Sassou N’Guesso announced at the celebration of Africa Day on the sidelines of the Annual Meetings of the African Development Bank (AfDB), ",
-      "publishedAt": "2026-05-26T08:59:10+00:00",
+      "title": "Africa could generate $125b revenue by moving informal economy to formal sector – AfDB",
+      "url": "https://www.ghanabusinessnews.com/2026/05/27/africa-could-generate-125b-revenue-by-moving-informal-economy-to-formal-sector-afdb/",
+      "summary": "A larger part of economic activities in Africa is in the informal sector. About 85 percent of employment is informal but offers limited job security and access to social safeguards, according to the African Economic Outlook 2026 published by the African Develo",
+      "publishedAt": "2026-05-27T12:23:26+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Nearly 2,000 children listed as missing in Germany – Police say",
-      "url": "https://www.ghanabusinessnews.com/2026/05/26/nearly-2000-children-listed-as-missing-in-germany-police-say/",
-      "summary": "More than 1,900 children are currently listed as missing in Germany, slightly more than a year ago, according to figures from the Federal Criminal Police Office (BKA). The post Nearly 2,000 children listed as missing in Germany – Police say appeared first on G",
-      "publishedAt": "2026-05-26T07:06:08+00:00",
+      "title": "Ghana’s gold holdings drop year-on-year in April 2026",
+      "url": "https://www.ghanabusinessnews.com/2026/05/27/ghanas-gold-holdings-drop-year-on-year-in-april-2026/",
+      "summary": "Ghana’s gold holdings fell from 31.4 tonnes in April 2025 to 22.3 tonnes in April 2026, according to the latest data released by the Bank of Ghana. The post Ghana’s gold holdings drop year-on-year in April 2026 appeared first on Ghana Business News .",
+      "publishedAt": "2026-05-27T11:04:08+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Ghana Institute of Architects cracks down on fake architects and illegal practice",
-      "url": "https://www.ghanabusinessnews.com/2026/05/26/ghana-institute-of-architects-cracks-down-on-fake-architects-and-illegal-practice/",
-      "summary": "The Ghana Institute of Architects (GIA) has announced a nationwide crackdown on individuals impersonating architects and foreign professionals practising illegally in Ghana. The post Ghana Institute of Architects cracks down on fake architects and illegal prac",
-      "publishedAt": "2026-05-26T05:49:09+00:00",
+      "title": "Ghana posts strong trade surplus as export earnings grow",
+      "url": "https://www.ghanabusinessnews.com/2026/05/27/ghana-posts-strong-trade-surplus-as-export-earnings-grow/",
+      "summary": "Ghana recorded a strong trade surplus in April 2026, supported by high export earnings, according to the latest data from the Bank of Ghana. The post Ghana posts strong trade surplus as export earnings grow appeared first on Ghana Business News .",
+      "publishedAt": "2026-05-27T10:37:10+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "FSC intensifies reforms to strengthen Ghana’s financial system",
-      "url": "https://www.ghanabusinessnews.com/2026/05/26/fsc-intensifies-reforms-to-strengthen-ghanas-financial-system/",
-      "summary": "The Financial Stability Council (FSC) has stepped up efforts to strengthen Ghana’s financial system through a series of reforms, says the Financial Stability Review Report 2025. The post FSC intensifies reforms to strengthen Ghana’s financial system appeared f",
-      "publishedAt": "2026-05-26T05:03:17+00:00",
+      "title": "Why Ghanaians must embrace their traditional food",
+      "url": "https://www.ghanabusinessnews.com/2026/05/27/why-ghanaians-must-embrace-their-traditional-food/",
+      "summary": "Ghana is endowed with rich cultural diversity, fertile lands, and a wide array of nutritious indigenous foods that have sustained generations for centuries. The post Why Ghanaians must embrace their traditional food appeared first on Ghana Business News .",
+      "publishedAt": "2026-05-27T09:03:01+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Ghana Radiologists urge stronger action against illegal mining amid increasing cases of kidney disease",
-      "url": "https://www.ghanabusinessnews.com/2026/05/26/ghana-radiologists-urge-stronger-action-against-illegal-mining-amid-increasing-cases-of-kidney-disease/",
-      "summary": "The Ghana Association of Radiologists (GAR) has urged the Government to take stronger and sustained action against illegal mining, popularly known as galamsey, to curb the rising number of kidney disease cases in the country. The post Ghana Radiologists urge s",
-      "publishedAt": "2026-05-26T04:58:39+00:00",
+      "title": "Court rejects tendering of pictures in ongoing Boasiako illegal mining case",
+      "url": "https://www.ghanabusinessnews.com/2026/05/27/court-rejects-tendering-of-pictures-in-ongoing-boasiako-illegal-mining-case/",
+      "summary": "An Accra High Court on Monday rejected two pictures the prosecution sought to tender through its third prosecution witness in the ongoing illegal mining case involving Bernard Antwi Boasiako, popularly known as Wontumi. The post Court rejects tendering of pict",
+      "publishedAt": "2026-05-27T08:44:54+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Africa’s future depends on unity and integration – Gyakye Quayson",
-      "url": "https://www.ghanabusinessnews.com/2026/05/26/africas-future-depends-on-unity-and-integration-gyakye-quayson/",
-      "summary": "Mr James Gyakye Quayson, the Deputy Minister of Foreign Affairs, has called on African countries to deepen continental cooperation and integration to address the continent’s growing socio-economic and political challenges. The post Africa’s future depends on u",
-      "publishedAt": "2026-05-26T04:51:31+00:00",
+      "title": "Ghana records 447 active timber social responsibility agreements worth GH¢4.52m",
+      "url": "https://www.ghanabusinessnews.com/2026/05/27/ghana-records-447-active-timber-social-responsibility-agreements-worth-gh%c2%a24-52m/",
+      "summary": "Ghana has 447 active Social Responsibility Agreements (SRAs) in the timber sector, valued at GH¢4.52 million nationwide as of May 2026, an official of the Forestry Commission (FC) has disclosed. The post Ghana records 447 active timber social responsibility ag",
+      "publishedAt": "2026-05-27T08:32:23+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Illegal miners take over licenced mining concession at Wassa Dadieso",
-      "url": "https://www.ghanabusinessnews.com/2026/05/26/illegal-miners-take-over-licenced-mining-concession-at-wassa-dadieso/",
-      "summary": "The Kofreze Construction and Engineering Limited, a mining firm, says illegal miners have forcefully taken over its legally acquired small-scale mining concession at Dadieso in the Wassa Amenfi East Municipality of the Western Region. The post Illegal miners t",
-      "publishedAt": "2026-05-26T04:47:20+00:00",
+      "title": "Ghana climbs to 17th globally in outsourcing competitiveness",
+      "url": "https://www.ghanabusinessnews.com/2026/05/27/ghana-climbs-to-17th-globally-in-outsourcing-competitiveness/",
+      "summary": "Ghana has ranked 17th among 193 United Nations (UN)-recognised nations in a newly released comprehensive audit of global business process outsourcing (BPO) ecosystems, placing the country among the world’s elite investment destinations. The post Ghana climbs t",
+      "publishedAt": "2026-05-27T07:37:16+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Over 91% of Ghanaian youth unaware of National Youth Policy – Survey",
-      "url": "https://www.ghanabusinessnews.com/2026/05/25/over-91-of-ghanaian-youth-unaware-of-national-youth-policy-survey/",
-      "summary": "A nationwide survey conducted by the Youth Placement for Employability Solutions (Y-PES Ghana) has revealed that over 91 per cent of young people in Ghana are unaware of the existence of the National Youth Policy, almost five years after its launch. The post O",
-      "publishedAt": "2026-05-25T14:30:06+00:00",
+      "title": "BoG directs MMFL to hold off Wallet-to-Bank transfer fees",
+      "url": "https://www.ghanabusinessnews.com/2026/05/27/bog-directs-mmfl-to-hold-off-wallet-to-bank-transfer-fees/",
+      "summary": "The Bank of Ghana has directed Mobile Money Fintech Limited (MMFL) to pause the implementation of its proposed 0.75 per cent fee on direct wallet-to-bank transfers, effective June 1, 2026. The post BoG directs MMFL to hold off Wallet-to-Bank transfer fees appe",
+      "publishedAt": "2026-05-27T07:24:25+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
@@ -642,34 +642,34 @@
       "category": "Business news"
     },
     {
-      "title": "Ghanaian participation in extractive sector must increase – Expert",
-      "url": "https://www.myjoyonline.com/ghanaian-participation-in-extractive-sector-must-increase-dr-boateng/",
-      "summary": "The Acting Director of the Institute of Mining Research and Governance (IMRIG) at the University of Mines and Technology, Dr. Frank Boateng, is calling for increased Ghanaian participation in the country’s extractive sector, arguing that broader local ownershi",
-      "publishedAt": "2026-05-26T13:43:42+00:00",
+      "title": "CUTS lauds BoG on suspension of proposed MTN new charges",
+      "url": "https://www.myjoyonline.com/cuts-lauds-bog-on-suspension-of-proposed-mtn-new-charges/",
+      "summary": "CUTS International Accra, a leading public policy think tank on consumer protection and competition policy advocacy organisation has commended the Bank of Ghana (BoG) for its prompt intervention in suspending the proposed 0.75% wallet-to-bank transfer fee anno",
+      "publishedAt": "2026-05-27T13:45:09+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Government must make industrialisation a condition in mining contracts — Ayi-Owoo",
-      "url": "https://www.myjoyonline.com/government-must-make-industrialisation-a-condition-in-mining-contracts-ayi-owoo/",
-      "summary": "Partner, Resources and Industry Expert at Deloitte Africa, Gideon Ayi-Owoo, has called for a stronger policy approach to drive industrialisation in Ghana’s extractive sector. According to him, if Ghana is to achieve meaningful industrialisation through mining,",
-      "publishedAt": "2026-05-26T13:39:57+00:00",
+      "title": "Casa Royal joins The Build Project as official tiles partner",
+      "url": "https://www.myjoyonline.com/casa-royal-joins-the-build-project-as-official-tiles-partner/",
+      "summary": "Ghana’s construction and home improvement industry continues to rally behind The Build Project as leading premium tile brand Casa Royal, The Tiles Specialists, officially joins the show as its Official Tiles Partner ahead of the program’s highly anticipated la",
+      "publishedAt": "2026-05-27T13:37:23+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Hybrid funding approach key to strengthening local mining participation — Mineral economist",
-      "url": "https://www.myjoyonline.com/hybrid-funding-approach-key-to-strengthening-local-mining-participation-mineral-economist/",
-      "summary": "A mineral economist at the Minerals Commission, Mr. Wisdom Puplampu, is advocating for a hybrid financing model for Ghana’s mining industry, arguing that it is the most practical way to strengthen local participation and support indigenous mining companies.",
-      "publishedAt": "2026-05-26T13:19:38+00:00",
+      "title": "Micron joins $1 trillion club as AI race powers memory chip boom",
+      "url": "https://www.myjoyonline.com/micron-joins-1-trillion-club-as-ai-race-powers-memory-chip-boom/",
+      "summary": "Micron Technology briefly topped $1 trillion in market value for the first time on Tuesday, crowning ​a dizzying rally that has cemented the U.S.'s largest memory chipmaker as one of the standout winners of the ‌AI boom.",
+      "publishedAt": "2026-05-27T03:15:00+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Pushing for 100% state ownership of mining is risky – Dr. Sarkodie warns",
-      "url": "https://www.myjoyonline.com/pushing-for-100-state-ownership-of-mining-is-risky-dr-adu-owusu-sarkodie-warns/",
-      "summary": "Economist Adu Owusu Sarkodie has cautioned against calls for full government ownership of Ghana’s extractive resources, arguing that such a model could create operational and management challenges if not properly structured. Speaking at the JoyBusiness Roundta",
-      "publishedAt": "2026-05-26T13:11:01+00:00",
+      "title": "Spotify launches ‘narrated articles’ from publications like The Atlantic, Vogue",
+      "url": "https://www.myjoyonline.com/spotify-launches-narrated-articles-from-publications-like-the-atlantic-vogue/",
+      "summary": "Spotify said on Tuesday it is rolling out narrated articles from top publications, including Rolling Stone, The Atlantic, Vogue, Variety ​and Vanity Fair, for its audiobook users, as the platform ‌diversifies its content.",
+      "publishedAt": "2026-05-27T00:13:00+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     }
@@ -682,7 +682,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-26T13:55:52.048831+00:00"
+      "fetchedAt": "2026-05-27T14:28:55.374347+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -691,7 +691,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-26T13:55:52.048831+00:00"
+      "fetchedAt": "2026-05-27T14:28:55.374347+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -700,7 +700,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-26T13:55:52.048831+00:00"
+      "fetchedAt": "2026-05-27T14:28:55.374347+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -709,7 +709,7 @@
       "kind": "html",
       "ok": false,
       "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
-      "fetchedAt": "2026-05-26T13:55:52.048831+00:00"
+      "fetchedAt": "2026-05-27T14:28:55.374347+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -718,7 +718,7 @@
       "kind": "html",
       "ok": false,
       "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
-      "fetchedAt": "2026-05-26T13:55:52.048831+00:00"
+      "fetchedAt": "2026-05-27T14:28:55.374347+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -727,7 +727,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-26T13:55:52.048831+00:00"
+      "fetchedAt": "2026-05-27T14:28:55.374347+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -736,7 +736,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-26T13:55:52.048831+00:00"
+      "fetchedAt": "2026-05-27T14:28:55.374347+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -745,7 +745,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-26T13:55:52.048831+00:00"
+      "fetchedAt": "2026-05-27T14:28:55.374347+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -754,7 +754,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-26T13:55:52.048831+00:00"
+      "fetchedAt": "2026-05-27T14:28:55.374347+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -763,7 +763,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-26T13:55:52.048831+00:00"
+      "fetchedAt": "2026-05-27T14:28:55.374347+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -772,7 +772,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-26T13:55:52.048831+00:00"
+      "fetchedAt": "2026-05-27T14:28:55.374347+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -781,7 +781,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-26T13:55:52.048831+00:00"
+      "fetchedAt": "2026-05-27T14:28:55.374347+00:00"
     },
     {
       "name": "Citi Business News",
@@ -790,7 +790,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-26T13:55:52.048831+00:00"
+      "fetchedAt": "2026-05-27T14:28:55.374347+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -799,7 +799,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-26T13:55:52.048831+00:00"
+      "fetchedAt": "2026-05-27T14:28:55.374347+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -808,7 +808,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-26T13:55:52.048831+00:00"
+      "fetchedAt": "2026-05-27T14:28:55.374347+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -817,7 +817,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-26T13:55:52.048831+00:00"
+      "fetchedAt": "2026-05-27T14:28:55.374347+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -826,7 +826,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-26T13:55:52.048831+00:00"
+      "fetchedAt": "2026-05-27T14:28:55.374347+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -835,7 +835,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-26T13:55:52.048831+00:00"
+      "fetchedAt": "2026-05-27T14:28:55.374347+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -844,7 +844,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-26T13:55:52.048831+00:00"
+      "fetchedAt": "2026-05-27T14:28:55.374347+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -853,7 +853,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-26T13:55:52.048831+00:00"
+      "fetchedAt": "2026-05-27T14:28:55.374347+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -862,7 +862,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-05-26T13:55:52.048831+00:00"
+      "fetchedAt": "2026-05-27T14:28:55.374347+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -871,7 +871,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-05-26T13:55:52.048831+00:00"
+      "fetchedAt": "2026-05-27T14:28:55.374347+00:00"
     }
   ]
 }
