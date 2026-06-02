@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-06-01T16:41:20.454365+00:00",
-  "generatedAtGhana": "2026-06-01T16:41:20.454365+00:00",
+  "generatedAt": "2026-06-02T14:57:30.421397+00:00",
+  "generatedAtGhana": "2026-06-02T14:57:30.421397+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
     "gseIndices": {
-      "asOf": "29/05/2026",
-      "composite": 14354.14,
-      "financialStocks": 7853.48,
+      "asOf": "01/06/2026",
+      "composite": 14402.0,
+      "financialStocks": 7844.76,
       "source": "Ghana Stock Exchange",
       "url": "https://gse.com.gh/"
     },
@@ -450,73 +450,121 @@
       "category": "Sovereign credit research"
     },
     {
-      "title": "Odonkor Junior Claims GH¢100,000 as 1v1 Africa brings football fever to Accra",
-      "url": "https://thebftonline.com/2026/06/01/odonkor-junior-claims-gh%c2%a2100000-as-1v1-africa-brings-football-fever-to-accra/",
-      "summary": "Myres Manuel Odonkor Junior was crowned champion of the Accra edition of the 1v1 Africa Football Challenge on Sunday after an exciting day of one-on-one football at AIS Astro Turf, East Legon, walking away with the GH¢100,000 top prize. With fans packed around",
-      "publishedAt": "2026-06-01T16:21:51+00:00",
+      "title": "QNET, Manchester City clinic equips 25 young Ghanaian footballers with skills, life values",
+      "url": "https://thebftonline.com/2026/06/02/qnet-manchester-city-clinic-equips-25-young-ghanaian-footballers-with-skills-life-values/",
+      "summary": "Four-day training camp delivered under decade-long partnership casts football as both a sporting and developmental pathway for African youth. Lifestyle and wellness firm QNET have concluded a four-day football clinic in Accra for more than 25 young Ghanaian bo",
+      "publishedAt": "2026-06-02T14:23:10+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "GHIE calls for radical shift in flood management strategy as urban flooding worsens",
-      "url": "https://thebftonline.com/2026/06/01/ghie-calls-for-radical-shift-in-flood-management-strategy-as-urban-flooding-worsens/",
-      "summary": "The Ghana Institution of Engineering (GhIE) has called for an urgent overhaul of Ghana’s stormwater management policies, warning that the country’s current drainage systems are no longer capable of addressing the realities of rapid urbanisation, climate variab",
-      "publishedAt": "2026-06-01T15:07:34+00:00",
+      "title": "BoG bets on trust, domestic capital to anchor next phase of growth",
+      "url": "https://thebftonline.com/2026/06/02/bog-bets-on-trust-domestic-capital-to-anchor-next-phase-of-growth/",
+      "summary": "The Bank of Ghana (BoG) is placing greater emphasis on trust, policy credibility and domestic capital mobilisation as it seeks to sustain economic stability and support the next phase of Ghana’s growth agenda. Speaking at the Money Summit 2026 organised by the",
+      "publishedAt": "2026-06-02T13:30:49+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Arbitral Tribunal Rules in Favour of Moringa and Dismisses All Claims by Issa Ouedraogo",
-      "url": "https://thebftonline.com/2026/06/01/arbitral-tribunal-rules-in-favour-of-moringa-and-dismisses-all-claims-by-issa-ouedraogo/",
-      "summary": "Introduction On 25 February 2026, an arbitral tribunal issued its final award in the dispute between Moringa Mauritius Africa, Moringa SCA SICAR, B-Bovid Limited (together, “Moringa”), and Issa Ouedraogo. The tribunal upheld all claims brought by Moringa and B",
-      "publishedAt": "2026-06-01T13:07:07+00:00",
+      "title": "Commodity-backed finance can unlock productive potential — B&FT CEO",
+      "url": "https://thebftonline.com/2026/06/02/commodity-backed-finance-can-unlock-productive-potential-bft-ceo/",
+      "summary": "Commodity-backed financing could play a pivotal role in unlocking capital for Ghana’s productive sectors and accelerating economic transformation, Chief Executive Officer of the Business and Financial Times (B&FT), Dr. Godwin Acquaye, has said. Speaking at The",
+      "publishedAt": "2026-06-02T13:19:01+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "The Business Strategy Analyst with Jules Nartey-Tokoli: Participatory management: Applying political science to corporate governance",
-      "url": "https://thebftonline.com/2026/06/01/the-business-strategy-analyst-with-jules-nartey-tokoli-participatory-management-applying-political-science-to-corporate-governance/",
-      "summary": "Human civilization has undergone some of the most dramatic transformations in history over the last three centuries. From the steam engine of the First Industrial Revolution to the artificial intelligence and digital interconnectedness of the Fourth Industrial",
-      "publishedAt": "2026-06-01T13:02:10+00:00",
+      "title": "Nations FC crowned 2025/26 MTN FA Cup champions",
+      "url": "https://thebftonline.com/2026/06/02/nations-fc-crowned-2025-26-mtn-fa-cup-champions/",
+      "summary": "Nations FC defeated Dreams FC 5-4 on penalties to win the 2025/26 MTN FA Cup after the final ended 1-1 following regulation time and extra time at the University of Ghana Stadium over the weekend. The keenly contested encounter produced an entertaining spectac",
+      "publishedAt": "2026-06-02T12:30:36+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Ashanti, Bono Regional Ministers hail Right to Information Commission",
-      "url": "https://thebftonline.com/2026/06/01/ashanti-bono-regional-ministers-hail-right-to-information-commission/",
-      "summary": "The Regional Minsters of Ashanti and Bono have hailed the establishment of the Right To Information Commission in the country and its branch offices in their respective regions as a further step in the enhancement of democracy in Ghana. Mr. Joseph Addae Akwabo",
-      "publishedAt": "2026-06-01T12:37:22+00:00",
+      "title": "Damang lease headed to parliament as gov’t defends continued operations",
+      "url": "https://thebftonline.com/2026/06/02/damang-lease-headed-to-parliament-as-govt-defends-continued-operations/",
+      "summary": "By Kizito CUDJOE Government will soon submit the lease agreement governing operations of Damang Gold Mine to parliament for ratification, while defending the mine’s continued operation following its takeover from Gold Fields despite the absence of parliamentar",
+      "publishedAt": "2026-06-02T12:14:49+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Benjamin Offei honoured as CEO of the Year in Ghana’s Agrochemical Sector at the Ghana CEO Excellence Awards 2026",
-      "url": "https://thebftonline.com/2026/06/01/benjamin-offei-honoured-as-ceo-of-the-year-in-ghanas-agrochemical-sector-at-the-ghana-ceo-excellence-awards-2026/",
-      "summary": "Agromonti Company Ltd is proud to announce that its Chief Executive Officer, Benjamin Offei, has been named CEO of the Year in the Agrochemical Sector at the prestigious Ghana CEO Excellence Awards 2026, held as part of the 10th Ghana CEO Summit & Expo at the ",
-      "publishedAt": "2026-06-01T12:23:33+00:00",
+      "title": "JAC Motors, GFA seal partnership with car rewards for league champions, top stars",
+      "url": "https://thebftonline.com/2026/06/02/jac-motors-gfa-seal-partnership-with-car-rewards-for-league-champions-top-stars/",
+      "summary": "The Football Association has announced a partnership agreement with global automobile brand JAC Motors, marking another significant milestone in the GFA’s drive to strengthen football development. The deal will reward league champions, outstanding players and ",
+      "publishedAt": "2026-06-02T12:12:06+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "ECG targets the elderly, traders with digital inclusion drive",
-      "url": "https://thebftonline.com/2026/06/01/ecg-targets-the-elderly-traders-with-digital-inclusion-drive/",
-      "summary": "The Electricity Company of Ghana (ECG) has embarked on a digital inclusion drive aimed at equipping elderly market women and petty traders with the skills needed to access their electricity bills and other services through the ECG PowerApp. The initiative, whi",
-      "publishedAt": "2026-06-01T12:15:20+00:00",
+      "title": "Samsung launches AI-powered Mini LED TV designed for live sports",
+      "url": "https://thebftonline.com/2026/06/02/samsung-launches-ai-powered-mini-led-tv-designed-for-live-sports/",
+      "summary": "Samsung Ghana has officially rolled out its 2026 ‘Vision AI Mini LED’ television, which comes with advanced artificial intelligence (AI) processing designed specifically to enhance fast-motion sports viewing. Central to the sports pitch is a dedicated football",
+      "publishedAt": "2026-06-02T12:10:52+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "The dropped call that cost millions: SIM Boxes, silent landlords, and the law that won’t act",
-      "url": "https://thebftonline.com/2026/06/01/the-dropped-call-that-cost-millions-sim-boxes-silent-landlords-and-the-law-that-wont-act/",
-      "summary": "By Frank AKUDUGU Evening settles over Adenta Housing Down, Accountancy. Clock strikes eight. Awinmoya stands by the window, phone in hand, thinking of London where her husband waits on the other end of a line that never holds. Three full weeks without hearing ",
-      "publishedAt": "2026-06-01T12:15:11+00:00",
+      "title": "When technology meets talent: Human talent remains the ultimate differentiator",
+      "url": "https://thebftonline.com/2026/06/02/when-technology-meets-talent-human-talent-remains-the-ultimate-differentiator/",
+      "summary": "By Prof. Samuel Lartey, www.pefghana.org The workplace is undergoing one of the most significant transformations since the Industrial Revolution. Artificial Intelligence, automation, cloud computing, data analyt ics, robotics, and digital collaboration platfor",
+      "publishedAt": "2026-06-02T12:10:49+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Ghana is open for business – Finance Minister urges investors",
-      "url": "https://www.ghanabusinessnews.com/2026/06/01/ghana-is-open-for-business-finance-minister-urges-investors/",
-      "summary": "Dr Cassiel Ato Baah Forson, the Minister of Finance has appealed to investors and Ghanaians in the diaspora to come and invest in Ghana, stating that the economy is now back track. The post Ghana is open for business – Finance Minister urges investors appeared",
+      "title": "There must be a radical shift in Ghana’s flood management strategy – GhIE",
+      "url": "https://www.ghanabusinessnews.com/2026/06/02/there-must-be-a-radical-shift-in-ghanas-flood-management-strategy-ghie/",
+      "summary": "The Ghana Institution of Engineering (GhIE) has called for an urgent overhaul of Ghana’s stormwater management policies. The post There must be a radical shift in Ghana’s flood management strategy – GhIE appeared first on Ghana Business News .",
+      "publishedAt": "2026-06-02T06:46:22+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Fidelity Bank records GH¢1.46b profit before tax in 2025",
+      "url": "https://www.ghanabusinessnews.com/2026/06/02/fidelity-bank-records-gh%c2%a21-46b-profit-before-tax-in-2025/",
+      "summary": "Fidelity Bank Ghana recorded Profit Before Tax of GH¢1.46 billion in 2025, representing 21 per cent increase from the GH¢1.21 billion recorded in 2024. The post Fidelity Bank records GH¢1.46b profit before tax in 2025 appeared first on Ghana Business News .",
+      "publishedAt": "2026-06-02T06:38:29+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Timber operators put on notice as authorities push for compliance and sustainability",
+      "url": "https://www.ghanabusinessnews.com/2026/06/02/timber-operators-put-on-notice-as-authorities-push-for-compliance-and-sustainability/",
+      "summary": "The Forest Governance, Markets and Climate (FGMC) Programme, in collaboration with the UK government, has organised a capacity-building workshop for stakeholders in Ghana’s timber industry to strengthen compliance with forestry regulations. The post Timber ope",
+      "publishedAt": "2026-06-02T06:29:59+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "African negotiators push to center health in global climate talks ahead of SB64",
+      "url": "https://www.ghanabusinessnews.com/2026/06/02/african-negotiators-push-to-center-health-in-global-climate-talks-ahead-of-sb64/",
+      "summary": "African climate negotiators have renewed calls for health to become a central pillar of global climate action, warning that climate change is increasingly evolving into a major public health crisis across the continent. The post African negotiators push to cen",
+      "publishedAt": "2026-06-02T06:22:19+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Court fines Togolese national for attempting to obtain Ghanaian passport",
+      "url": "https://www.ghanabusinessnews.com/2026/06/02/court-fines-togolese-national-for-attempting-to-obtain-ghanaian-passport/",
+      "summary": "The Adabraka District Court has fined a Togolese national 200 penalty units, equivalent to GH¢2,400, for attempting to obtain a Ghanaian passport through false declarations. The post Court fines Togolese national for attempting to obtain Ghanaian passport appe",
+      "publishedAt": "2026-06-02T06:04:20+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "DRC, WHO intensify response to contain Ebola outbreak",
+      "url": "https://www.ghanabusinessnews.com/2026/06/01/drc-who-intensify-response-to-contain-ebola-outbreak/",
+      "summary": "The government of the Democratic Republic of Congo (DRC), in collaboration with the World Health Organisation (WHO), has stepped up efforts to contain an outbreak of Ebola Virus Disease caused by the Bundibugyo strain, which is affecting several provinces in t",
+      "publishedAt": "2026-06-01T19:20:30+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Ghana is open for business – Finance Minister tells investors",
+      "url": "https://www.ghanabusinessnews.com/2026/06/01/ghana-is-open-for-business-finance-minister-tells-investors/",
+      "summary": "Dr Cassiel Ato Baah Forson, the Minister of Finance has appealed to investors and Ghanaians in the diaspora to come and invest in Ghana, stating that the economy is now back track. The post Ghana is open for business – Finance Minister tells investors appeared",
       "publishedAt": "2026-06-01T13:31:36+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
@@ -526,54 +574,6 @@
       "url": "https://www.ghanabusinessnews.com/2026/06/01/fear-and-silence-define-kingdom-of-eswatinis-politics/",
       "summary": "This month marks the fifth anniversary of the state-sponsored massacre that gripped eSwatini in mid-2021. It began on June 29, when peaceful pro-democracy activists gathered in Mbabane to deliver a petition calling for political reforms. The post Fear and sile",
       "publishedAt": "2026-06-01T13:26:54+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Mahama urges African countries to rekindle the flame of Pan-Africanism",
-      "url": "https://www.ghanabusinessnews.com/2026/06/01/mahama-urges-african-countries-to-rekindle-the-flame-of-pan-africanism/",
-      "summary": "President John Dramani Mahama has reiterated the need for African countries to rekindle the flame of Pan-Africanism to achieve collective economic leverage on the continent. The post Mahama urges African countries to rekindle the flame of Pan-Africanism appear",
-      "publishedAt": "2026-06-01T12:18:53+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Ghana’s TVET financing system is structurally misaligned – Kofi Asare",
-      "url": "https://www.ghanabusinessnews.com/2026/06/01/ghanas-tvet-financing-system-is-structurally-misaligned-kofi-asare/",
-      "summary": "Mr. Kofi Asare, Executive Director of Africa Education Watch, has described Ghana's Technical and Vocational Education and Training (TVET) financing system as structurally misaligned, warning that chronic underfunding is undermining efforts to equip young peop",
-      "publishedAt": "2026-06-01T12:11:10+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Crackdown on unlicensed real estate agents imminent",
-      "url": "https://www.ghanabusinessnews.com/2026/06/01/crackdown-on-unlicensed-real-estate-agents-imminent/",
-      "summary": "The Real Estate Agency Council is preparing to intensify its crackdown on unlicensed agents and brokers across Ghana, following growing concerns about illegal practices in the sector. The post Crackdown on unlicensed real estate agents imminent appeared first ",
-      "publishedAt": "2026-06-01T12:06:59+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Court halts ‘Supercash Games’ promotion in major IP showdown",
-      "url": "https://www.ghanabusinessnews.com/2026/05/31/court-halts-supercash-games-promotion-in-major-ip-showdown/",
-      "summary": "A major courtroom victory has brought a swift pause to the promotion and commercialization of “Supercash Games” in Ghana, following an interlocutory injunction granted by the High Court of Justice sitting in Accra. The post Court halts ‘Supercash Games’ promot",
-      "publishedAt": "2026-05-31T11:46:43+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Lawyer questions quorum in passage of Human Sexual Rights and Family Values Law",
-      "url": "https://www.ghanabusinessnews.com/2026/05/31/lawyer-questions-quorum-in-passage-of-human-sexual-rights-and-family-values-law/",
-      "summary": "Mr William Nyarko, Executive Director of the Africa Centre for International Law and Accountability (ACILA), has raised concerns over the Human Sexual Rights and Family Values Bill, 2025, warning it could face legal challenges if assented to by President John ",
-      "publishedAt": "2026-05-31T03:43:48+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Calls mount for replacement of Ndewura Jakpa pontoon over safety concerns",
-      "url": "https://www.ghanabusinessnews.com/2026/05/31/calls-mount-for-replacement-of-ndewura-jakpa-pontoon-over-safety-concerns/",
-      "summary": "Residents and commuters in the Oti Region have renewed calls for the replacement of the Ndewura Jakpa pontoon operating on the Volta Lake at Dambai, citing recurring mechanical failures that pose safety risks and disrupt economic activities. The post Calls mou",
-      "publishedAt": "2026-05-31T03:37:18+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
@@ -642,34 +642,34 @@
       "category": "Business news"
     },
     {
-      "title": "Republic Bank brings clean water to Pwalugu, Dingoni with mechanized borehole projects",
-      "url": "https://www.myjoyonline.com/republic-bank-brings-clean-water-to-pwalugu-dingoni-with-mechanized-borehole-projects/",
-      "summary": "Republic Bank (Ghana) PLC has successfully inaugurated two mechanized borehole water projects in the Upper East and Northern Regions, bringing clean and safe drinking water to underserved communities after a heart-wrenching documentary exposed residents compet",
-      "publishedAt": "2026-06-01T16:04:21+00:00",
+      "title": "ECOWAS targets rice self-sufficiency by 2035, seeks investment to close supply gap",
+      "url": "https://www.myjoyonline.com/ecowas-targets-rice-self-sufficiency-by-2035-seeks-investment-to-close-supply-gap/",
+      "summary": "The Economic Community of West African States (ECOWAS) has set an ambitious target of achieving regional rice self-sufficiency by 2035. It is therefore urging governments, investors and development partners to accelerate financing for a sector it says holds th",
+      "publishedAt": "2026-06-02T14:26:07+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "ZondaTec boosts Tema Police operations with GWM POER pickup donation",
-      "url": "https://www.myjoyonline.com/zondatec-boosts-tema-police-operations-with-gwm-poer-pickup-donation/",
-      "summary": "Zonda Tec Ghana has handed over a brand-new GWM POER pickup truck to the Tema Regional Police Command, in a move aimed at boosting law enforcement mobility across one of Ghana’s busiest policing districts. The donation is part of what Zonda calls its “Supporti",
-      "publishedAt": "2026-06-01T15:23:14+00:00",
+      "title": "Government to tie rice imports to local production in major policy shift",
+      "url": "https://www.myjoyonline.com/government-to-tie-rice-imports-to-local-production-in-major-policy-shift/",
+      "summary": "The Government of Ghana is preparing to link rice import permits directly to investment in the country’s own rice farms and mills - a policy shift that the Ministry of Food and Agriculture hopes will accelerate progress toward self-sufficiency and trim a growi",
+      "publishedAt": "2026-06-02T13:22:56+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Host communities in Tarkwa appeal to gov’t to renew Gold Fields contract",
-      "url": "https://www.myjoyonline.com/host-communities-in-tarkwa-appeal-to-govt-to-renew-gold-fields-contract/",
-      "summary": "Host communities of Gold Fields Ghana Limited in Tarkwa are urging the government to renew the mining company’s lease, citing ongoing development projects and job creation for local youth.",
-      "publishedAt": "2026-06-01T14:51:22+00:00",
+      "title": "Gov’t to crack down on rice smuggling with new inter-ministerial task-force – Agric Minister",
+      "url": "https://www.myjoyonline.com/govt-to-crack-down-on-rice-smuggling-with-new-inter-ministerial-task-force-agric-minister/",
+      "summary": "The Minister for Food and Agriculture, Eric Opoku, has announced plans by government to establish an inter-ministerial taskforce to strengthen surveillance and enforcement against the illegal importation of rice through unauthorized border routes. Speaking at ",
+      "publishedAt": "2026-06-02T11:47:39+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Motorists urged to demand ECOWAS Brown Card insurance certificates",
-      "url": "https://www.myjoyonline.com/motorists-urged-to-demand-ecowas-brown-card-insurance-certificates/",
-      "summary": "The Chairman of the Council of the Ghana National Bureau of the ECOWAS Brown Card Insurance Scheme, Mr Frederick Adotey Saka, has urged motorists to insist on receiving their ECOWAS Brown Card insurance certificates whenever they purchase motor insurance polic",
-      "publishedAt": "2026-06-01T14:09:41+00:00",
+      "title": "Edward Effah calls for CEO-gov’t compact to drive economic transformation at CEO Summit 2026",
+      "url": "https://www.myjoyonline.com/edward-effah-calls-for-ceo-govt-compact-to-drive-economic-transformation-at-ceo-summit-2026/",
+      "summary": "Edward Effah, founder of Fidelity Bank Ghana, has called for a structured and ambitious partnership between Ghana's business community and government.",
+      "publishedAt": "2026-06-02T11:41:57+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     }
@@ -682,7 +682,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-01T16:41:20.454365+00:00"
+      "fetchedAt": "2026-06-02T14:57:30.421397+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -691,7 +691,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-01T16:41:20.454365+00:00"
+      "fetchedAt": "2026-06-02T14:57:30.421397+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -700,7 +700,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-01T16:41:20.454365+00:00"
+      "fetchedAt": "2026-06-02T14:57:30.421397+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -709,7 +709,7 @@
       "kind": "html",
       "ok": false,
       "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
-      "fetchedAt": "2026-06-01T16:41:20.454365+00:00"
+      "fetchedAt": "2026-06-02T14:57:30.421397+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -718,7 +718,7 @@
       "kind": "html",
       "ok": false,
       "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
-      "fetchedAt": "2026-06-01T16:41:20.454365+00:00"
+      "fetchedAt": "2026-06-02T14:57:30.421397+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -727,7 +727,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-01T16:41:20.454365+00:00"
+      "fetchedAt": "2026-06-02T14:57:30.421397+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -736,7 +736,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-01T16:41:20.454365+00:00"
+      "fetchedAt": "2026-06-02T14:57:30.421397+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -745,7 +745,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-01T16:41:20.454365+00:00"
+      "fetchedAt": "2026-06-02T14:57:30.421397+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -754,7 +754,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-01T16:41:20.454365+00:00"
+      "fetchedAt": "2026-06-02T14:57:30.421397+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -763,7 +763,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-01T16:41:20.454365+00:00"
+      "fetchedAt": "2026-06-02T14:57:30.421397+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -772,7 +772,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-01T16:41:20.454365+00:00"
+      "fetchedAt": "2026-06-02T14:57:30.421397+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -781,7 +781,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-01T16:41:20.454365+00:00"
+      "fetchedAt": "2026-06-02T14:57:30.421397+00:00"
     },
     {
       "name": "Citi Business News",
@@ -790,7 +790,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-01T16:41:20.454365+00:00"
+      "fetchedAt": "2026-06-02T14:57:30.421397+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -799,7 +799,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-01T16:41:20.454365+00:00"
+      "fetchedAt": "2026-06-02T14:57:30.421397+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -808,7 +808,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-01T16:41:20.454365+00:00"
+      "fetchedAt": "2026-06-02T14:57:30.421397+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -817,7 +817,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-01T16:41:20.454365+00:00"
+      "fetchedAt": "2026-06-02T14:57:30.421397+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -826,7 +826,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-01T16:41:20.454365+00:00"
+      "fetchedAt": "2026-06-02T14:57:30.421397+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -835,7 +835,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-01T16:41:20.454365+00:00"
+      "fetchedAt": "2026-06-02T14:57:30.421397+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -844,7 +844,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-01T16:41:20.454365+00:00"
+      "fetchedAt": "2026-06-02T14:57:30.421397+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -853,7 +853,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-01T16:41:20.454365+00:00"
+      "fetchedAt": "2026-06-02T14:57:30.421397+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -862,7 +862,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-01T16:41:20.454365+00:00"
+      "fetchedAt": "2026-06-02T14:57:30.421397+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -871,7 +871,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-06-01T16:41:20.454365+00:00"
+      "fetchedAt": "2026-06-02T14:57:30.421397+00:00"
     }
   ]
 }
