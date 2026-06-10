@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-06-09T13:45:38.782515+00:00",
-  "generatedAtGhana": "2026-06-09T13:45:38.782515+00:00",
+  "generatedAt": "2026-06-10T14:26:12.410633+00:00",
+  "generatedAtGhana": "2026-06-10T14:26:12.410633+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
     "gseIndices": {
-      "asOf": "08/06/2026",
-      "composite": 14232.99,
-      "financialStocks": 7872.88,
+      "asOf": "09/06/2026",
+      "composite": 14278.49,
+      "financialStocks": 7934.08,
       "source": "Ghana Stock Exchange",
       "url": "https://gse.com.gh/"
     },
@@ -386,7 +386,7 @@
       "category": "Credit ratings news"
     },
     {
-      "title": "FT Global Bond Summit",
+      "title": "Fitch Changes Sovereigns Outlook to ‘Deteriorating’ on Iran War Impact",
       "url": "https://www.fitchratings.com/sovereigns",
       "summary": "",
       "publishedAt": null,
@@ -450,130 +450,130 @@
       "category": "Sovereign credit research"
     },
     {
-      "title": "Editorial: High NPL ratio slows policy rate easing",
-      "url": "https://thebftonline.com/2026/06/09/editorial-high-npl-ratio-slows-policy-rate-easing/",
-      "summary": "Professor Patrick Asuming, a senior lecturer at the University of Ghana Business School and an economist, posits that the falling monetary policy rate will achieve little for businesses unless the problem of elevated credit risk associated with high non-perfor",
-      "publishedAt": "2026-06-09T13:22:30+00:00",
+      "title": "The Attitude Lounge with Kodwo Brumpon: Disciples of Machiavelli",
+      "url": "https://thebftonline.com/2026/06/10/the-attitude-lounge-with-kodwo-brumpon-disciples-of-machiavelli/",
+      "summary": "“God is good, but never dance with a lion.” – African proverb Whether you consider yourself a Machiavellian or not, there are many of us who have become his disciples. The drive to be successful energises many amongst us to handle and manage situations skilful",
+      "publishedAt": "2026-06-10T13:30:15+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Premier League 2025/26 statistics",
-      "url": "https://thebftonline.com/2026/06/09/premier-league-2025-26-statistics/",
-      "summary": "The 2025/26 Premier League (GPL) season was one of the most competitive and memorable in recent years, with Medeama SC emerging as champions after finishing top of the table with 62 points, narrowly ahead of Gold Stars FC on 60 points. Hearts of Oak secured th",
-      "publishedAt": "2026-06-09T12:29:10+00:00",
+      "title": "N/R CNC launches 2026 STUDRAFESTC: A showcase of students’ creativity and talents",
+      "url": "https://thebftonline.com/2026/06/10/n-r-cnc-launches-2026-studrafestc-a-showcase-of-students-creativity-and-talents/",
+      "summary": "By Samuel SAM STUDRAFEST, an annual Students’ Drama Festival, for Senior High School (SHS) students to showcase their creativity, talents and understanding of a critical social issue through drama, has been launched in Tamale. The event, which is scheduled for",
+      "publishedAt": "2026-06-10T13:00:21+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "My PMP Journey: A story of persistence, people and purpose",
-      "url": "https://thebftonline.com/2026/06/09/my-pmp-journey-a-story-of-persistence-people-and-purpose/",
-      "summary": "The journey began in November 2025. As a proud Toastmaster, I had the privilege of helping to establish the PMI Toastmasters Club. (If you have never heard of Toastmasters, ask me about it—and better still, join the community!) Through that experience, I inter",
-      "publishedAt": "2026-06-09T12:19:21+00:00",
+      "title": "PSInno project launched to boost SME growth",
+      "url": "https://thebftonline.com/2026/06/10/psinno-project-launched-to-boost-sme-growth/",
+      "summary": "By Samuel SAM The Private Sector and Innovation Promotion (PSInno) project has been launched in Tamale to strengthen small and medium-sized enterprises (SMEs), promote innovation and create jobs in northern Ghana. The initiative, a partnership between Ghana an",
+      "publishedAt": "2026-06-10T12:36:59+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "The cost of discrimination: Why diversity and inclusion have become an economic issue in a global talent economy",
-      "url": "https://thebftonline.com/2026/06/09/the-cost-of-discrimination-why-diversity-and-inclusion-have-become-an-economic-issue-in-a-global-talent-economy/",
-      "summary": "By Kwadwo ASARE Investment Banker and Investment Funds Accountant kwadwo.asare@outlook.com On 29 May 2026, Ghana’s Parliament passed the Human Sexual Rights and Family Values Bill, reigniting one of the most polarising national debates in the country’s recent ",
-      "publishedAt": "2026-06-09T12:11:08+00:00",
+      "title": "From crisis response to National Resilience: .The case for a National Risk Management Policy",
+      "url": "https://thebftonline.com/2026/06/10/from-crisis-response-to-national-resilience-the-case-for-a-national-risk-management-policy/",
+      "summary": "By: Kenneth Owusu Asante AMPONSAH “The more things change, the more they stay the same”-Jean-Baptiste Alphonse Karr,1849 Ghana has demonstrated remarkable resilience navigating the COVID-19 pandemic, the Domestic Debt Exchange Programme (DDEP), recurring flood",
+      "publishedAt": "2026-06-10T12:12:43+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "When the returns are not returning Well: Any value for our paid taxes?",
-      "url": "https://thebftonline.com/2026/06/09/when-the-returns-are-not-returning-well-any-value-for-our-paid-taxes/",
-      "summary": "By Jacob AZAARE (PhD) Taxation is often described as the lifeblood of every nation because it provides governments with the resources needed to deliver public services and national development. In Ghana, citizens pay various forms of taxes, including income ta",
-      "publishedAt": "2026-06-09T12:10:55+00:00",
+      "title": "Internal communication & leadership personality: What your people remember about you",
+      "url": "https://thebftonline.com/2026/06/10/internal-communication-leadership-personality-what-your-people-remember-about-you/",
+      "summary": "Your leadership will be remembered not for what you decided — but for how you made people feel every time you spoke. by antoinette GYAN Years after leaving an organisation, people rarely remember the strategy their CEO unveiled at the all-hands meeting. They d",
+      "publishedAt": "2026-06-10T12:11:26+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "A review of citizen experience: Reset for superior civil service delivery",
-      "url": "https://thebftonline.com/2026/06/09/a-review-of-citizen-experience-reset-for-superior-civil-service-delivery/",
-      "summary": "By Michael Harry YAMSON I have spent a considerable portion of my professional life working within the architecture of Ghana’s public financial management system — specifically at the intersection of central government policy and local government delivery. Fro",
-      "publishedAt": "2026-06-09T12:08:51+00:00",
+      "title": "The unseen glue: Why communication is the heartbeat of every relationship",
+      "url": "https://thebftonline.com/2026/06/10/the-unseen-glue-why-communication-is-the-heartbeat-of-every-relationship/",
+      "summary": "By: Dr Linda NARH In every sphere of life, from boardrooms to classrooms, from lifelong friendships to the intimacy of marriage and the delicate work of parenting, communication serves as the vital thread that weaves understanding, trust, and growth. It is not",
+      "publishedAt": "2026-06-10T12:10:57+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "We paved paradise and made a flood",
-      "url": "https://thebftonline.com/2026/06/09/we-paved-paradise-and-made-a-flood/",
-      "summary": "By Eddie YAWSON You see, we all to blame. When you concrete every space on your plot, you do not allow the rains to percolate into the soil. All the rain goes out into the street or drains not designed for it. And it overwhelms the drains. But the drains were ",
-      "publishedAt": "2026-06-09T12:08:37+00:00",
+      "title": "Project Management Institute, Cannes Lions launch global educators forum to help prepare students for the future of work",
+      "url": "https://thebftonline.com/2026/06/10/project-management-institute-cannes-lions-launch-global-educators-forum-to-help-prepare-students-for-the-future-of-work/",
+      "summary": "Project Management Institute (PMI), the leading authority in project success, has announced its partnership with Cannes Lions to launch the LIONS Educators Forum, a global initiative designed to connect academia with creative industries and better prepare stud",
+      "publishedAt": "2026-06-10T12:09:13+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Help can sometimes come from unexpected sources",
-      "url": "https://thebftonline.com/2026/06/09/help-can-sometimes-come-from-unexpected-sources/",
-      "summary": "By Eric Ellington AGYEDENAH A few years ago, I lost a relative in Accra and was tasked with securing the grave site. At the cemetery, I met a group of men who looked unkempt and smelled strongly of alcohol. They earned their living by digging graves. As I ente",
-      "publishedAt": "2026-06-09T12:07:34+00:00",
+      "title": "Gov’t activates surveillance, isolation systems to counter Ebola threat – deputy health minister",
+      "url": "https://thebftonline.com/2026/06/10/govt-activates-surveillance-isolation-systems-to-counter-ebola-threat-deputy-health-minister-2/",
+      "summary": "The government has activated surveillance and isolation systems at key border posts to help detect and prevent the spread of the Ebola virus disease in the country. This came to light when the Deputy Minister of Health, Dr. Grace Ayensu-Danquah toured the busy",
+      "publishedAt": "2026-06-10T12:07:04+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Three people dead in Avenor building collapse",
-      "url": "https://www.ghanabusinessnews.com/2026/06/09/three-people-dead-in-avenor-building-collapse/",
-      "summary": "Three people have died following the building collapse at Avenor in Accra, while one survivor remains on admission receiving treatment, the Ghana National Fire Service (GNFS) has confirmed. The post Three people dead in Avenor building collapse appeared first ",
-      "publishedAt": "2026-06-09T09:51:51+00:00",
+      "title": "Ghana’s fisherfolk struggle to adapt to rising maritime heatwaves",
+      "url": "https://www.ghanabusinessnews.com/2026/06/10/ghanas-fisherfolk-struggle-to-adapt-to-rising-maritime-heatwaves/",
+      "summary": "On a sunny Wednesday at the Jamestown Fishing Harbour in Ghana’s capital, Accra, the temperature stood at 31 degrees Celsius. Under a bleached sky, fishermen continued their labour along the shore. Their chests glistened with sweat beneath low tarps that provi",
+      "publishedAt": "2026-06-10T13:11:52+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Industry leaders call for intellectual property protection",
-      "url": "https://www.ghanabusinessnews.com/2026/06/09/industry-leaders-call-for-intellectual-property-protection/",
-      "summary": "Stakeholders in Ghana’s fashion, textile, creative and manufacturing sectors have underscored the need for stronger intellectual property protection to safeguard originality, innovation and value creation within Africa’s growing creative industries. The post I",
-      "publishedAt": "2026-06-09T06:44:56+00:00",
+      "title": "Ghana records non-traditional export growth of over $5b for the first time",
+      "url": "https://www.ghanabusinessnews.com/2026/06/10/ghana-records-non-traditional-export-growth-of-over-5b-for-the-first-time/",
+      "summary": "Exporters have been urged to maintain high standards of compliance, innovation, and discipline as Ghana’s non-traditional export (NTE) sector records historic growth, surpassing the $5 billion mark for the first time. The post Ghana records non-traditional exp",
+      "publishedAt": "2026-06-10T12:23:57+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Stanbic Bank Ghana donates GH¢400,000 in flood, fire relief items to NADMO",
-      "url": "https://www.ghanabusinessnews.com/2026/06/09/stanbic-bank-ghana-donates-gh%c2%a2400000-in-flood-fire-relief-items-to-nadmo/",
-      "summary": "Stanbic Bank Ghana has donated relief items worth GH¢400,000 to the National Disaster Management Organisation (NADMO), to support communities affected by recent flooding and fire incidents across Accra and other parts of the country. The post Stanbic Bank Ghan",
-      "publishedAt": "2026-06-09T06:37:21+00:00",
+      "title": "Ghana calls for urgent demand-side electrification to drive Africa’s energy transition",
+      "url": "https://www.ghanabusinessnews.com/2026/06/10/ghana-calls-for-urgent-demand-side-electrification-to-drive-africas-energy-transition/",
+      "summary": "Mr Seidu Issifu, Minister of State for Climate Change and Sustainability, has called for urgent action on demand-side electrification, positioning it as both a climate necessity and a development imperative for Africa. The post Ghana calls for urgent demand-si",
+      "publishedAt": "2026-06-10T12:17:54+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "VDF, Indian aviation firm explores investment opportunities at Ho Airport",
-      "url": "https://www.ghanabusinessnews.com/2026/06/09/vdf-indian-aviation-firm-explores-investment-opportunities-at-ho-airport/",
-      "summary": "A delegation from Chipsan Aviation Limited of India has arrived in Ghana for a week-long investment and stakeholder engagement tour aimed at exploring opportunities in the country’s aviation sector. The post VDF, Indian aviation firm explores investment opport",
-      "publishedAt": "2026-06-09T06:33:13+00:00",
+      "title": "Ghana government says it will give tax incentives to factories outside Accra",
+      "url": "https://www.ghanabusinessnews.com/2026/06/10/ghana-government-says-it-will-give-tax-incentives-to-factories-outside-accra/",
+      "summary": "The Deputy Minister of Finance, Mr Thomas Ampem Nyarko, says government will provide tax incentives to companies and investors who establish factories outside the national capital, Accra. The post Ghana government says it will give tax incentives to factories ",
+      "publishedAt": "2026-06-10T12:11:08+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Farmer on bail over trespass, grant of land to two entities",
-      "url": "https://www.ghanabusinessnews.com/2026/06/09/farmer-on-bail-over-trespass-grant-of-land-to-two-entities/",
-      "summary": "The Accra Circuit Court One has granted bail in the sum of GH¢800,000.00 with three sureties, to be justified with landed property, to a farmer who allegedly granted a piece of land to two institutions. The post Farmer on bail over trespass, grant of land to t",
-      "publishedAt": "2026-06-09T06:27:09+00:00",
+      "title": "Time for a shift: African countries must claim their share of the global conferences economy",
+      "url": "https://www.ghanabusinessnews.com/2026/06/10/time-for-a-shift-african-countries-must-claim-their-share-of-the-global-conferences-economy/",
+      "summary": "The International Congress and Convention Association (ICCA) has taken years to return to Africa. Unfazed by the irony, the association is blowing its trumpet, giving itself brownie points, for taking its 66th congress to Africa, in Kigali in October 2027. The",
+      "publishedAt": "2026-06-10T12:04:49+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "ITAS implementation will not introduce new taxes – GRA assures businesses",
-      "url": "https://www.ghanabusinessnews.com/2026/06/09/itas-implementation-will-not-introduce-new-taxes-gra-assures-businesses/",
-      "summary": "Mr Anthony Kwasi Sarpong The Commissioner-General of the Ghana Revenue Authority (GRA), has assured the business community that the introduction of the Integrated Tax Administration System (ITAS) will not lead to the imposition of new taxes. The post ITAS impl",
-      "publishedAt": "2026-06-09T06:23:18+00:00",
+      "title": "Ethiopian coffee around the world",
+      "url": "https://www.ghanabusinessnews.com/2026/06/10/ethiopian-coffee-around-the-world/",
+      "summary": "Today, coffee is consumed by billions across the globe. Yet, the opening chapter of its history was written in the dense, primordial forests of Kaffa, Ethiopia. The post Ethiopian coffee around the world appeared first on Ghana Business News .",
+      "publishedAt": "2026-06-10T10:09:09+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Africa demands faster climate action, fair finance as UN talks open in Bonn",
-      "url": "https://www.ghanabusinessnews.com/2026/06/09/africa-demands-faster-climate-action-fair-finance-as-un-talks-open-in-bonn/",
-      "summary": "The African Group of Negotiators (AGN) on Climate Change has called for stronger focus on adaptation, climate finance and equitable international cooperation as negotiations opened at Bonn, Germany. The post Africa demands faster climate action, fair finance a",
-      "publishedAt": "2026-06-09T06:18:03+00:00",
+      "title": "Lufthansa Group and ANA to add ITA Airways to Europe Japan Joint Venture",
+      "url": "https://www.ghanabusinessnews.com/2026/06/10/lufthansa-group-and-ana-to-add-ita-airways-to-europe-japan-joint-venture/",
+      "summary": "The Lufthansa Group and All Nippon Airways have initiated a strategic Europe Japan Joint Venture which will be expanded to include ITA Airways. The post Lufthansa Group and ANA to add ITA Airways to Europe Japan Joint Venture appeared first on Ghana Business N",
+      "publishedAt": "2026-06-10T06:30:41+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "WHO, Africa CDC launch joint plan to strengthen Ebola preparedness in Africa",
-      "url": "https://www.ghanabusinessnews.com/2026/06/09/who-africa-cdc-launch-joint-plan-to-strengthen-ebola-preparedness-in-africa/",
-      "summary": "The World Health Organisation (WHO) Regional Office for Africa and the Africa Centres for Disease Control and Prevention (Africa CDC) have launched a joint continental response plan to strengthen preparedness and response efforts against the ongoing Ebola outb",
-      "publishedAt": "2026-06-09T06:11:02+00:00",
+      "title": "Ghana Chamber of Mines calls for total removal of growth, sustainability levy",
+      "url": "https://www.ghanabusinessnews.com/2026/06/10/ghana-chamber-of-mines-calls-for-total-removal-of-growth-sustainability-levy/",
+      "summary": "The Ghana Chamber of Mines has called for the elimination of the Growth and Sustainability Levy on mining companies, a move they say will make the country more attractive for long-term mining investment and ease fiscal pressures on firms. The post Ghana Chambe",
+      "publishedAt": "2026-06-10T06:21:58+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
@@ -642,34 +642,34 @@
       "category": "Business news"
     },
     {
-      "title": "Exporters urged to sustain compliance as Ghana’s Non-Traditional Exports hit record growth",
-      "url": "https://www.myjoyonline.com/exporters-urged-to-sustain-compliance-as-ghanas-non-traditional-exports-hit-record-growth/",
-      "summary": "A record-breaking year for Ghana’s non-traditional export sector has placed exporters firmly at the center of the country’s economic transformation agenda. With export earnings crossing the US$5 billion mark for the first time in history, industry players have",
-      "publishedAt": "2026-06-09T13:04:21+00:00",
+      "title": "CSIR warns weak use of soil data is undermining Ghana’s agric productivity",
+      "url": "https://www.myjoyonline.com/csir-warns-weak-use-of-soil-data-is-undermining-ghanas-agric-productivity/",
+      "summary": "The Council for Scientific and Industrial Research (CSIR) Soil Research Institute is warning that Ghana’s agricultural transformation agenda is being constrained not by a lack of scientific knowledge, but by weak application of existing soil data in farming an",
+      "publishedAt": "2026-06-10T13:58:02+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Port costs under threat as cargo-tracking fee re-emerges",
-      "url": "https://www.myjoyonline.com/port-costs-under-threat-as-cargo-tracking-fee-re-emerges/",
-      "summary": "…scheme previously shelved now routed through Transport Min A renewed attempt to introduce a cargo-tracking regime in the country has triggered fresh concerns within the trade and logistics sector, after documents suggested that a policy concept previously una",
-      "publishedAt": "2026-06-09T12:01:53+00:00",
+      "title": "CSIR Soil Research Institute raises alarm over zero government funding",
+      "url": "https://www.myjoyonline.com/csir-soil-research-institute-raises-alarm-over-zero-government-funding/",
+      "summary": "The Director of the Council for Scientific and Industrial Research (CSIR) Soil Research Institute, Dr. Collins Tay, has raised concerns over the lack of direct government funding for agricultural research, warning that the situation threatens Ghana’s ability t",
+      "publishedAt": "2026-06-10T13:25:35+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "JoyBusiness AgriBusiness Month highlights threat to Ghana’s indigenous food crops",
-      "url": "https://www.myjoyonline.com/joybusiness-agribusiness-month-highlights-threat-to-ghanas-indigenous-food-crops/",
-      "summary": "This edition of JoyBusiness’ Agri Business Month has turned the spotlight on the preservation of Ghana’s indigenous food systems, with particular emphasis on the growing disappearance of traditional crops and food varieties.",
-      "publishedAt": "2026-06-09T11:57:44+00:00",
+      "title": "Yuno partners with Onafriq to unlock Pan-African payments for global merchants",
+      "url": "https://www.myjoyonline.com/10033078634-2/",
+      "summary": "Yuno, the global financial infrastructure platform, today announced a strategic partnership with Onafriq, the leading Pan-African payments network, to bring Africa’s most expansive payments infrastructure to merchants worldwide.",
+      "publishedAt": "2026-06-10T12:39:06+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Bond market: Turnover rebounds strongly by 240% to GH¢1.62bn",
-      "url": "https://www.myjoyonline.com/bond-market-turnover-rebounds-strongly-by-240-to-gh%c2%a21-62bn/",
-      "summary": "Trading activity was led by the 2027-2030 maturities, which accounted for 57.67% of total turnover at a weighted-average yield of 12.09%.",
-      "publishedAt": "2026-06-09T11:17:56+00:00",
+      "title": "Ghana’s economy expands by 6.4% in Q1 of 2026, driven by Services and Mining",
+      "url": "https://www.myjoyonline.com/ghanas-economy-expands-by-6-4-in-q1-of-2026-driven-by-services-and-mining/",
+      "summary": "Ghana’s economy recorded a growth rate of 6.4 percent in the first quarter (Q1) of 2026, up slightly from 6.2 percent during the same period last year, according to the latest Gross Domestic Product (GDP) estimates released by the Ghana Statistical Service (GS",
+      "publishedAt": "2026-06-10T11:29:10+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     }
@@ -682,7 +682,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-09T13:45:38.782515+00:00"
+      "fetchedAt": "2026-06-10T14:26:12.410633+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -691,7 +691,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-09T13:45:38.782515+00:00"
+      "fetchedAt": "2026-06-10T14:26:12.410633+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -700,7 +700,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-09T13:45:38.782515+00:00"
+      "fetchedAt": "2026-06-10T14:26:12.410633+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -709,7 +709,7 @@
       "kind": "html",
       "ok": false,
       "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
-      "fetchedAt": "2026-06-09T13:45:38.782515+00:00"
+      "fetchedAt": "2026-06-10T14:26:12.410633+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -718,7 +718,7 @@
       "kind": "html",
       "ok": false,
       "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
-      "fetchedAt": "2026-06-09T13:45:38.782515+00:00"
+      "fetchedAt": "2026-06-10T14:26:12.410633+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -727,7 +727,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-09T13:45:38.782515+00:00"
+      "fetchedAt": "2026-06-10T14:26:12.410633+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -736,7 +736,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-09T13:45:38.782515+00:00"
+      "fetchedAt": "2026-06-10T14:26:12.410633+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -745,7 +745,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-09T13:45:38.782515+00:00"
+      "fetchedAt": "2026-06-10T14:26:12.410633+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -754,7 +754,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-09T13:45:38.782515+00:00"
+      "fetchedAt": "2026-06-10T14:26:12.410633+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -763,7 +763,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-09T13:45:38.782515+00:00"
+      "fetchedAt": "2026-06-10T14:26:12.410633+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -772,7 +772,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-09T13:45:38.782515+00:00"
+      "fetchedAt": "2026-06-10T14:26:12.410633+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -781,7 +781,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-09T13:45:38.782515+00:00"
+      "fetchedAt": "2026-06-10T14:26:12.410633+00:00"
     },
     {
       "name": "Citi Business News",
@@ -790,7 +790,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-09T13:45:38.782515+00:00"
+      "fetchedAt": "2026-06-10T14:26:12.410633+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -799,7 +799,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-09T13:45:38.782515+00:00"
+      "fetchedAt": "2026-06-10T14:26:12.410633+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -808,7 +808,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-09T13:45:38.782515+00:00"
+      "fetchedAt": "2026-06-10T14:26:12.410633+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -817,7 +817,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-09T13:45:38.782515+00:00"
+      "fetchedAt": "2026-06-10T14:26:12.410633+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -826,7 +826,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-09T13:45:38.782515+00:00"
+      "fetchedAt": "2026-06-10T14:26:12.410633+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -835,7 +835,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-09T13:45:38.782515+00:00"
+      "fetchedAt": "2026-06-10T14:26:12.410633+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -844,7 +844,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-09T13:45:38.782515+00:00"
+      "fetchedAt": "2026-06-10T14:26:12.410633+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -853,7 +853,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-09T13:45:38.782515+00:00"
+      "fetchedAt": "2026-06-10T14:26:12.410633+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -862,7 +862,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-09T13:45:38.782515+00:00"
+      "fetchedAt": "2026-06-10T14:26:12.410633+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -871,7 +871,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-06-09T13:45:38.782515+00:00"
+      "fetchedAt": "2026-06-10T14:26:12.410633+00:00"
     }
   ]
 }
