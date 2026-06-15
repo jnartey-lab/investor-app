@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-06-14T13:00:45.022131+00:00",
-  "generatedAtGhana": "2026-06-14T13:00:45.022131+00:00",
+  "generatedAt": "2026-06-15T16:19:24.551025+00:00",
+  "generatedAtGhana": "2026-06-15T16:19:24.551025+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
     "gseIndices": {
-      "asOf": "12/06/2026",
-      "composite": 14442.02,
-      "financialStocks": 8227.71,
+      "asOf": "15/06/2026",
+      "composite": 14601.6,
+      "financialStocks": 8356.18,
       "source": "Ghana Stock Exchange",
       "url": "https://gse.com.gh/"
     },
     "bankOfGhana": {
       "policyRate": 14.0,
-      "tBill91Day": 4.9496,
+      "tBill91Day": 4.9795,
       "inflation": 3.7,
       "source": "Bank of Ghana",
       "url": "https://www.bog.gov.gh/"
@@ -581,98 +581,98 @@
       "category": "Sovereign credit research"
     },
     {
-      "title": "KGL Foundation transforms Accra Psychiatric OPD",
-      "url": "https://thebftonline.com/2026/06/14/kgl-foundation-transforms-accra-psychiatric-opd/",
-      "summary": "In a move set to shatter long-standing stigmas, the KGL Foundation has officially handed over an ultra-modern Out-Patient Department (OPD) to the Accra Psychiatric Hospital. ​The extensive renovation completely overhauls the facility’s physical environment. Th",
-      "publishedAt": "2026-06-14T07:35:40+00:00",
+      "title": "COCOBOD chief executive calls for greater trust and unity in Ghana–Côte D’ivoire cocoa partnershp",
+      "url": "https://thebftonline.com/2026/06/15/cocobod-chief-executive-calls-for-greater-trust-and-unity-in-ghana-cote-divoire-cocoa-partnershp/",
+      "summary": "The Chief Executive of the Ghana Cocoa Board (COCOBOD), Dr. Randy Abbey, has called for deeper trust, transparency, and commitment between Ghana and Côte d’Ivoire as the two countries seek to strengthen cooperation and secure greater value for cocoa from the t",
+      "publishedAt": "2026-06-15T14:17:23+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Prioritise local cashew processing to unlock jobs, boost export earnings – ACPG urges",
-      "url": "https://thebftonline.com/2026/06/14/prioritise-local-cashew-processing-to-unlock-jobs-boost-export-earnings-acpg-urges/",
-      "summary": "The Association of Cashew Processors Ghana (ACPG) has called for greater support for local cashew processing, stressing that increasing domestic value addition is critical to creating jobs, boosting export earnings and maximising the economic benefits of Ghana",
-      "publishedAt": "2026-06-14T07:15:21+00:00",
+      "title": "Apagya SHS retains ‘World Environment Day’ quiz crown",
+      "url": "https://thebftonline.com/2026/06/15/apagya-shs-retains-world-environment-day-quiz-crown/",
+      "summary": "Reigning champions Apagya Senior High School, from the Adansi South district of Ashanti Region, has successfully defended their title – emerging winners of the 2026 World Environment Day quiz competition recently held. The competition was organised by AngloGol",
+      "publishedAt": "2026-06-15T13:00:02+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Asante Gold commits US$7m to restore 800 hectares of degraded forest",
-      "url": "https://thebftonline.com/2026/06/13/asante-gold-commits-us7m-to-restore-800-hectares-of-degraded-forest/",
-      "summary": "By Kizito CUDJOE Asante Gold Chirano Limited (AGCL) has launched a US$7 million reforestation programme to restore about 800 hectares of degraded land within the Tano-Suraw Forest Reserve, marking one of the largest forest rehabilitation initiatives linked to ",
-      "publishedAt": "2026-06-13T12:25:40+00:00",
+      "title": "Redefining employment relations in a modern organisation",
+      "url": "https://thebftonline.com/2026/06/15/redefining-employment-relations-in-a-modern-organisation/",
+      "summary": "For the better part of a century, the architecture of employment relations rested on a relatively simple, if often lopsided, foundation. That foundation was the contract of service, a legal and psychological bargain wherein an employee exchanged obedience and ",
+      "publishedAt": "2026-06-15T12:40:20+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Zoomlion, NADMO, DML deploy officers at MMDAs to sustain anti-flood campaign",
-      "url": "https://thebftonline.com/2026/06/12/zoomlion-nadmo-dml-deploy-officers-at-mmdas-to-sustain-anti-flood-campaign/",
-      "summary": "Zoomlion Ghana Limited, the National Disaster Management Oganisation (NADMO) and its partners have posted officers in all the Metropolitan, Municipal and District Assemblies (MMDAs) across Greater Accra to monitor and maintain flood-prone drains, in a bid to s",
-      "publishedAt": "2026-06-12T18:48:35+00:00",
+      "title": "The Business Strategy Analyst with Jules Nartey-Tokoli: Participatory Management: Applying Political Science to Corporate Governance (III)",
+      "url": "https://thebftonline.com/2026/06/15/the-business-strategy-analyst-with-jules-nartey-tokoli-participatory-management-applying-political-science-to-corporate-governance-iii/",
+      "summary": "This three-part series argues that while technology has evolved dramatically, management has not kept pace. The first installment examined how modern management emerged from the industrial age and why many of its underlying assumptions have become increasingly",
+      "publishedAt": "2026-06-15T12:35:11+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "AfCFTA’s success depends on cooperation, trade facilitation and inclusive growth – Mohammed Ali",
-      "url": "https://thebftonline.com/2026/06/12/afcftas-success-depends-on-cooperation-trade-facilitation-and-inclusive-growth-mohammed-ali/",
-      "summary": "The success of the African Continental Free Trade Area (AfCFTA) will depend not only on reducing trade barriers but also on strengthening regional cooperation, improving trade infrastructure, and creating opportunities for businesses across the continent, acco",
-      "publishedAt": "2026-06-12T17:50:26+00:00",
+      "title": "Cocoa sector must be more resilient, profitable – Finance Minister",
+      "url": "https://thebftonline.com/2026/06/15/cocoa-sector-must-be-more-resilient-profitable-finance-minister/",
+      "summary": "The Minister for Finance, Dr. Cassiel Ato Forson, has called for a fundamental transformation of the cocoa sector, insisting that the industry must become more resilient, prosperous and profitable for the benefit of farmers and the economies of both Ghana and ",
+      "publishedAt": "2026-06-15T12:28:32+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "When Africa Cheers Against Africa: South Africa, Xenophobia, the 2026 World Cup and the uncomfortable truth about Pan-Africanism",
-      "url": "https://thebftonline.com/2026/06/12/when-africa-cheers-against-africa-south-africa-xenophobia-the-2026-world-cup-and-the-uncomfortable-truth-about-pan-africanism/",
-      "summary": "By Obed Kog (Graduate Student in International Relations and Diplomacy, GIMPA | Public Policy Analyst. Ghanaian researcher focused on international relations, diplomacy, trade, and development policy. okog@gimpa.edu.gh ) June 11, 2026, the 2026 FIFA World Cup ",
-      "publishedAt": "2026-06-12T15:54:48+00:00",
+      "title": "Changing the game with Dr Palgrave Boakye-Danquah: From chess board to squash court",
+      "url": "https://thebftonline.com/2026/06/15/changing-the-game-with-dr-palgrave-boakye-danquah-from-chess-board-to-squash-court/",
+      "summary": "Ghana’s development conversation has too many grandmasters and too few players. For years we have approached nation building like a game of chess. Careful. Sequential. One move, then wait. Protect the king at all costs. Sacrifice pawns quietly. Plan from a dis",
+      "publishedAt": "2026-06-15T12:20:13+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Built environment professionals call for metropolitan governance reforms to address Ghana’s urban challenges",
-      "url": "https://thebftonline.com/2026/06/12/built-environment-professionals-call-for-metropolitan-governance-reforms-to-address-ghanas-urban-challenges/",
-      "summary": "The Built environment professionals have called for urgent reforms to Ghana’s metropolitan governance system to address the growing challenges of urbanisation, infrastructure delivery, transportation, sanitation, flooding, and land-use management across the co",
-      "publishedAt": "2026-06-12T14:04:31+00:00",
+      "title": "Dishonest gains: a dangerous new normal",
+      "url": "https://thebftonline.com/2026/06/15/dishonest-gains-a-dangerous-new-normal/",
+      "summary": "By Henry Atta NYAME There is a reggae song I dearly love by Bob Marley titled: Who the cap fits, let them wear it. The song teaches important values such as humility, honesty, and integrity. If you listen carefully to its message, you will understand the dange",
+      "publishedAt": "2026-06-15T12:15:00+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Ankobra West Community Bank records impressive growth across key indicators",
-      "url": "https://thebftonline.com/2026/06/12/ankobra-west-community-bank-records-impressive-growth-across-key-indicators/",
-      "summary": "By Juliet Aguiar DUGBARTEY Ankobra West Community Bank recorded strong growth across its key financial indicators in 2025, strengthening its financial position and reinforcing customer confidence. Deposits grew by 38.15 percent from GH¢77.72million in 2024 to ",
-      "publishedAt": "2026-06-12T12:46:18+00:00",
+      "title": "Employee activity monitoring and lifestyle audit: A key defense against internal fraud",
+      "url": "https://thebftonline.com/2026/06/15/employee-activity-monitoring-and-lifestyle-audit-a-key-defense-against-internal-fraud/",
+      "summary": "By Richieson GYENI-BOATENG All over the world, it is believed that the Human Capital of every institution are the most valuable assets contributing to growth and profitability. But the same valuable assets have also contributed to the collapse of many institut",
+      "publishedAt": "2026-06-15T12:14:16+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Aflao border plunged into darkness, exposing travellers to attacks — Union Secretary",
-      "url": "https://www.ghanabusinessnews.com/2026/06/14/aflao-border-plunged-into-darkness-exposing-travellers-to-attacks-union-secretary/",
-      "summary": "Mr Emmanuel Kwasi Agbodeka, Secretary to the Cooperative Hiring Car Union, Aflao Branch, has raised alarm over deteriorating security conditions at the Aflao border enclave, attributing the situation to poor lighting and inadequate security presence. The post ",
-      "publishedAt": "2026-06-14T12:42:35+00:00",
+      "title": "Why Ethiopian coffee has opportunity in China",
+      "url": "https://www.ghanabusinessnews.com/2026/06/15/why-ethiopian-coffee-has-opportunity-in-china/",
+      "summary": "China's economic prowess is undeniable. In 2022, its Gross National Product (GNP) reached an impressive $16.94 trillion, representing 18% of the global economy and contributing to 40% of worldwide economic growth. The post Why Ethiopian coffee has opportunity ",
+      "publishedAt": "2026-06-15T14:46:31+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Residents protest destruction of sacred Dodowa Forest for interim market",
-      "url": "https://www.ghanabusinessnews.com/2026/06/14/residents-protest-destruction-of-sacred-dodowa-forest-for-interim-market/",
-      "summary": "Traditional leaders, environmentalists, climate advocates, and residents of Dodowa and Shai (Se) have called for an immediate halt to the clearing of part of the Dodowa Forest for a temporary market. The post Residents protest destruction of sacred Dodowa Fore",
-      "publishedAt": "2026-06-14T09:58:22+00:00",
+      "title": "MTN MoMo posts GH¢1.7b revenue for Q1 2026",
+      "url": "https://www.ghanabusinessnews.com/2026/06/15/mtn-momo-posts-gh%c2%a21-7b-revenue-for-q1-2026/",
+      "summary": "MTN MobileMoney Fintech Limited (MMF) has declared revenue of approximately GH¢1.7 billion for the first quarter of 2026, representing year-on-year growth of 28.4 per cent. The post MTN MoMo posts GH¢1.7b revenue for Q1 2026 appeared first on Ghana Business Ne",
+      "publishedAt": "2026-06-15T11:03:08+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Parents urged not to give away children due to poverty",
-      "url": "https://www.ghanabusinessnews.com/2026/06/14/parents-urged-not-to-give-away-children-due-to-poverty/",
-      "summary": "Madam Esther Adinorkie Lawerteh, Health and Environmental Officer of the Volta Resilient Foundation, has cautioned parents against sending their children to live with other people because of financial difficulties, warning that the practice often exposes child",
-      "publishedAt": "2026-06-14T09:43:33+00:00",
+      "title": "Bank of Ghana extends registration deadline for money transfer operators",
+      "url": "https://www.ghanabusinessnews.com/2026/06/15/bank-of-ghana-extends-registration-deadline-for-money-transfer-operators/",
+      "summary": "The Bank of Ghana (BoG) has extended the deadline for the registration of International Money Transfer Operators (IMTOs) to July 31, 2026. The post Bank of Ghana extends registration deadline for money transfer operators appeared first on Ghana Business News .",
+      "publishedAt": "2026-06-15T10:57:29+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Citizens’ Platform asks govt for roadmap, timelines on constitutional review",
-      "url": "https://www.ghanabusinessnews.com/2026/06/14/citizens-platform-asks-govt-for-roadmap-timelines-on-constitutional-review/",
-      "summary": "The Steering Committee of the Citizens’ Platform on Constitutional Reform at its Monday, 8 June 2026 meeting called for the President and the government to formally lay out a roadmap with clear timelines for the review of the 1992 Constitution. The post Citize",
-      "publishedAt": "2026-06-14T09:17:20+00:00",
+      "title": "GOIL PLC records GH¢90.67m net profit in 2025",
+      "url": "https://www.ghanabusinessnews.com/2026/06/15/goil-plc-records-gh%c2%a290-67m-net-profit-in-2025/",
+      "summary": "Ghana’s indigenous oil marketing company, GOIL PLC, reported net profit after tax of GH¢90.67 million for 2025, representing 7.05 per cent increase from GH¢84.70 million recorded in 2024. The post GOIL PLC records GH¢90.67m net profit in 2025 appeared first on",
+      "publishedAt": "2026-06-15T10:49:43+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     }
@@ -685,7 +685,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-14T13:00:45.022131+00:00"
+      "fetchedAt": "2026-06-15T16:19:24.551025+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -694,7 +694,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-14T13:00:45.022131+00:00"
+      "fetchedAt": "2026-06-15T16:19:24.551025+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -703,7 +703,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-14T13:00:45.022131+00:00"
+      "fetchedAt": "2026-06-15T16:19:24.551025+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -712,7 +712,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-14T13:00:45.022131+00:00"
+      "fetchedAt": "2026-06-15T16:19:24.551025+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -721,7 +721,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-14T13:00:45.022131+00:00"
+      "fetchedAt": "2026-06-15T16:19:24.551025+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -730,7 +730,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-14T13:00:45.022131+00:00"
+      "fetchedAt": "2026-06-15T16:19:24.551025+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -739,7 +739,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-14T13:00:45.022131+00:00"
+      "fetchedAt": "2026-06-15T16:19:24.551025+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -748,7 +748,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-14T13:00:45.022131+00:00"
+      "fetchedAt": "2026-06-15T16:19:24.551025+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -757,7 +757,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-14T13:00:45.022131+00:00"
+      "fetchedAt": "2026-06-15T16:19:24.551025+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -766,7 +766,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-14T13:00:45.022131+00:00"
+      "fetchedAt": "2026-06-15T16:19:24.551025+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -775,7 +775,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-14T13:00:45.022131+00:00"
+      "fetchedAt": "2026-06-15T16:19:24.551025+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -784,7 +784,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-14T13:00:45.022131+00:00"
+      "fetchedAt": "2026-06-15T16:19:24.551025+00:00"
     },
     {
       "name": "Citi Business News",
@@ -793,7 +793,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-14T13:00:45.022131+00:00"
+      "fetchedAt": "2026-06-15T16:19:24.551025+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -802,7 +802,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-14T13:00:45.022131+00:00"
+      "fetchedAt": "2026-06-15T16:19:24.551025+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -811,7 +811,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-14T13:00:45.022131+00:00"
+      "fetchedAt": "2026-06-15T16:19:24.551025+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -820,7 +820,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-14T13:00:45.022131+00:00"
+      "fetchedAt": "2026-06-15T16:19:24.551025+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -829,7 +829,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-14T13:00:45.022131+00:00"
+      "fetchedAt": "2026-06-15T16:19:24.551025+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -838,7 +838,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-14T13:00:45.022131+00:00"
+      "fetchedAt": "2026-06-15T16:19:24.551025+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -847,7 +847,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-14T13:00:45.022131+00:00"
+      "fetchedAt": "2026-06-15T16:19:24.551025+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -856,7 +856,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-14T13:00:45.022131+00:00"
+      "fetchedAt": "2026-06-15T16:19:24.551025+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -865,16 +865,16 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-14T13:00:45.022131+00:00"
+      "fetchedAt": "2026-06-15T16:19:24.551025+00:00"
     },
     {
       "name": "Bloomberg Markets",
       "url": "https://www.bloomberg.com/markets",
       "category": "Global markets",
       "kind": "html",
-      "ok": true,
-      "error": null,
-      "fetchedAt": "2026-06-14T13:00:45.022131+00:00"
+      "ok": false,
+      "error": "HTTP Error 403: Forbidden",
+      "fetchedAt": "2026-06-15T16:19:24.551025+00:00"
     }
   ]
 }
