@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-15T16:19:24.551025+00:00",
-  "generatedAtGhana": "2026-06-15T16:19:24.551025+00:00",
+  "generatedAt": "2026-06-16T15:59:09.049708+00:00",
+  "generatedAtGhana": "2026-06-16T15:59:09.049708+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
@@ -19,14 +19,11 @@
       "url": "https://www.bog.gov.gh/"
     },
     "fx": {
-      "usdGhsMid": 11.05,
+      "usdGhsMid": 12.3,
       "rateBasis": "public news reported rate",
-      "source": "Bank of Ghana Daily Interbank FX Rates",
-      "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
-      "sourceType": "public_news_fallback",
-      "asOf": "12 Jun 2026",
-      "usdGhsBuying": 11.0445,
-      "usdGhsSelling": 11.0555
+      "source": "MyJoyOnline USD GHS Search (public fallback)",
+      "url": "https://www.myjoyonline.com/?s=cedi+dollar",
+      "sourceType": "public_news_fallback"
     },
     "ghanaStatisticalService": {
       "cpiInflationYoy": 3.7,
@@ -163,134 +160,6 @@
       "publishedAt": null,
       "source": "GSE Listed Companies",
       "category": "Official issuer universe"
-    },
-    {
-      "title": "Current Monetary Policy Rate (%)",
-      "url": "https://www.bog.gov.gh/",
-      "summary": "",
-      "publishedAt": null,
-      "source": "Bank of Ghana",
-      "category": "Official macro"
-    },
-    {
-      "title": "Inflation Target (%)",
-      "url": "https://www.bog.gov.gh/",
-      "summary": "",
-      "publishedAt": null,
-      "source": "Bank of Ghana",
-      "category": "Official macro"
-    },
-    {
-      "title": "Current inflation rate (%)",
-      "url": "https://www.bog.gov.gh/",
-      "summary": "",
-      "publishedAt": null,
-      "source": "Bank of Ghana",
-      "category": "Official macro"
-    },
-    {
-      "title": "91-Day Treasury Bill Rate (%)",
-      "url": "https://www.bog.gov.gh/",
-      "summary": "",
-      "publishedAt": null,
-      "source": "Bank of Ghana",
-      "category": "Official macro"
-    },
-    {
-      "title": "Broadcast",
-      "url": "https://www.bog.gov.gh/",
-      "summary": "",
-      "publishedAt": null,
-      "source": "Bank of Ghana",
-      "category": "Official macro"
-    },
-    {
-      "title": "130TH MPC PRESS BRIEFING",
-      "url": "https://www.bog.gov.gh/",
-      "summary": "",
-      "publishedAt": null,
-      "source": "Bank of Ghana",
-      "category": "Official macro"
-    },
-    {
-      "title": "122nd MPC Press Briefing",
-      "url": "https://www.bog.gov.gh/",
-      "summary": "",
-      "publishedAt": null,
-      "source": "Bank of Ghana",
-      "category": "Official macro"
-    },
-    {
-      "title": "97th MPC Press Conference - Bank of Ghana",
-      "url": "https://www.bog.gov.gh/",
-      "summary": "",
-      "publishedAt": null,
-      "source": "Bank of Ghana",
-      "category": "Official macro"
-    },
-    {
-      "title": "Day’s Weighted Average Rate Day’s Weighted Median Rate: 11.0500 table.wpDataTable td.numdata { text-align: right !important; } /* buttons font color */ .wpDataTables .wdt-checkbox-filter.btn, .wpDataTables .selecter .selecter-selected, .wdt-frontend-modal .btn:not(.dropdown-toggle), div.dt-button-collection a.dt-button.active:not(.disabled) { color: #222222 !important; } /** buttons background hover color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover { background-color: #ebbd3f !important; background-image: none !important; } /** buttons hover border color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover { border-color: #222222 !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } .wpdt-c .wpDataTablesWrapper table.wpDataTable thead tr:nth-child(2) th { overflow: visible; }",
-      "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
-      "summary": "",
-      "publishedAt": null,
-      "source": "Bank of Ghana FX Rates",
-      "category": "Official FX"
-    },
-    {
-      "title": "CONTACT US",
-      "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
-      "summary": "",
-      "publishedAt": null,
-      "source": "Bank of Ghana FX Rates",
-      "category": "Official FX"
-    },
-    {
-      "title": "Bank Notes & Coins",
-      "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
-      "summary": "",
-      "publishedAt": null,
-      "source": "Bank of Ghana FX Rates",
-      "category": "Official FX"
-    },
-    {
-      "title": "Economic Data",
-      "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
-      "summary": "",
-      "publishedAt": null,
-      "source": "Bank of Ghana FX Rates",
-      "category": "Official FX"
-    },
-    {
-      "title": "Monetary Policy",
-      "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
-      "summary": "",
-      "publishedAt": null,
-      "source": "Bank of Ghana FX Rates",
-      "category": "Official FX"
-    },
-    {
-      "title": "Payment Systems",
-      "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
-      "summary": "",
-      "publishedAt": null,
-      "source": "Bank of Ghana FX Rates",
-      "category": "Official FX"
-    },
-    {
-      "title": "Supervision & Regulation",
-      "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
-      "summary": "",
-      "publishedAt": null,
-      "source": "Bank of Ghana FX Rates",
-      "category": "Official FX"
-    },
-    {
-      "title": "Treasury & the Markets",
-      "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
-      "summary": "",
-      "publishedAt": null,
-      "source": "Bank of Ghana FX Rates",
-      "category": "Official FX"
     },
     {
       "title": "Ghana at a Glance",
@@ -581,99 +450,227 @@
       "category": "Sovereign credit research"
     },
     {
-      "title": "COCOBOD chief executive calls for greater trust and unity in Ghana–Côte D’ivoire cocoa partnershp",
-      "url": "https://thebftonline.com/2026/06/15/cocobod-chief-executive-calls-for-greater-trust-and-unity-in-ghana-cote-divoire-cocoa-partnershp/",
-      "summary": "The Chief Executive of the Ghana Cocoa Board (COCOBOD), Dr. Randy Abbey, has called for deeper trust, transparency, and commitment between Ghana and Côte d’Ivoire as the two countries seek to strengthen cooperation and secure greater value for cocoa from the t",
-      "publishedAt": "2026-06-15T14:17:23+00:00",
+      "title": "Ghana International Bank appoints Ian Greenstreet as new CEO",
+      "url": "https://thebftonline.com/2026/06/16/ghana-international-bank-appoints-ian-greenstreet-as-new-ceo/",
+      "summary": "Ghana International Bank has appointed veteran financial services executive Ian Greenstreet as its new Chief Executive Officer (CEO), subject to regulatory approval in the United Kingdom. The appointment comes as the London-based bank seeks to strengthen its p",
+      "publishedAt": "2026-06-16T14:18:57+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Apagya SHS retains ‘World Environment Day’ quiz crown",
-      "url": "https://thebftonline.com/2026/06/15/apagya-shs-retains-world-environment-day-quiz-crown/",
-      "summary": "Reigning champions Apagya Senior High School, from the Adansi South district of Ashanti Region, has successfully defended their title – emerging winners of the 2026 World Environment Day quiz competition recently held. The competition was organised by AngloGol",
-      "publishedAt": "2026-06-15T13:00:02+00:00",
+      "title": "What if the boldest mining reform backfires?: How the sliding-scale royalty and revised GSL will reshape mine profitability, investment, and government revenue",
+      "url": "https://thebftonline.com/2026/06/16/what-if-the-boldest-mining-reform-backfires-how-the-sliding-scale-royalty-and-revised-gsl-will-reshape-mine-profitability-investment-and-government-revenue/",
+      "summary": "Dr Stephen LARTEY Within the space of a single fortnight in March 2026, Ghana enacted two sweeping changes to its mining fiscal framework. The Minerals & Mining Royalty Regulations (L.I.), which matured on 9 March, replaced the longstanding flat 5% royalty on ",
+      "publishedAt": "2026-06-16T12:37:18+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Redefining employment relations in a modern organisation",
-      "url": "https://thebftonline.com/2026/06/15/redefining-employment-relations-in-a-modern-organisation/",
-      "summary": "For the better part of a century, the architecture of employment relations rested on a relatively simple, if often lopsided, foundation. That foundation was the contract of service, a legal and psychological bargain wherein an employee exchanged obedience and ",
-      "publishedAt": "2026-06-15T12:40:20+00:00",
+      "title": "Thomas Partey inspires Rhode Island children through ‘FIFA-WHO Be Active’ campaign",
+      "url": "https://thebftonline.com/2026/06/16/thomas-partey-inspires-rhode-island-children-through-fifa-who-be-active-campaign/",
+      "summary": "Midfielder and key player of the senior national team, Thomas Partey, played a leading role in inspiring local children during the Black Stars’ community engagement event at Bryant University in Rhode Island ahead of their FIFA World Cup opener on Wednesday. A",
+      "publishedAt": "2026-06-16T12:24:28+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "The Business Strategy Analyst with Jules Nartey-Tokoli: Participatory Management: Applying Political Science to Corporate Governance (III)",
-      "url": "https://thebftonline.com/2026/06/15/the-business-strategy-analyst-with-jules-nartey-tokoli-participatory-management-applying-political-science-to-corporate-governance-iii/",
-      "summary": "This three-part series argues that while technology has evolved dramatically, management has not kept pace. The first installment examined how modern management emerged from the industrial age and why many of its underlying assumptions have become increasingly",
-      "publishedAt": "2026-06-15T12:35:11+00:00",
+      "title": "GMA expands operational presence by 70%",
+      "url": "https://thebftonline.com/2026/06/16/gma-expands-operational-presence-by-70/",
+      "summary": "By Buertey Francis BORYOR The Ghana Maritime Authority (GMA) has expanded its operational presence by nearly 70 percent over the past year as part of efforts to strengthen regulation, improve safety standards and enhance oversight of inland water transport acr",
+      "publishedAt": "2026-06-16T12:20:22+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Cocoa sector must be more resilient, profitable – Finance Minister",
-      "url": "https://thebftonline.com/2026/06/15/cocoa-sector-must-be-more-resilient-profitable-finance-minister/",
-      "summary": "The Minister for Finance, Dr. Cassiel Ato Forson, has called for a fundamental transformation of the cocoa sector, insisting that the industry must become more resilient, prosperous and profitable for the benefit of farmers and the economies of both Ghana and ",
-      "publishedAt": "2026-06-15T12:28:32+00:00",
+      "title": "Majority consider emigration; young and educated most likely to look abroad",
+      "url": "https://thebftonline.com/2026/06/16/majority-consider-emigration-young-and-educated-most-likely-to-look-abroad/",
+      "summary": "By Maame Akua Amoah Twum & Elena Weinreich International migration has surged by 45% over the past two decades, reaching 281 million in 2020 (International Organisation for Migration, 2024). While media narratives often focus on African emigration to the Globa",
+      "publishedAt": "2026-06-16T12:17:06+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Changing the game with Dr Palgrave Boakye-Danquah: From chess board to squash court",
-      "url": "https://thebftonline.com/2026/06/15/changing-the-game-with-dr-palgrave-boakye-danquah-from-chess-board-to-squash-court/",
-      "summary": "Ghana’s development conversation has too many grandmasters and too few players. For years we have approached nation building like a game of chess. Careful. Sequential. One move, then wait. Protect the king at all costs. Sacrifice pawns quietly. Plan from a dis",
-      "publishedAt": "2026-06-15T12:20:13+00:00",
+      "title": "Korle-Klottey Municipality IGF surges 72% to GH₵40m",
+      "url": "https://thebftonline.com/2026/06/16/korle-klottey-municipality-igf-surges-72-to-gh%e2%82%b540m/",
+      "summary": "…paving way for massive market redevelopment, investor entry …targets private capital to drive market modernisation, 24-Hour Economy By Ernest Bako WUBONTO The Korle-Klottey Municipal Assembly (KoKMA) has taken the initiative to aggressively court private inve",
+      "publishedAt": "2026-06-16T12:07:19+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Dishonest gains: a dangerous new normal",
-      "url": "https://thebftonline.com/2026/06/15/dishonest-gains-a-dangerous-new-normal/",
-      "summary": "By Henry Atta NYAME There is a reggae song I dearly love by Bob Marley titled: Who the cap fits, let them wear it. The song teaches important values such as humility, honesty, and integrity. If you listen carefully to its message, you will understand the dange",
-      "publishedAt": "2026-06-15T12:15:00+00:00",
+      "title": "On Cue with Kafui Dey: Stand tall",
+      "url": "https://thebftonline.com/2026/06/16/on-cue-with-kafui-dey-stand-tall/",
+      "summary": "One of the earliest communication lessons I ever received came not from a public speaking coach, a broadcaster or a communication textbook. It came from my father. Whenever we walked together, he would occasionally issue a correction. “Stand up straight.” “Lif",
+      "publishedAt": "2026-06-16T12:03:23+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Employee activity monitoring and lifestyle audit: A key defense against internal fraud",
-      "url": "https://thebftonline.com/2026/06/15/employee-activity-monitoring-and-lifestyle-audit-a-key-defense-against-internal-fraud/",
-      "summary": "By Richieson GYENI-BOATENG All over the world, it is believed that the Human Capital of every institution are the most valuable assets contributing to growth and profitability. But the same valuable assets have also contributed to the collapse of many institut",
-      "publishedAt": "2026-06-15T12:14:16+00:00",
+      "title": "When Africa cheers against Africa: South Africa, Xenophobia, the 2026 World Cup and the uncomfortable truth about Pan-Africanism",
+      "url": "https://thebftonline.com/2026/06/16/when-africa-cheers-against-africa-south-africa-xenophobia-the-2026-world-cup-and-the-uncomfortable-truth-about-pan-africanism-2/",
+      "summary": "By Obed KOG okog@gimpa.edu.gh On June 11, 2026, the 2026 FIFA World Cup opened at the Estadio Azteca in Mexico City. Mexico beat South Africa 2-0. South Africa ended the match with nine men. And across Ghana, Nigeria, Zimbabwe, Mozambique and beyond, millions ",
+      "publishedAt": "2026-06-16T12:03:01+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Why Ethiopian coffee has opportunity in China",
-      "url": "https://www.ghanabusinessnews.com/2026/06/15/why-ethiopian-coffee-has-opportunity-in-china/",
-      "summary": "China's economic prowess is undeniable. In 2022, its Gross National Product (GNP) reached an impressive $16.94 trillion, representing 18% of the global economy and contributing to 40% of worldwide economic growth. The post Why Ethiopian coffee has opportunity ",
-      "publishedAt": "2026-06-15T14:46:31+00:00",
+      "title": "Nigerian politician Yakubu Adamu claims a PhD from University that says it doesn’t award degrees",
+      "url": "https://www.ghanabusinessnews.com/2026/06/16/nigerian-politician-yakubu-adamu-claims-a-phd-from-university-that-says-it-doesnt-award-degrees/",
+      "summary": "Cameroon's regulators say no private institution may train students at doctoral level. The man Adamu names as his thesis supervisor appears in the university's own records as a student. The post Nigerian politician Yakubu Adamu claims a PhD from University tha",
+      "publishedAt": "2026-06-16T13:28:12+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "MTN MoMo posts GH¢1.7b revenue for Q1 2026",
-      "url": "https://www.ghanabusinessnews.com/2026/06/15/mtn-momo-posts-gh%c2%a21-7b-revenue-for-q1-2026/",
-      "summary": "MTN MobileMoney Fintech Limited (MMF) has declared revenue of approximately GH¢1.7 billion for the first quarter of 2026, representing year-on-year growth of 28.4 per cent. The post MTN MoMo posts GH¢1.7b revenue for Q1 2026 appeared first on Ghana Business Ne",
-      "publishedAt": "2026-06-15T11:03:08+00:00",
+      "title": "ECOWAS pushes AfCFTA implementation with $151m investment, airport tax cuts",
+      "url": "https://www.ghanabusinessnews.com/2026/06/16/ecowas-pushes-afcfta-implementation-with-151m-investment-airport-tax-cuts/",
+      "summary": "The Economic Community of West African States (ECOWAS) is shifting from negotiations to the practical implementation of free trade by investing $151 million in the region and promoting a 25 per cent reduction in airport taxes. The post ECOWAS pushes AfCFTA imp",
+      "publishedAt": "2026-06-16T12:02:02+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Bank of Ghana extends registration deadline for money transfer operators",
-      "url": "https://www.ghanabusinessnews.com/2026/06/15/bank-of-ghana-extends-registration-deadline-for-money-transfer-operators/",
-      "summary": "The Bank of Ghana (BoG) has extended the deadline for the registration of International Money Transfer Operators (IMTOs) to July 31, 2026. The post Bank of Ghana extends registration deadline for money transfer operators appeared first on Ghana Business News .",
-      "publishedAt": "2026-06-15T10:57:29+00:00",
+      "title": "Ghana positions itself as preferred outsourcing hub at London roundtable",
+      "url": "https://www.ghanabusinessnews.com/2026/06/16/ghana-positions-itself-as-preferred-outsourcing-hub-at-london-roundtable/",
+      "summary": "The Business Outsourcing Services Association of Ghana (BOSAG), has hosted a High-Level Global Business Services Executive Roundtable in London to promote Ghana as a competitive outsourcing and digital services destination in the United Kingdom. The post Ghana",
+      "publishedAt": "2026-06-16T11:20:04+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "GOIL PLC records GH¢90.67m net profit in 2025",
-      "url": "https://www.ghanabusinessnews.com/2026/06/15/goil-plc-records-gh%c2%a290-67m-net-profit-in-2025/",
-      "summary": "Ghana’s indigenous oil marketing company, GOIL PLC, reported net profit after tax of GH¢90.67 million for 2025, representing 7.05 per cent increase from GH¢84.70 million recorded in 2024. The post GOIL PLC records GH¢90.67m net profit in 2025 appeared first on",
-      "publishedAt": "2026-06-15T10:49:43+00:00",
+      "title": "Africa must turn gas wealth into prosperity – Leaders declare",
+      "url": "https://www.ghanabusinessnews.com/2026/06/16/africa-must-turn-gas-wealth-into-prosperity-leaders-declare/",
+      "summary": "Senior energy officials and industry leaders from across Africa have called for urgent collective action to integrate infrastructure to transform the continent’s vast natural gas resources into tangible economic prosperity. The post Africa must turn gas wealth",
+      "publishedAt": "2026-06-16T10:30:13+00:00",
       "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Ghana can access more crop seedlings to survive dry spells – Expert",
+      "url": "https://www.ghanabusinessnews.com/2026/06/16/ghana-can-access-more-crop-seedlings-to-survive-dry-spells-expert/",
+      "summary": "Ghana can strengthen food production and reduce climate-related agricultural losses by accessing crop technologies offered by the International Atomic Energy Agency (IAEA) to help countries develop stronger and more resilient crops. The post Ghana can access m",
+      "publishedAt": "2026-06-16T10:08:58+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Court strikes out Appiah-Kubi’s application to withdraw legal service",
+      "url": "https://www.ghanabusinessnews.com/2026/06/16/court-strikes-out-appiah-kubis-application-to-withdraw-legal-service/",
+      "summary": "An Accra High Court has struck out an application filed by Mr Andy Appiah-Kubi, counsel for Bernard Antwi Boasiako, seeking leave to withdraw his legal services in the Samreboi illegal mining case. The post Court strikes out Appiah-Kubi’s application to withdr",
+      "publishedAt": "2026-06-16T09:59:57+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "President accepts resignation of Justice Sophia Akuffo as Council of State Member",
+      "url": "https://www.ghanabusinessnews.com/2026/06/16/president-accepts-resignation-of-justice-sophia-akuffo-as-council-of-state-member/",
+      "summary": "President John Dramani Mahama has accepted the resignation of former Chief Justice Sophia Abena Boafoa Akuffo, as a member of the Council of State. The post President accepts resignation of Justice Sophia Akuffo as Council of State Member appeared first on Gha",
+      "publishedAt": "2026-06-16T09:46:00+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "James Victor Gbeho: Diplomat who gave Ghana a distinguished voice on the global stage",
+      "url": "https://www.ghanabusinessnews.com/2026/06/16/james-victor-gbeho-diplomat-who-gave-ghana-a-distinguished-voice-on-the-global-stage/",
+      "summary": "Ghana has lost one of her most accomplished diplomats, statesmen, and public servants with the passing of Ambassador James Victor Gbeho. The post James Victor Gbeho: Diplomat who gave Ghana a distinguished voice on the global stage appeared first on Ghana Busi",
+      "publishedAt": "2026-06-16T07:27:18+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Ghana Airports Company (GACL) Earns Top Honor as ‘Most Profitable’ State-Owned Enterprise at PELT Awards 2022",
+      "url": "https://citibusinessnews.com/2023/10/ghana-airports-company-gacl-earns-top-honor-as-most-profitable-state-owned-enterprise-at-pelt-awards-2022/",
+      "summary": "Ghana Airports Company Limited (GACL) has earned the prestigious title of “Most Profitable State-Owned Enterprise” for the year 2022 at the Public Enterprises League Table (PELT) Awards, an event organized by the State Interests and Governance Authority (SIGA)",
+      "publishedAt": "2023-10-18T13:19:09+00:00",
+      "source": "Citi Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "IMF: Ghana has fulfilled obligations, awaiting creditor action on debt restructuring",
+      "url": "https://citibusinessnews.com/2023/10/imf-ghana-has-fulfilled-obligations-awaiting-creditor-action-on-debt-restructuring/",
+      "summary": "The Director of the African Department at the International Monetary Fund (IMF), Abebe Aemro Selassie, has confirmed that Ghana has taken the required steps to secure the long-awaited financing assurance from its external creditors. He added that the IMF is pa",
+      "publishedAt": "2023-10-16T12:15:38+00:00",
+      "source": "Citi Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "IMF, World Bank work to accelerate debt treatment for Ghana, others under G20",
+      "url": "https://citibusinessnews.com/2023/10/imf-world-bank-work-to-accelerate-debt-treatment-for-ghana-others-under-g20/",
+      "summary": "The International Monetary Fund (IMF) and World Bank are working together to accelerate debt restructuring for Ghana and other countries under the Group of Twenty (G20) Common Framework. Ms Kristalina Georgieva, Managing Director, IMF said this during a plenar",
+      "publishedAt": "2023-10-16T12:11:16+00:00",
+      "source": "Citi Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Zambia advises Ghana to have restrictive laws on debt accumulation",
+      "url": "https://citibusinessnews.com/2023/10/zambia-advises-ghana-to-have-restrictive-laws-on-debt-accumulation/",
+      "summary": "Mr Situmbeko Musokotwane, Minister of Finance and National Planning, Zambia, has advised Ghana to have restrictive laws on debt accumulation. “We put a law in Parliament which tied my hands to say, going forward, you can’t be like those in the past. So, we tie",
+      "publishedAt": "2023-10-16T12:02:25+00:00",
+      "source": "Citi Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "2024 budget: Government commits to more expenditure cuts, aggressive growth, jobs",
+      "url": "https://citibusinessnews.com/2023/10/2024-budget-government-commits-to-more-expenditure-cuts-aggressive-growth-jobs/",
+      "summary": "The government has assured Ghanaians that it will safeguard current economic gains, and make it reflect in the living conditions of everyone in the coming months. To this end, there would be more expenditure reduction measures in the 2024 budget, as well as po",
+      "publishedAt": "2023-10-16T10:32:02+00:00",
+      "source": "Citi Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Zenith Bank @ 18 – Celebrating a legacy of financial excellence",
+      "url": "https://citibusinessnews.com/2023/10/zenith-bank-18-celebrating-a-legacy-of-financial-excellence/",
+      "summary": "On the fateful morning of September 16, 2005, Zenith Bank Ghana embarked on its banking journey with a grand total of 45 staff members. This marked a transformative turning point in the banking and financial services landscape of the country. Zenith Bank swift",
+      "publishedAt": "2023-10-15T20:32:02+00:00",
+      "source": "Citi Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Customer Service Week: Pan-African Savings and Loans provides medical services to clients",
+      "url": "https://citibusinessnews.com/2023/10/customer-service-week-pan-african-savings-and-loans-provides-medical-services-to-clients/",
+      "summary": "A leading non-bank financial institution, Pan-African Savings and Loans has demonstrated its appreciation to its loyal customers by organizing a free medical screening exercise as part of their planned activities for the customer service week. This initiative ",
+      "publishedAt": "2023-10-13T06:20:28+00:00",
+      "source": "Citi Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Former Capital Bank CEO Ato Essien jailed 15 years",
+      "url": "https://citibusinessnews.com/2023/10/former-capital-bank-ceo-ato-essien-jailed-15-years/",
+      "summary": "Former Chief Executive Officer of defunct Capital Bank, Ato Essien has been sentenced to 15 years imprisonment with hard labour. This follows his failure to pay in full an amount of GH¢90 million he agreed to pay the state despite several lifelines given him s",
+      "publishedAt": "2023-10-12T20:10:20+00:00",
+      "source": "Citi Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Fidelity Bank donates GH¢1m to Black Stars World Cup Fund",
+      "url": "https://www.myjoyonline.com/fidelity-bank-donates-gh%c2%a21m-to-black-stars-world-cup-fund/",
+      "summary": "Fidelity Bank Ghana has contributed GH¢1 million to support the Black Stars' preparations and participation in the 2026 FIFA World Cup.",
+      "publishedAt": "2026-06-16T15:05:00+00:00",
+      "source": "MyJoyOnline Business",
+      "category": "Business news"
+    },
+    {
+      "title": "Ghana International Bank appoints Ian Greenstreet as CEO, subject to regulatory approval",
+      "url": "https://www.myjoyonline.com/ghana-international-bank-appoints-ian-greenstreet-as-ceo-subject-to-regulatory-approval/",
+      "summary": "Ghana International Bank (GHIB) has appointed veteran financial services executive Ian Greenstreet as its new Chief Executive Officer, subject to regulatory approval in the United Kingdom. The London-based bank said the appointment forms part of its strategy t",
+      "publishedAt": "2026-06-16T14:36:34+00:00",
+      "source": "MyJoyOnline Business",
+      "category": "Business news"
+    },
+    {
+      "title": "New developments in Middle East will broadly influence Ghana’s inflation outlook – BoG Governor",
+      "url": "https://www.myjoyonline.com/new-developments-in-middle-east-will-broadly-influence-ghanas-inflation-outlook-bog-governor/",
+      "summary": "Bank of Ghana Governor, Dr. Johnson Asiama, has revealed that developments in the Middle East and news of a peace deal being reached will influence Ghana’s inflation outlook going forward. The Governor noted that “clearly, the outlook has now changed, and we a",
+      "publishedAt": "2026-06-16T14:35:28+00:00",
+      "source": "MyJoyOnline Business",
+      "category": "Business news"
+    },
+    {
+      "title": "Development Bank Ghana marks five years of catalyzing private sector growth",
+      "url": "https://www.myjoyonline.com/development-bank-ghana-marks-five-years-of-catalyzing-private-sector-growth/",
+      "summary": "Development Bank Ghana (DBG) has announced plans to commemorate its fifth anniversary at a media launch held on June 16, 2026. The two-day anniversary celebration, scheduled for November 16 and 17, 2026, will showcase the bank’s impact over the past five years",
+      "publishedAt": "2026-06-16T14:00:47+00:00",
+      "source": "MyJoyOnline Business",
       "category": "Business news"
     }
   ],
@@ -685,7 +682,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-15T16:19:24.551025+00:00"
+      "fetchedAt": "2026-06-16T15:59:09.049708+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -694,7 +691,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-15T16:19:24.551025+00:00"
+      "fetchedAt": "2026-06-16T15:59:09.049708+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -703,25 +700,25 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-15T16:19:24.551025+00:00"
+      "fetchedAt": "2026-06-16T15:59:09.049708+00:00"
     },
     {
       "name": "Bank of Ghana",
       "url": "https://www.bog.gov.gh/",
       "category": "Official macro",
       "kind": "html",
-      "ok": true,
-      "error": null,
-      "fetchedAt": "2026-06-15T16:19:24.551025+00:00"
+      "ok": false,
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
+      "fetchedAt": "2026-06-16T15:59:09.049708+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
       "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
       "category": "Official FX",
       "kind": "html",
-      "ok": true,
-      "error": null,
-      "fetchedAt": "2026-06-15T16:19:24.551025+00:00"
+      "ok": false,
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
+      "fetchedAt": "2026-06-16T15:59:09.049708+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -730,7 +727,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-15T16:19:24.551025+00:00"
+      "fetchedAt": "2026-06-16T15:59:09.049708+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -739,7 +736,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-15T16:19:24.551025+00:00"
+      "fetchedAt": "2026-06-16T15:59:09.049708+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -748,7 +745,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-15T16:19:24.551025+00:00"
+      "fetchedAt": "2026-06-16T15:59:09.049708+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -757,7 +754,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-15T16:19:24.551025+00:00"
+      "fetchedAt": "2026-06-16T15:59:09.049708+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -766,7 +763,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-15T16:19:24.551025+00:00"
+      "fetchedAt": "2026-06-16T15:59:09.049708+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -775,7 +772,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-15T16:19:24.551025+00:00"
+      "fetchedAt": "2026-06-16T15:59:09.049708+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -784,7 +781,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-15T16:19:24.551025+00:00"
+      "fetchedAt": "2026-06-16T15:59:09.049708+00:00"
     },
     {
       "name": "Citi Business News",
@@ -793,7 +790,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-15T16:19:24.551025+00:00"
+      "fetchedAt": "2026-06-16T15:59:09.049708+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -802,7 +799,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-15T16:19:24.551025+00:00"
+      "fetchedAt": "2026-06-16T15:59:09.049708+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -811,7 +808,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-15T16:19:24.551025+00:00"
+      "fetchedAt": "2026-06-16T15:59:09.049708+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -820,7 +817,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-15T16:19:24.551025+00:00"
+      "fetchedAt": "2026-06-16T15:59:09.049708+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -829,7 +826,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-15T16:19:24.551025+00:00"
+      "fetchedAt": "2026-06-16T15:59:09.049708+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -838,7 +835,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-15T16:19:24.551025+00:00"
+      "fetchedAt": "2026-06-16T15:59:09.049708+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -847,7 +844,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-15T16:19:24.551025+00:00"
+      "fetchedAt": "2026-06-16T15:59:09.049708+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -856,7 +853,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-15T16:19:24.551025+00:00"
+      "fetchedAt": "2026-06-16T15:59:09.049708+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -865,7 +862,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-15T16:19:24.551025+00:00"
+      "fetchedAt": "2026-06-16T15:59:09.049708+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -874,7 +871,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-06-15T16:19:24.551025+00:00"
+      "fetchedAt": "2026-06-16T15:59:09.049708+00:00"
     }
   ]
 }
