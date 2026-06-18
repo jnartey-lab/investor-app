@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-06-17T14:27:00.801734+00:00",
-  "generatedAtGhana": "2026-06-17T14:27:00.801734+00:00",
+  "generatedAt": "2026-06-18T14:12:41.272598+00:00",
+  "generatedAtGhana": "2026-06-18T14:12:41.272598+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
     "gseIndices": {
-      "asOf": "16/06/2026",
-      "composite": 14640.88,
-      "financialStocks": 8396.0,
+      "asOf": "17/06/2026",
+      "composite": 14605.55,
+      "financialStocks": 8328.73,
       "source": "Ghana Stock Exchange",
       "url": "https://gse.com.gh/"
     },
@@ -450,67 +450,99 @@
       "category": "Sovereign credit research"
     },
     {
-      "title": "Pan-African executive course launches in Accra",
-      "url": "https://thebftonline.com/2026/06/17/pan-african-executive-course-launches-in-accra/",
-      "summary": "By Ernest Bako WUBONTO A high-level executive short course designed to strengthen Africa’s capacity to implement the African Continental Free Trade Area (AfCFTA) in the automotive sector opened in Accra on Monday, drawing senior government officials and policy",
-      "publishedAt": "2026-06-17T13:30:37+00:00",
+      "title": "Fleet maintenance and road safety: Who is enforcing compliance?",
+      "url": "https://thebftonline.com/2026/06/18/fleet-maintenance-and-road-safety-who-is-enforcing-compliance/",
+      "summary": "By Ing. Noble J. APPIAH On a typical journey from Accra to Kumasi, it is not unusual to see heavy-duty vehicles, coaches and buses broken down along the highway. Some have burst tyres and others have open engine compartments, a sign of engine overheating or ot",
+      "publishedAt": "2026-06-18T12:10:16+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "The Attitude Lounge with Kodwo Brumpon: Skilled at not learning",
-      "url": "https://thebftonline.com/2026/06/17/the-attitude-lounge-with-kodwo-brumpon-skilled-at-not-learning/",
-      "summary": "“Ears that do not listen to advice, accompany the head when it is chopped off.” – African proverb Many of us would be offended if we were ever told that we have become skilled at not learning. The instinctual sting you feel at that accusation is, in itself, th",
-      "publishedAt": "2026-06-17T13:00:25+00:00",
+      "title": "Charting a sustainable growth path for the insurance industry through bancassurance",
+      "url": "https://thebftonline.com/2026/06/18/charting-a-sustainable-growth-path-for-the-insurance-industry-through-bancassurance/",
+      "summary": "By Emmanuel DZIVOR has emerged as a critical growth channel for the insurance industry in Ghana, offering banks an additional stream of non-banking income and transforming customer convenience. While some might question its impact on traditional insurance dist",
+      "publishedAt": "2026-06-18T12:07:59+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Building a cybersecurity governance framework that aligns with business strategy",
-      "url": "https://thebftonline.com/2026/06/17/building-a-cybersecurity-governance-framework-that-aligns-with-business-strategy/",
-      "summary": "By Ben TAGOE Introduction: Governance as Business Imperative Cybersecurity governance is far more than compliance requirements or IT operational procedures. It represents the comprehensive system of policies, processes, structures, and accountability mechanism",
-      "publishedAt": "2026-06-17T12:45:32+00:00",
+      "title": "The biggest risk with AI may not be what it gets wrong",
+      "url": "https://thebftonline.com/2026/06/18/the-biggest-risk-with-ai-may-not-be-what-it-gets-wrong/",
+      "summary": "By Stephen Sarpong Lartey Artificial Intelligence will make mistakes. The greater danger may arise when humans stop questioning its answers. When a driverless Waymo robotaxi recently drove into oncoming traffic in Austin, Texas, the incident quickly attracted ",
+      "publishedAt": "2026-06-18T12:06:00+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "KNUST School of Business launches Digital Skills Lab to boost graduate employability",
-      "url": "https://thebftonline.com/2026/06/17/knust-school-of-business-launches-digital-skills-lab-to-boost-graduate-employability/",
-      "summary": "By Elizabeth PUNSU, Kumasi The Kwame Nkrumah University of Science and Technology School of Business (KSB) has launched a state-of-the-art Digital Skills Lab aimed at equipping students with industry-relevant digital competencies and improving graduate employa",
-      "publishedAt": "2026-06-17T12:30:47+00:00",
+      "title": "Twenty years after the Persons with Disability Act, 2006 (Act 715)…",
+      "url": "https://thebftonline.com/2026/06/18/twenty-years-after-the-persons-with-disability-act-2006-act-715/",
+      "summary": "By Alex BOATENG On any weekday morning, the city awakens to its familiar rhythm, with vendors calling out prices, trotro mates announcing destinations, and office workers navigating the endless traffic in pursuit of another day’s livelihood. It is a scene of e",
+      "publishedAt": "2026-06-18T12:05:44+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Vivo Energy supports Ghana National Amputee Football Association",
-      "url": "https://thebftonline.com/2026/06/17/vivo-energy-supports-ghana-national-amputee-football-association/",
-      "summary": "Across the world, more than one billion people live with disabilities, yet many continue to face social barriers, exclusion, and unequal access to opportunities in education, employment, healthcare, sports, and community life. Behind these challenges are indiv",
-      "publishedAt": "2026-06-17T12:17:34+00:00",
+      "title": "Reflections on workplace stress and productivity",
+      "url": "https://thebftonline.com/2026/06/18/reflections-on-workplace-stress-and-productivity/",
+      "summary": "By Dr Mrs Dora Awuah Every morning, millions of workers rise early and navigate heavy traffic to arrive at work on time. While these daily routines can be exhausting, they are driven by important personal and family responsibilities. Employment enables individ",
+      "publishedAt": "2026-06-18T12:05:07+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Editorial: Environmental sustainability remains a national priority!",
-      "url": "https://thebftonline.com/2026/06/17/editorial-environmental-sustainability-remains-a-national-priority/",
-      "summary": "Chief Executive Officer-Business and Financial Times (B&FT) Dr. Godwin Acquaye has said environmental sustainability must become a national priority if the country is to safeguard its future generations. Speaking at the 2026 Environmental Sustainability Summit",
-      "publishedAt": "2026-06-17T12:12:28+00:00",
+      "title": "Corporate space saturation limits insurance growth – NHIA",
+      "url": "https://thebftonline.com/2026/06/18/corporate-space-saturation-limits-insurance-growth-nhia/",
+      "summary": "…Health Insurance Retail Product from Acacia to close gap By Christabel DANSO ABEAM Insurance penetration in Ghana, particularly within the informal sector, remains low due to overconcentration in the corporate market, prompting calls for insurers to focus on ",
+      "publishedAt": "2026-06-18T12:02:59+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "UAE-Africa Economic relations continue to deepen in 2026",
-      "url": "https://thebftonline.com/2026/06/17/uae-africa-economic-relations-continue-to-deepen-in-2026/",
-      "summary": "…capital, connectivity and strategic transformation By Seade Caesar The economic relationship between the United Arab Emirates (UAE) and Africa has entered a new phase in 2026, characterized by large-scale investments, expanding trade corridors, infrastructure",
-      "publishedAt": "2026-06-17T12:11:44+00:00",
+      "title": "Eight years of impact",
+      "url": "https://thebftonline.com/2026/06/18/eight-years-of-impact/",
+      "summary": "For eight consecutive years, Global Affairs Canada has remained a steadfast partner in one of Ghana’s most impactful agricultural empowerment initiatives, the Women in Food and Agricultural Leadership Training Forum and Expo (WOFAGRIC) and the Gold in the Soil",
+      "publishedAt": "2026-06-18T12:01:20+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Editorial: Tax-to-GDP ratio rises slightly",
-      "url": "https://thebftonline.com/2026/06/17/editorial-tax-to-gdp-ratio-rises-slightly/",
-      "summary": "Government’s efforts to strengthen domestic revenue collection and improve fiscal sustainability is yielding some results, as the tax-to-GDP ratio increased to about 14 percent in 2025 from roughly 12.3 percent a year earlier. Deputy Finance Minister Thomas Ny",
-      "publishedAt": "2026-06-17T12:10:05+00:00",
+      "title": "Estonian Business Angels Network Joins Pan African AI Summit to accelerate investment in Africa’s Emerging AI Startups",
+      "url": "https://thebftonline.com/2026/06/18/estonian-business-angels-network-joins-pan-african-ai-summit-to-accelerate-investment-in-africas-emerging-ai-startups/",
+      "summary": "The Estonian Business Angels Network (EstBAN), one of Europe’s most active early-stage investor networks, has confirmed its partnership with the Pan African AI & Innovation Summit (PAAIS) 2026 to co-underwrite the Summit’s “Hack-AI-Thon”, a competitive pitch p",
+      "publishedAt": "2026-06-18T10:39:46+00:00",
       "source": "Business & Financial Times",
+      "category": "Business news"
+    },
+    {
+      "title": "Ghana government clears Tema Motorway arrears – Minister",
+      "url": "https://www.ghanabusinessnews.com/2026/06/18/ghana-government-clears-tema-motorway-arrears-minister/",
+      "summary": "The government has fully settled all outstanding arrears owed to the contractor working on the Tema Motorway project, Mr Kwame Governs Agbodza, the Minister for Roads and Highways, announced in Parliament on Wednesday. The post Ghana government clears Tema Mot",
+      "publishedAt": "2026-06-18T06:46:24+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Majority Caucus denies allegation about alleged World Cup slots",
+      "url": "https://www.ghanabusinessnews.com/2026/06/18/majority-caucus-denies-allegation-about-alleged-world-cup-slots/",
+      "summary": "The National Democratic Congress Majority Caucus in Parliament has dismissed allegations that its members received special travel privileges to attend the 2026 FIFA World Cup, calling the claims misleading and a potential source of unnecessary tension in the H",
+      "publishedAt": "2026-06-18T06:31:57+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "ADR practitioners urged to build technical and intellectual competencies",
+      "url": "https://www.ghanabusinessnews.com/2026/06/18/adr-practitioners-urged-to-build-technical-and-intellectual-competencies/",
+      "summary": "Ms Foluke Akinmoladun, a Nigerian legal practitioner, has challenged Alternative Dispute Resolution (ADR) professionals across Africa to strengthen their technical, intellectual and ethical competencies to position the continent as a global hub for ADR practic",
+      "publishedAt": "2026-06-18T06:24:10+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "GoldBod, Ghana Armed Forces and Forestry Commission sign deal to reclaim Tano-Nimri Forest Reserve following illegal mining",
+      "url": "https://www.ghanabusinessnews.com/2026/06/17/goldbod-ghana-armed-forces-and-forestry-commission-sign-deal-to-reclaim-tano-nimri-forest-reserve-following-illegal-mining/",
+      "summary": "In a decisive move aimed at reversing environmental damage linked to illegal mining, the Ghana Gold Board (GoldBod) has signed an agreement with the Ghana Armed Forces (GAF) and the Forestry Commission (FC) to reclaim and restore degraded lands within the Tano",
+      "publishedAt": "2026-06-17T16:23:44+00:00",
+      "source": "Ghana Business News",
       "category": "Business news"
     },
     {
@@ -542,38 +574,6 @@
       "url": "https://www.ghanabusinessnews.com/2026/06/17/german-battery-production-hits-record-high-of-e8-1b-as-dependence-on-china-grows/",
       "summary": "Battery production in Germany reached a record high in 2025, driven by rising electric vehicle (EV) output and strong demand in the energy storage market, the German Electrical and Digital Industry Association (ZVEI) said on Tuesday. The post German battery pr",
       "publishedAt": "2026-06-17T11:48:40+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "High attrition at RTI Commission undermining prompt access to information – Stephen Owusu",
-      "url": "https://www.ghanabusinessnews.com/2026/06/17/high-attrition-at-rti-commission-undermining-prompt-access-to-information-stephen-owusu/",
-      "summary": "High staff attrition at the Right to Information (RTI) Commission is undermining the timely processing of information requests and complaints, Mr Stephen Owusu, Head of Legal at the Commission, said on Tuesday. The post High attrition at RTI Commission undermi",
-      "publishedAt": "2026-06-17T11:26:22+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Ghana heightens investment drive at 2026 FIFA World Cup",
-      "url": "https://www.ghanabusinessnews.com/2026/06/17/ghana-heightens-investment-drive-at-2026-fifa-world-cup/",
-      "summary": "Ghana is hosting a series of exhibitions and business fora to take advantage of the ongoing 2026 FIFA World Cup, to draw investment from Canada and the United States of America into the country. The post Ghana heightens investment drive at 2026 FIFA World Cup ",
-      "publishedAt": "2026-06-17T11:07:17+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Ghana government to table recapitalisation plan for GBC soon – Kwakye-Ofosu",
-      "url": "https://www.ghanabusinessnews.com/2026/06/17/ghana-government-to-table-recapitalisation-plan-for-gbc-soon-kwakye-ofosu/",
-      "summary": "Mr. Felix Kwakye Ofosu, Minister for Government Communication, has announced that government will soon present a retooling and recapitalisation plan to Parliament to enable the Ghana Broadcasting Corporation (GBC) reclaim its position as the nation’s premier b",
-      "publishedAt": "2026-06-17T10:46:20+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Health Minister reaffirms government’s position on public health facilities",
-      "url": "https://www.ghanabusinessnews.com/2026/06/17/health-minister-reaffirms-governments-position-on-public-health-facilities/",
-      "summary": "Mr Kwabena Mintah Akandoh, the Minister of Health, has reaffirmed the government’s position that no individual can close any portion of a public health facility without the explicit consent of the Minister of Health. The post Health Minister reaffirms governme",
-      "publishedAt": "2026-06-17T10:36:01+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
@@ -642,34 +642,34 @@
       "category": "Business news"
     },
     {
-      "title": "Sam George announces major reduction in MTN fibre broadband prices",
-      "url": "https://www.myjoyonline.com/sam-george-announces-major-reduction-in-mtn-fibre-broadband-prices/",
-      "summary": "The Minister for Communication, Digital Technology and Innovations, Sam George, has announced significant reductions in MTN Ghana's fibre broadband prices, describing the move as a response to calls for more affordable internet services. In a social media post",
-      "publishedAt": "2026-06-17T13:28:32+00:00",
+      "title": "15 countries adopt Mombasa Declaration to advance fisheries transparency and combat illegal fishing",
+      "url": "https://www.myjoyonline.com/15-countries-adopt-mombasa-declaration-to-advance-fisheries-transparency-and-combat-illegal-fishing/",
+      "summary": "Fifteen national governments from across Africa, Asia, the Caribbean, Europe, and the Pacific today adopted the Mombasa Declaration at the 11th Our Ocean Conference, committing to advance global fisheries transparency and strengthen efforts to combat illegal, ",
+      "publishedAt": "2026-06-18T13:23:23+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Bank of Ghana converts all Rural Banks into Community Banks under sector reform",
-      "url": "https://www.myjoyonline.com/bank-of-ghana-converts-all-rural-banks-into-community-banks-under-sector-reform/",
-      "summary": "The Bank of Ghana (BoG) has announced the conversion of all Rural Banks in the country into Community Banks as part of ongoing reforms in the microfinance sector aimed at strengthening inclusive finance and expanding access to banking services. The central ban",
-      "publishedAt": "2026-06-17T12:50:01+00:00",
+      "title": "TCDA bans distribution of uncertified tree crop seedlings from July 3",
+      "url": "https://www.myjoyonline.com/tcda-bans-distribution-of-uncertified-tree-crop-seedlings-from-july-3/",
+      "summary": "The Tree Crops Development Authority (TCDA) has directed all development partners, government agencies, non-governmental organisations, individuals and other actors involved in the distribution of tree crop seedlings to source planting materials only from TCDA",
+      "publishedAt": "2026-06-18T13:06:53+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "BoG converts all Rural Banks into Community Banks",
-      "url": "https://www.myjoyonline.com/bog-converts-all-rural-banks-into-community-banks/",
-      "summary": "The Bank of Ghana (BoG) has announced that in line with the guideline on the Revised Microfinance Sector Framework, 2026, the Rural Banking Sector has been converted to Community Banking Sector. By this, existing Rural Banks have therefore become Community Ban",
-      "publishedAt": "2026-06-17T12:47:32+00:00",
+      "title": "Fitch predicts 5.0% growth rate for Ghana in 2026",
+      "url": "https://www.myjoyonline.com/fitch-predicts-5-0-growth-rate-for-ghana-in-2026/",
+      "summary": "The UK-based firm disclosed that Sub-Saharan African (SSA) sovereigns face the external shock precipitated by the US-Iran war from a stronger starting point than when Russia invaded Ukraine in 202",
+      "publishedAt": "2026-06-18T12:50:07+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "SOMOCO unveils upgraded Bajaj RE Tricycle to boost transport business and job creation",
-      "url": "https://www.myjoyonline.com/somoco-unveils-upgraded-bajaj-re-tricycle-to-boost-transport-business-and-job-creation/",
-      "summary": "Somoco Ghana Limited has launched an upgraded version of its popular Bajaj RE Tricycle, a move the company says will empower transport operators, create jobs, and provide more efficient mobility solutions for Ghanaians. The launch, held at the Lancaster Kumasi",
-      "publishedAt": "2026-06-17T12:09:24+00:00",
+      "title": "Ghana International Bank and AfDB sign trade finance guarantee agreement",
+      "url": "https://www.myjoyonline.com/ghana-international-bank-and-afdb-sign-trade-finance-guarantee-agreement/",
+      "summary": "Ghana International Bank Plc (GHIB) has signed a Confirming Bank Agreement with the African Development Bank Group (AfDB) under its Transaction Guarantee Instrument, in a move aimed at expanding trade finance support across Africa. The agreement positions GHIB",
+      "publishedAt": "2026-06-18T12:42:27+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     }
@@ -682,7 +682,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-17T14:27:00.801734+00:00"
+      "fetchedAt": "2026-06-18T14:12:41.272598+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -691,7 +691,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-17T14:27:00.801734+00:00"
+      "fetchedAt": "2026-06-18T14:12:41.272598+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -700,7 +700,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-17T14:27:00.801734+00:00"
+      "fetchedAt": "2026-06-18T14:12:41.272598+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -709,7 +709,7 @@
       "kind": "html",
       "ok": false,
       "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
-      "fetchedAt": "2026-06-17T14:27:00.801734+00:00"
+      "fetchedAt": "2026-06-18T14:12:41.272598+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -718,7 +718,7 @@
       "kind": "html",
       "ok": false,
       "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
-      "fetchedAt": "2026-06-17T14:27:00.801734+00:00"
+      "fetchedAt": "2026-06-18T14:12:41.272598+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -727,7 +727,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-17T14:27:00.801734+00:00"
+      "fetchedAt": "2026-06-18T14:12:41.272598+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -736,7 +736,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-17T14:27:00.801734+00:00"
+      "fetchedAt": "2026-06-18T14:12:41.272598+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -745,7 +745,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-17T14:27:00.801734+00:00"
+      "fetchedAt": "2026-06-18T14:12:41.272598+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -754,7 +754,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-17T14:27:00.801734+00:00"
+      "fetchedAt": "2026-06-18T14:12:41.272598+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -763,7 +763,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-17T14:27:00.801734+00:00"
+      "fetchedAt": "2026-06-18T14:12:41.272598+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -772,7 +772,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-17T14:27:00.801734+00:00"
+      "fetchedAt": "2026-06-18T14:12:41.272598+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -781,7 +781,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-17T14:27:00.801734+00:00"
+      "fetchedAt": "2026-06-18T14:12:41.272598+00:00"
     },
     {
       "name": "Citi Business News",
@@ -790,7 +790,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-17T14:27:00.801734+00:00"
+      "fetchedAt": "2026-06-18T14:12:41.272598+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -799,7 +799,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-17T14:27:00.801734+00:00"
+      "fetchedAt": "2026-06-18T14:12:41.272598+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -808,7 +808,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-17T14:27:00.801734+00:00"
+      "fetchedAt": "2026-06-18T14:12:41.272598+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -817,7 +817,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-17T14:27:00.801734+00:00"
+      "fetchedAt": "2026-06-18T14:12:41.272598+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -826,7 +826,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-17T14:27:00.801734+00:00"
+      "fetchedAt": "2026-06-18T14:12:41.272598+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -835,7 +835,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-17T14:27:00.801734+00:00"
+      "fetchedAt": "2026-06-18T14:12:41.272598+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -844,7 +844,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-17T14:27:00.801734+00:00"
+      "fetchedAt": "2026-06-18T14:12:41.272598+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -853,7 +853,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-17T14:27:00.801734+00:00"
+      "fetchedAt": "2026-06-18T14:12:41.272598+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -862,7 +862,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-17T14:27:00.801734+00:00"
+      "fetchedAt": "2026-06-18T14:12:41.272598+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -871,7 +871,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-06-17T14:27:00.801734+00:00"
+      "fetchedAt": "2026-06-18T14:12:41.272598+00:00"
     }
   ]
 }
