@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-06-22T15:56:15.475584+00:00",
-  "generatedAtGhana": "2026-06-22T15:56:15.475584+00:00",
+  "generatedAt": "2026-06-23T13:43:58.877845+00:00",
+  "generatedAtGhana": "2026-06-23T13:43:58.877845+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
     "gseIndices": {
-      "asOf": "19/06/2026",
-      "composite": 14769.27,
-      "financialStocks": 8395.13,
+      "asOf": "22/06/2026",
+      "composite": 14750.69,
+      "financialStocks": 8234.23,
       "source": "Ghana Stock Exchange",
       "url": "https://gse.com.gh/"
     },
@@ -410,6 +410,14 @@
       "category": "Sovereign credit research"
     },
     {
+      "title": "Fitch Wins GlobalCapital’s Emerging Markets Bonds Award 2026",
+      "url": "https://www.fitchratings.com/sovereigns",
+      "summary": "",
+      "publishedAt": null,
+      "source": "Fitch Sovereigns",
+      "category": "Sovereign credit research"
+    },
+    {
       "title": "China’s Tariff Challenges Rising Rapidly",
       "url": "https://www.fitchratings.com/sovereigns",
       "summary": "",
@@ -442,138 +450,130 @@
       "category": "Sovereign credit research"
     },
     {
-      "title": "05 Podcasts",
-      "url": "https://www.fitchratings.com/sovereigns",
-      "summary": "",
-      "publishedAt": null,
-      "source": "Fitch Sovereigns",
-      "category": "Sovereign credit research"
-    },
-    {
-      "title": "Africa’s rising seas, mapped and measured coast-to-coast",
-      "url": "https://thebftonline.com/2026/06/22/africas-rising-seas-mapped-and-measured-coast-to-coast/",
-      "summary": "Source: Harvard Climate Brief A new tool lets users click anywhere on Africa’s shoreline to visualise how sea level has changed since 1900, what forces are driving the accelerating change and how much more to expect by 2100. The seas are rising everywhere. But",
-      "publishedAt": "2026-06-22T14:20:45+00:00",
+      "title": "GACL launches FIFA World Cup 2026 fan activation to unite travellers behind Black Stars",
+      "url": "https://thebftonline.com/2026/06/23/gacl-launches-fifa-world-cup-2026-fan-activation-to-unite-travellers-behind-black-stars/",
+      "summary": "The Ghana Airports Company Limited (GACL) has officially launched an exciting FIFA World Cup 2026 fan activation campaign at Terminal Three of the Accra International Airport (AIA). Designed to rally overwhelming national support for the Black Stars and entert",
+      "publishedAt": "2026-06-23T12:30:58+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Avocado: Ghana’s next €2 billion export win",
-      "url": "https://thebftonline.com/2026/06/22/avocado-ghanas-next-e2-billion-export-win/",
-      "summary": "By Elikem Desewu “Gen-Z COCOA” The Golden Opportunity for Ghana’s Next Generation of Farmers, Entrepreneurs and Exporters “The new cocoa for the next generation” Ghana’s next major export opportunity may not come from another gold mine, oil field or traditiona",
-      "publishedAt": "2026-06-22T13:51:28+00:00",
+      "title": "The nation unites again through the beautiful game",
+      "url": "https://thebftonline.com/2026/06/23/the-nation-unites-again-through-the-beautiful-game/",
+      "summary": "…as Coca-Cola brings the World Cup 2026 viewing experience to the streets By Ernest Bako WUBONTO In Ghana, football has never been a mere pastime, especially when the national teams are involved, as it becomes a cultural heartbeat, an unspoken language of hope",
+      "publishedAt": "2026-06-23T12:06:31+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "From London to Accra: The UK-Ghana Growth Partnership in action",
-      "url": "https://thebftonline.com/2026/06/22/from-london-to-accra-the-uk-ghana-growth-partnership-in-action/",
-      "summary": "By Dr Christian ROGG and Sabah Zita BENSON International partnerships are often judged by the agreements they produce. But we believe they should be judged more simply: by whether they make life better for ordinary people. That is the test we have in mind foll",
-      "publishedAt": "2026-06-22T13:45:39+00:00",
+      "title": "Why people resist the change they ask for: Lessons from the Madina-Adenta pedestrian overpasses",
+      "url": "https://thebftonline.com/2026/06/23/why-people-resist-the-change-they-ask-for-lessons-from-the-madina-adenta-pedestrian-overpasses/",
+      "summary": "By Mildred Akpene AMUZU The lesson from the Madina-Adenta overpasses is not that people reject safety; it is that change succeeds only when design, incentives and enforcement work together. People often resist changes they originally asked for, not because the",
+      "publishedAt": "2026-06-23T12:03:25+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "West Africa pushes stronger tax cooperation to fund development",
-      "url": "https://thebftonline.com/2026/06/22/west-africa-pushes-stronger-tax-cooperation-to-fund-development/",
-      "summary": "By Kizito CUDJOE West African countries must strengthen tax collection systems and deepen regional cooperation to finance development priorities and reduce reliance on external funding, Mali’s Finance Minister, Alousseni Sanou, has said, warning that no countr",
-      "publishedAt": "2026-06-22T13:30:48+00:00",
+      "title": "The dangerous contradiction at the heart of our resource nationalism debate: Why the IEA’s call to deny Gold Fields’ mining lease renewal would destroy the very local businesses it claims to champion",
+      "url": "https://thebftonline.com/2026/06/23/the-dangerous-contradiction-at-the-heart-of-our-resource-nationalism-debate-why-the-ieas-call-to-deny-gold-fields-mining-lease-renewal-would-destroy-the-very-local-businesses-it-claims-to-champio/",
+      "summary": "On May 13, 2026, the Institute of Economic Affairs (IEA) urged the Government of Ghana not to renew Gold Fields’ mining lease in Tarkwa, arguing that the concession should instead be granted to a local owner. Two former senior officials from the judiciary and ",
+      "publishedAt": "2026-06-23T12:01:54+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Kofi Bentil : Before they vanish, government appointees must answer",
-      "url": "https://thebftonline.com/2026/06/22/kofi-bentil-before-they-vanish-government-appointees-must-answer/",
-      "summary": "By Dr. Ebo Afful In recent public discourse on TV3, Ghanaian lawyer and policy advocate, Kofi Bentil, has advanced a provocative governance reform. According to him, government appointees should not be permitted to travel outside the country at the end of a re",
-      "publishedAt": "2026-06-22T13:00:26+00:00",
+      "title": "Turning demand into stability: How the 24-Hour economy can strengthen the power sector",
+      "url": "https://thebftonline.com/2026/06/23/turning-demand-into-stability-how-the-24-hour-economy-can-strengthen-the-power-sector/",
+      "summary": "By Rudolph Aboagye Okai One of the most common criticisms of Ghana’s proposed 24-hour economy is that the country’s power sector is not robust enough to support round-the-clock economic activity. The argument is familiar: if Ghana struggles to provide reliable",
+      "publishedAt": "2026-06-23T12:01:04+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "The Business Strategy Analyst with Jules Nartey-Tokoli: AI: Is It Artificial Intelligence or Artificial Imitation?",
-      "url": "https://thebftonline.com/2026/06/22/the-business-strategy-analyst-with-jules-nartey-tokoli-ai-is-it-artificial-intelligence-or-artificial-imitation/",
-      "summary": "The term Artificial Intelligence (AI) has become one of the most influential and controversial expressions of the twenty-first century. Governments, corporations, universities, and technology companies routinely speak of AI as though machines have acquired int",
-      "publishedAt": "2026-06-22T12:40:50+00:00",
+      "title": "When the crowd turns against you: The high cost of reputational damage",
+      "url": "https://thebftonline.com/2026/06/23/when-the-crowd-turns-against-you-the-high-cost-of-reputational-damage/",
+      "summary": "By Edinam Adjei-Sika The scoreboard showed one result. The crowd revealed another. Recently, a football match involving an African nation drew attention not only because of the outcome on the pitch but also because of the reactions surrounding it. Across socia",
+      "publishedAt": "2026-06-23T12:00:19+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Your retention problem isn’t about pay – it’s about progress",
-      "url": "https://thebftonline.com/2026/06/22/your-retention-problem-isnt-about-pay-its-about-progress/",
-      "summary": "By Hilda NIMO-TIEKU “How do we keep our best people?” It is the question I hear most often from executives and HR leaders alike, and it is one I sit with regularly in my own work building teams. Organisations invest heavily in salary reviews, benefits packages",
-      "publishedAt": "2026-06-22T12:32:09+00:00",
+      "title": "Editorial: Energy ambitions need more than ambition",
+      "url": "https://thebftonline.com/2026/06/23/editorial-energy-ambitions-need-more-than-ambition/",
+      "summary": "The nation’s attempt to build both a regional gas trading hub and a large-scale Petroleum Hub in the Western Region is among the more coherent industrial strategies advanced in recent years. Unlike many headline-grabbing development projects that operate in is",
+      "publishedAt": "2026-06-23T11:30:02+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Editorial: GSA adopts organic product certification for access to premium markets!",
-      "url": "https://thebftonline.com/2026/06/22/editorial-gsa-adopts-organic-product-certification-for-access-to-premium-markets/",
-      "summary": "Farmers committed to organic cultivation are unable to distinguish their produce from conventionally grown alternatives in Ghana, which means both to compete in the same marketplace. This state of affairs is unfortunate because organic producers are denied acc",
-      "publishedAt": "2026-06-22T12:30:44+00:00",
+      "title": "Editorial: The Big Push needs a maintenance culture",
+      "url": "https://thebftonline.com/2026/06/23/editorial-the-big-push-needs-a-maintenance-culture/",
+      "summary": "The current administration deserves credit for the ambition of its Big Push agenda. With GH¢30.8 billion earmarked for road infrastructure in 2026, more than double last year’s allocation, the political will is visible. But political will and durable roads are",
+      "publishedAt": "2026-06-23T11:00:25+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "The coffee renaissance: Bypassing global trade wars to awaken Africa’s internal market",
-      "url": "https://www.ghanabusinessnews.com/2026/06/22/the-coffee-renaissance-bypassing-global-trade-wars-to-awaken-africas-internal-market/",
-      "summary": "As Thomas Jefferson famously stated in 1824, \"Coffee is the beverage of the civilized world.\" Today, however, that beverage faces unprecedented jeopardy. The post The coffee renaissance: Bypassing global trade wars to awaken Africa’s internal market appeared f",
-      "publishedAt": "2026-06-22T09:42:45+00:00",
+      "title": "As plastics choke oceans funding to fight it is drying up",
+      "url": "https://www.ghanabusinessnews.com/2026/06/23/as-plastics-choke-oceans-funding-to-fight-it-is-drying-up/",
+      "summary": "A trail of plastic waste carpets the shoreline of Jamestown Beach in Accra. The waves no longer deliver only the day’s catch but also bottles, bags and discarded packaging swept in from near and far. The post As plastics choke oceans funding to fight it is dry",
+      "publishedAt": "2026-06-23T12:32:05+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "WHO calls for expanded Sickle Cell care as Ghana records 18,000 cases annually",
-      "url": "https://www.ghanabusinessnews.com/2026/06/22/who-calls-for-expanded-sickle-cell-care-as-ghana-records-18000-cases-annually/",
-      "summary": "The World Health Organization (WHO) has urged Ghana to accelerate investments in early diagnosis, comprehensive care, surveillance systems and research to improve outcomes for the estimated 18,000 children born annually with sickle cell disease (SCD) in the co",
-      "publishedAt": "2026-06-22T06:55:05+00:00",
+      "title": "Four, including a juvenile, arrested over couple’s murder",
+      "url": "https://www.ghanabusinessnews.com/2026/06/23/four-including-a-juvenile-arrested-over-couples-murder/",
+      "summary": "The Upper East Regional Police Command has arrested four suspects, including a juvenile, in connection with the killing of a couple at Kusanaba in the Bawku West District. The post Four, including a juvenile, arrested over couple’s murder appeared first on Gha",
+      "publishedAt": "2026-06-23T12:11:10+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Central University suspends SRC Week activities following NACOC investigation",
-      "url": "https://www.ghanabusinessnews.com/2026/06/22/central-university-suspends-src-week-activities-following-nacoc-investigation/",
-      "summary": "The management of Central University has suspended all remaining Students’ Representative Council (SRC) Week activities following the alleged arrest of five individuals from the university by the Narcotics Control Commission (NACOC). The post Central Universit",
-      "publishedAt": "2026-06-22T06:47:40+00:00",
+      "title": "NADMO staff salary not paid for 14 months",
+      "url": "https://www.ghanabusinessnews.com/2026/06/23/nadmo-staff-salary-not-paid-for-14-months/",
+      "summary": "Growing frustration and economic hardship have engulfed hundreds of personnel of the National Disaster Management Organisation (NADMO) across the country as prolonged salary backlog stretching over 14 months continues to leave workers without remuneration, rai",
+      "publishedAt": "2026-06-23T11:56:22+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Expert calls for action on mental health and comprehensive care for sickle cell patients",
-      "url": "https://www.ghanabusinessnews.com/2026/06/22/expert-calls-for-action-on-mental-health-and-comprehensive-care-for-sickle-cell-patients/",
-      "summary": "Dr Enam Bankas, a Haematologist at the Korle-Bu Teaching Hospital, has called for urgent national action to strengthen mental health support and comprehensive care for persons living with sickle cell disease (SCD). The post Expert calls for action on mental he",
-      "publishedAt": "2026-06-22T06:37:00+00:00",
+      "title": "Wenchi Health Directorate targets to vaccinate 140,000 persons against NTDs",
+      "url": "https://www.ghanabusinessnews.com/2026/06/23/wenchi-health-directorate-targets-to-vaccinate-140000-persons-against-ntds/",
+      "summary": "Mr James Amaniapong, the Wenchi Municipal Disease Control Officer in the Bono Region says that the municipal health directorate has begun the Mass Drug Administration (MDA) exercise to control the spread of Onchocerciasis and lymphatic filariasis. The post Wen",
+      "publishedAt": "2026-06-23T11:44:43+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Young people in Accra say AI has become the new study companion",
-      "url": "https://www.ghanabusinessnews.com/2026/06/22/young-people-in-accra-say-ai-has-become-the-new-study-companion/",
-      "summary": "Many young people are increasingly relying on social media platforms and artificial intelligence (AI) tools for information and learning, with some saying these technologies have become more convenient than visiting libraries. The post Young people in Accra sa",
-      "publishedAt": "2026-06-22T06:25:24+00:00",
+      "title": "NACOC arrests five Central University students over cannabis infused drug trade",
+      "url": "https://www.ghanabusinessnews.com/2026/06/23/nacoc-arrests-five-central-university-students-over-cannabis-infused-drug-trade/",
+      "summary": "The Narcotics Control Commission (NACOC) has arrested five students of the Central University during a targeted operation on campus over the sale and distribution of cannabis and cannabis-infused products. The post NACOC arrests five Central University student",
+      "publishedAt": "2026-06-23T11:12:53+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Volta Regional Minister commends President Mahama for prioritising Keta Port Project",
-      "url": "https://www.ghanabusinessnews.com/2026/06/22/volta-regional-minister-commends-president-mahama-for-prioritising-keta-port-project/",
-      "summary": "Mr. James Gunu, the Volta Regional Minister, has commended President John Dramani Mahama for prioritising the Keta Port project. The post Volta Regional Minister commends President Mahama for prioritising Keta Port Project appeared first on Ghana Business News",
-      "publishedAt": "2026-06-22T06:14:00+00:00",
+      "title": "Coalition lauds Africa for adopting Reparatory Justice Framework",
+      "url": "https://www.ghanabusinessnews.com/2026/06/23/coalition-lauds-africa-for-adopting-reparatory-justice-framework/",
+      "summary": "Global Reparatory Justice Coalition (GRJC) has lauded African leaders for their commitment to advancing reparatory justice on the continent through the adoption of a global framework. The post Coalition lauds Africa for adopting Reparatory Justice Framework ap",
+      "publishedAt": "2026-06-23T11:07:51+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "The economics of Ghana’s gaming industry: Tax revenue, jobs and the regulatory balancing act",
-      "url": "https://www.ghanabusinessnews.com/2026/06/22/the-economics-of-ghanas-gaming-industry-tax-revenue-jobs-and-the-regulatory-balancing-act/",
-      "summary": "Ghana’s gaming industry now matters to the country’s digital economy in a way it didn’t a decade ago. It brings in tax revenue, creates formal employment and has driven a fair amount of fintech innovation, and it remains a recurring subject of fiscal and socia",
-      "publishedAt": "2026-06-22T05:46:45+00:00",
+      "title": "UNFPA, NCCE sensitise Yilo Krobo residents on gender-based violence",
+      "url": "https://www.ghanabusinessnews.com/2026/06/23/unfpa-ncce-sensitise-yilo-krobo-residents-on-gender-based-violence/",
+      "summary": "The United Nations Population Fund (UNFPA), in collaboration with the Yilo Krobo Municipal office of the National Commission for Civic Education (NCCE), has organised a one-day sensitisation programme on gender-based violence in Somanya. The post UNFPA, NCCE s",
+      "publishedAt": "2026-06-23T10:51:31+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Ghana’s health financing model among the best – NHIA",
-      "url": "https://www.ghanabusinessnews.com/2026/06/21/ghanas-health-financing-model-among-the-best-nhia/",
-      "summary": "Dr Senanu Kwesi Djokoto, the Deputy Chief Executive Officer of the National Health Insurance Authority (NHIA), says Ghana's health financing system remains one of the most impressive among lower-middle-income countries and continues to attract international at",
-      "publishedAt": "2026-06-21T12:45:28+00:00",
+      "title": "Stakeholders urged to enforce laws against child labour in cocoa-growing communities",
+      "url": "https://www.ghanabusinessnews.com/2026/06/23/stakeholders-urged-to-enforce-laws-against-child-labour-in-cocoa-growing-communities/",
+      "summary": "Mr Andrews Addoquaye Tagoe, General Secretary for the General Agricultural Workers’ Union (GAWU) of Ghana, has called for strict enforcement of laws against child labour and trafficking in cocoa growing communities. The post Stakeholders urged to enforce laws ",
+      "publishedAt": "2026-06-23T10:41:19+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
@@ -642,34 +642,34 @@
       "category": "Business news"
     },
     {
-      "title": "GoldBod moves to align gold trading with international standards",
-      "url": "https://www.myjoyonline.com/goldbod-moves-to-align-gold-trading-with-international-standards/",
-      "summary": "The Ghana Gold Board (GoldBod) has engaged licensed gold traders in a bid to improve operational standards and promote greater transparency within Ghana’s artisanal and small-scale gold mining trade. The discussions focused on measures designed to ensure that ",
-      "publishedAt": "2026-06-22T15:48:58+00:00",
+      "title": "Coconut Farmers Association urges government to establish coconut seedling banks in the Volta Region",
+      "url": "https://www.myjoyonline.com/coconut-farmers-association-urges-government-to-establish-coconut-seedling-banks-in-the-volta-region/",
+      "summary": "The Chairman of the Volta Region chapter of the Coconut Farmers Association, Togbe Dunenyo I, has called on the government to set up coconut seedling banks in his jurisdiction.",
+      "publishedAt": "2026-06-23T13:16:08+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "GoldBod introduces measures to enhance accountability in ASM gold sector",
-      "url": "https://www.myjoyonline.com/goldbod-introduces-measures-to-enhance-accountability-in-asm-gold-sector/",
-      "summary": "The Ghana Gold Board (GoldBod) has announced new measures aimed at improving accountability and market confidence in the country's artisanal and small-scale mining gold sector following discussions with licensed gold traders.",
-      "publishedAt": "2026-06-22T15:47:21+00:00",
+      "title": "GRA urges businesses to comply with tax laws to boost revenue mobilisation",
+      "url": "https://www.myjoyonline.com/gra-urges-businesses-to-comply-with-tax-laws-to-boost-revenue-mobilisation/",
+      "summary": "The Ghana Revenue Authority (GRA) is urging businesses and individual taxpayers to comply fully with tax laws, warning that failure to register, file returns and account for taxes collected could attract penalties and other legal sanctions. Speaking on Time wi",
+      "publishedAt": "2026-06-23T11:34:15+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Falling gold prices raise concerns over Ghana’s economic outlook",
-      "url": "https://www.myjoyonline.com/falling-gold-prices-raise-concerns-over-ghanas-economic-outlook/",
-      "summary": "A recent decline in global gold prices is drawing attention from policymakers, investors and market analysts, amid concerns over the potential impact on Ghana’s export earnings, foreign exchange inflows and fiscal outlook. Gold, Ghana’s largest export commodit",
-      "publishedAt": "2026-06-22T15:37:23+00:00",
+      "title": "ITALKOL marks 10 years in Ghana, highlights push to raise construction standards",
+      "url": "https://www.myjoyonline.com/italkol-marks-10-years-in-ghana-highlights-push-to-raise-construction-standards/",
+      "summary": "Velo West Africa Group is marking 10 years of ITALKOL in Ghana, highlighting a decade of efforts to improve construction standards through innovation, technical training, and product development. Launched in 2016, ITALKOL was introduced to provide high-perform",
+      "publishedAt": "2026-06-23T11:33:10+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "CUTS calls on government to increase allocation to Road Fund in 2026 Mid-Year Budget",
-      "url": "https://www.myjoyonline.com/cuts-calls-on-government-to-increase-allocation-to-road-fund-in-2026-mid-year-budget/",
-      "summary": "CUTS International, a leading research and public policy think is calling on the Government to increase funding for road maintenance in the upcoming Mid-Year Budget Review, following the damage caused to roads, bridges and drains by this year’s heavy rains. Ro",
-      "publishedAt": "2026-06-22T15:29:18+00:00",
+      "title": "GRA outlines taxpayer rights and obligations under Revenue Administration Act",
+      "url": "https://www.myjoyonline.com/gra-outlines-taxpayer-rights-and-obligations-under-revenue-administration-act/",
+      "summary": "The Ghana Revenue Authority (GRA) has set out the rights taxpayers are entitled to under the law, alongside the obligations they must meet, as part of efforts to strengthen voluntary compliance and improve engagement with the public. Speaking on the second epi",
+      "publishedAt": "2026-06-23T11:17:23+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     }
@@ -682,7 +682,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-22T15:56:15.475584+00:00"
+      "fetchedAt": "2026-06-23T13:43:58.877845+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -691,7 +691,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-22T15:56:15.475584+00:00"
+      "fetchedAt": "2026-06-23T13:43:58.877845+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -700,7 +700,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-22T15:56:15.475584+00:00"
+      "fetchedAt": "2026-06-23T13:43:58.877845+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -709,7 +709,7 @@
       "kind": "html",
       "ok": false,
       "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
-      "fetchedAt": "2026-06-22T15:56:15.475584+00:00"
+      "fetchedAt": "2026-06-23T13:43:58.877845+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -718,7 +718,7 @@
       "kind": "html",
       "ok": false,
       "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
-      "fetchedAt": "2026-06-22T15:56:15.475584+00:00"
+      "fetchedAt": "2026-06-23T13:43:58.877845+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -727,7 +727,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-22T15:56:15.475584+00:00"
+      "fetchedAt": "2026-06-23T13:43:58.877845+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -736,7 +736,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-22T15:56:15.475584+00:00"
+      "fetchedAt": "2026-06-23T13:43:58.877845+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -745,7 +745,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-22T15:56:15.475584+00:00"
+      "fetchedAt": "2026-06-23T13:43:58.877845+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -754,7 +754,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-22T15:56:15.475584+00:00"
+      "fetchedAt": "2026-06-23T13:43:58.877845+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -763,7 +763,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-22T15:56:15.475584+00:00"
+      "fetchedAt": "2026-06-23T13:43:58.877845+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -772,7 +772,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-22T15:56:15.475584+00:00"
+      "fetchedAt": "2026-06-23T13:43:58.877845+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -781,7 +781,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-22T15:56:15.475584+00:00"
+      "fetchedAt": "2026-06-23T13:43:58.877845+00:00"
     },
     {
       "name": "Citi Business News",
@@ -790,7 +790,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-22T15:56:15.475584+00:00"
+      "fetchedAt": "2026-06-23T13:43:58.877845+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -799,7 +799,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-22T15:56:15.475584+00:00"
+      "fetchedAt": "2026-06-23T13:43:58.877845+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -808,7 +808,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-22T15:56:15.475584+00:00"
+      "fetchedAt": "2026-06-23T13:43:58.877845+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -817,7 +817,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-22T15:56:15.475584+00:00"
+      "fetchedAt": "2026-06-23T13:43:58.877845+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -826,7 +826,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-22T15:56:15.475584+00:00"
+      "fetchedAt": "2026-06-23T13:43:58.877845+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -835,7 +835,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-22T15:56:15.475584+00:00"
+      "fetchedAt": "2026-06-23T13:43:58.877845+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -844,7 +844,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-22T15:56:15.475584+00:00"
+      "fetchedAt": "2026-06-23T13:43:58.877845+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -853,7 +853,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-22T15:56:15.475584+00:00"
+      "fetchedAt": "2026-06-23T13:43:58.877845+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -862,7 +862,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-22T15:56:15.475584+00:00"
+      "fetchedAt": "2026-06-23T13:43:58.877845+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -871,7 +871,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-06-22T15:56:15.475584+00:00"
+      "fetchedAt": "2026-06-23T13:43:58.877845+00:00"
     }
   ]
 }
