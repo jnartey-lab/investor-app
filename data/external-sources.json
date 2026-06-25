@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-06-24T13:24:50.128372+00:00",
-  "generatedAtGhana": "2026-06-24T13:24:50.128372+00:00",
+  "generatedAt": "2026-06-25T13:22:09.970746+00:00",
+  "generatedAtGhana": "2026-06-25T13:22:09.970746+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
     "gseIndices": {
-      "asOf": "23/06/2026",
-      "composite": 14867.3,
-      "financialStocks": 8241.91,
+      "asOf": "24/06/2026",
+      "composite": 14841.24,
+      "financialStocks": 8233.72,
       "source": "Ghana Stock Exchange",
       "url": "https://gse.com.gh/"
     },
@@ -338,7 +338,7 @@
       "category": "Credit ratings news"
     },
     {
-      "title": "AI Revenue Potential Could Support Current Investment Scale",
+      "title": "Fitch Changes Global Sovereigns Sector Outlook to ‘Deteriorating’ on Iran War Impact",
       "url": "https://www.fitchratings.com/",
       "summary": "",
       "publishedAt": null,
@@ -450,130 +450,130 @@
       "category": "Sovereign credit research"
     },
     {
-      "title": "Northshore Apparel secures WRAP certification",
-      "url": "https://thebftonline.com/2026/06/24/northshore-apparel-secures-wrap-certification/",
-      "summary": "By Samuel SAM Northshore Apparel GH Ltd., a regenerative and zero-waste apparel manufacturing company based in Savelugu, has secured certification from Worldwide Responsible Accredited Production (WRAP), strengthening its position as an ethical and export-read",
-      "publishedAt": "2026-06-24T13:00:47+00:00",
+      "title": "Buying fear, selling greed: A simple rule for investing with discipline",
+      "url": "https://thebftonline.com/2026/06/25/buying-fear-selling-greed-a-simple-rule-for-investing-with-discipline/",
+      "summary": "By Korsi DZOKOTO In recent times, the stock market in Ghana has returned to the centre of public attention. After many years in which equities were often seen as distant from the ordinary saver, more Ghanaians are now following share prices, public offers, com",
+      "publishedAt": "2026-06-25T13:10:46+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "4,000 energy-efficient cookstoves procured for households",
-      "url": "https://thebftonline.com/2026/06/24/4000-energy-efficient-cookstoves-procured-for-households/",
-      "summary": "By Samuel SAM More than 4,000 energy-efficient cookstoves have been procured for distribution under the Clean Cooking Activities programme, aimed at reducing household dependence on firewood and charcoal while supporting climate resilience and clean energy ado",
-      "publishedAt": "2026-06-24T12:44:00+00:00",
+      "title": "Climate experts blame Accra’s recurring floods on weak planning, governance gaps",
+      "url": "https://thebftonline.com/2026/06/25/climate-experts-blame-accras-recurring-floods-on-weak-planning-governance-gaps/",
+      "summary": "By Kizito CUDJOE Fresh flooding in Accra and other parts of the country has exposed deep weaknesses in the country’s flood management strategy, with climate experts warning that poor land-use planning, weak enforcement of regulations and aging infrastructure a",
+      "publishedAt": "2026-06-25T12:30:45+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "WEITech equips 100 female educators with advanced digital skills",
-      "url": "https://thebftonline.com/2026/06/24/weitech-equips-100-female-educators-with-advanced-digital-skills/",
-      "summary": "About 100 participants of the Women Educators in Internet and Technology (WEITech) programme have graduated after acquiring advanced digital teaching and learning skills aimed at enhancing their effectiveness and impact in education. The 2026 WEITech Convocati",
-      "publishedAt": "2026-06-24T12:13:39+00:00",
+      "title": "UN programme delivery rises to 80% as development partnership deepens",
+      "url": "https://thebftonline.com/2026/06/25/un-programme-delivery-rises-to-80-as-development-partnership-deepens/",
+      "summary": "The United Nations increased its programme delivery rate in Ghana to 80 percent in 2025 from 64 percent a year earlier, implementing development programmes worth US$112 million as the country navigated economic recovery and fiscal adjustment, according to the ",
+      "publishedAt": "2026-06-25T12:11:23+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Defensive strategies: Building resilience against AI-powered threats: From understanding threats to building defenses",
-      "url": "https://thebftonline.com/2026/06/24/defensive-strategies-building-resilience-against-ai-powered-threats-from-understanding-threats-to-building-defenses/",
-      "summary": "The previous article outlined how generative AI is fundamentally transforming the cybersecurity threat landscape, enabling attackers with unprecedented capabilities in phishing automation, deepfake creation, adaptive malware development, and sophisticated reco",
-      "publishedAt": "2026-06-24T12:12:55+00:00",
+      "title": "AmCham Business Bridge: The missing links in Africa’s trade ambition",
+      "url": "https://thebftonline.com/2026/06/25/amcham-business-bridge-the-missing-links-in-africas-trade-ambition/",
+      "summary": "Ask any Ghanaian business executive about trade within the African continent, and you will hear a familiar refrain: it is often cheaper and easier to source from Europe, Asia, or the Americas than from a neighbouring country. This is not a matter of preference",
+      "publishedAt": "2026-06-25T12:10:18+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Karpowership leads community tree planting exercise in Essikado",
-      "url": "https://thebftonline.com/2026/06/24/karpowership-leads-community-tree-planting-exercise-in-essikado-2/",
-      "summary": "…reinforces commitment to a greener future Karpowership Ghana Company Limited has reinforced its commitment to environmental sustainability and community development with a tree planting exercise in Essikado in the Western Region. The initiative, which forms p",
-      "publishedAt": "2026-06-24T12:10:39+00:00",
+      "title": "Mindset for career development: The ceiling is in your head: The most sophisticated obstacle to your career growth was built by you. Here is how to dismantle it.",
+      "url": "https://thebftonline.com/2026/06/25/mindset-for-career-development-the-ceiling-is-in-your-head-the-most-sophisticated-obstacle-to-your-career-growth-was-built-by-you-here-is-how-to-dismantle-it/",
+      "summary": "BY antoinette GYAN There is a version of you that you have not yet permitted yourself to be. I see it in almost every professional I coach — often before they see it themselves. The experience is there. The track record is there. The intelligence, the commitme",
+      "publishedAt": "2026-06-25T12:09:48+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "African Perspectives/Briefings: Zambia’s defaults, fiscal turnaround, recovery and the road ahead",
-      "url": "https://thebftonline.com/2026/06/24/african-perspectives-briefings-zambias-defaults-fiscal-turnaround-recovery-and-the-road-ahead/",
-      "summary": "Five years after defaulting on its sovereign debt, Zambia has recorded one of the more consequential economic recoveries on the African continent, anchored on fiscal consolidation, a concluded debt restructuring process, and a sustained International Monetary ",
-      "publishedAt": "2026-06-24T12:07:33+00:00",
+      "title": "The behavioural habits of successful stock market investors",
+      "url": "https://thebftonline.com/2026/06/25/the-behavioural-habits-of-successful-stock-market-investors/",
+      "summary": "BY Mary Henewaa Karikari Many people believe successful investing is about finding the perfect stock, predicting the market, or having access to insider information. It is not. More often than not, the difference between successful investors and struggling inv",
+      "publishedAt": "2026-06-25T12:05:13+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Young African health innovators secure top honours, funding at HIFest 2026",
-      "url": "https://thebftonline.com/2026/06/24/young-african-health-innovators-secure-top-honours-funding-at-hifest-2026/",
-      "summary": "Young health innovators from across Africa and Canada have secured funding and international recognition for developing solutions ranging from artificial intelligence-powered medical waste management to locally produced nutritional supplements, as the Health I",
-      "publishedAt": "2026-06-24T12:06:47+00:00",
+      "title": "The hidden cost of exchange rate volatility: Why currency instability affects more than importers and exporters",
+      "url": "https://thebftonline.com/2026/06/25/the-hidden-cost-of-exchange-rate-volatility-why-currency-instability-affects-more-than-importers-and-exporters/",
+      "summary": "By Ebenezer Adu-Acquah When discussions about the economy arise, exchange rates often dominate public conversations. Many Ghanaians closely follow the performance of the cedi against major currencies such as the US dollar, euro, and pound sterling because exch",
+      "publishedAt": "2026-06-25T12:03:29+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Ridicule, human dignity, and learner well-being in pre-tertiary education",
-      "url": "https://thebftonline.com/2026/06/24/ridicule-human-dignity-and-learner-well-being-in-pre-tertiary-education/",
-      "summary": "By Henry Atta Nyame There is a growing habit of unhealthy behaviour in our homes, communities, and society in general. To some people, it appears harmless. Others see it as friendly teasing or a joke. It is common among adults, young people, and even children.",
-      "publishedAt": "2026-06-24T12:03:52+00:00",
+      "title": "The silent crisis: Stigma, cost, and the brave women rewriting the breast cancer narrative",
+      "url": "https://thebftonline.com/2026/06/25/the-silent-crisis-stigma-cost-and-the-brave-women-rewriting-the-breast-cancer-narrative/",
+      "summary": "By Maame Efua Adom Nyame Quansah When Phyllis Adoley Buckman first felt a small, painless lump in her breast in 2014, she did what many women under financial strain do: she hoped it would go away. A doctor friend advised a biopsy, but the private hospital quot",
+      "publishedAt": "2026-06-25T12:02:16+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "How antibiotic abuse is fueling deaths in Ghana",
-      "url": "https://www.ghanabusinessnews.com/2026/06/24/how-antibiotic-abuse-is-fueling-deaths-in-ghana/",
-      "summary": "Kofi, 38, married with three children, works as a commercial minibus driver known in Ghana as ‘tro-tro’. He plies along the Accra–Kaneshie route in the Greater Accra region. The post How antibiotic abuse is fueling deaths in Ghana appeared first on Ghana Busin",
-      "publishedAt": "2026-06-24T07:00:48+00:00",
+      "title": "Ghana Goldbod spends $16.11b buying gold – Deputy Minister",
+      "url": "https://www.ghanabusinessnews.com/2026/06/25/ghana-goldbod-spends-16-11b-buying-gold-deputy-minister/",
+      "summary": "The Ghana Gold Board (Goldbod) has spent $16.11 billion between January 2025 and May 2026 to purchase gold from licensed artisanal miners and large-scale mining firms, Deputy Minister of Finance, Thomas Nyarko Ampem, has announced in Parliament on Wednesday. T",
+      "publishedAt": "2026-06-25T13:19:42+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Ghana government urged to address local recruitment shortage before deploying nurses abroad",
-      "url": "https://www.ghanabusinessnews.com/2026/06/24/ghana-government-urged-to-address-local-recruitment-shortage-before-deploying-nurses-abroad/",
-      "summary": "Mrs Perpetual Ofori-Ampofo, President of the Ghana Registered Nurses and Midwives Association (GRNMA), has urged the government to address local nurse and midwives shortages at hospitals before deploying them to other countries. The post Ghana government urged",
-      "publishedAt": "2026-06-24T05:05:05+00:00",
+      "title": "Some citizens consume more sugary drink, despite Ghana beverage tax – Report",
+      "url": "https://www.ghanabusinessnews.com/2026/06/25/some-citizens-consume-more-sugary-drink-despite-ghana-beverage-tax-report/",
+      "summary": "Ghana’s sweetened beverage tax may have limited impact on changing consumption habits among low-income communities unless accompanied by improved public education, according to research findings. The post Some citizens consume more sugary drink, despite Ghana ",
+      "publishedAt": "2026-06-25T13:05:27+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "TCDA dismisses GH¢25 cashew price claim",
-      "url": "https://www.ghanabusinessnews.com/2026/06/24/tcda-dismisses-gh%c2%a225-cashew-price-claim/",
-      "summary": "The Tree Crops Development Authority (TCDA) has dismissed claims that Ghana’s minimum producer price for cashew was GH¢25 per kilogram, describing them as misinformation. The post TCDA dismisses GH¢25 cashew price claim appeared first on Ghana Business News .",
-      "publishedAt": "2026-06-24T05:00:39+00:00",
+      "title": "Ghana’s budget transparency score falls sharply",
+      "url": "https://www.ghanabusinessnews.com/2026/06/25/ghanas-budget-transparency-score-falls-sharply/",
+      "summary": "Ghana’s budget transparency has recorded a sharp decline, dropping from a score of 46 in 2023 to 22 in 2025, according to the latest Open Budget Survey (OBS) report. The post Ghana’s budget transparency score falls sharply appeared first on Ghana Business News",
+      "publishedAt": "2026-06-25T12:59:31+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Dressing is not a justification for sexual harassment – Activist",
-      "url": "https://www.ghanabusinessnews.com/2026/06/24/dressing-is-not-a-justification-for-sexual-harassment-activist/",
-      "summary": "Ms Bashiratu Kamal, the Lead, Young Feminist Project, has condemned justifications by some sexual offenders that one’s dressing and appearance is a bait for harassment. The post Dressing is not a justification for sexual harassment – Activist appeared first on",
-      "publishedAt": "2026-06-24T04:56:19+00:00",
+      "title": "Geography, poverty, and late diagnosis deepen Ghana’s sickle cell crisis.",
+      "url": "https://www.ghanabusinessnews.com/2026/06/25/geography-poverty-and-late-diagnosis-deepen-ghanas-sickle-cell-crisis/",
+      "summary": "Whenever Emma Otchere speaks about her daughter, her voice carries both pride and pain. The post Geography, poverty, and late diagnosis deepen Ghana’s sickle cell crisis. appeared first on Ghana Business News .",
+      "publishedAt": "2026-06-25T07:33:04+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "One in five in Germany cannot afford one-week holiday",
-      "url": "https://www.ghanabusinessnews.com/2026/06/24/one-in-five-in-germany-cannot-afford-one-week-holiday/",
-      "summary": "Summer holidays have become unaffordable for many people in Germany, with 21% of people not able to go on a one-week break, according to figures released on Tuesday. The post One in five in Germany cannot afford one-week holiday appeared first on Ghana Busines",
-      "publishedAt": "2026-06-24T04:45:57+00:00",
+      "title": "Ghana is a key partner – Austria unveils new strategy for Africa",
+      "url": "https://www.ghanabusinessnews.com/2026/06/25/ghana-is-a-key-partner-austria-unveils-new-strategy-for-africa/",
+      "summary": "Austria has developed a new strategy for engagement with Ghana and the wider African continent, aimed at strengthening partnership and cooperation across Africa. The post Ghana is a key partner – Austria unveils new strategy for Africa appeared first on Ghana ",
+      "publishedAt": "2026-06-25T07:23:25+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "NDC must raise bar of governance – Tsatsu Tsikata",
-      "url": "https://www.ghanabusinessnews.com/2026/06/23/ndc-must-raise-bar-of-governance-tsatsu-tsikata/",
-      "summary": "Mr Tsatsu Tsikata, a legal practitioner and statesman, has urged the governing National Democratic Congress (NDC) to uphold higher standards of governance and avoid complacency in public service. The post NDC must raise bar of governance – Tsatsu Tsikata appea",
-      "publishedAt": "2026-06-23T15:20:37+00:00",
+      "title": "Ghana struggles to achieve nationwide newborn screening for sickle cell",
+      "url": "https://www.ghanabusinessnews.com/2026/06/25/ghana-struggles-to-achieve-nationwide-newborn-screening-for-sickle-cell/",
+      "summary": "Three decades after Ghana introduced newborn screening for Sickle Cell Disease (SCD), many babies, particularly those born in underserved regions, still lack access to screening at birth. The post Ghana struggles to achieve nationwide newborn screening for sic",
+      "publishedAt": "2026-06-25T07:14:17+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Interior Ministry suspends Kantanka Security Services’ licence over shooting incident",
-      "url": "https://www.ghanabusinessnews.com/2026/06/23/interior-ministry-suspends-kantanka-security-services-licence-over-shooting-incident/",
-      "summary": "The Ministry of the Interior has suspended the licence of Kantanka Security Services Limited following the shooting of Madam Sarah Adwoa Safo, former Member of Parliament for Dome-Kwabenya. The post Interior Ministry suspends Kantanka Security Services’ licenc",
-      "publishedAt": "2026-06-23T15:13:47+00:00",
+      "title": "Ghana, Spain strengthens commercial ties with gastronomic, trade exhibition",
+      "url": "https://www.ghanabusinessnews.com/2026/06/25/ghana-spain-strengthens-commercial-ties-with-gastronomic-trade-exhibition/",
+      "summary": "The Economic and Commercial Office of the Embassy of Spain in Accra successfully hosted the eighth edition of Taste Spain Accra, a gastronomic and trade exhibition, aimed at deepening commercial ties. The post Ghana, Spain strengthens commercial ties with gast",
+      "publishedAt": "2026-06-25T07:01:35+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Joe Ghartey advocates expanded judicial role for chiefs",
-      "url": "https://www.ghanabusinessnews.com/2026/06/23/joe-ghartey-advocates-expanded-judicial-role-for-chiefs/",
-      "summary": "Mr Joe Ghartey, former Attorney-General and Minister of Justice, has called for amendments to Ghana’s Courts Act to formally integrate chiefs into the country’s justice delivery system. The post Joe Ghartey advocates expanded judicial role for chiefs appeared ",
-      "publishedAt": "2026-06-23T15:01:38+00:00",
+      "title": "Ghana draws lessons from Ethiopia’s Safety Net Programme",
+      "url": "https://www.ghanabusinessnews.com/2026/06/25/ghana-draws-lessons-from-ethiopias-safety-net-programme/",
+      "summary": "A high-level Ghanaian delegation has concluded a strategic knowledge exchange visit to Ethiopia, aimed at strengthening Ghana’s social protection and livelihood empowerment programmes. The post Ghana draws lessons from Ethiopia’s Safety Net Programme appeared ",
+      "publishedAt": "2026-06-25T06:55:54+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
@@ -642,34 +642,34 @@
       "category": "Business news"
     },
     {
-      "title": "ADB records strong turnaround with GH¢367m profit in 2025",
-      "url": "https://www.myjoyonline.com/adb-records-strong-turnaround-with-gh%c2%a2367m-profit-in-2025/",
-      "summary": "The Agricultural Development Bank (ADB) has recorded a significant turnaround in its financial performance in 2025, posting a profit after tax of GH¢367.29 million compared to a marginal profit of GH¢35.06 million in 2024. According to the bank’s 2025 Annual R",
-      "publishedAt": "2026-06-24T13:20:08+00:00",
+      "title": "Prudential Bank goes ‘Prevention First’ with free health screening for staff",
+      "url": "https://www.myjoyonline.com/prudential-bank-goes-prevention-first-with-free-health-screening-for-staff/",
+      "summary": "Prudential Bank has rolled out a comprehensive, fully funded health screening exercise for its employees, reinforcing its belief that a healthy workforce is the bedrock of dependable banking.",
+      "publishedAt": "2026-06-25T11:42:02+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "SEC gives online investment platforms until August 31 to register or risk sanctions",
-      "url": "https://www.myjoyonline.com/sec-gives-online-investment-platforms-until-august-31-to-register-or-risk-sanctions/",
-      "summary": "The Securities and Exchange Commission (SEC) has directed all firms operating online investment schemes in Ghana to register their platforms with the regulator by August 31, 2026, or face possible sanctions.",
-      "publishedAt": "2026-06-24T09:44:02+00:00",
+      "title": "Inflation to average 12.8% in 2027",
+      "url": "https://www.myjoyonline.com/inflation-to-average-12-8-in-2027/",
+      "summary": "In its latest report on Ghana, it said a tighter-than-expected monetary policy stance by the US Federal Reserve in response to elevated inflation would weigh on global gold prices and, by extension, Ghana’s export earnings.",
+      "publishedAt": "2026-06-25T11:01:23+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Ginger prices to remain high for two years – expert warns",
-      "url": "https://www.myjoyonline.com/ginger-prices-to-remain-high-for-two-years-expert-warns/",
-      "summary": "Agribusiness entrepreneur and founder of Ideal Providence Farms, Georgina Koomson, has warned consumers to brace for sustained increases in ginger prices, attributing the trend to prolonged disease outbreaks that have severely affected production levels. Speak",
-      "publishedAt": "2026-06-24T08:40:36+00:00",
+      "title": "Ghana’s growth rate to moderate to 4.7% in 2027 – Fitch Solutions",
+      "url": "https://www.myjoyonline.com/ghanas-growth-rate-to-moderate-to-4-7-in-2027-fitch-solutions/",
+      "summary": "According to Fitch Solutions, stagnant oil and cocoa production will constrain export growth.",
+      "publishedAt": "2026-06-25T10:34:55+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Ghanaian regulators look to Malaysia’s success as non-interest finance framework takes shape",
-      "url": "https://www.myjoyonline.com/ghanaian-regulators-look-to-malaysias-success-as-non-interest-finance-framework-takes-shape/",
-      "summary": "For more than four decades, Malaysia has built one of the world's most successful non-interest finance ecosystems, transforming Islamic finance from a niche offering into a major pillar of its national economy. Today, Ghanaian financial regulators are looking ",
-      "publishedAt": "2026-06-24T07:27:47+00:00",
+      "title": "Suspend utility tariff hike, it’s unjustifiable – Energy policy think tank urges PURC",
+      "url": "https://www.myjoyonline.com/suspend-utility-tariff-hike-its-unjustifiable-energy-policy-think-tank-urges-purc/",
+      "summary": "The Institute for Energy Policies and Research (INSTEPR) has called on the Public Utilities Regulatory Commission (PURC) to suspend its proposed third-quarter utility tariff adjustment, arguing that the increases are not supported by the Commission's own data ",
+      "publishedAt": "2026-06-25T09:44:57+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     }
@@ -682,7 +682,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-24T13:24:50.128372+00:00"
+      "fetchedAt": "2026-06-25T13:22:09.970746+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -691,7 +691,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-24T13:24:50.128372+00:00"
+      "fetchedAt": "2026-06-25T13:22:09.970746+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -700,7 +700,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-24T13:24:50.128372+00:00"
+      "fetchedAt": "2026-06-25T13:22:09.970746+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -709,7 +709,7 @@
       "kind": "html",
       "ok": false,
       "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
-      "fetchedAt": "2026-06-24T13:24:50.128372+00:00"
+      "fetchedAt": "2026-06-25T13:22:09.970746+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -718,7 +718,7 @@
       "kind": "html",
       "ok": false,
       "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
-      "fetchedAt": "2026-06-24T13:24:50.128372+00:00"
+      "fetchedAt": "2026-06-25T13:22:09.970746+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -727,7 +727,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-24T13:24:50.128372+00:00"
+      "fetchedAt": "2026-06-25T13:22:09.970746+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -736,7 +736,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-24T13:24:50.128372+00:00"
+      "fetchedAt": "2026-06-25T13:22:09.970746+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -745,7 +745,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-24T13:24:50.128372+00:00"
+      "fetchedAt": "2026-06-25T13:22:09.970746+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -754,7 +754,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-24T13:24:50.128372+00:00"
+      "fetchedAt": "2026-06-25T13:22:09.970746+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -763,7 +763,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-24T13:24:50.128372+00:00"
+      "fetchedAt": "2026-06-25T13:22:09.970746+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -772,7 +772,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-24T13:24:50.128372+00:00"
+      "fetchedAt": "2026-06-25T13:22:09.970746+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -781,7 +781,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-24T13:24:50.128372+00:00"
+      "fetchedAt": "2026-06-25T13:22:09.970746+00:00"
     },
     {
       "name": "Citi Business News",
@@ -790,7 +790,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-24T13:24:50.128372+00:00"
+      "fetchedAt": "2026-06-25T13:22:09.970746+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -799,7 +799,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-24T13:24:50.128372+00:00"
+      "fetchedAt": "2026-06-25T13:22:09.970746+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -808,7 +808,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-24T13:24:50.128372+00:00"
+      "fetchedAt": "2026-06-25T13:22:09.970746+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -817,7 +817,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-24T13:24:50.128372+00:00"
+      "fetchedAt": "2026-06-25T13:22:09.970746+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -826,7 +826,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-24T13:24:50.128372+00:00"
+      "fetchedAt": "2026-06-25T13:22:09.970746+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -835,7 +835,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-24T13:24:50.128372+00:00"
+      "fetchedAt": "2026-06-25T13:22:09.970746+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -844,7 +844,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-24T13:24:50.128372+00:00"
+      "fetchedAt": "2026-06-25T13:22:09.970746+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -853,7 +853,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-24T13:24:50.128372+00:00"
+      "fetchedAt": "2026-06-25T13:22:09.970746+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -862,7 +862,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-06-24T13:24:50.128372+00:00"
+      "fetchedAt": "2026-06-25T13:22:09.970746+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -871,7 +871,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-06-24T13:24:50.128372+00:00"
+      "fetchedAt": "2026-06-25T13:22:09.970746+00:00"
     }
   ]
 }
