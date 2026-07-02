@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-01T13:34:56.101579+00:00",
-  "generatedAtGhana": "2026-07-01T13:34:56.101579+00:00",
+  "generatedAt": "2026-07-02T13:00:07.539393+00:00",
+  "generatedAtGhana": "2026-07-02T13:00:07.539393+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
     "gseIndices": {
-      "asOf": "30/06/2026",
-      "composite": 14724.26,
-      "financialStocks": 8269.37,
+      "asOf": "01/07/2026",
+      "composite": 14577.13,
+      "financialStocks": 8204.42,
       "source": "Ghana Stock Exchange",
       "url": "https://gse.com.gh/"
     },
@@ -26,7 +26,7 @@
       "sourceType": "public_news_fallback"
     },
     "ghanaStatisticalService": {
-      "cpiInflationYoy": 3.7,
+      "cpiInflationYoy": 5.3,
       "annualGdpGrowth": 6.0,
       "source": "Ghana Statistical Service",
       "url": "https://statsghana.gov.gh/"
@@ -450,228 +450,228 @@
       "category": "Sovereign credit research"
     },
     {
-      "title": "Why empathy should guide every brand during a crisis",
-      "url": "https://thebftonline.com/2026/07/01/why-empathy-should-guide-every-brand-during-a-crisis/",
-      "summary": "By Cecil Ato Kwamena DADZIE As floodwaters swept through parts of Accra, homes disappeared beneath muddy water, businesses counted devastating losses, and anxious families searched for loved ones, one thing became clear: crises do not only test the resilience ",
-      "publishedAt": "2026-07-01T13:25:37+00:00",
+      "title": "Oheneba Charles bereaved",
+      "url": "https://thebftonline.com/2026/07/02/oheneba-charles-bereaved/",
+      "summary": "The funeral rites of the wife of Oheneba Charles, Mrs. Vida Acheampong Nyarko, (popularly called Ante Vida), is scheduled to take place on Saturday, 4th July, 2026, at Asuom in the Kwaebibirem Municipality of the Eastern Region. The Burial Service will be held",
+      "publishedAt": "2026-07-02T12:42:53+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Coronation Insurance, MTN MoMo launch ‘Smart SME Plan’ to shield traders",
-      "url": "https://thebftonline.com/2026/07/01/coronation-insurance-mtn-momo-launch-smart-sme-plan-to-shield-traders/",
-      "summary": "In a decisive intervention aimed at reinforcing the financial bedrock of the national economy, Coronation Insurance Ghana Limited, in strategic partnership with MTN Mobile Money (MoMo), has officially launched its landmark Business Protection Insurance (BPI) p",
-      "publishedAt": "2026-07-01T13:20:24+00:00",
+      "title": "Africa’s electricity tariff puzzle (1): Why some consumers pay more, others pay less, and what policy must fix",
+      "url": "https://thebftonline.com/2026/07/02/africas-electricity-tariff-puzzle-1-why-some-consumers-pay-more-others-pay-less-and-what-policy-must-fix/",
+      "summary": "By Prof. Ernest Ofori ASAMOAH Email: eoforiasamoah@gmail.com “The real tariff question in Africa is not simply whether electricity is expensive. It is whether consumers are paying for efficient power supply — or for losses, debt, weak governance and poor plann",
+      "publishedAt": "2026-07-02T12:25:14+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Can agricultural knowledge become the next export Opportunity?",
-      "url": "https://thebftonline.com/2026/07/01/can-agricultural-knowledge-become-the-next-export-opportunity/",
-      "summary": "By Robert Aidoo International interest in a greenhouse facility in Dawhenya is drawing attention to a largely untapped opportunity for Ghana: exporting agricultural expertise alongside agricultural produce. Visits by agribusiness executives from the United Sta",
-      "publishedAt": "2026-07-01T13:15:14+00:00",
+      "title": "The bitter pill",
+      "url": "https://thebftonline.com/2026/07/02/the-bitter-pill/",
+      "summary": "By Henry Atta Nyame In Ghana, ask a child what profession he or she dreams of pursuing. Most will mention doctor, engineer, lawyer, lecturer, pilot, or nurse. Very few will say they want to become a carpenter, blacksmith, farmer, tailor, cleaner, or mason. But",
+      "publishedAt": "2026-07-02T12:20:36+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Evaluating the effectiveness of Ghana’s three-tier pension scheme",
-      "url": "https://thebftonline.com/2026/07/01/evaluating-the-effectiveness-of-ghanas-three-tier-pension-scheme/",
-      "summary": "Upon the implementation of the Three-Tier Pension Scheme under the National Pensions Act of 2008 （Act 766）, Ghana was recognised for instituting one of the most comprehensive social security reforms in its history. The reform was intended to modernise pension ",
-      "publishedAt": "2026-07-01T13:10:09+00:00",
+      "title": "Women in PR’s 10th Annual Summit to focus on strategic influence",
+      "url": "https://thebftonline.com/2026/07/02/women-in-prs-10th-annual-summit-to-focus-on-strategic-influence/",
+      "summary": "Women in PR (WiPR) Ghana, a professional network dedicated to empowering women in public relations and strategic communications, will host its 10th annual summit from 2nd July to 4th 2026 in Accra, under the theme “10 Years of Positioning Women in PR as Cataly",
+      "publishedAt": "2026-07-02T12:10:44+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Beyond the certificate: How to transform graduate entrepreneurship education into thriving enterprises",
-      "url": "https://thebftonline.com/2026/07/01/beyond-the-certificate-how-to-transform-graduate-entrepreneurship-education-into-thriving-enterprises/",
-      "summary": "By Godwin Kwawu Youth unemployment in Ghana has evolved from an economic challenge into a national security threat. With graduate unemployment at approximately 60 percent two years after graduation, we are wasting billions in educational investment while creat",
-      "publishedAt": "2026-07-01T13:04:09+00:00",
+      "title": "The case for travel cards and why travellers have everything to gain",
+      "url": "https://thebftonline.com/2026/07/02/the-case-for-travel-cards-and-why-travellers-have-everything-to-gain/",
+      "summary": "By Kwame OFORI-OFFEI Millions of people travel across the world each year for different reasons, but regardless of the purpose, there is always a mix of excitement and anxiety. Excitement about discovering new cultures and experiences is often paired with conc",
+      "publishedAt": "2026-07-02T11:22:24+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Accounting for Agribusiness success: A practical financial guide for the next generation of agricultural entrepreneurs",
-      "url": "https://thebftonline.com/2026/07/01/accounting-for-agribusiness-success-a-practical-financial-guide-for-the-next-generation-of-agricultural-entrepreneurs/",
-      "summary": "By Dickson Assan For generations, agriculture in Ghana has largely been practised on a subsistence basis, dominated by millions of smallholder farmers cultivating relatively small parcels of land primarily to feed their families, with any surplus sold in local",
-      "publishedAt": "2026-07-01T12:55:40+00:00",
+      "title": "Editorial: TOR calls for ESLA settlements",
+      "url": "https://thebftonline.com/2026/07/02/editorial-tor-calls-for-esla-settlements/",
+      "summary": "The Ministry of Energy and Green Transition is in discussions with the Ministry of Finance to commission a comprehensive audit of state energy sector agencies’ balance sheets. The move is with an aim of identifying and stripping out government-related debt tha",
+      "publishedAt": "2026-07-02T11:00:49+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Can agricultural knowledge become the next export Opportunity?",
-      "url": "https://thebftonline.com/2026/07/01/can-agricultural-knowledge-become-the-next-export-opportunity-2/",
-      "summary": "By Robert Aidoo International interest in a greenhouse facility in Dawhenya is drawing attention to a largely untapped opportunity for Ghana: exporting agricultural expertise alongside agricultural produce. Visits by agribusiness executives from the United Sta",
-      "publishedAt": "2026-07-01T12:45:50+00:00",
+      "title": "Finance Ministry credits GH¢350 million to flood relief and mitigation accounts",
+      "url": "https://thebftonline.com/2026/07/02/finance-ministry-credits-gh%c2%a2350-million-to-flood-relief-and-mitigation-accounts/",
+      "summary": "The Ministry of Finance has credited the designated National Disaster Management Committee accounts with GH¢350 million from the Contingency Fund to finance emergency flood relief and mitigation measures following severe flooding that has affected parts of the",
+      "publishedAt": "2026-07-02T10:15:54+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Inside the numbers: What exactly is a Women’s Development Bank and why does Ghana want one?",
-      "url": "https://thebftonline.com/2026/07/01/inside-the-numbers-what-exactly-is-a-womens-development-bank-and-why-does-ghana-want-one/",
-      "summary": "Desmond Isaac Addo Email: desmondisaacs01@gmail.com The Ministry of Finance has announced that government has formally applied to the Bank of Ghana for a licence to establish the proposed Women’s Development Bank. This marks an important step in one of its fla",
-      "publishedAt": "2026-07-01T12:42:56+00:00",
+      "title": "Editorial: BoG explores climate and financial risk management",
+      "url": "https://thebftonline.com/2026/07/02/editorial-bog-explores-climate-and-financial-risk-management/",
+      "summary": "As the recent flooding claimed about seventeen lives in Accra this week, Ghanaians are fully aware of the dangers from climate-related risks. Consequently, the Bank of Ghana (BoG) has launched a national Sustainable Finance Roadmap aimed at coordinating financ",
+      "publishedAt": "2026-07-02T10:00:33+00:00",
       "source": "Business & Financial Times",
       "category": "Business news"
     },
     {
-      "title": "Accra’s water bodies were killed and buried under a concrete jungle that now haunts residents",
-      "url": "https://www.ghanabusinessnews.com/2026/07/01/accras-water-bodies-were-killed-and-buried-under-a-concrete-jungle-that-now-haunts-residents/",
-      "summary": "The devastating floods of Monday June 29, 2026 was long in coming. Within 24 hours, it was reported that about 12 people have died, seven were missing and 7,761 households have been displaced. There are concerns that the death toll would rise as the flood wate",
-      "publishedAt": "2026-07-01T11:01:08+00:00",
+      "title": "Parliament ratifies bilateral air service agreements with six nations",
+      "url": "https://www.ghanabusinessnews.com/2026/07/02/parliament-ratifies-bilateral-air-service-agreements-with-six-nations/",
+      "summary": "Ghana’s Parliament has ratified Bilateral Air Service Agreements (BASAs) with the governments of Benin, Saudi Arabia, Qatar, Guyana, Mauritius and Luxembourg, following the adoption of the Roads and Transportation Committee’s reports. The post Parliament ratif",
+      "publishedAt": "2026-07-02T12:31:38+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Ghana records highest monthly rainfall since 1995 as June floods kill 12 – Interior Minister",
-      "url": "https://www.ghanabusinessnews.com/2026/07/01/ghana-records-highest-monthly-rainfall-since-1995-as-june-floods-kill-12-interior-minister/",
-      "summary": "Ghana recorded its highest monthly rainfall in June 2026, with 593.2 millimetres, Alhaji Muntaka Mohammed-Mubarak, the Minister for the Interior, has told Parliament. The post Ghana records highest monthly rainfall since 1995 as June floods kill 12 – Interior ",
-      "publishedAt": "2026-07-01T06:48:02+00:00",
+      "title": "Stakeholders commit to reducing high cost of doing business at Ghana’s ports",
+      "url": "https://www.ghanabusinessnews.com/2026/07/02/stakeholders-commit-to-reducing-high-cost-of-doing-business-at-ghanas-ports/",
+      "summary": "Key agencies within Ghana's shipping and logistics value chain have pledged to address the major challenges driving up the cost of doing business at the country's ports following a stakeholder engagement organised by the Ghana Shippers' Authority (GSA) in Accr",
+      "publishedAt": "2026-07-02T11:46:53+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Ghana unveils roadmap for climate-resilient finance",
-      "url": "https://www.ghanabusinessnews.com/2026/07/01/ghana-unveils-roadmap-for-climate-resilient-finance/",
-      "summary": "The Bank of Ghana on Tuesday launched a Sustainable Finance Roadmap to integrate climate risk management and environmental, social and governance (ESG) standards across the country's financial sector. The post Ghana unveils roadmap for climate-resilient financ",
-      "publishedAt": "2026-07-01T06:44:25+00:00",
+      "title": "Government to demolish buildings on six Accra wetlands",
+      "url": "https://www.ghanabusinessnews.com/2026/07/02/government-to-demolish-buildings-on-six-accra-wetlands/",
+      "summary": "The government, as part of a new strategy to curb flooding and restore the capital’s natural drainage system, has announced plans to demolish structures encroaching on six wetlands in Accra. The post Government to demolish buildings on six Accra wetlands appea",
+      "publishedAt": "2026-07-02T07:26:09+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Guinness Ghana and GIZ commit GH¢31.6m to transform Ghana’s sorghum value chain",
-      "url": "https://www.ghanabusinessnews.com/2026/07/01/guinness-ghana-and-giz-commit-gh%c2%a231-6m-to-transform-ghanas-sorghum-value-chain/",
-      "summary": "Guinness Ghana PLC and the Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH have signed a Memorandum of Understanding (MoU) to invest GH¢31.6 million in modernising Ghana's sorghum value chain in Northern Ghana. The post Guinness Ghana and GI",
-      "publishedAt": "2026-07-01T06:36:51+00:00",
+      "title": "Shippers decry container evacuation delays at Tema Port",
+      "url": "https://www.ghanabusinessnews.com/2026/07/02/shippers-decry-container-evacuation-delays-at-tema-port/",
+      "summary": "Delays in evacuating containers from the Meridian Port Services (MPS) Terminal 3 to Inland Container Depots dominated discussions at the Second Quarter Bronze and Trade Associations' Shipper Committee meeting organised by the Ghana Shippers' Authority (GSA) in",
+      "publishedAt": "2026-07-02T07:18:36+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Ghana government and Zoomlion reopen Achimota Transfer Station to ease post-flood waste crisis",
-      "url": "https://www.ghanabusinessnews.com/2026/07/01/ghana-government-and-zoomlion-reopen-achimota-transfer-station-to-ease-post-flood-waste-crisis/",
-      "summary": "The government, in collaboration with Zoomlion Ghana Limited, a subsidiary of the Jospong Group, has reopened the Achimota-Abofu Transfer Station to restore waste collection services and address sanitation challenges caused by recent floods across the Greater ",
-      "publishedAt": "2026-07-01T06:27:46+00:00",
+      "title": "Parliament passes Maritime and Related Offences Bill, 2026 to tackle piracy in Gulf of Guinea",
+      "url": "https://www.ghanabusinessnews.com/2026/07/02/parliament-passes-maritime-and-related-offences-bill-2026-to-tackle-piracy-in-gulf-of-guinea/",
+      "summary": "Parliament has passed the Maritime and Related Offences Bill, 2026, establishing a dedicated legal framework to combat piracy, armed robbery at sea and other maritime crimes in Ghana's waters. The post Parliament passes Maritime and Related Offences Bill, 2026",
+      "publishedAt": "2026-07-02T07:09:12+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Kpone-Katamanso MCE tours flood-hit communities, urges proper waste disposal",
-      "url": "https://www.ghanabusinessnews.com/2026/07/01/kpone-katamanso-mce-tours-flood-hit-communities-urges-proper-waste-disposal/",
-      "summary": "Mr Samuel Tetteh Kwashie Morton, Municipal Chief Executive (MCE) for the Kpone-Katamanso Municipal Assembly (KKMA), has toured flood-affected communities in the municipality to assess the impact of Monday’s heavy rains and reassure residents of the Assembly’s ",
-      "publishedAt": "2026-07-01T06:13:07+00:00",
+      "title": "Be emboldened by virtues of murdered judges to dispense justice fairly – Moderator",
+      "url": "https://www.ghanabusinessnews.com/2026/07/02/be-emboldened-by-virtues-of-murdered-judges-to-dispense-justice-fairly-moderator/",
+      "summary": "Judges and lawyers have been urged to emulate the courage, fairness and integrity of the three murdered High Court judges by dispensing justice without fear or favour. The post Be emboldened by virtues of murdered judges to dispense justice fairly – Moderator ",
+      "publishedAt": "2026-07-02T06:56:06+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Ghana plants 1.3 million trees as Rainforest Alliance report highlights growing regenerative",
-      "url": "https://www.ghanabusinessnews.com/2026/07/01/ghana-plants-1-3-million-trees-as-rainforest-alliance-report-highlights-growing-regenerative/",
-      "summary": "Farmers, local authorities, and businesses across Ghana in 2025, positioned the country as one of the strongest examples of regenerative agriculture in action, according to the Rainforest Alliance's newly released 2025 Annual Report, Regeneration Takes Root. T",
-      "publishedAt": "2026-07-01T06:08:56+00:00",
+      "title": "Fair Wages Commission pledges 90% reduction in strikes",
+      "url": "https://www.ghanabusinessnews.com/2026/07/02/fair-wages-commission-pledges-90-reduction-in-strikes/",
+      "summary": "The Fair Wages and Salaries Commission (FWSC) has projected a 90 per cent or higher reduction in public sector strike actions once Ghana’s new Independent Emoluments Commission becomes fully operational. The post Fair Wages Commission pledges 90% reduction in ",
+      "publishedAt": "2026-07-02T06:49:16+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Minority says Accra flood due to government negligence",
-      "url": "https://www.ghanabusinessnews.com/2026/07/01/minority-says-accra-flood-due-to-government-negligence/",
-      "summary": "The New Patriotic Party (NPP) Minority Caucus in Parliament has described the June 29 floods in Accra, as the predictable consequence of a government that only talks about preparedness. The post Minority says Accra flood due to government negligence appeared f",
-      "publishedAt": "2026-07-01T06:02:14+00:00",
+      "title": "Floods raise cholera risk: GHS urges public to follow health precautions",
+      "url": "https://www.ghanabusinessnews.com/2026/07/01/floods-raise-cholera-risk-ghs-urges-public-to-follow-health-precautions/",
+      "summary": "The Ghana Health Service (GHS) has renewed its appeal to the public to strictly observe preventive health measures following the heavy flooding that has affected parts of the Greater Accra Region. The post Floods raise cholera risk: GHS urges public to follow ",
+      "publishedAt": "2026-07-01T16:12:51+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Ghana Airports Company (GACL) Earns Top Honor as ‘Most Profitable’ State-Owned Enterprise at PELT Awards 2022",
-      "url": "https://citibusinessnews.com/2023/10/ghana-airports-company-gacl-earns-top-honor-as-most-profitable-state-owned-enterprise-at-pelt-awards-2022/",
-      "summary": "Ghana Airports Company Limited (GACL) has earned the prestigious title of “Most Profitable State-Owned Enterprise” for the year 2022 at the Public Enterprises League Table (PELT) Awards, an event organized by the State Interests and Governance Authority (SIGA)",
-      "publishedAt": "2023-10-18T13:19:09+00:00",
-      "source": "Citi Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "IMF: Ghana has fulfilled obligations, awaiting creditor action on debt restructuring",
-      "url": "https://citibusinessnews.com/2023/10/imf-ghana-has-fulfilled-obligations-awaiting-creditor-action-on-debt-restructuring/",
-      "summary": "The Director of the African Department at the International Monetary Fund (IMF), Abebe Aemro Selassie, has confirmed that Ghana has taken the required steps to secure the long-awaited financing assurance from its external creditors. He added that the IMF is pa",
-      "publishedAt": "2023-10-16T12:15:38+00:00",
-      "source": "Citi Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "IMF, World Bank work to accelerate debt treatment for Ghana, others under G20",
-      "url": "https://citibusinessnews.com/2023/10/imf-world-bank-work-to-accelerate-debt-treatment-for-ghana-others-under-g20/",
-      "summary": "The International Monetary Fund (IMF) and World Bank are working together to accelerate debt restructuring for Ghana and other countries under the Group of Twenty (G20) Common Framework. Ms Kristalina Georgieva, Managing Director, IMF said this during a plenar",
-      "publishedAt": "2023-10-16T12:11:16+00:00",
-      "source": "Citi Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Zambia advises Ghana to have restrictive laws on debt accumulation",
-      "url": "https://citibusinessnews.com/2023/10/zambia-advises-ghana-to-have-restrictive-laws-on-debt-accumulation/",
-      "summary": "Mr Situmbeko Musokotwane, Minister of Finance and National Planning, Zambia, has advised Ghana to have restrictive laws on debt accumulation. “We put a law in Parliament which tied my hands to say, going forward, you can’t be like those in the past. So, we tie",
-      "publishedAt": "2023-10-16T12:02:25+00:00",
-      "source": "Citi Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "2024 budget: Government commits to more expenditure cuts, aggressive growth, jobs",
-      "url": "https://citibusinessnews.com/2023/10/2024-budget-government-commits-to-more-expenditure-cuts-aggressive-growth-jobs/",
-      "summary": "The government has assured Ghanaians that it will safeguard current economic gains, and make it reflect in the living conditions of everyone in the coming months. To this end, there would be more expenditure reduction measures in the 2024 budget, as well as po",
-      "publishedAt": "2023-10-16T10:32:02+00:00",
-      "source": "Citi Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Zenith Bank @ 18 – Celebrating a legacy of financial excellence",
-      "url": "https://citibusinessnews.com/2023/10/zenith-bank-18-celebrating-a-legacy-of-financial-excellence/",
-      "summary": "On the fateful morning of September 16, 2005, Zenith Bank Ghana embarked on its banking journey with a grand total of 45 staff members. This marked a transformative turning point in the banking and financial services landscape of the country. Zenith Bank swift",
-      "publishedAt": "2023-10-15T20:32:02+00:00",
-      "source": "Citi Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Customer Service Week: Pan-African Savings and Loans provides medical services to clients",
-      "url": "https://citibusinessnews.com/2023/10/customer-service-week-pan-african-savings-and-loans-provides-medical-services-to-clients/",
-      "summary": "A leading non-bank financial institution, Pan-African Savings and Loans has demonstrated its appreciation to its loyal customers by organizing a free medical screening exercise as part of their planned activities for the customer service week. This initiative ",
-      "publishedAt": "2023-10-13T06:20:28+00:00",
-      "source": "Citi Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Former Capital Bank CEO Ato Essien jailed 15 years",
-      "url": "https://citibusinessnews.com/2023/10/former-capital-bank-ceo-ato-essien-jailed-15-years/",
-      "summary": "Former Chief Executive Officer of defunct Capital Bank, Ato Essien has been sentenced to 15 years imprisonment with hard labour. This follows his failure to pay in full an amount of GH¢90 million he agreed to pay the state despite several lifelines given him s",
-      "publishedAt": "2023-10-12T20:10:20+00:00",
-      "source": "Citi Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Businesses call for tax reforms at Ghana Business League Awards",
-      "url": "https://www.myjoyonline.com/businesses-call-for-tax-reforms-at-ghana-business-league-awards/",
-      "summary": "The appeal was made by General Manager of Skynet, Abraham Siaw, on the sidelines of the 2026 Ghana Business League Awards, where he said although the macroeconomic environment has shown signs of improvement, the tax burden remains a major challenge for busines",
-      "publishedAt": "2026-07-01T12:44:06+00:00",
+      "title": "Savings and Loans industry records GH¢515.32m profit in 2025, NPLs decrease to 11.8%",
+      "url": "https://www.myjoyonline.com/savings-and-loans-industry-records-gh%c2%a2515-32m-profit-in-2025-npls-decrease-to-11-8/",
+      "summary": "According to the 2025 Bank of Ghana Annual Report and Financial Statement, the sub-sector recorded Capital Adequacy Ration (CAR) of 3.5% at in December 2025, increasing from -0.6% at the end of December 2024, below the prudential minimum of 10.0%.",
+      "publishedAt": "2026-07-02T12:03:53+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Liquidity in banking industry improved in 2025, but credit risk remains elevated – BoG",
-      "url": "https://www.myjoyonline.com/liquidity-in-banking-industry-improved-in-2025-but-credit-risk-remains-elevated-bog/",
-      "summary": "According to the Bank of Ghana, liquid assets to total deposits increased to 96.3% at the end of December 2025 from 92.5% during the same period in 2024.",
-      "publishedAt": "2026-07-01T12:30:20+00:00",
+      "title": "GhIPSS pays GH¢14.58m dividend to BoG for 2025",
+      "url": "https://www.myjoyonline.com/ghipss-pays-gh%c2%a214-58m-dividend-to-bog-for-2025/",
+      "summary": "The Ghana Interbank Payment and Settlement Systems Limited (GhIPSS) has formally presented its 2025 dividend of GH¢14.58 million to the Bank of Ghana, its sole shareholder. The presentation ceremony, held at The Bank Square, follows the successful conclusion o",
+      "publishedAt": "2026-07-02T11:23:57+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Ghana’s net payments for services rose to US$4.58bn in 2025",
-      "url": "https://www.myjoyonline.com/ghanas-net-payments-for-services-rose-to-us4-58bn-in-2025/",
-      "summary": "Also, the combined surplus in the current and capital account totalled US$9.55 billion during the review year, putting the country in the net lending position with the rest of the world.",
-      "publishedAt": "2026-07-01T12:09:42+00:00",
+      "title": "Finance Ministry credits GH¢350m to flood relief and mitigation accounts",
+      "url": "https://www.myjoyonline.com/finance-ministry-credits-gh%c2%a2350m-to-flood-relief-and-mitigation-accounts/",
+      "summary": "In line with Article 177 of the 1992 Constitution, the Finance Minister first secured parliamentary approval through the Finance Committee for the withdrawal from the Contingency Fund.",
+      "publishedAt": "2026-07-02T07:56:06+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Re-constructing public sector procurement to avoid revenue wastage and losses",
-      "url": "https://www.myjoyonline.com/re-constructing-public-sector-procurement-to-avoid-revenue-wastage-and-losses/",
-      "summary": "Ghana's own procurement statute sits within a recognisable global family of reform. The UNCITRAL Model Law on Public Procurement — the United Nations' template instrument, revised in 2011 and used as a drafting reference by dozens of jurisdictions — and the OE",
-      "publishedAt": "2026-07-01T11:41:05+00:00",
+      "title": "Shippers decry container evacuation delays at Tema Port",
+      "url": "https://www.myjoyonline.com/shippers-decry-container-evacuation-delays-at-tema-port/",
+      "summary": "Delays in evacuating containers from the Meridian Port Services (MPS) Terminal 3 to Inland Container Depots dominated discussions at the Second Quarter Bronze and Trade Associations’ Shipper Committee meeting organised by the Ghana Shippers’ Authority (GSA) in",
+      "publishedAt": "2026-07-02T06:49:00+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
+    },
+    {
+      "title": "Digital Economy Forum launched to shape Ghana’s digital future",
+      "url": "https://www.myjoyonline.com/digital-economy-forum-launched-to-shape-ghanas-digital-future/",
+      "summary": "As Ghana’s digital economy expands at unprecedented speed, the Digital Economy Forum has been launched as a new long-term national platform to examine the technologies, policies and ideas that will define the country’s economic future. The initiative will brin",
+      "publishedAt": "2026-07-02T06:09:00+00:00",
+      "source": "MyJoyOnline Business",
+      "category": "Business news"
+    },
+    {
+      "title": "Clozar Group Introduces Ship & Pay, allowing Africans to ship smarter using AI",
+      "url": "https://www.myjoyonline.com/clozar-group-introduces-ship-pay-allowing-africans-to-ship-smarter-using-ai/",
+      "summary": "Clozar Group has officially launched Ship & Pay, an AI-powered super-app that lets Africans book cross-border shipments, make instant suppliers payments, source products, and track every parcel in real time, all from one app. The launch marks a major step in C",
+      "publishedAt": "2026-07-02T04:24:00+00:00",
+      "source": "MyJoyOnline Business",
+      "category": "Business news"
+    },
+    {
+      "title": "OpenAI proposes handing Trump administration 5% stake, FT reports",
+      "url": "https://www.myjoyonline.com/openai-proposes-handing-trump-administration-5-stake-ft-reports/",
+      "summary": "OpenAI has discussed ‌giving a 5% stake to the U.S. government; the Financial Times ​has reported.",
+      "publishedAt": "2026-07-02T03:03:00+00:00",
+      "source": "MyJoyOnline Business",
+      "category": "Business news"
+    },
+    {
+      "title": "Google has exceeded $1 billion Africa investment target",
+      "url": "https://www.myjoyonline.com/google-has-exceeded-1-billion-africa-investment-target/",
+      "summary": "Google has exceeded a five-year target to invest $1 billion in Africa, it said on Wednesday, ​as it made public initiatives on infrastructure and the development ‌of AI to accelerate the continent's digital growth.",
+      "publishedAt": "2026-07-01T23:36:00+00:00",
+      "source": "MyJoyOnline Business",
+      "category": "Business news"
+    },
+    {
+      "title": "Receive news updates on the go.",
+      "url": "https://www.myjoyonline.com/?s=cedi+dollar",
+      "summary": "",
+      "publishedAt": null,
+      "source": "MyJoyOnline USD GHS Search",
+      "category": "Public FX fallback"
+    },
+    {
+      "title": "Search results for cedi dollar",
+      "url": "https://www.myjoyonline.com/?s=cedi+dollar",
+      "summary": "",
+      "publishedAt": null,
+      "source": "MyJoyOnline USD GHS Search",
+      "category": "Public FX fallback"
+    },
+    {
+      "title": "Cedi makes strong comeback against dollar; going for GH¢12.10 in retail market",
+      "url": "https://www.myjoyonline.com/?s=cedi+dollar",
+      "summary": "",
+      "publishedAt": null,
+      "source": "MyJoyOnline USD GHS Search",
+      "category": "Public FX fallback"
+    },
+    {
+      "title": "Cedi remains under pressure despite BoG’s intervention; one dollar going for GH¢12.40 at forex bureaus",
+      "url": "https://www.myjoyonline.com/?s=cedi+dollar",
+      "summary": "",
+      "publishedAt": null,
+      "source": "MyJoyOnline USD GHS Search",
+      "category": "Public FX fallback"
     }
   ],
   "sources": [
@@ -682,7 +682,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-01T13:34:56.101579+00:00"
+      "fetchedAt": "2026-07-02T13:00:07.539393+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -691,7 +691,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-01T13:34:56.101579+00:00"
+      "fetchedAt": "2026-07-02T13:00:07.539393+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -700,7 +700,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-01T13:34:56.101579+00:00"
+      "fetchedAt": "2026-07-02T13:00:07.539393+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -709,7 +709,7 @@
       "kind": "html",
       "ok": false,
       "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
-      "fetchedAt": "2026-07-01T13:34:56.101579+00:00"
+      "fetchedAt": "2026-07-02T13:00:07.539393+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -718,7 +718,7 @@
       "kind": "html",
       "ok": false,
       "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
-      "fetchedAt": "2026-07-01T13:34:56.101579+00:00"
+      "fetchedAt": "2026-07-02T13:00:07.539393+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -727,7 +727,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-01T13:34:56.101579+00:00"
+      "fetchedAt": "2026-07-02T13:00:07.539393+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -736,7 +736,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-01T13:34:56.101579+00:00"
+      "fetchedAt": "2026-07-02T13:00:07.539393+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -745,7 +745,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-01T13:34:56.101579+00:00"
+      "fetchedAt": "2026-07-02T13:00:07.539393+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -754,7 +754,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-01T13:34:56.101579+00:00"
+      "fetchedAt": "2026-07-02T13:00:07.539393+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -763,7 +763,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-01T13:34:56.101579+00:00"
+      "fetchedAt": "2026-07-02T13:00:07.539393+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -772,7 +772,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-01T13:34:56.101579+00:00"
+      "fetchedAt": "2026-07-02T13:00:07.539393+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -781,7 +781,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-01T13:34:56.101579+00:00"
+      "fetchedAt": "2026-07-02T13:00:07.539393+00:00"
     },
     {
       "name": "Citi Business News",
@@ -790,7 +790,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-01T13:34:56.101579+00:00"
+      "fetchedAt": "2026-07-02T13:00:07.539393+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -799,7 +799,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-01T13:34:56.101579+00:00"
+      "fetchedAt": "2026-07-02T13:00:07.539393+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -808,7 +808,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-01T13:34:56.101579+00:00"
+      "fetchedAt": "2026-07-02T13:00:07.539393+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -817,7 +817,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-01T13:34:56.101579+00:00"
+      "fetchedAt": "2026-07-02T13:00:07.539393+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -826,7 +826,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-01T13:34:56.101579+00:00"
+      "fetchedAt": "2026-07-02T13:00:07.539393+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -835,7 +835,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-01T13:34:56.101579+00:00"
+      "fetchedAt": "2026-07-02T13:00:07.539393+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -844,7 +844,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-01T13:34:56.101579+00:00"
+      "fetchedAt": "2026-07-02T13:00:07.539393+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -853,7 +853,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-01T13:34:56.101579+00:00"
+      "fetchedAt": "2026-07-02T13:00:07.539393+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -862,7 +862,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-01T13:34:56.101579+00:00"
+      "fetchedAt": "2026-07-02T13:00:07.539393+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -871,7 +871,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-07-01T13:34:56.101579+00:00"
+      "fetchedAt": "2026-07-02T13:00:07.539393+00:00"
     }
   ]
 }
