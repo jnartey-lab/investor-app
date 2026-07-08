@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-07T13:22:28.660473+00:00",
-  "generatedAtGhana": "2026-07-07T13:22:28.660473+00:00",
+  "generatedAt": "2026-07-08T12:22:42.186744+00:00",
+  "generatedAtGhana": "2026-07-08T12:22:42.186744+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
     "gseIndices": {
-      "asOf": "06/07/2026",
-      "composite": 14707.14,
-      "financialStocks": 8238.91,
+      "asOf": "07/07/2026",
+      "composite": 14712.0,
+      "financialStocks": 8218.45,
       "source": "Ghana Stock Exchange",
       "url": "https://gse.com.gh/"
     },
@@ -338,7 +338,7 @@
       "category": "Credit ratings news"
     },
     {
-      "title": "Fitch Changes Global Sovereigns Sector Outlook to ‘Deteriorating’ on Iran War Impact",
+      "title": "Inflation, Interest Rate Headwinds Weigh on Midyear US Credit Outlooks",
       "url": "https://www.fitchratings.com/",
       "summary": "",
       "publishedAt": null,
@@ -450,6 +450,14 @@
       "category": "Sovereign credit research"
     },
     {
+      "title": "South Africa clarifies – We didn’t request for a state visit to Ghana",
+      "url": "https://www.ghanabusinessnews.com/2026/07/07/south-africa-clarifies-we-didnt-request-for-a-state-visit-to-ghana/",
+      "summary": "The South African government says it has not made any request to the Ghana government for a state visit for President Cyril Ramaphosa. The post South Africa clarifies – We didn’t request for a state visit to Ghana appeared first on Ghana Business News .",
+      "publishedAt": "2026-07-07T13:46:27+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
       "title": "Ghana government allocates GH¢100m annually for special needs education – Minister",
       "url": "https://www.ghanabusinessnews.com/2026/07/07/ghana-government-allocates-gh%c2%a2100m-annually-for-special-needs-education-minister/",
       "summary": "Mr Haruna Iddrisu, the Minister of Education, Monday directed the Ghana Education Trust Fund (GETFund) to allocate GH¢100 million each year to special needs education, starting from 2027. The post Ghana government allocates GH¢100m annually for special needs e",
@@ -502,14 +510,6 @@
       "url": "https://www.ghanabusinessnews.com/2026/07/06/university-of-ghana-advises-employees-and-students-against-travelling-to-south-africa/",
       "summary": "The University of Ghana has warned its staff and students against travelling to South Africa following a wave of mounting xenophobic and Afrophobic incidents in that country. The post University of Ghana advises employees and students against travelling to Sou",
       "publishedAt": "2026-07-06T11:57:35+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "ActionAid Federation raises concerns over IMF debt sustainability assessments",
-      "url": "https://www.ghanabusinessnews.com/2026/07/06/actionaid-federation-raises-concerns-over-imf-debt-sustainability-assessments/",
-      "summary": "ActionAid Federation has expressed concern over the International Monetary Fund's (IMF) debt sustainability assessments, saying they continue to prioritise governments' loan repayment capacity at the expense of investments in essential public services. The pos",
-      "publishedAt": "2026-07-06T11:29:55+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
@@ -578,66 +578,66 @@
       "category": "Business news"
     },
     {
-      "title": "Bank of Ghana partners DASA 2026 to advance Digital Asset regulation and innovation",
-      "url": "https://www.myjoyonline.com/bank-of-ghana-partners-dasa-2026-to-advance-digital-asset-regulation-and-innovation/",
-      "summary": "The Bank of Ghana (BoG), through its Virtual Assets Department, has joined the Digital Assets Summit Africa (DASA) 2026 as an official partner, in a move expected to strengthen dialogue around Ghana’s emerging digital assets ecosystem.",
-      "publishedAt": "2026-07-07T11:48:00+00:00",
+      "title": "Financial institutions recover just 5% of fraud exposure in 2025",
+      "url": "https://www.myjoyonline.com/financial-institutions-recover-just-5-of-fraud-exposure-in-2025/",
+      "summary": "The Bank of Ghana reported that total fraud cases across banks, SDIs and Payment Service Providers (PSPs) increased from 16,733 in 2024 to 24,778 in 2025, while the total value at risk rose from GH¢99 million to GH¢101 million. The increase was driven almost e",
+      "publishedAt": "2026-07-08T12:10:56+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "The smartest $130,000 property investment in Accra at the moment",
-      "url": "https://www.myjoyonline.com/the-smartest-130000-property-investment-in-accra-at-the-moment-2/",
-      "summary": "Why Zenwood's one-bedroom apartments present a rare investment opportunity in airport residential.",
-      "publishedAt": "2026-07-07T11:05:08+00:00",
+      "title": "Staff involved in fraud drops 40%, but 34% of staff were dismissed – BoG",
+      "url": "https://www.myjoyonline.com/staff-involved-in-fraud-drops-40-but-34-of-staff-were-dismissed-bog/",
+      "summary": "According to the Central Bank's 2025 Fraud Report, the number of employees involved in fraud across banks and specialised deposit-taking institutions (SDIs) dropped from 365 in 2024 to 219 in 2025, representing a 40% decline.",
+      "publishedAt": "2026-07-08T12:00:41+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Bond market: Turnover increased by 56% to GH¢2.44bn",
-      "url": "https://www.myjoyonline.com/bond-market-turnover-increased-by-56-to-gh%c2%a22-44bn/",
-      "summary": "The 2027-2030 segment also saw meaningful activity, contributing 44.40% of trades at a weighted-average yield of 12.39%.",
-      "publishedAt": "2026-07-07T10:43:31+00:00",
+      "title": "Don’t hand Ghana Gas’ second processing plant to private operator – ASEC tells gov’t",
+      "url": "https://www.myjoyonline.com/dont-hand-ghana-gas-second-processing-plant-to-private-operator-asec-tells-govt/",
+      "summary": "The Africa Sustainable Energy Centre (ASEC) has urged the government not to hand over the planned second Gas Processing Plant of the Ghana National Gas Company to a private entity, warning that such a move would weaken Ghana’s energy security, increase power p",
+      "publishedAt": "2026-07-08T10:33:06+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Government spending in quarter one 2026 dropped by 21%; capital expenditure still below target",
-      "url": "https://www.myjoyonline.com/government-spending-in-quarter-one-2026-dropped-by-21-capital-expenditure-still-below-target/",
-      "summary": "The Capital Expenditure for the period under review was GH¢7.345 billion (0.5% of Gross Domestic Product). This was lower than the programmed target of GH¢12.645 billion (0.8% of GDP) by 41.9%.",
-      "publishedAt": "2026-07-07T09:29:19+00:00",
+      "title": "Digital fraud is rising, but Ghana cannot turn back from digital payments – Prof. Bokpin",
+      "url": "https://www.myjoyonline.com/digital-fraud-is-rising-but-ghana-cannot-turn-back-from-digital-payments-prof-bokpin/",
+      "summary": "Digital fraud may be rising, but Economist and Professor of Finance at the University of Ghana Business School, Godfred Bokpin, says Ghana cannot afford to retreat from digital payments.",
+      "publishedAt": "2026-07-08T10:32:23+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Tax revenue and grants for quarter one 2026 falls to GH¢57.5bn",
-      "url": "https://www.myjoyonline.com/tax-revenue-and-grants-for-quarter-one-2026-falls-to-gh57-5bn/",
-      "summary": "Oil and gas receipts were GH¢2.825 billion lower than the target of GH¢4.532 billion by 37.6%. This is on the back of lower international oil prices as well as reduced production from our major producing fields. Other revenue of GH¢3.466 billion was above its ",
-      "publishedAt": "2026-07-07T09:14:16+00:00",
+      "title": "Banks, fintechs trade claims over regulatory burden as fraud risks grow",
+      "url": "https://www.myjoyonline.com/banks-fintechs-trade-claims-over-regulatory-burden-as-fraud-risks-grow/",
+      "summary": "Banks and fintech companies are raising competing concerns over regulation in Ghana’s digital financial sector, with each side suggesting the other operates under a lighter supervisory regime.",
+      "publishedAt": "2026-07-08T10:31:53+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Inside Ghana’s aquaculture value Chain: Where are the bottlenecks slowing growth?",
-      "url": "https://www.myjoyonline.com/inside-ghanas-aquaculture-value-chain-where-are-the-bottlenecks-slowing-growth/",
-      "summary": "Ghana’s aquaculture sector continues to be positioned as a key contributor to food security, employment, and economic diversification. Over the years, various policy discussions, private sector interventions, and development partnerships have emphasised the se",
-      "publishedAt": "2026-07-07T09:06:36+00:00",
+      "title": "Cash-lite economy could reduce cost of replacing Ghana’s currency – Prof. Bokpin",
+      "url": "https://www.myjoyonline.com/cash-lite-economy-could-reduce-cost-of-replacing-ghanas-currency-prof-bokpin/",
+      "summary": "Economist and Professor of Finance at the University of Ghana Business School, Godfred Bokpin, says Ghana’s transition to a cash-lite economy could help reduce the cost of replacing physical currency.",
+      "publishedAt": "2026-07-08T10:31:34+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Can innovation partnerships transform Ghana’s aquaculture Sector? Inside the push for a more sustainable blue economy",
-      "url": "https://www.myjoyonline.com/can-innovation-partnerships-transform-ghanas-aquaculture-sector-inside-the-push-for-a-more-sustainable-blue-economy/",
-      "summary": "Ghana’s aquaculture sector is increasingly becoming a focal point for innovation-driven development. As demand for fish continues to rise and pressure on wild fisheries intensifies, partnerships between local institutions, government agencies, research organis",
-      "publishedAt": "2026-07-07T08:58:46+00:00",
+      "title": "Guazi expands inspection-backed used car sourcing from China for Ghana",
+      "url": "https://www.myjoyonline.com/guazi-expands-inspection-backed-used-car-sourcing-from-china-for-ghana/",
+      "summary": "Guazi used car, China's leading used car e-commerce platform, is extending its digital car-buying model to buyers and dealers in selected overseas markets. The company pairs online vehicle listings and condition information with a growing network of local part",
+      "publishedAt": "2026-07-08T07:36:00+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Tony Elumelu retires as UBA Group Chairman after 12 years; Emmanuel Nnorom takes over",
-      "url": "https://www.myjoyonline.com/tony-elumelu-retires-as-uba-group-chairman-after-12-years-emmanuel-nnorom-takes-over/",
-      "summary": "United Bank for Africa Plc (UBA) has announced the retirement of its Group Chairman, Tony O. Elumelu, from the Board of Directors effective August 21, 2026.",
-      "publishedAt": "2026-07-07T07:53:21+00:00",
+      "title": "BoG confident cedi stability will continue as dollar pressures ease",
+      "url": "https://www.myjoyonline.com/bog-confident-cedi-stability-will-continue-as-dollar-pressures-ease/",
+      "summary": "The Bank of Ghana (BoG) says it expects the recent stability of the cedi to continue, following improved conditions in the foreign exchange market.",
+      "publishedAt": "2026-07-08T07:12:41+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
@@ -658,7 +658,7 @@
       "category": "Public FX fallback"
     },
     {
-      "title": "Cedi makes strong comeback against dollar; going for GH¢12.10 in retail market",
+      "title": "BoG confident cedi stability will continue as dollar pressures ease",
       "url": "https://www.myjoyonline.com/?s=cedi+dollar",
       "summary": "",
       "publishedAt": null,
@@ -666,7 +666,7 @@
       "category": "Public FX fallback"
     },
     {
-      "title": "Cedi remains under pressure despite BoG’s intervention; one dollar going for GH¢12.40 at forex bureaus",
+      "title": "Cedi makes strong comeback against dollar; going for GH¢12.10 in retail market",
       "url": "https://www.myjoyonline.com/?s=cedi+dollar",
       "summary": "",
       "publishedAt": null,
@@ -682,7 +682,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-07T13:22:28.660473+00:00"
+      "fetchedAt": "2026-07-08T12:22:42.186744+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -691,7 +691,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-07T13:22:28.660473+00:00"
+      "fetchedAt": "2026-07-08T12:22:42.186744+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -700,7 +700,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-07T13:22:28.660473+00:00"
+      "fetchedAt": "2026-07-08T12:22:42.186744+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -709,7 +709,7 @@
       "kind": "html",
       "ok": false,
       "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
-      "fetchedAt": "2026-07-07T13:22:28.660473+00:00"
+      "fetchedAt": "2026-07-08T12:22:42.186744+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -718,7 +718,7 @@
       "kind": "html",
       "ok": false,
       "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
-      "fetchedAt": "2026-07-07T13:22:28.660473+00:00"
+      "fetchedAt": "2026-07-08T12:22:42.186744+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -727,7 +727,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-07T13:22:28.660473+00:00"
+      "fetchedAt": "2026-07-08T12:22:42.186744+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -736,7 +736,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-07T13:22:28.660473+00:00"
+      "fetchedAt": "2026-07-08T12:22:42.186744+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -745,7 +745,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-07T13:22:28.660473+00:00"
+      "fetchedAt": "2026-07-08T12:22:42.186744+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -754,7 +754,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-07T13:22:28.660473+00:00"
+      "fetchedAt": "2026-07-08T12:22:42.186744+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -763,7 +763,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-07T13:22:28.660473+00:00"
+      "fetchedAt": "2026-07-08T12:22:42.186744+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -772,7 +772,7 @@
       "kind": "rss",
       "ok": false,
       "error": "HTTP Error 404: Not Found",
-      "fetchedAt": "2026-07-07T13:22:28.660473+00:00"
+      "fetchedAt": "2026-07-08T12:22:42.186744+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -781,7 +781,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-07T13:22:28.660473+00:00"
+      "fetchedAt": "2026-07-08T12:22:42.186744+00:00"
     },
     {
       "name": "Citi Business News",
@@ -790,7 +790,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-07T13:22:28.660473+00:00"
+      "fetchedAt": "2026-07-08T12:22:42.186744+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -799,7 +799,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-07T13:22:28.660473+00:00"
+      "fetchedAt": "2026-07-08T12:22:42.186744+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -808,7 +808,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-07T13:22:28.660473+00:00"
+      "fetchedAt": "2026-07-08T12:22:42.186744+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -817,7 +817,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-07T13:22:28.660473+00:00"
+      "fetchedAt": "2026-07-08T12:22:42.186744+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -826,7 +826,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-07T13:22:28.660473+00:00"
+      "fetchedAt": "2026-07-08T12:22:42.186744+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -835,7 +835,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-07T13:22:28.660473+00:00"
+      "fetchedAt": "2026-07-08T12:22:42.186744+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -844,7 +844,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-07T13:22:28.660473+00:00"
+      "fetchedAt": "2026-07-08T12:22:42.186744+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -853,7 +853,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-07T13:22:28.660473+00:00"
+      "fetchedAt": "2026-07-08T12:22:42.186744+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -862,7 +862,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-07T13:22:28.660473+00:00"
+      "fetchedAt": "2026-07-08T12:22:42.186744+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -871,7 +871,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-07-07T13:22:28.660473+00:00"
+      "fetchedAt": "2026-07-08T12:22:42.186744+00:00"
     }
   ]
 }
