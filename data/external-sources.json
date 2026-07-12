@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-11T11:55:23.912322+00:00",
-  "generatedAtGhana": "2026-07-11T11:55:23.912322+00:00",
+  "generatedAt": "2026-07-12T12:02:08.417205+00:00",
+  "generatedAtGhana": "2026-07-12T12:02:08.417205+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
@@ -450,6 +450,14 @@
       "category": "Business news"
     },
     {
+      "title": "AGS, NEIP lead international mission to unlock global opportunities for Ghanaian startups",
+      "url": "https://www.myjoyonline.com/ags-neip-lead-international-mission-to-unlock-global-opportunities-for-ghanaian-startups/",
+      "summary": "The Association of Ghana Startups (AGS), in collaboration with the National Entrepreneurship and Innovation Programme (NEIP), has concluded a high-level trade and investment mission to Europe aimed at attracting investment, building strategic partnerships and ",
+      "publishedAt": "2026-07-11T14:45:32+00:00",
+      "source": "MyJoyOnline Business",
+      "category": "Business news"
+    },
+    {
       "title": "CalBank joins national sanitation exercise, donates clean-up equipment to Korle Klottey Municipal Assembly",
       "url": "https://www.myjoyonline.com/calbank-joins-national-sanitation-exercise-donates-clean-up-equipment-to-korle-klottey-municipal-assembly/",
       "summary": "CalBank PLC yesterday joined the National Sanitation Exercise by supporting clean-up efforts through a donation of sanitation equipment and direct staff participation in community desilting activities. The Bank presented wheelbarrows, shovels, long brooms, ref",
@@ -502,14 +510,6 @@
       "url": "https://www.myjoyonline.com/fuel-prices-set-to-go-down-from-july-16-despite-current-war-in-the-middle-east-comac-ceo/",
       "summary": "The Chief Executive of the Chamber of Oil Marketing Companies (COMAC), Dr. Riverson Oppong, has revealed that prices of petroleum products will be reduced at the pumps from July 16, 2026.",
       "publishedAt": "2026-07-10T18:33:14+00:00",
-      "source": "MyJoyOnline Business",
-      "category": "Business news"
-    },
-    {
-      "title": "BoG Governor joins national clean-up at Agbogbloshie, urges traders to keep cedi notes clean",
-      "url": "https://www.myjoyonline.com/bog-governor-joins-national-clean-up-at-agbogbloshie-urges-traders-to-keep-cedi-notes-clean/",
-      "summary": "The exercise underscores the bank's commitment to promoting clean and healthy communities, and he used the occasion to reinforce the importance of proper handling of the Ghana Cedi to safeguard public health.",
-      "publishedAt": "2026-07-10T15:04:14+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
@@ -658,7 +658,7 @@
       "category": "Public macro fallback"
     },
     {
-      "title": "Trump blocks bipartisan housing bill over Senate failure to pass voter ID law",
+      "title": "Landmark US housing bill becomes law despite Trump protest",
       "url": "https://www.myjoyonline.com/?s=91-day+treasury+bill+rate",
       "summary": "",
       "publishedAt": null,
@@ -666,7 +666,7 @@
       "category": "Public macro fallback"
     },
     {
-      "title": "Tuah-Yeboah lauds passage of Community Service Bill",
+      "title": "Trump blocks bipartisan housing bill over Senate failure to pass voter ID law",
       "url": "https://www.myjoyonline.com/?s=91-day+treasury+bill+rate",
       "summary": "",
       "publishedAt": null,
@@ -682,7 +682,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-11T11:55:23.912322+00:00"
+      "fetchedAt": "2026-07-12T12:02:08.417205+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -691,7 +691,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-11T11:55:23.912322+00:00"
+      "fetchedAt": "2026-07-12T12:02:08.417205+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -700,7 +700,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-11T11:55:23.912322+00:00"
+      "fetchedAt": "2026-07-12T12:02:08.417205+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -709,7 +709,7 @@
       "kind": "html",
       "ok": false,
       "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
-      "fetchedAt": "2026-07-11T11:55:23.912322+00:00"
+      "fetchedAt": "2026-07-12T12:02:08.417205+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -718,7 +718,7 @@
       "kind": "html",
       "ok": false,
       "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
-      "fetchedAt": "2026-07-11T11:55:23.912322+00:00"
+      "fetchedAt": "2026-07-12T12:02:08.417205+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -727,7 +727,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-11T11:55:23.912322+00:00"
+      "fetchedAt": "2026-07-12T12:02:08.417205+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -736,7 +736,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-07-11T11:55:23.912322+00:00"
+      "fetchedAt": "2026-07-12T12:02:08.417205+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -745,7 +745,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-11T11:55:23.912322+00:00"
+      "fetchedAt": "2026-07-12T12:02:08.417205+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -754,7 +754,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-11T11:55:23.912322+00:00"
+      "fetchedAt": "2026-07-12T12:02:08.417205+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -763,7 +763,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-11T11:55:23.912322+00:00"
+      "fetchedAt": "2026-07-12T12:02:08.417205+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -772,7 +772,7 @@
       "kind": "rss",
       "ok": false,
       "error": "HTTP Error 404: Not Found",
-      "fetchedAt": "2026-07-11T11:55:23.912322+00:00"
+      "fetchedAt": "2026-07-12T12:02:08.417205+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -781,7 +781,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-11T11:55:23.912322+00:00"
+      "fetchedAt": "2026-07-12T12:02:08.417205+00:00"
     },
     {
       "name": "Citi Business News",
@@ -790,7 +790,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-11T11:55:23.912322+00:00"
+      "fetchedAt": "2026-07-12T12:02:08.417205+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -799,7 +799,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-11T11:55:23.912322+00:00"
+      "fetchedAt": "2026-07-12T12:02:08.417205+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -808,7 +808,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-11T11:55:23.912322+00:00"
+      "fetchedAt": "2026-07-12T12:02:08.417205+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -817,7 +817,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-11T11:55:23.912322+00:00"
+      "fetchedAt": "2026-07-12T12:02:08.417205+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -826,7 +826,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-11T11:55:23.912322+00:00"
+      "fetchedAt": "2026-07-12T12:02:08.417205+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -835,7 +835,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-11T11:55:23.912322+00:00"
+      "fetchedAt": "2026-07-12T12:02:08.417205+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -844,7 +844,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-11T11:55:23.912322+00:00"
+      "fetchedAt": "2026-07-12T12:02:08.417205+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -853,7 +853,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-11T11:55:23.912322+00:00"
+      "fetchedAt": "2026-07-12T12:02:08.417205+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -862,7 +862,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-11T11:55:23.912322+00:00"
+      "fetchedAt": "2026-07-12T12:02:08.417205+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -871,7 +871,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-07-11T11:55:23.912322+00:00"
+      "fetchedAt": "2026-07-12T12:02:08.417205+00:00"
     }
   ]
 }
