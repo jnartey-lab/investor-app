@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-17T12:12:41.857611+00:00",
-  "generatedAtGhana": "2026-07-17T12:12:41.857611+00:00",
+  "generatedAt": "2026-07-18T11:54:46.479483+00:00",
+  "generatedAtGhana": "2026-07-18T11:54:46.479483+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
     "gseIndices": {
-      "asOf": "16/07/2026",
-      "composite": 14896.64,
-      "financialStocks": 8181.33,
+      "asOf": "17/07/2026",
+      "composite": 14937.92,
+      "financialStocks": 8265.36,
       "source": "Ghana Stock Exchange",
       "url": "https://gse.com.gh/"
     },
@@ -170,14 +170,6 @@
       "category": "Official macro"
     },
     {
-      "title": "Key Indicators",
-      "url": "https://statsghana.gov.gh/",
-      "summary": "",
-      "publishedAt": null,
-      "source": "Ghana Statistical Service",
-      "category": "Official macro"
-    },
-    {
       "title": "Upcoming Releases",
       "url": "https://statsghana.gov.gh/",
       "summary": "",
@@ -219,6 +211,14 @@
     },
     {
       "title": "StatsBank",
+      "url": "https://statsghana.gov.gh/",
+      "summary": "",
+      "publishedAt": null,
+      "source": "Ghana Statistical Service",
+      "category": "Official macro"
+    },
+    {
+      "title": "Microdata Catalogue",
       "url": "https://statsghana.gov.gh/",
       "summary": "",
       "publishedAt": null,
@@ -386,67 +386,107 @@
       "category": "Sovereign credit research"
     },
     {
-      "title": "EOCO announces the recovery of GH¢617.5m stolen funds in 2025",
-      "url": "https://www.ghanabusinessnews.com/2026/07/17/eoco-announces-the-recovery-of-gh%c2%a2617-5m-stolen-funds-in-2025/",
-      "summary": "The Economic and Organised Crime Office (EOCO) has said in 2025 it recovered GH¢617.5 million in stolen funds from the national coffers, including monies refunded by persons charged with misappropriation, fraud, money laundering, and cybercrime. The post EOCO ",
-      "publishedAt": "2026-07-17T06:14:24+00:00",
+      "title": "President Mahama nominates three for appointment to Supreme Court",
+      "url": "https://www.ghanabusinessnews.com/2026/07/18/president-mahama-nominates-three-for-appointment-to-supreme-court/",
+      "summary": "President John Dramani Mahama has nominated two Court of Appeal Judges and a former President of the Ghana Bar Association (GBA) for appointment as Supreme Court Judges. The post President Mahama nominates three for appointment to Supreme Court appeared first ",
+      "publishedAt": "2026-07-18T10:09:14+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Digital payments in Ghana surpass cash transactions",
-      "url": "https://www.ghanabusinessnews.com/2026/07/17/digital-payments-in-ghana-surpass-cash-transactions/",
-      "summary": "Ghana's transition to a cash-light economy is accelerating, with digital payments now accounting for more than half of all financial transactions, Mr Abdul Razak Issaka-Ali, the Chief Commercial and Operations Officer of MobileMoney Fintech Limited (MMFL), has",
-      "publishedAt": "2026-07-17T06:07:57+00:00",
+      "title": "Ghana Parliament passes Tribunals Bill 2026",
+      "url": "https://www.ghanabusinessnews.com/2026/07/18/ghana-parliament-passes-tribunals-bill-2026/",
+      "summary": "Parliament on Friday passed the Tribunals Bill, 2026, paving the way for the reintroduction of a tribunal system under a revised legal framework, aimed at strengthening the administration of justice. The post Ghana Parliament passes Tribunals Bill 2026 appeare",
+      "publishedAt": "2026-07-18T09:56:26+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Mahama announces recruitment of 16,000 teachers this year",
-      "url": "https://www.ghanabusinessnews.com/2026/07/17/mahama-announces-recruitment-of-16000-teachers-this-year/",
-      "summary": "President John Dramani Mahama has announced that Government will recruit 16,000 trained teachers this year as part of efforts to strengthen Ghana’s education sector and improve teaching and learning across the country. The post Mahama announces recruitment of ",
-      "publishedAt": "2026-07-17T06:02:56+00:00",
+      "title": "Ada East District Assembly failed to invest IGF in capital projects – Auditor-General’s report",
+      "url": "https://www.ghanabusinessnews.com/2026/07/18/ada-east-district-assembly-failed-to-invest-igf-in-capital-projects-auditor-generals-report/",
+      "summary": "The Ada East District Assembly failed to commit any portion of its Internally Generated Funds (IGF) to capital projects during the 2025 financial year, contrary to the Ministry of Finance's budget guidelines, the 2025 Auditor-General's Report on the Accounts o",
+      "publishedAt": "2026-07-18T09:29:58+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Asantehene cautions judges, lawyers on chieftaincy law",
-      "url": "https://www.ghanabusinessnews.com/2026/07/17/asantehene-cautions-judges-lawyers-on-chieftaincy-law/",
-      "summary": "The Asantehene, Otumfuo Osei Tutu II, has urged members of the Bench and Bar to be well versed in the laws governing the chieftaincy institution. The post Asantehene cautions judges, lawyers on chieftaincy law appeared first on Ghana Business News .",
-      "publishedAt": "2026-07-17T05:59:51+00:00",
+      "title": "NACOC intercepts tramadol worth GH¢100m at Accra Airport, three suspects arrested",
+      "url": "https://www.ghanabusinessnews.com/2026/07/18/nacoc-intercepts-tramadol-worth-gh%c2%a2100m-at-accra-airport-three-suspects-arrested/",
+      "summary": "The Narcotics Control Commission (NACOC) has arrested three persons in connection with the attempted importation of approximately five million tablets of tramadol, with an estimated street value of about GH¢100 million. The post NACOC intercepts tramadol worth",
+      "publishedAt": "2026-07-18T09:23:51+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Bank of Ghana warns public on currency notes misuse",
-      "url": "https://www.ghanabusinessnews.com/2026/07/17/bank-of-ghana-warns-public-on-currency-notes-misuse/",
-      "summary": "The Bank of Ghana (BoG) has warned the public against using currency notes to create money bouquets, saying the practice is unlawful and damages legal tender. The post Bank of Ghana warns public on currency notes misuse appeared first on Ghana Business News .",
-      "publishedAt": "2026-07-17T05:56:56+00:00",
+      "title": "Government will not take Volta Region for granted – Mahama",
+      "url": "https://www.ghanabusinessnews.com/2026/07/18/government-will-not-take-volta-region-for-granted-mahama/",
+      "summary": "President John Dramani Mahama has assured the people of the Volta Region that his administration would not take their political support for granted but would ensure the region receives its fair share of national development. The post Government will not take V",
+      "publishedAt": "2026-07-18T09:10:17+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "MIIF’s sovereign investment approach attracts Zambia",
-      "url": "https://www.ghanabusinessnews.com/2026/07/17/miifs-sovereign-investment-approach-attracts-zambia/",
-      "summary": "Minerals Income Investment Fund (MIIF or the “FUND”) has hosted a high-level delegation from the Government of Zambia to share insights on Ghana’s transformation model for managing mineral wealth through a dedicated sovereign minerals investment fund. The post",
-      "publishedAt": "2026-07-17T05:50:57+00:00",
+      "title": "Floods affect over 5,000 people in rice farming community",
+      "url": "https://www.ghanabusinessnews.com/2026/07/18/floods-affect-over-5000-people-in-rice-farming-community/",
+      "summary": "The Weta Rice Farming Community in the Ketu North Municipality of the Volta Region, has suffered extensive damage following torrential rains that triggered severe flooding, destroying farmlands, damaging infrastructure and disrupting the livelihoods of thousan",
+      "publishedAt": "2026-07-18T08:47:49+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Climate change no longer a future threat – Minister",
-      "url": "https://www.ghanabusinessnews.com/2026/07/17/climate-change-no-longer-a-future-threat-minister/",
-      "summary": "Africa can no longer regard climate change as a future threat because its impacts are already worsening disease outbreaks, food insecurity and pressure on health systems, Mr Seidu Issifu, Minister of State for Climate Change and Sustainability, has said. The p",
-      "publishedAt": "2026-07-17T05:47:17+00:00",
+      "title": "List claiming South Africa has cancelled visa-free agreement with Ghana is fake",
+      "url": "https://www.ghanabusinessnews.com/2026/07/17/list-claiming-south-africa-has-cancelled-visa-free-agreement-with-ghana-is-fake/",
+      "summary": "There is a list making the rounds on social media that claims South Africa has cancelled the reciprocal visa-free agreement it has with Ghana. The post List claiming South Africa has cancelled visa-free agreement with Ghana is fake appeared first on Ghana Busi",
+      "publishedAt": "2026-07-17T20:26:41+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "NDPC urges institutions to align with national medium-term framework",
-      "url": "https://www.ghanabusinessnews.com/2026/07/17/ndpc-urges-institutions-to-align-with-national-medium-term-framework/",
-      "summary": "The National Development Planning Commission (NDPC) has called on all state institutions to adhere strictly to the guidelines of the national medium-term development framework as Ghana’s economy shows strong signs of recovery and transformation. The post NDPC ",
-      "publishedAt": "2026-07-17T05:38:35+00:00",
+      "title": "Minority walks out over Tribunal Bill, accuses Majority of alleged “kangaroo court” plot",
+      "url": "https://www.ghanabusinessnews.com/2026/07/17/minority-walks-out-over-tribunal-bill-accuses-majority-of-alleged-kangaroo-court-plot/",
+      "summary": "The New Patriotic Party Minority Caucus in Parliament on Thursday staged a walkout over the clause-by-clause amendment of the Tribunal Bill, accusing the Majority of attempting to create a \"parallel system\" and a \"form of kangaroo court they do not recognise. ",
+      "publishedAt": "2026-07-17T14:21:02+00:00",
       "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Smart Africa Chief Lacina Koné to speak at Pan African AI Summit 2026 in Accra",
+      "url": "https://www.myjoyonline.com/smart-africa-chief-lacina-kone-to-speak-at-pan-african-ai-summit-2026-in-accra-2/",
+      "summary": "The Pan African AI Summit (PAAIS) team has announced today that Mr Lacina Koné, Director General and Chief Executive Officer of Smart Africa, will speak at PAAIS 2026, which will take place on 22–23 September 2026 at the Kempinski Hotel Gold Coast City, Accra.",
+      "publishedAt": "2026-07-18T00:16:30+00:00",
+      "source": "MyJoyOnline Business",
+      "category": "Business news"
+    },
+    {
+      "title": "Rockland Farms links 8,000 maize farmers to poultry value chain",
+      "url": "https://www.myjoyonline.com/rockland-farms-links-8000-maize-farmers-to-poultry-value-chain/",
+      "summary": "The Chief Executive Officer of Rockland Farms, Edith Akosah Wheathland, says the company has integrated nearly 8,000 smallholder maize farmers into its poultry value chain as part of efforts to reduce production costs",
+      "publishedAt": "2026-07-17T21:12:00+00:00",
+      "source": "MyJoyOnline Business",
+      "category": "Business news"
+    },
+    {
+      "title": "Rockland Farms CEO calls for legally backed long-term poultry roadmap",
+      "url": "https://www.myjoyonline.com/rockland-farms-ceo-calls-for-legally-backed-long-term-poultry-roadmap/",
+      "summary": "The Chief Executive Officer of Rockland Farms, Edith Akosah Wheathland, has called for a 10- to 20-year legally backed national roadmap for Ghana's poultry industry, saying long-term policy certainty is critical to attracting investment, increasing local produ",
+      "publishedAt": "2026-07-17T21:01:00+00:00",
+      "source": "MyJoyOnline Business",
+      "category": "Business news"
+    },
+    {
+      "title": "Ghana’s poultry self-sufficiency stagnant at 12% – Agri-Impact CEO",
+      "url": "https://www.myjoyonline.com/ghanas-poultry-self-sufficiency-stagnant-at-12-agri-impact-ceo/",
+      "summary": "Ghana's poultry sector has recorded only marginal growth, with self-sufficiency inching from 10% to 12%, according to Dr Dan Acquaye, Chief Executive Officer of Agri-Impact Limited. The revelation comes as stakeholders question whether the country can feed its",
+      "publishedAt": "2026-07-17T17:31:02+00:00",
+      "source": "MyJoyOnline Business",
+      "category": "Business news"
+    },
+    {
+      "title": "Credit-to-GDP gap remains negative, signals credit contraction – BoG",
+      "url": "https://www.myjoyonline.com/credit-to-gdp-gap-remains-negative-signals-credit-contraction-bog/",
+      "summary": "Meanwhile, as of the end of March 2026, macro-financial risks emanating from both the global and domestic macroeconomic environment to the banking sector broadly moderated, year-on-year, supporting the continued resilience and growth of the banking sector.",
+      "publishedAt": "2026-07-17T13:12:57+00:00",
+      "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
@@ -470,46 +510,6 @@
       "url": "https://www.myjoyonline.com/there-is-a-disconnect-between-local-and-national-poultry-policy-ali-muhammed/",
       "summary": "The Chief Executive Officer of the Greater Accra Poultry Farmers Association, Ali Muhammed, has raised concerns over what he describes as a disconnect between policy formulation at the national level and the realities faced by poultry farmers across the countr",
       "publishedAt": "2026-07-17T11:32:42+00:00",
-      "source": "MyJoyOnline Business",
-      "category": "Business news"
-    },
-    {
-      "title": "Nkoko Nkitinkiti introduced to cut poultry imports and boost local production – Demordzi",
-      "url": "https://www.myjoyonline.com/nkoko-nkitinkiti-introduced-to-cut-poultry-imports-and-boost-local-production-demordzi/",
-      "summary": "The National Coordinator of the Feed Ghana Programme, Bright Demordzi, says its Nkoko Nkitinkiti programme is a key import substitution intervention designed to increase domestic poultry production, create jobs and reduce Ghana’s dependence on imported chicken",
-      "publishedAt": "2026-07-17T11:20:44+00:00",
-      "source": "MyJoyOnline Business",
-      "category": "Business news"
-    },
-    {
-      "title": "GAPFA was excluded from Feed Ghana policy formulation despite repeated requests – CEO",
-      "url": "https://www.myjoyonline.com/gapfa-was-excluded-from-feed-ghana-policy-formulation-despite-repeated-requests-ceo/",
-      "summary": "The Chief Executive Officer of the Greater Accra Poultry Farmers Association (GAPFA), Ali Muhammed, has expressed disappointment over what he describes as the exclusion of the country's largest poultry farmers' association from the formulation of the Feed Ghan",
-      "publishedAt": "2026-07-17T11:16:46+00:00",
-      "source": "MyJoyOnline Business",
-      "category": "Business news"
-    },
-    {
-      "title": "Veterinary Association calls for stronger collaboration to ensure success of Nkoko Nkitinkiti Programme",
-      "url": "https://www.myjoyonline.com/veterinary-association-calls-for-stronger-collaboration-to-ensure-success-of-nkoko-nkitinkiti-programme/",
-      "summary": "A representative of the Ghana Veterinary Medical Association, Dr Kwao Pecku, has attributed the failure of successive government poultry policies to weak implementation, inadequate collaboration with key stakeholders, and poor animal health management systems.",
-      "publishedAt": "2026-07-17T10:59:51+00:00",
-      "source": "MyJoyOnline Business",
-      "category": "Business news"
-    },
-    {
-      "title": "Nkoko Nkitinkiti alone cannot transform poultry sector without fixing feed challenges — Farmers",
-      "url": "https://www.myjoyonline.com/nkoko-nkitinkiti-alone-cannot-transform-poultry-sector-without-fixing-feed-challenges-farmers/",
-      "summary": "The Chief Executive Officer of the Greater Accra Poultry Farmers Association, Ali Muhammed, says Ghana’s efforts to revive the poultry sector must go beyond government interventions and focus on fixing the underlying challenges affecting production. He argues ",
-      "publishedAt": "2026-07-17T10:49:39+00:00",
-      "source": "MyJoyOnline Business",
-      "category": "Business news"
-    },
-    {
-      "title": "Invest in regions to create jobs, drive growth – Entrepreneurs Foundation of Ghana",
-      "url": "https://www.myjoyonline.com/invest-in-regions-to-create-jobs-drive-growth-entrepreneurs-foundation-of-ghana/",
-      "summary": "The Founder and Chairman of the Entrepreneurs Foundation of Ghana, Mr Sam Ato Gaisie, has called for deliberate investment in Ghana’s regions to stimulate industrial growth, create sustainable jobs and reduce the growing pressure on Accra. He said government s",
-      "publishedAt": "2026-07-17T10:05:32+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
@@ -658,7 +658,7 @@
       "category": "Public macro fallback"
     },
     {
-      "title": "Tribunals bill could return Ghana to “tsoo Boi” justice – Afenyo-Markin",
+      "title": "Regional Tribunal courts could cost Ghana over US$10m to operate — Dennis Dwomoh",
       "url": "https://www.myjoyonline.com/?s=91-day+treasury+bill+rate",
       "summary": "",
       "publishedAt": null,
@@ -666,7 +666,7 @@
       "category": "Public macro fallback"
     },
     {
-      "title": "TUC urges government to halt Tribunal Bill pending constitutional review",
+      "title": "‘We are toying with our democracy’ — Dr Bomfeh criticises passage of Tribunal Bill",
       "url": "https://www.myjoyonline.com/?s=91-day+treasury+bill+rate",
       "summary": "",
       "publishedAt": null,
@@ -682,7 +682,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-17T12:12:41.857611+00:00"
+      "fetchedAt": "2026-07-18T11:54:46.479483+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -691,7 +691,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-17T12:12:41.857611+00:00"
+      "fetchedAt": "2026-07-18T11:54:46.479483+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -700,7 +700,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-17T12:12:41.857611+00:00"
+      "fetchedAt": "2026-07-18T11:54:46.479483+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -709,7 +709,7 @@
       "kind": "html",
       "ok": false,
       "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
-      "fetchedAt": "2026-07-17T12:12:41.857611+00:00"
+      "fetchedAt": "2026-07-18T11:54:46.479483+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -718,7 +718,7 @@
       "kind": "html",
       "ok": false,
       "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
-      "fetchedAt": "2026-07-17T12:12:41.857611+00:00"
+      "fetchedAt": "2026-07-18T11:54:46.479483+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -727,7 +727,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-17T12:12:41.857611+00:00"
+      "fetchedAt": "2026-07-18T11:54:46.479483+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -736,7 +736,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-07-17T12:12:41.857611+00:00"
+      "fetchedAt": "2026-07-18T11:54:46.479483+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -745,7 +745,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-17T12:12:41.857611+00:00"
+      "fetchedAt": "2026-07-18T11:54:46.479483+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -754,7 +754,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-17T12:12:41.857611+00:00"
+      "fetchedAt": "2026-07-18T11:54:46.479483+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -763,7 +763,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-17T12:12:41.857611+00:00"
+      "fetchedAt": "2026-07-18T11:54:46.479483+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -772,7 +772,7 @@
       "kind": "rss",
       "ok": false,
       "error": "HTTP Error 404: Not Found",
-      "fetchedAt": "2026-07-17T12:12:41.857611+00:00"
+      "fetchedAt": "2026-07-18T11:54:46.479483+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -781,7 +781,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-17T12:12:41.857611+00:00"
+      "fetchedAt": "2026-07-18T11:54:46.479483+00:00"
     },
     {
       "name": "Citi Business News",
@@ -790,7 +790,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-17T12:12:41.857611+00:00"
+      "fetchedAt": "2026-07-18T11:54:46.479483+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -799,7 +799,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-17T12:12:41.857611+00:00"
+      "fetchedAt": "2026-07-18T11:54:46.479483+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -808,7 +808,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-17T12:12:41.857611+00:00"
+      "fetchedAt": "2026-07-18T11:54:46.479483+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -817,7 +817,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-17T12:12:41.857611+00:00"
+      "fetchedAt": "2026-07-18T11:54:46.479483+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -826,7 +826,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-17T12:12:41.857611+00:00"
+      "fetchedAt": "2026-07-18T11:54:46.479483+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -835,7 +835,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-17T12:12:41.857611+00:00"
+      "fetchedAt": "2026-07-18T11:54:46.479483+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -844,7 +844,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-17T12:12:41.857611+00:00"
+      "fetchedAt": "2026-07-18T11:54:46.479483+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -853,7 +853,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-17T12:12:41.857611+00:00"
+      "fetchedAt": "2026-07-18T11:54:46.479483+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -862,7 +862,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-17T12:12:41.857611+00:00"
+      "fetchedAt": "2026-07-18T11:54:46.479483+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -871,7 +871,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-07-17T12:12:41.857611+00:00"
+      "fetchedAt": "2026-07-18T11:54:46.479483+00:00"
     }
   ]
 }
