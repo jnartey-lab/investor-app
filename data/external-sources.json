@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-20T13:08:52.402875+00:00",
-  "generatedAtGhana": "2026-07-20T13:08:52.402875+00:00",
+  "generatedAt": "2026-07-21T12:24:37.114381+00:00",
+  "generatedAtGhana": "2026-07-21T12:24:37.114381+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
     "gseIndices": {
-      "asOf": "17/07/2026",
-      "composite": 14937.92,
-      "financialStocks": 8265.36,
+      "asOf": "20/07/2026",
+      "composite": 14931.71,
+      "financialStocks": 8257.2,
       "source": "Ghana Stock Exchange",
       "url": "https://gse.com.gh/"
     },
@@ -19,7 +19,7 @@
       "url": "https://www.bog.gov.gh/"
     },
     "fx": {
-      "usdGhsMid": 12.3,
+      "usdGhsMid": 12.2,
       "rateBasis": "public news reported rate",
       "source": "MyJoyOnline USD GHS Search (public fallback)",
       "url": "https://www.myjoyonline.com/?s=cedi+dollar",
@@ -386,6 +386,54 @@
       "category": "Sovereign credit research"
     },
     {
+      "title": "UK, GIIF, FSD Africa launch green infrastructure financing facility",
+      "url": "https://www.ghanabusinessnews.com/2026/07/21/uk-giif-fsd-africa-launch-green-infrastructure-financing-facility/",
+      "summary": "FSD Africa, the British High Commission and the Ghana Infrastructure Investment Fund (GIIF) have launched a Green Project Preparation Facility (PPF) to prepare climate-resilient infrastructure projects for investment and help bridge Ghana's infrastructure fina",
+      "publishedAt": "2026-07-21T07:10:47+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Ghana journalists urged to promote peace through conflict-sensitive reporting",
+      "url": "https://www.ghanabusinessnews.com/2026/07/21/ghana-journalists-urged-to-promote-peace-through-conflict-sensitive-reporting/",
+      "summary": "Journalists and media practitioners have been urged to uphold professionalism by adopting conflict-sensitive reporting practices that promote peace, protect persons living in vulnerabilities and prevent the escalation of tensions within communities. The post G",
+      "publishedAt": "2026-07-21T06:47:17+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Filmmakers urged to embrace digital distribution for higher revenue",
+      "url": "https://www.ghanabusinessnews.com/2026/07/21/filmmakers-urged-to-embrace-digital-distribution-for-higher-revenue/",
+      "summary": "Mr George Bosompim, an award-winning documentary filmmaker, producer and director, has urged Ghanaian filmmakers to explore digital film distribution channels beyond television and cinemas. The post Filmmakers urged to embrace digital distribution for higher r",
+      "publishedAt": "2026-07-21T06:43:58+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "German foreign minister heads to Africa on three-nation trip",
+      "url": "https://www.ghanabusinessnews.com/2026/07/20/german-foreign-minister-heads-to-africa-on-three-nation-trip/",
+      "summary": "German Foreign Minister Johann Wadephul is travelling to Africa Monday on his third visit to the continent this year, beginning in Mauritania and then moving on to Nigeria and South Africa. The post German foreign minister heads to Africa on three-nation trip ",
+      "publishedAt": "2026-07-20T17:03:21+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "MIIF posts GH¢1.1b audited profit in 2025 and achieves 2026 royalty receipts of GH¢5.39b in mid-2026",
+      "url": "https://www.ghanabusinessnews.com/2026/07/20/miif-posts-gh%c2%a21-1b-audited-profit-in-2025-and-achieves-2026-royalty-receipts-of-gh%c2%a25-39b-in-mid-2026/",
+      "summary": "The Minerals Income Investment Fund (MIIF or “the Fund”) delivered a resilient operating performance in 2025, navigating a materially changed statutory, macroeconomic, and investment environment to close the year with an audited profit of GH¢1.1 billion. The p",
+      "publishedAt": "2026-07-20T13:25:40+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "SMEs face high borrowing costs despite stable reference rate",
+      "url": "https://www.ghanabusinessnews.com/2026/07/20/smes-face-high-borrowing-costs-despite-stable-reference-rate/",
+      "summary": "Small and Medium-sized Enterprises (SMEs) faced high borrowing costs in May 2026 despite the Ghana Reference Rate remaining at 10.03 per cent, the latest Bank of Ghana Annualised Percentage Rates (APR) report. The post SMEs face high borrowing costs despite st",
+      "publishedAt": "2026-07-20T13:12:03+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
       "title": "Ghana cedi weakens against major trading currencies over five-day trading period",
       "url": "https://www.ghanabusinessnews.com/2026/07/20/ghana-cedi-weakens-against-major-trading-currencies-over-five-day-trading-period/",
       "summary": "The Ghana cedi recorded a marginal depreciation against the United States dollar, the British pounds sterling, and the euro over the five-day trading period ending July 17, 2026, according to the Bank of Ghana daily interbank exchange rate data. The post Ghana",
@@ -402,114 +450,66 @@
       "category": "Business news"
     },
     {
-      "title": "Bawumia calls for national consensus on Tribunals Bill",
-      "url": "https://www.ghanabusinessnews.com/2026/07/20/bawumia-calls-for-national-consensus-on-tribunals-bill/",
-      "summary": "The Flagbearer of the New Patriotic Party (NPP), Dr Mahamudu Bawumia, has joined organised labour and civil society in urging President John Mahama to convene broad national consultations before assenting to the Tribunals Bill, 2026. The post Bawumia calls for",
-      "publishedAt": "2026-07-20T12:45:23+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Veterinary Services Department to sue Tarkwa Municipal Assembly for encroachment",
-      "url": "https://www.ghanabusinessnews.com/2026/07/20/veterinary-services-department-to-sue-tarkwa-municipal-assembly-for-encroachment/",
-      "summary": "The Veterinary Services Department (VSD) has announced plans to take legal action against the Tarkwa Nsuaem Municipal Assembly (TNMA) over the alleged encroachment on portions of the Tarkwa Veterinary Investigation Sheep Farm at Kwabedu, near Tarkwa. The post ",
-      "publishedAt": "2026-07-20T11:37:06+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Accra Declaration advances political finance reforms in Africa",
-      "url": "https://www.ghanabusinessnews.com/2026/07/20/accra-declaration-advances-political-finance-reforms-in-africa/",
-      "summary": "The High-Level Regional Convening on the Financialisation of Politics in Africa has adopted the Accra Declaration, prescribing reforms for accountability in political financing. The post Accra Declaration advances political finance reforms in Africa appeared f",
-      "publishedAt": "2026-07-20T11:24:32+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "The Zeepay saga: Did the CEO use a personal MTN wallet for company transactions?",
-      "url": "https://www.ghanabusinessnews.com/2026/07/20/the-zeepay-saga-did-the-ceo-use-a-personal-mtn-wallet-for-company-transactions/",
-      "summary": "As legal proceedings involving Zeepay Ghana Limited continue, documents filed in court and information emerging from related proceedings have raised questions about some of the allegations surrounding the company, its founder and Chief Executive Officer, Andre",
-      "publishedAt": "2026-07-20T10:54:33+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Police impound over 700 vehicles in Western Region for using unauthorised lamps, sirens",
-      "url": "https://www.ghanabusinessnews.com/2026/07/20/police-impound-over-700-vehicles-in-western-region-for-using-unauthorised-lamps-sirens/",
-      "summary": "The Motor Transport and Traffic Department (MTTD) of the Ghana Police Service has impounded more than 700 vehicles and removed illegally installed sirens, beacon and strobe lights, and other unauthorised lamps during an operation in the Western Region. The pos",
-      "publishedAt": "2026-07-20T10:34:19+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Ghana government urged to prioritise irrigation investment",
-      "url": "https://www.ghanabusinessnews.com/2026/07/20/ghana-government-urged-to-prioritise-irrigation-investment/",
-      "summary": "Dr Charles Nyaaba, the Chief Executive Officer of the Upper East Farmers' Cooperative Credit Union, has called on the Government to make strategic The post Ghana government urged to prioritise irrigation investment appeared first on Ghana Business News .",
-      "publishedAt": "2026-07-20T05:52:43+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "BoG warns global oil price volatility could heighten inflation risks for Ghana",
-      "url": "https://www.myjoyonline.com/bog-warns-global-oil-price-volatility-could-heighten-inflation-risks-for-ghana/",
-      "summary": "The Governor of the Bank of Ghana (BoG), Dr. Johnson Asiama, has warned that renewed tensions in the Middle East and rising global oil prices could pose fresh inflation risks for Ghana, as the Monetary Policy Committee begins deliberations on the country’s mon",
-      "publishedAt": "2026-07-20T12:54:17+00:00",
+      "title": "IFRIG seals landmark partnerships with Malaysia, Indonesia Universities to boost non-interest banking",
+      "url": "https://www.myjoyonline.com/ifrig-seals-landmark-partnerships-with-malaysia-indonesia-universities-to-boost-non-interest-banking/",
+      "summary": "The Islamic Finance Research Institute of Ghana (IFRIG) has taken a bold step toward transforming the country’s financial landscape, signing two strategic Memorandums of Understanding with top-tier Asian universities during a historic training tour of Malaysia",
+      "publishedAt": "2026-07-21T12:12:24+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "IFCO 2026 to position Istanbul as global hub for fashion, textiles and apparel trade",
-      "url": "https://www.myjoyonline.com/ifco-2026-to-position-istanbul-as-global-hub-for-fashion-textiles-and-apparel-trade/",
-      "summary": "The Istanbul Fashion Connection (IFCO) 2026 is set to bring together leading global fashion brands, manufacturers, buyers and designers when it returns to the Istanbul Expo Centre in August next year, reinforcing Türkiye’s growing role in the international app",
-      "publishedAt": "2026-07-20T12:37:10+00:00",
+      "title": "West Africa losing 8 million shea trees annually, Global Shea Alliance warns",
+      "url": "https://www.myjoyonline.com/west-africa-losing-8-million-shea-trees-annually-global-shea-alliance-warns/",
+      "summary": "The Global Shea Alliance (GSA), a major stakeholder in the shea industry, has raised concerns over what it describes as unprecedented pressure on shea parklands across West Africa, warning that the estimated annual loss of eight million shea trees threatens th",
+      "publishedAt": "2026-07-21T12:01:28+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Supreme Court dismisses APSL bid to revive US$33.3m Boankra arbitration award",
-      "url": "https://www.myjoyonline.com/supreme-court-dismisses-apsl-bid-to-revive-us33-3m-boankra-arbitration-award/",
-      "summary": "The Supreme Court of Ghana has unanimously dismissed an application by Ashanti Port Services Limited (APSL) that sought to overturn a High Court decision nullifying a US$33.3 million arbitral award originally granted to APSL against Justmoh Construction Limite",
-      "publishedAt": "2026-07-20T12:19:17+00:00",
+      "title": "BOSTenergies concludes 2026 Health, Safety and Environment Week",
+      "url": "https://www.myjoyonline.com/bostenergies-concludes-2026-health-safety-and-environment-week/",
+      "summary": "BOST Energies Limited Company (BOSTenergies) has concluded its 2026 Health, Safety and Environment (HSE) Week with a colourful closing durbar, reaffirming the company's commitment to fostering a strong culture of health, safety, and environmental stewardship a",
+      "publishedAt": "2026-07-21T11:09:13+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "BoG signals end of disinflation, puts inflation risks under spotlight",
-      "url": "https://www.myjoyonline.com/bog-signals-end-of-disinflation-puts-inflation-risks-under-spotlight/",
-      "summary": "The Governor of the Bank of Ghana (BoG), Dr. Johnson Asiama, says the country’s prolonged period of disinflation has come to an end, with the Monetary Policy Committee (MPC) now assessing whether the recent rise in inflation is temporary or signals a more pers",
-      "publishedAt": "2026-07-20T12:11:40+00:00",
+      "title": "Ghana, World Gold Council sign $250,000 deal to clean up artisanal mining sector",
+      "url": "https://www.myjoyonline.com/ghana-world-gold-council-sign-250000-deal-to-clean-up-artisanal-mining-sector/",
+      "summary": "Government and the World Gold Council (WGC) have signed a strategic partnership aimed at formalising artisanal and small-scale gold mining (ASGM), improving supply chain integrity and reducing illicit gold flows.",
+      "publishedAt": "2026-07-21T10:33:00+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "BoG ends GoldBod prefinancing arrangement",
-      "url": "https://www.myjoyonline.com/bog-ends-goldbod-prefinancing-arrangement/",
-      "summary": "The Governor explained that the Monetary Policy Committee will assess how the move has affected liquidity conditions, monetary policy transmission and broader macroeconomic outcomes as it deliberates on the appropriate policy stance.",
-      "publishedAt": "2026-07-20T11:50:38+00:00",
+      "title": "Cedi slides again as dollar demand outpaces supply, depreciation hits 8.89%",
+      "url": "https://www.myjoyonline.com/cedi-slides-again-as-dollar-demand-outpaces-supply-depreciation-hits-8-89/",
+      "summary": "The Ghana cedi has come under renewed pressure as demand for foreign exchange continues to outstrip market supply, pushing the local currency into further depreciation.",
+      "publishedAt": "2026-07-21T07:22:24+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "D. A. Twum Jnr. Fellowship announces inaugural cohort and commences programme",
-      "url": "https://www.myjoyonline.com/d-a-twum-jnr-fellowship-announces-inaugural-cohort-and-commences-programme/",
-      "summary": "Throughout the Fellowship, participants will engage in masterclasses led by industry professionals, agency visits, mentorship sessions, and hands-on learning experiences aimed at preparing them for the realities and opportunities within Ghana's creative and ma",
-      "publishedAt": "2026-07-20T11:43:38+00:00",
+      "title": "Cedi weakens modestly in interbank market but remans stable in retail market; one dollar equals GH¢12.20",
+      "url": "https://www.myjoyonline.com/cedi-weakens-modestly-in-interbank-market-but-remans-stable-in-retail-market-one-dollar-equals-gh%c2%a212-20/",
+      "summary": "In the retail market, the cedi remained unchanged to the dollar at an average of GH¢12.05, while it rose to GH¢15.95 from GH¢15.75, with the euro/Ghana cedi edging down slightly to GH¢13.65 from GH¢13.70.",
+      "publishedAt": "2026-07-21T07:03:00+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "BoG warns rising transport, haulage costs and potential fare hikes could fuel inflation",
-      "url": "https://www.myjoyonline.com/bog-warns-rising-transport-haulage-costs-and-potential-fare-hikes-could-fuel-inflation/",
-      "summary": "\"Headline inflation has risen for three consecutive months from 3.2 percent in March to 5.3 percent in June, driven largely by transport and haulage prices.\"",
-      "publishedAt": "2026-07-20T11:32:54+00:00",
+      "title": "Inflation to return to medium-term target of 8 ± 2% – BoG",
+      "url": "https://www.myjoyonline.com/inflation-to-return-to-medium-term-target-of-8-%c2%b1-2-bog/",
+      "summary": "According to the Central Bank’s May 2026 Monetary Policy Report, headline inflation picked up marginally in April 2026, marking the first increase since the disinflation process began in December 2024.",
+      "publishedAt": "2026-07-21T06:58:57+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Ghana’s rural banking story is one of greatest innovations in financial inclusion – First Deputy Governor",
-      "url": "https://www.myjoyonline.com/ghanas-rural-banking-story-is-one-of-greatest-innovations-in-financial-inclusion-first-deputy-governor/",
-      "summary": "He, therefore, argued that one cannot celebrate financial inclusion and local financial intermediation without talking about rural banking, now called Community Banking in Ghana.",
-      "publishedAt": "2026-07-20T11:24:35+00:00",
+      "title": "GEPA, Netherlands CBI sign MoU to formalise trade partnership",
+      "url": "https://www.myjoyonline.com/gepa-netherlands-cbi-sign-mou-to-formalise-trade-partnership/",
+      "summary": "The Ghana Export Promotion Authority (GEPA) and the Netherlands’ CBI (Centre for the Promotion of sustainable production and trade between low- and middle- income countries and the Netherlands and Europe), have officially signed a historic Memorandum of Unders",
+      "publishedAt": "2026-07-21T06:40:08+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
@@ -530,7 +530,7 @@
       "category": "Public FX fallback"
     },
     {
-      "title": "Cedi records mixed performance; going for GH¢12.10 against dollar at forex bureaus",
+      "title": "Cedi slides again as dollar demand outpaces supply, depreciation hits 8.89%",
       "url": "https://www.myjoyonline.com/?s=cedi+dollar",
       "summary": "",
       "publishedAt": null,
@@ -538,7 +538,7 @@
       "category": "Public FX fallback"
     },
     {
-      "title": "BoG confident cedi stability will continue as dollar pressures ease",
+      "title": "Cedi weakens modestly in interbank market but remans stable in retail market; one dollar equals GH¢12.20",
       "url": "https://www.myjoyonline.com/?s=cedi+dollar",
       "summary": "",
       "publishedAt": null,
@@ -658,7 +658,7 @@
       "category": "Public macro fallback"
     },
     {
-      "title": "Vicky Bright says Ghana’s proposed tribunals bill is constitutionally problematic, calls for public reassurance",
+      "title": "Exchange rate has remained broadly stable despite global pressures – BoG Governor Asiama",
       "url": "https://www.myjoyonline.com/?s=91-day+treasury+bill+rate",
       "summary": "",
       "publishedAt": null,
@@ -666,7 +666,7 @@
       "category": "Public macro fallback"
     },
     {
-      "title": "OmniBSIC Bank offers lowest household loan rate in May – BoG APR data",
+      "title": "Vicky Bright says Ghana’s proposed tribunals bill is constitutionally problematic, calls for public reassurance",
       "url": "https://www.myjoyonline.com/?s=91-day+treasury+bill+rate",
       "summary": "",
       "publishedAt": null,
@@ -682,7 +682,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-20T13:08:52.402875+00:00"
+      "fetchedAt": "2026-07-21T12:24:37.114381+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -691,7 +691,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-20T13:08:52.402875+00:00"
+      "fetchedAt": "2026-07-21T12:24:37.114381+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -700,7 +700,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-20T13:08:52.402875+00:00"
+      "fetchedAt": "2026-07-21T12:24:37.114381+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -709,7 +709,7 @@
       "kind": "html",
       "ok": false,
       "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
-      "fetchedAt": "2026-07-20T13:08:52.402875+00:00"
+      "fetchedAt": "2026-07-21T12:24:37.114381+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -718,7 +718,7 @@
       "kind": "html",
       "ok": false,
       "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
-      "fetchedAt": "2026-07-20T13:08:52.402875+00:00"
+      "fetchedAt": "2026-07-21T12:24:37.114381+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -727,7 +727,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-20T13:08:52.402875+00:00"
+      "fetchedAt": "2026-07-21T12:24:37.114381+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -736,7 +736,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-07-20T13:08:52.402875+00:00"
+      "fetchedAt": "2026-07-21T12:24:37.114381+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -745,7 +745,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-20T13:08:52.402875+00:00"
+      "fetchedAt": "2026-07-21T12:24:37.114381+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -754,7 +754,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-20T13:08:52.402875+00:00"
+      "fetchedAt": "2026-07-21T12:24:37.114381+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -763,7 +763,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-20T13:08:52.402875+00:00"
+      "fetchedAt": "2026-07-21T12:24:37.114381+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -772,7 +772,7 @@
       "kind": "rss",
       "ok": false,
       "error": "HTTP Error 404: Not Found",
-      "fetchedAt": "2026-07-20T13:08:52.402875+00:00"
+      "fetchedAt": "2026-07-21T12:24:37.114381+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -781,7 +781,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-20T13:08:52.402875+00:00"
+      "fetchedAt": "2026-07-21T12:24:37.114381+00:00"
     },
     {
       "name": "Citi Business News",
@@ -790,7 +790,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-20T13:08:52.402875+00:00"
+      "fetchedAt": "2026-07-21T12:24:37.114381+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -799,7 +799,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-20T13:08:52.402875+00:00"
+      "fetchedAt": "2026-07-21T12:24:37.114381+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -808,7 +808,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-20T13:08:52.402875+00:00"
+      "fetchedAt": "2026-07-21T12:24:37.114381+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -817,7 +817,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-20T13:08:52.402875+00:00"
+      "fetchedAt": "2026-07-21T12:24:37.114381+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -826,7 +826,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-20T13:08:52.402875+00:00"
+      "fetchedAt": "2026-07-21T12:24:37.114381+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -835,7 +835,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-20T13:08:52.402875+00:00"
+      "fetchedAt": "2026-07-21T12:24:37.114381+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -844,7 +844,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-20T13:08:52.402875+00:00"
+      "fetchedAt": "2026-07-21T12:24:37.114381+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -853,7 +853,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-20T13:08:52.402875+00:00"
+      "fetchedAt": "2026-07-21T12:24:37.114381+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -862,7 +862,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-20T13:08:52.402875+00:00"
+      "fetchedAt": "2026-07-21T12:24:37.114381+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -871,7 +871,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-07-20T13:08:52.402875+00:00"
+      "fetchedAt": "2026-07-21T12:24:37.114381+00:00"
     }
   ]
 }
