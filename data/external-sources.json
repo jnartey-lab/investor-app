@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-24T12:21:59.541728+00:00",
-  "generatedAtGhana": "2026-07-24T12:21:59.541728+00:00",
+  "generatedAt": "2026-07-25T12:03:59.437190+00:00",
+  "generatedAtGhana": "2026-07-25T12:03:59.437190+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
     "gseIndices": {
-      "asOf": "23/07/2026",
-      "composite": 15266.56,
-      "financialStocks": 8227.27,
+      "asOf": "24/07/2026",
+      "composite": 15330.57,
+      "financialStocks": 8281.03,
       "source": "Ghana Stock Exchange",
       "url": "https://gse.com.gh/"
     },
@@ -386,67 +386,107 @@
       "category": "Sovereign credit research"
     },
     {
-      "title": "Ghana government cites budget outlays to refute underspending claims",
-      "url": "https://www.ghanabusinessnews.com/2026/07/24/ghana-government-cites-budget-outlays-to-refute-underspending-claims/",
-      "summary": "The government has rejected claims of underspending, saying it has met major spending commitments while maintaining fiscal discipline and supporting Ghana's economic recovery. The post Ghana government cites budget outlays to refute underspending claims appear",
-      "publishedAt": "2026-07-24T11:00:26+00:00",
+      "title": "Ghana government advances Free Primary Healthcare rollout",
+      "url": "https://www.ghanabusinessnews.com/2026/07/25/ghana-government-advances-free-primary-healthcare-rollout/",
+      "summary": "Government has reaffirmed its commitment to equitable access to quality healthcare, announcing progress in the rollout of the Free Primary Healthcare Policy. The post Ghana government advances Free Primary Healthcare rollout appeared first on Ghana Business Ne",
+      "publishedAt": "2026-07-25T08:05:20+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Ghana and Tanzania strengthen bilateral ties",
-      "url": "https://www.ghanabusinessnews.com/2026/07/24/ghana-and-tanzania-strengthen-bilateral-ties/",
-      "summary": "President John Dramani Mahama and his Tanzanian counterpart President Samia Suluhu Hassan, have held a bilateral meeting on the sidelines of the African Union (AU) Extraordinary Health Summit in Accra. The post Ghana and Tanzania strengthen bilateral ties appe",
-      "publishedAt": "2026-07-24T07:18:20+00:00",
+      "title": "Wontumi’s 20-year sentence",
+      "url": "https://www.ghanabusinessnews.com/2026/07/25/wontumis-20-year-sentence/",
+      "summary": "Ghana’s public life does not pause for court calendars; it runs on belief—on whether citizens think institutions can be trusted, whether power can be restrained, and whether the law is applied with the same firmness to the powerful as it is to the ordinary. Th",
+      "publishedAt": "2026-07-25T07:49:06+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "CSIR-SARI and AATF train SMEs on biofortified maize value chain",
-      "url": "https://www.ghanabusinessnews.com/2026/07/24/csir-sari-and-aatf-train-smes-on-biofortified-maize-value-chain/",
-      "summary": "Sixty small and medium-scale enterprises (SMEs) have undergone training on the biofortified maize value chain to strengthen their agribusiness and financial management capacities. The post CSIR-SARI and AATF train SMEs on biofortified maize value chain appeare",
-      "publishedAt": "2026-07-24T07:11:12+00:00",
+      "title": "Government to recapitalise Bank of Ghana annually",
+      "url": "https://www.ghanabusinessnews.com/2026/07/25/government-to-recapitalise-bank-of-ghana-annually/",
+      "summary": "The government will make annual financial allocations to recapitalise the Bank of Ghana (BoG) until its equity is fully restored, Finance Minister Dr Cassiel Ato Baah Forson has announced. The post Government to recapitalise Bank of Ghana annually appeared fir",
+      "publishedAt": "2026-07-25T07:36:53+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Mid-year budget review full of empty rhetoric – Afenyo-Markin",
-      "url": "https://www.ghanabusinessnews.com/2026/07/24/mid-year-budget-review-full-of-empty-rhetoric-afenyo-markin/",
-      "summary": "Mr Alexander Afenyo-Markin, the Minority Leader in Parliament, has dismissed the government’s Mid-Year Budget Review as uninspiring, describing it as “full of English and empty payment.” The post Mid-year budget review full of empty rhetoric – Afenyo-Markin ap",
-      "publishedAt": "2026-07-24T07:04:52+00:00",
+      "title": "Ghana government begins 87 road projects under Big Push Programme – Minister",
+      "url": "https://www.ghanabusinessnews.com/2026/07/25/ghana-government-begins-87-road-projects-under-big-push-programme-minister/",
+      "summary": "The Ghana government has commenced 87 transport infrastructure projects across the country's 16 regions under the Big Push Infrastructure Programme, the Minister of Finance has announced. The post Ghana government begins 87 road projects under Big Push Program",
+      "publishedAt": "2026-07-25T07:24:03+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "AU Commission calls for advancing Africa’s health agenda",
-      "url": "https://www.ghanabusinessnews.com/2026/07/24/au-commission-calls-for-advancing-africas-health-agenda/",
-      "summary": "Mr Mahmoud Ali Youssouf, the Chairperson of the African Union (AU) Commission, has called for a decisive shift from commitments to implementation in advancing Africa's health agenda. The post AU Commission calls for advancing Africa’s health agenda appeared fi",
-      "publishedAt": "2026-07-24T06:58:58+00:00",
+      "title": "Ghana cautious on capital market borrowing",
+      "url": "https://www.ghanabusinessnews.com/2026/07/25/ghana-cautious-on-capital-market-borrowing/",
+      "summary": "Ghana will not rush to borrow from international capital markets despite favourable credit ratings as the country moves out of debt default. The post Ghana cautious on capital market borrowing appeared first on Ghana Business News .",
+      "publishedAt": "2026-07-25T06:55:14+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Ministry of Fisheries clears GH¢174m in premix fuel debt – Minister",
-      "url": "https://www.ghanabusinessnews.com/2026/07/24/ministry-of-fisheries-clears-gh%c2%a2174m-in-premix-fuel-debt-minister/",
-      "summary": "The Ministry of Fisheries and Aquaculture has paid more than GH¢174 million to premix fuel suppliers to clear legacy under-recovery debts. The post Ministry of Fisheries clears GH¢174m in premix fuel debt – Minister appeared first on Ghana Business News .",
-      "publishedAt": "2026-07-24T06:49:37+00:00",
+      "title": "Ghana government nears $500m World Bank oil palm financing deal",
+      "url": "https://www.ghanabusinessnews.com/2026/07/25/ghana-government-nears-500m-world-bank-oil-palm-financing-deal/",
+      "summary": "The Ghana government says it is finalising a $500 million World Bank financing agreement to support large-scale commercial oil palm development through private sector lending. The post Ghana government nears $500m World Bank oil palm financing deal appeared fi",
+      "publishedAt": "2026-07-25T06:37:41+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Terrorism fatalities in West Africa rise 14% in first half of 2026",
-      "url": "https://www.ghanabusinessnews.com/2026/07/24/terrorism-fatalities-in-west-africa-rise-14-in-first-half-of-2026/",
-      "summary": "West Africa recorded more than 2,000 terrorist attacks resulting in over 8,000 deaths, with fatalities rising by 14 per cent in the first half of 2026. The post Terrorism fatalities in West Africa rise 14% in first half of 2026 appeared first on Ghana Business",
-      "publishedAt": "2026-07-24T06:45:46+00:00",
+      "title": "Ghana government advances gas processing, power plant projects – Minister",
+      "url": "https://www.ghanabusinessnews.com/2026/07/25/ghana-government-advances-gas-processing-power-plant-projects-minister/",
+      "summary": "The Ghana government is advancing plans to develop a modular gas processing facility and a 1,200-megawatt state-owned gas-fired power plant. The post Ghana government advances gas processing, power plant projects – Minister appeared first on Ghana Business New",
+      "publishedAt": "2026-07-25T06:30:48+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Bank of Ghana opens policy deliberations to academia",
-      "url": "https://www.ghanabusinessnews.com/2026/07/24/bank-of-ghana-opens-policy-deliberations-to-academia/",
-      "summary": "Students of the University of Ghana have observed first‑hand how the Bank of Ghana’s (BoG) Monetary Policy Committee (MPC) determines the country’s benchmark interest rate. The post Bank of Ghana opens policy deliberations to academia appeared first on Ghana B",
-      "publishedAt": "2026-07-24T06:39:04+00:00",
+      "title": "Germany puts €1.7b into digital tech upgrade for railways",
+      "url": "https://www.ghanabusinessnews.com/2026/07/25/germany-puts-e1-7b-into-digital-tech-upgrade-for-railways/",
+      "summary": "Germany's Federal Transport Ministry is making around €1.7 billion ($1.93 billion) available until the end of 2030 to equip trains with digital technology for the European Train Control System (ETCS). The post Germany puts €1.7b into digital tech upgrade for r",
+      "publishedAt": "2026-07-25T06:27:05+00:00",
       "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "The AI infrastructure race is not the only race that matters",
+      "url": "https://www.myjoyonline.com/the-ai-infrastructure-race-is-not-the-only-race-that-matters/",
+      "summary": "Every technological revolution begins with what we can see. Factories rise. Railways stretch across continents. Power stations illuminate cities. Fiber-optic cables cross oceans. Data centers fill landscapes. History teaches us to admire the infrastructure. Bu",
+      "publishedAt": "2026-07-24T18:32:47+00:00",
+      "source": "MyJoyOnline Business",
+      "category": "Business news"
+    },
+    {
+      "title": "2026 Ga Homowo Health Walk set for bigger show as Bills Micro Credit donates GH¢350,000",
+      "url": "https://www.myjoyonline.com/2026-ga-homowo-health-walk-set-for-bigger-show-as-bills-micro-credit-donates-gh%c2%a2350000/",
+      "summary": "This year's Ga Homowo Health Walk is shaping up to be one of the biggest yet, with organisers receiving a GH¢350,000 sponsorship package from Bills Micro Credit Limited to support the annual event scheduled for Saturday, August 1.",
+      "publishedAt": "2026-07-24T18:23:11+00:00",
+      "source": "MyJoyOnline Business",
+      "category": "Business news"
+    },
+    {
+      "title": "Africa’s future depends on moving people, skills and ideas across borders — Dr Yamson",
+      "url": "https://www.myjoyonline.com/africas-future-depends-on-moving-people-skills-and-ideas-across-borders-dr-yamson/",
+      "summary": "Speaking at the Kgalema Motlanthe Winter Seminar 2026 in Johannesburg, held under the theme “Migration as a catalyst for African integration, innovation and shared prosperity,” Dr Yamson said well-managed migration has historically been a major driver of econo",
+      "publishedAt": "2026-07-24T18:08:22+00:00",
+      "source": "MyJoyOnline Business",
+      "category": "Business news"
+    },
+    {
+      "title": "Africa must turn its mineral wealth into jobs and growth – Annoh-Dompreh",
+      "url": "https://www.myjoyonline.com/africa-must-turn-its-mineral-wealth-into-jobs-and-growth-annoh-dompreh/",
+      "summary": "Minority Chief Whip and Nsawam-Adoagyiri MP, Frank Annoh-Dompreh, has urged African leaders to convert the continent’s vast natural resources into real economic development rather than allowing others to reap the greatest benefits.",
+      "publishedAt": "2026-07-24T14:47:25+00:00",
+      "source": "MyJoyOnline Business",
+      "category": "Business news"
+    },
+    {
+      "title": "ASEC welcomes 2026 Mid-Year Budget but urges stronger focus on green transition",
+      "url": "https://www.myjoyonline.com/asec-welcomes-2026-mid-year-budget-but-urges-stronger-focus-on-green-transition/",
+      "summary": "The Africa Sustainable Energy Centre (ASEC) has welcomed several energy sector interventions announced in the 2026 Mid-Year Budget Review but has urged the government to adopt a more balanced approach that aligns with Ghana's long-term energy transition and cl",
+      "publishedAt": "2026-07-24T14:23:39+00:00",
+      "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
@@ -466,50 +506,10 @@
       "category": "Business news"
     },
     {
-      "title": "THE LAW 101: Akonta re-enter Samreboi: Unratified leases, no permits, and civil trespass",
+      "title": "THE LAW 101: Akonta re-enter Samreboi: Unratified leases, no permits, and civil trespass (Part III)",
       "url": "https://www.myjoyonline.com/law-101-akonta-re-enter-samreboi-unratified-leases-no-permits-and-civil-trespass/",
       "summary": "The judicial chronicle of Akonta Mining Company Limited and its directing mind, Bernard Antwi Boasiako, famously known as Chairman Wontumi, presents one of the most revealing case studies in modern Ghanaian natural resource litigation. Reading these decisions ",
       "publishedAt": "2026-07-24T03:03:21+00:00",
-      "source": "MyJoyOnline Business",
-      "category": "Business news"
-    },
-    {
-      "title": "‘We’re not going back to haircuts’ – Ato Forson warns against reckless spending",
-      "url": "https://www.myjoyonline.com/were-not-going-back-to-haircuts-ato-forson-warns-against-reckless-spending/",
-      "summary": "Finance Minister Dr Cassiel Ato Forson has delivered a firm warning that the government will not abandon fiscal discipline for political convenience, insisting Ghana cannot afford to return to the economic crisis that forced painful debt restructuring.",
-      "publishedAt": "2026-07-24T02:34:00+00:00",
-      "source": "MyJoyOnline Business",
-      "category": "Business news"
-    },
-    {
-      "title": "Spend like there’s no tomorrow and Ghana will crash again – Ato Forson",
-      "url": "https://www.myjoyonline.com/spend-like-theres-no-tomorrow-and-ghana-will-crash-again-ato-forson/",
-      "summary": "Finance Minister Dr Cassiel Ato Forson has defended the government’s restrained spending approach, warning that abandoning fiscal discipline would plunge Ghana back into economic turmoil and undermine the country’s hard-won recovery.",
-      "publishedAt": "2026-07-23T23:35:00+00:00",
-      "source": "MyJoyOnline Business",
-      "category": "Business news"
-    },
-    {
-      "title": "Ghana on course to exit IMF as fiscal targets are beaten – Ato Forson",
-      "url": "https://www.myjoyonline.com/ghana-on-course-to-exit-imf-as-fiscal-targets-are-beaten-ato-forson/",
-      "summary": "Finance Minister Dr Cassiel Ato Forson says Ghana is firmly on course to exit the International Monetary Fund (IMF) programme after outperforming key fiscal targets agreed under the country’s $3 billion bailout.",
-      "publishedAt": "2026-07-23T23:18:00+00:00",
-      "source": "MyJoyOnline Business",
-      "category": "Business news"
-    },
-    {
-      "title": "‘Don’t blame us’ – NPP locked Ghana into IMF spending rules, says Ato Forson",
-      "url": "https://www.myjoyonline.com/dont-blame-us-npp-locked-ghana-into-imf-spending-rules-says-ato-forson/",
-      "summary": "He insists the Mahama administration is merely fulfilling binding commitments made by the previous Akufo-Addo government under Ghana’s $3 billion International Monetary Fund (IMF) programme.",
-      "publishedAt": "2026-07-23T22:52:00+00:00",
-      "source": "MyJoyOnline Business",
-      "category": "Business news"
-    },
-    {
-      "title": "Google fined €890m by EU for favouring its own apps over rivals",
-      "url": "https://www.myjoyonline.com/google-fined-e890m-by-eu-for-favouring-its-own-apps-over-rivals/",
-      "summary": "Google has been fined €890m (£759m) by the EU for allegedly abusing its power by favouring its own apps and services over those from rivals.",
-      "publishedAt": "2026-07-23T22:24:00+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
@@ -682,7 +682,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-24T12:21:59.541728+00:00"
+      "fetchedAt": "2026-07-25T12:03:59.437190+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -691,7 +691,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-24T12:21:59.541728+00:00"
+      "fetchedAt": "2026-07-25T12:03:59.437190+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -700,7 +700,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-24T12:21:59.541728+00:00"
+      "fetchedAt": "2026-07-25T12:03:59.437190+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -709,7 +709,7 @@
       "kind": "html",
       "ok": false,
       "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
-      "fetchedAt": "2026-07-24T12:21:59.541728+00:00"
+      "fetchedAt": "2026-07-25T12:03:59.437190+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -718,7 +718,7 @@
       "kind": "html",
       "ok": false,
       "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
-      "fetchedAt": "2026-07-24T12:21:59.541728+00:00"
+      "fetchedAt": "2026-07-25T12:03:59.437190+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -727,7 +727,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-24T12:21:59.541728+00:00"
+      "fetchedAt": "2026-07-25T12:03:59.437190+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -736,7 +736,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-07-24T12:21:59.541728+00:00"
+      "fetchedAt": "2026-07-25T12:03:59.437190+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -745,7 +745,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-24T12:21:59.541728+00:00"
+      "fetchedAt": "2026-07-25T12:03:59.437190+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -754,7 +754,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-24T12:21:59.541728+00:00"
+      "fetchedAt": "2026-07-25T12:03:59.437190+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -763,7 +763,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-24T12:21:59.541728+00:00"
+      "fetchedAt": "2026-07-25T12:03:59.437190+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -772,7 +772,7 @@
       "kind": "rss",
       "ok": false,
       "error": "HTTP Error 404: Not Found",
-      "fetchedAt": "2026-07-24T12:21:59.541728+00:00"
+      "fetchedAt": "2026-07-25T12:03:59.437190+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -781,7 +781,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-24T12:21:59.541728+00:00"
+      "fetchedAt": "2026-07-25T12:03:59.437190+00:00"
     },
     {
       "name": "Citi Business News",
@@ -790,7 +790,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-24T12:21:59.541728+00:00"
+      "fetchedAt": "2026-07-25T12:03:59.437190+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -799,7 +799,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-24T12:21:59.541728+00:00"
+      "fetchedAt": "2026-07-25T12:03:59.437190+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -808,7 +808,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-24T12:21:59.541728+00:00"
+      "fetchedAt": "2026-07-25T12:03:59.437190+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -817,7 +817,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-24T12:21:59.541728+00:00"
+      "fetchedAt": "2026-07-25T12:03:59.437190+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -826,7 +826,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-24T12:21:59.541728+00:00"
+      "fetchedAt": "2026-07-25T12:03:59.437190+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -835,7 +835,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-24T12:21:59.541728+00:00"
+      "fetchedAt": "2026-07-25T12:03:59.437190+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -844,7 +844,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-24T12:21:59.541728+00:00"
+      "fetchedAt": "2026-07-25T12:03:59.437190+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -853,7 +853,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-24T12:21:59.541728+00:00"
+      "fetchedAt": "2026-07-25T12:03:59.437190+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -862,7 +862,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-07-24T12:21:59.541728+00:00"
+      "fetchedAt": "2026-07-25T12:03:59.437190+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -871,7 +871,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-07-24T12:21:59.541728+00:00"
+      "fetchedAt": "2026-07-25T12:03:59.437190+00:00"
     }
   ]
 }
