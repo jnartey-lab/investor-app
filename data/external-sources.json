@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-03T13:42:40.660455+00:00",
-  "generatedAtGhana": "2026-08-03T13:42:40.660455+00:00",
+  "generatedAt": "2026-08-04T13:04:32.893353+00:00",
+  "generatedAtGhana": "2026-08-04T13:04:32.893353+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
     "gseIndices": {
-      "asOf": "31/07/2026",
-      "composite": 15434.87,
-      "financialStocks": 8238.07,
+      "asOf": "03/08/2026",
+      "composite": 15362.52,
+      "financialStocks": 8203.68,
       "source": "Ghana Stock Exchange",
       "url": "https://gse.com.gh/"
     },
@@ -386,6 +386,46 @@
       "category": "Sovereign credit research"
     },
     {
+      "title": "Ghana and Malta launch project to strengthen ethics education",
+      "url": "https://www.ghanabusinessnews.com/2026/08/04/ghana-and-malta-launch-project-to-strengthen-ethics-education/",
+      "summary": "Ghana and Malta have launched a partnership to strengthen ethics education among children and young people through values-based learning, teacher training and policy support. The post Ghana and Malta launch project to strengthen ethics education appeared first",
+      "publishedAt": "2026-08-04T07:05:02+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Ghana’s revenue reforms failing structural test – Prof Bokpin",
+      "url": "https://www.ghanabusinessnews.com/2026/08/04/ghanas-revenue-reforms-failing-structural-test-prof-bokpin/",
+      "summary": "Professor Godfred Alufar Bokpin, Economist, says Ghana’s International Monetary Fund (IMF)-backed reforms have failed to deliver the expected structural improvement in domestic revenue collection. The post Ghana’s revenue reforms failing structural test – Prof",
+      "publishedAt": "2026-08-04T06:59:38+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Headmaster advocates stricter measures to curb examination malpractice",
+      "url": "https://www.ghanabusinessnews.com/2026/08/04/headmaster-advocates-stricter-measures-to-curb-examination-malpractice/",
+      "summary": "Mr Frederick Jude Mwinwule, the Headmaster of St. Francis of Assisi Roman Catholic School at Awoshie-Anyaa, has called for stricter enforcement of measures to eliminate examination malpractice during the Basic Education Certificate Examination (BECE). The post",
+      "publishedAt": "2026-08-04T06:53:52+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "PURC engages residential and industrial consumers to assess utility service delivery",
+      "url": "https://www.ghanabusinessnews.com/2026/08/04/purc-engages-residential-and-industrial-consumers-to-assess-utility-service-delivery/",
+      "summary": "The Ashanti Regional Office of the Public Utilities Regulatory Commission (PURC) has undertaken a community engagement exercise in 10 selected communities across the region to assess the quality of services provided by utility companies. The post PURC engages ",
+      "publishedAt": "2026-08-04T06:49:12+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "UCC inducts Prof. Aheto as Vice-Chancellor",
+      "url": "https://www.ghanabusinessnews.com/2026/08/03/ucc-inducts-prof-aheto-as-vice-chancellor/",
+      "summary": "The University of Cape Coast (UCC) has formally inducted Professor Denis Worlanyo Aheto as its 12th Vice-Chancellor, with a charge to reposition the institution as a hub for practical and skills-based learning to produce competent graduates to solve real probl",
+      "publishedAt": "2026-08-03T19:47:41+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
       "title": "The world records 1.2 million new HIV infections in 2025",
       "url": "https://www.ghanabusinessnews.com/2026/08/03/the-world-records-1-2-million-new-hiv-infections-in-2025/",
       "summary": "New reports released last week at the 26th International AIDS Conference say 1.2 million new HIV infections have been recorded globally. The post The world records 1.2 million new HIV infections in 2025 appeared first on Ghana Business News .",
@@ -410,106 +450,66 @@
       "category": "Business news"
     },
     {
-      "title": "Mahama reiterates government’s commitment to expanding TOR’s capacity",
-      "url": "https://www.ghanabusinessnews.com/2026/08/03/mahama-reiterates-governments-commitment-to-expanding-tors-capacity/",
-      "summary": "President John Dramani Mahama has reiterated the Government's commitment to expanding the production capability of the state-owned oil Refinery, Tema Oil Refinery Limited (TOR). The post Mahama reiterates government’s commitment to expanding TOR’s capacity app",
-      "publishedAt": "2026-08-03T07:35:19+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Cape Coast Technical University moves to introduce compulsory AI and soft skills",
-      "url": "https://www.ghanabusinessnews.com/2026/08/03/cape-coast-technical-university-moves-to-introduce-compulsory-ai-and-soft-skills/",
-      "summary": "The Cape Coast Technical University (CCTU) will from the next academic year, introduce a mandatory Artificial Intelligence (AI) and soft skills programme for all students as part of efforts to produce competitive graduates equipped for the demands of the moder",
-      "publishedAt": "2026-08-03T07:29:17+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Ghana Police assures medically fit applicants of consideration in ongoing recruitment",
-      "url": "https://www.ghanabusinessnews.com/2026/08/03/ghana-police-assures-medically-fit-applicants-of-consideration-in-ongoing-recruitment/",
-      "summary": "Applicants who passed the medical examination for the 2025/2026 Ghana Police Service recruitment exercise but are yet to receive validation invitations remain eligible for consideration. The post Ghana Police assures medically fit applicants of consideration i",
-      "publishedAt": "2026-08-03T07:18:48+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Ghana government moves to strengthen power grid",
-      "url": "https://www.ghanabusinessnews.com/2026/08/03/ghana-government-moves-to-strengthen-power-grid/",
-      "summary": "Dr Yussif Sulemana, Technical Advisor to the Minister of Energy and Green Transition, says Government is investing in power infrastructure to improve grid reliability. The post Ghana government moves to strengthen power grid appeared first on Ghana Business Ne",
-      "publishedAt": "2026-08-03T07:02:44+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Africa must unite as global order shifts – Tetteh",
-      "url": "https://www.ghanabusinessnews.com/2026/08/02/africa-must-unite-as-global-order-shifts-tetteh/",
-      "summary": "African countries must strengthen collective action to safeguard their interests as global cooperation weakens and geopolitical competition intensifies, Madam Hanna Serwaa Tetteh, a diplomat, has urged. The post Africa must unite as global order shifts – Tette",
-      "publishedAt": "2026-08-02T15:59:09+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "GhIE, Ghana Navy partner to strengthen engineering professionalism",
-      "url": "https://www.myjoyonline.com/ghie-ghana-navy-partner-to-strengthen-engineering-professionalism/",
-      "summary": "The Ghana Institution of Engineering (GhIE) has reaffirmed its commitment to promoting professionalism and upholding engineering standards through a new partnership with the Ghana Navy. The two institutions have signed a Memorandum of Understanding (MoU) to fo",
-      "publishedAt": "2026-08-03T13:28:40+00:00",
+      "title": "MTN records pre-tax profit of GH¢7.4bn in half-year 2026",
+      "url": "https://www.myjoyonline.com/mtn-records-pre-tax-profit-of-gh%c2%a27-4bn-in-half-year-2026/",
+      "summary": "According to the Chief Executive of MTN Ghana, Stephen Blewett, the first half of the year was underpinned by sustained commercial execution of our Ambition 2030 strategic priorities and our unwavering commitment to delivering value to customers.",
+      "publishedAt": "2026-08-04T12:40:07+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Omaya Care wins inaugural Ghana AI Innovation Challenge with maternal health solution",
-      "url": "https://www.myjoyonline.com/omaya-care-wins-inaugural-ghana-ai-innovation-challenge-with-maternal-health-solution/",
-      "summary": "Omaya Care has won the inaugural Ghana AI Innovation Challenge, held as part of the Ghana AI Summit & Awards 2026 in partnership with the Ghana AI Research Network (GAIN) and Meta. The team received the top prize of GH¢25,000 for its AI-powered maternal health",
-      "publishedAt": "2026-08-03T13:10:15+00:00",
+      "title": "BoG directs banks to cut bad loans to 10% by end of 2026",
+      "url": "https://www.myjoyonline.com/bog-directs-banks-to-cut-bad-loans-to-10-by-end-of-2026/",
+      "summary": "The Governor of the Bank of Ghana (BoG), Dr. Johnson Pandit Asiama, has directed all regulated financial institutions to reduce their non-performing loans (NPLs) to not more than 10 percent by the end of December 2026, warning that high levels of bad loans con",
+      "publishedAt": "2026-08-04T11:55:06+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "NPA to revise diesel price floor following government’s GH¢2 per litre subsidy",
-      "url": "https://www.myjoyonline.com/npa-to-revise-diesel-price-floor-following-governments-gh%c2%a22-per-litre-subsidy/",
-      "summary": "The National Petroleum Authority (NPA) has announced that it will revise the diesel price floor after government introduced a GH¢2 per litre subsidy aimed at cushioning consumers against rising fuel costs.",
-      "publishedAt": "2026-08-03T12:51:56+00:00",
+      "title": "COCOBOD begins stakeholder engagements on new Cocoa Board Bill",
+      "url": "https://www.myjoyonline.com/cocobod-begins-stakeholder-engagements-on-new-cocoa-board-bill/",
+      "summary": "The Ghana Cocoa Board (COCOBOD) has commenced a nationwide stakeholder engagement series following the passage of the Ghana Cocoa Board Bill, 2026.",
+      "publishedAt": "2026-08-04T10:28:47+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "VADUG urges gov’t to suspend planned vehicle conformity verification programme",
-      "url": "https://www.myjoyonline.com/vadug-urges-govt-to-suspend-planned-vehicle-conformity-verification-programme/",
-      "summary": "The Vehicle and Asset Dealers Union of Ghana (VADUG) has appealed to the government to suspend the implementation of the Pre-Export Verification of Conformity (PVoC) programme for imported vehicles, arguing that the policy should not be rolled out until wider ",
-      "publishedAt": "2026-08-03T10:56:43+00:00",
+      "title": "Ghana processes less than 6% of cashew output as farmers face price plunge",
+      "url": "https://www.myjoyonline.com/ghana-processes-less-than-6-of-cashew-output-as-farmers-face-price-plunge/",
+      "summary": "Ghana’s cashew sector is facing renewed concerns over price instability, weak local processing and the continued export of raw nuts, following a sharp decline in farm-gate prices in 2025.",
+      "publishedAt": "2026-08-04T06:44:00+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Fuel prices go up as Star Oil raises pump prices again; petrol sells for GH¢15.57, diesel at GH¢18.97",
-      "url": "https://www.myjoyonline.com/fuel-prices-go-up-as-star-oil-raises-pump-prices-again-petrol-sells-for-gh%c2%a215-57-diesel-at-gh%c2%a2-18-97/",
-      "summary": "Motorists should brace for higher fuel prices as more Oil Marketing Companies (OMCs) are expected to adjust their pump prices from today, following another upward review by Star Oil amid rising international petroleum prices.",
-      "publishedAt": "2026-08-03T09:41:30+00:00",
+      "title": "Ghana Reference Rate climbs to 10.61% in August, signalling fresh pressure on borrowing costs",
+      "url": "https://www.myjoyonline.com/ghana-reference-rate-climbs-to-10-61-in-august-signalling-fresh-pressure-on-borrowing-costs/",
+      "summary": "The Ghana Reference Rate (GRR), the benchmark used by commercial banks to price loans, is set to rise marginally to 10.61% in August 2026, up from 10.59% in July.",
+      "publishedAt": "2026-08-04T05:13:00+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "We will revive VALCO, nobody can stop it – Armah Buah declares",
-      "url": "https://www.myjoyonline.com/we-will-revive-valco-nobody-can-stop-it-armah-buah-declares/",
-      "summary": "Addressing hundreds of employees during a working visit to the company last Thursday 30th July, 2026, to familiarise himself with its operations, the Minister dismissed speculation that the administration of President John Dramani Mahama intended to auction or",
-      "publishedAt": "2026-08-03T09:37:12+00:00",
+      "title": "Xbox Series X price hiked by £170 due to rising memory chip costs",
+      "url": "https://www.myjoyonline.com/xbox-series-x-price-hiked-by-170-due-to-rising-memory-chip-costs/",
+      "summary": "Microsoft has increased the price of Xbox consoles worldwide, citing rising costs of memory and storage chips.",
+      "publishedAt": "2026-08-04T03:21:00+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "ISSER raises concerns over sharp decline in capital expenditure",
-      "url": "https://www.myjoyonline.com/isser-raises-concerns-over-sharp-decline-in-capital-expenditure/",
-      "summary": "The Institute of Statistical, Social and Economic Research (ISSER) has cautioned that Ghana’s improving fiscal performance may be coming at the expense of long-term economic growth, arguing that the government’s stabilisation efforts are being driven more by s",
-      "publishedAt": "2026-08-03T08:38:00+00:00",
+      "title": "ADB marks strong half-year performance with health walk and fun games",
+      "url": "https://www.myjoyonline.com/adb-marks-strong-half-year-performance-with-health-walk-and-fun-games/",
+      "summary": "Agricultural Development Bank PLC (ADB) has celebrated another significant milestone in its transformation journey by combining the announcement of its impressive half-year financial performance with its second Health Walk and Annual Team Bonding Games.",
+      "publishedAt": "2026-08-04T02:20:00+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "INTERPOL report finds AI linked to more than half of cybercrime in Africa",
-      "url": "https://www.myjoyonline.com/interpol-report-finds-ai-linked-to-more-than-half-of-cybercrime-in-africa/",
-      "summary": "Artificial intelligence is enabling 55 per cent of reported cybercrimes across Africa, making attacks faster, more scalable, and increasingly difficult for victims and platforms to detect, according to INTERPOL’s African Cyberthreat Assessment Report 2026. Wit",
-      "publishedAt": "2026-08-03T08:01:01+00:00",
+      "title": "Access Bank and UNFPA strengthen partnership to end obstetric fistula, launch Fistula Trust Fund",
+      "url": "https://www.myjoyonline.com/access-bank-and-unfpa-strengthen-partnership-to-end-obstetric-fistula-launch-fistula-trust-fund/",
+      "summary": "Access Bank (Ghana) Plc has signed an MoU with the United Nations Population Fund (UNFPA) to strengthen collaboration under the Partnership to End Obstetric Fistula in Ghana.",
+      "publishedAt": "2026-08-04T02:11:00+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
@@ -658,7 +658,7 @@
       "category": "Public macro fallback"
     },
     {
-      "title": "‘We’re struggling; pay your water bills’ – GWCL tells Ghanaians",
+      "title": "Ghana introduces offshore mariculture as government prepares Blue Economy Bill",
       "url": "https://www.myjoyonline.com/?s=91-day+treasury+bill+rate",
       "summary": "",
       "publishedAt": null,
@@ -666,7 +666,7 @@
       "category": "Public macro fallback"
     },
     {
-      "title": "Check out the 12 bills passed by Parliament at its second meeting",
+      "title": "COCOBOD begins stakeholder engagements on new Cocoa Board Bill",
       "url": "https://www.myjoyonline.com/?s=91-day+treasury+bill+rate",
       "summary": "",
       "publishedAt": null,
@@ -682,7 +682,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-03T13:42:40.660455+00:00"
+      "fetchedAt": "2026-08-04T13:04:32.893353+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -691,7 +691,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-03T13:42:40.660455+00:00"
+      "fetchedAt": "2026-08-04T13:04:32.893353+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -700,7 +700,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-03T13:42:40.660455+00:00"
+      "fetchedAt": "2026-08-04T13:04:32.893353+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -709,7 +709,7 @@
       "kind": "html",
       "ok": false,
       "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
-      "fetchedAt": "2026-08-03T13:42:40.660455+00:00"
+      "fetchedAt": "2026-08-04T13:04:32.893353+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -718,7 +718,7 @@
       "kind": "html",
       "ok": false,
       "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
-      "fetchedAt": "2026-08-03T13:42:40.660455+00:00"
+      "fetchedAt": "2026-08-04T13:04:32.893353+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -727,7 +727,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-03T13:42:40.660455+00:00"
+      "fetchedAt": "2026-08-04T13:04:32.893353+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -736,7 +736,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-08-03T13:42:40.660455+00:00"
+      "fetchedAt": "2026-08-04T13:04:32.893353+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -745,7 +745,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-03T13:42:40.660455+00:00"
+      "fetchedAt": "2026-08-04T13:04:32.893353+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -754,7 +754,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-03T13:42:40.660455+00:00"
+      "fetchedAt": "2026-08-04T13:04:32.893353+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -763,7 +763,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-03T13:42:40.660455+00:00"
+      "fetchedAt": "2026-08-04T13:04:32.893353+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -772,7 +772,7 @@
       "kind": "rss",
       "ok": false,
       "error": "HTTP Error 404: Not Found",
-      "fetchedAt": "2026-08-03T13:42:40.660455+00:00"
+      "fetchedAt": "2026-08-04T13:04:32.893353+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -781,7 +781,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-03T13:42:40.660455+00:00"
+      "fetchedAt": "2026-08-04T13:04:32.893353+00:00"
     },
     {
       "name": "Citi Business News",
@@ -790,7 +790,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-03T13:42:40.660455+00:00"
+      "fetchedAt": "2026-08-04T13:04:32.893353+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -799,7 +799,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-03T13:42:40.660455+00:00"
+      "fetchedAt": "2026-08-04T13:04:32.893353+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -808,7 +808,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-03T13:42:40.660455+00:00"
+      "fetchedAt": "2026-08-04T13:04:32.893353+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -817,7 +817,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-03T13:42:40.660455+00:00"
+      "fetchedAt": "2026-08-04T13:04:32.893353+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -826,7 +826,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-03T13:42:40.660455+00:00"
+      "fetchedAt": "2026-08-04T13:04:32.893353+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -835,7 +835,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-03T13:42:40.660455+00:00"
+      "fetchedAt": "2026-08-04T13:04:32.893353+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -844,7 +844,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-03T13:42:40.660455+00:00"
+      "fetchedAt": "2026-08-04T13:04:32.893353+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -853,7 +853,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-03T13:42:40.660455+00:00"
+      "fetchedAt": "2026-08-04T13:04:32.893353+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -862,7 +862,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-03T13:42:40.660455+00:00"
+      "fetchedAt": "2026-08-04T13:04:32.893353+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -871,7 +871,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-08-03T13:42:40.660455+00:00"
+      "fetchedAt": "2026-08-04T13:04:32.893353+00:00"
     }
   ]
 }
