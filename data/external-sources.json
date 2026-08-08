@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-07T11:49:05.164643+00:00",
-  "generatedAtGhana": "2026-08-07T11:49:05.164643+00:00",
+  "generatedAt": "2026-08-08T11:32:09.159682+00:00",
+  "generatedAtGhana": "2026-08-08T11:32:09.159682+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
     "gseIndices": {
-      "asOf": "06/08/2026",
-      "composite": 15198.53,
-      "financialStocks": 8035.43,
+      "asOf": "07/08/2026",
+      "composite": 15187.47,
+      "financialStocks": 8021.23,
       "source": "Ghana Stock Exchange",
       "url": "https://gse.com.gh/"
     },
@@ -386,6 +386,62 @@
       "category": "Sovereign credit research"
     },
     {
+      "title": "Germany-China trade imbalance widens further in July",
+      "url": "https://www.ghanabusinessnews.com/2026/08/08/germany-china-trade-imbalance-widens-further-in-july/",
+      "summary": "The trade imbalance between Germany and China widened further in July as Chinese exports rose sharply while imports from Germany declined, customs data showed on Friday. The post Germany-China trade imbalance widens further in July appeared first on Ghana Busi",
+      "publishedAt": "2026-08-08T08:41:57+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Ghana maintains strong foreign exchange reserves of $12.9b – BoG",
+      "url": "https://www.ghanabusinessnews.com/2026/08/08/ghana-maintains-strong-foreign-exchange-reserves-of-12-9b-bog/",
+      "summary": "Although higher global oil prices have increased the nation’s import bill, Ghana continues to maintain strong foreign exchange reserves of about $12.9 billion, Dr Johnson Pandit Asiama, the Governor of the Bank of Ghana (BoG) has said. The post Ghana maintains",
+      "publishedAt": "2026-08-08T08:36:09+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Over 7,500 residents affected by June 29 floods in Ningo-Prampram",
+      "url": "https://www.ghanabusinessnews.com/2026/08/08/over-7500-residents-affected-by-june-29-floods-in-ningo-prampram/",
+      "summary": "A total of 7,566 residents in 10 communities in the Ningo-Prampram District were affected by the June 29, 2026, floods, Mr Raphael Uriel Nartey, the District Chief Executive (DCE), has disclosed. The post Over 7,500 residents affected by June 29 floods in Ning",
+      "publishedAt": "2026-08-08T08:24:38+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "WAANSA Ghana unveils 17 Technical Leads to drive fight against small arms",
+      "url": "https://www.ghanabusinessnews.com/2026/08/08/waansa-ghana-unveils-17-technical-leads-to-drive-fight-against-small-arms/",
+      "summary": "The West Africa Action Network on Small Arms (WAANSA Ghana) on Friday announced the restructuring of its operations with the appointment of 17 “Technical Leads”. The post WAANSA Ghana unveils 17 Technical Leads to drive fight against small arms appeared first ",
+      "publishedAt": "2026-08-08T08:16:46+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Dutchman arrested in Ghana for cocaine trafficking was wanted in The Netherlands for shooting in a hospital",
+      "url": "https://www.ghanabusinessnews.com/2026/08/07/dutchman-arrested-in-ghana-for-cocaine-trafficking-was-wanted-in-the-netherlands-for-shooting-in-a-hospital/",
+      "summary": "A Dutchman who has been arrested in Ghana for cocaine trafficking was on the wanted list of police in his home country, The Netherlands for a shooting incident involving him and his brother. The post Dutchman arrested in Ghana for cocaine trafficking was wante",
+      "publishedAt": "2026-08-07T19:51:32+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Mahama makes first major ministerial reshuffle",
+      "url": "https://www.ghanabusinessnews.com/2026/08/07/mahama-makes-first-major-ministerial-reshuffle/",
+      "summary": "President John Dramani Mahama has announced his first major ministerial reshuffle in his second term, nominating Dr Zanetor Agyeman-Rawlings, Member of Parliament (MP) for Klottey Korle, as Environment, Science and Technology Minister-Designate. The post Maham",
+      "publishedAt": "2026-08-07T18:52:47+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Germany’s RWE drops US offshore wind projects in deal with Trump",
+      "url": "https://www.ghanabusinessnews.com/2026/08/07/germanys-rwe-drops-us-offshore-wind-projects-in-deal-with-trump/",
+      "summary": "German energy giant RWE is abandoning several planned offshore wind projects in the United States after reaching a $1.22-billion settlement with the administration of President Donald Trump, the company said on Thursday. The post Germany’s RWE drops US offshor",
+      "publishedAt": "2026-08-07T18:34:20+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
       "title": "Population growth outpacing Ghana’s health infrastructure – Physician",
       "url": "https://www.ghanabusinessnews.com/2026/08/07/population-growth-outpacing-ghanas-health-infrastructure-physician/",
       "summary": "Dr Henry Bulley, Head of the Accident and Emergency Department of the Korle Bu Teaching Hospital, says Ghana’s health infrastructure is struggling to keep pace with population growth, leaving major referral hospitals overstretched. The post Population growth o",
@@ -394,122 +450,66 @@
       "category": "Business news"
     },
     {
-      "title": "Mahama calls for stronger safety systems to honour Z-9 crash victims",
-      "url": "https://www.ghanabusinessnews.com/2026/08/07/mahama-calls-for-stronger-safety-systems-to-honour-z-9-crash-victims/",
-      "summary": "President John Dramani Mahama has called for stronger institutions and improved safety systems to honour eight public servants killed in the 2025 Z-9 helicopter crash. The post Mahama calls for stronger safety systems to honour Z-9 crash victims appeared first",
-      "publishedAt": "2026-08-07T08:01:39+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Global Ore Ghana Limited calls for investigations into mayhem in their concession",
-      "url": "https://www.ghanabusinessnews.com/2026/08/07/global-ore-ghana-limited-calls-for-investigations-into-mayhem-in-their-concession/",
-      "summary": "Some individuals living in and around the Aboso-Bompieso mining concession of Global (Ghana) Ore Industries Limited have reportedly interfered in the operations of the company. The post Global Ore Ghana Limited calls for investigations into mayhem in their con",
-      "publishedAt": "2026-08-07T07:45:16+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "AI-powered healthcare market to expand to $188b by 2030 – Dr Donkor",
-      "url": "https://www.ghanabusinessnews.com/2026/08/07/ai-powered-healthcare-market-to-expand-to-188b-by-2030-dr-donkor/",
-      "summary": "The AI-enabled healthcare market is expected to expand from $15 billion in 2023, to approximately $188 billion by 2030, Dr George Agyekum Donkor, the President and Chairman of the Board of Directors, ECOWAS Bank for Investment and Development (EBID) has stated",
-      "publishedAt": "2026-08-07T07:38:33+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Researchers at KNUST identifies Jatropha oil as high-performance engine lubricant",
-      "url": "https://www.ghanabusinessnews.com/2026/08/07/researchers-at-knust-identifies-jatropha-oil-as-high-performance-engine-lubricant/",
-      "summary": "Researchers at the Kwame Nkrumah University of Science and Technology, Kumasi (KNUST) have found out that oil from the Jatropha curcas plant can be converted into a high-performance engine. The post Researchers at KNUST identifies Jatropha oil as high-performa",
-      "publishedAt": "2026-08-07T07:23:26+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Ghana government urged to tolerate dissent",
-      "url": "https://www.ghanabusinessnews.com/2026/08/07/ghana-government-urged-to-tolerate-dissent/",
-      "summary": "Mr Dennis Miracles Aboagye, Spokesperson for Dr Mahamudu Bawumia, has called on the government to demonstrate greater tolerance for dissenting opinions, warning that attempts to intimidate critics undermine Ghana's democratic credentials. The post Ghana govern",
-      "publishedAt": "2026-08-07T07:18:59+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Police intercept and arrest four men with suspected cocaine worth $6.9m",
-      "url": "https://www.ghanabusinessnews.com/2026/08/06/police-intercept-and-arrest-four-men-with-suspected-cocaine-worth-6-9m/",
-      "summary": "The Tema Regional Police Command has intercepted 866 parcels of a whitish substance suspected to be cocaine with an estimated street value of $6.9 million and arrested four persons in two separate intelligence-led anti-narcotics operations. The post Police int",
-      "publishedAt": "2026-08-06T22:57:34+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "WAEC denies separate grading system for public, private schools",
-      "url": "https://www.ghanabusinessnews.com/2026/08/06/waec-denies-separate-grading-system-for-public-private-schools/",
-      "summary": "The West African Examinations Council (WAEC) says it applies the same marking schemes and grading systems to candidates in public and private schools who sit the Basic Education Certificate Examination (BECE). The post WAEC denies separate grading system for p",
-      "publishedAt": "2026-08-06T22:52:07+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Fuel pricing norm broken as market turns ‘radically volatile’ – COMAC CEO",
-      "url": "https://www.myjoyonline.com/fuel-pricing-norm-broken-as-market-turns-radically-volatile-comac-ceo/",
-      "summary": "The CEO of the Chamber of Oil Marketing Companies (COMAC), Dr Riverson Oppong, says Ghana’s fuel market has entered an unusually volatile phase, forcing oil marketing companies (OMCs) to respond in ways rarely seen under the country’s pricing system.",
-      "publishedAt": "2026-08-07T05:49:00+00:00",
+      "title": "Old Schools Alumni Networking Gala Dinner to transform school rivalries into strategic business partnerships",
+      "url": "https://www.myjoyonline.com/old-schools-alumni-networking-gala-dinner-to-transform-school-rivalries-into-strategic-business-partnerships/",
+      "summary": "Senior High School alumni from across Ghana are set to converge in Accra for the Old Schools Alumni Networking Gala Dinner 2026, a premier networking event aimed at turning school alumni connections into business partnerships and professional opportunities. Th",
+      "publishedAt": "2026-08-08T09:35:32+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Ghana has over 5 weeks of fuel in reserve – NPA moves to calm fears over Middle East tensions",
-      "url": "https://www.myjoyonline.com/ghana-has-over-5-weeks-of-fuel-in-reserve-npa-moves-to-calm-fears-over-middle-east-tensions/",
-      "summary": "The National Petroleum Authority (NPA) has assured Ghanaians that the country has enough fuel stocks to withstand potential supply disruptions arising from escalating tensions in the Middle East.",
-      "publishedAt": "2026-08-07T04:14:00+00:00",
+      "title": "GPHA announces urgent measures to ease congestion at Tema Port",
+      "url": "https://www.myjoyonline.com/gpha-announces-urgent-measures-to-ease-congestion-at-tema-port/",
+      "summary": "According to the Authority, the congestion has been driven largely by a significant increase in import volumes, a corresponding rise in exports of empty containers, and increasing road traffic challenges around the port enclave.",
+      "publishedAt": "2026-08-07T19:26:03+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Artificial Intelligence used to design brand new viruses",
-      "url": "https://www.myjoyonline.com/artificial-intelligence-used-to-design-brand-new-viruses/",
-      "summary": "Artificial Intelligence has been used to design brand new viruses that are fully functional and can replicate in the laboratory, say US researchers. It is the first time whole genomes have been successfully designed by AI. The resulting 16 novel viruses were c",
-      "publishedAt": "2026-08-07T02:55:00+00:00",
+      "title": "GCB Bank appointed to committees for Ghana’s participation in global trade exhibitions",
+      "url": "https://www.myjoyonline.com/gcb-bank-appointed-to-committees-for-ghanas-participation-in-global-trade-exhibitions/",
+      "summary": "GCB Bank has been appointed to the National Planning Committee and several technical sub-committees overseeing Ghana's participation in the 9th China International Import Expo (CIIE) 2026. The appointments, made by the Ministry of Trade, Agribusiness and Indus",
+      "publishedAt": "2026-08-07T18:21:04+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "We never stop receiving fuel – NPA explains why Ghana’s stocks keep growing",
-      "url": "https://www.myjoyonline.com/we-never-stop-receiving-fuel-npa-explains-why-ghanas-stocks-keep-growing/",
-      "summary": "The National Petroleum Authority (NPA) says Ghana continues to maintain healthy petroleum stocks through continuous imports and local refining, assuring consumers that fuel availability remains its highest priority despite uncertainty in the global oil market.",
-      "publishedAt": "2026-08-07T02:34:00+00:00",
+      "title": "Gloria Boye-Doku launches two books to inspire young people to rise above their backgrounds",
+      "url": "https://www.myjoyonline.com/gloria-boye-doku-launches-two-books-to-inspire-young-people-to-rise-above-their-backgrounds/",
+      "summary": "Partner, Tax and Regulatory at Deloitte Ghana, Gloria Boye-Doku, has launched two new books titled “Mindset for Success” and “The Power of Hope” aimed at inspiring young people to believe that their background should never limit their aspirations. Speaking at ",
+      "publishedAt": "2026-08-07T16:36:31+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Meta fined $567m in largest child safety ruling against social media giant",
-      "url": "https://www.myjoyonline.com/meta-fined-567m-in-largest-child-safety-ruling-against-social-media-giant/",
-      "summary": "A US judge in New Mexico on Thursday ordered Meta to pay another $567m (£421m) for its failure to warn the public about dangers its platforms posed to children, marking the largest ruling against the company over child safety.",
-      "publishedAt": "2026-08-07T00:20:00+00:00",
+      "title": "GSA begins nationwide sensitisation for shippers",
+      "url": "https://www.myjoyonline.com/gsa-begins-nationwide-sensitisation-for-shippers/",
+      "summary": "The Ghana Shippers’ Authority (GSA) has begun a nationwide sensitisation of shippers on the mandatory registration of shippers on the Integrated Customs Management System (ICUMS) in accordance with the Ghana Shippers’ Authority Act, 2024 (Act 1122). Officials ",
+      "publishedAt": "2026-08-07T16:15:21+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Government’s GH¢2 diesel relief is positive, but not sustainable – COPEC wants long-term fuel strategy",
-      "url": "https://www.myjoyonline.com/governments-gh%c2%a22-diesel-relief-is-positive-but-not-sustainable-copec-wants-long-term-fuel-strategy/",
-      "summary": "The Executive Secretary of the Chamber of Petroleum Consumers (COPEC), Duncan Amoah, says government’s decision to cushion diesel prices is a welcome move, but insists it falls short of addressing Ghana’s long-term fuel price challenges.",
-      "publishedAt": "2026-08-06T23:09:00+00:00",
+      "title": "PETROSOL secures approval to raise capital on Ghana Stock Exchange",
+      "url": "https://www.myjoyonline.com/petrosol-secures-approval-to-raise-capital-on-ghana-stock-exchange/",
+      "summary": "PETROSOL Platinum Energy PLC, one of the leading oil marketing companies has received approval from the Ghana Stock Exchange and the Securities and Exchange Commission to raise long-term capital through the Ghana Stock Exchange, Managing Director Michael Bozum",
+      "publishedAt": "2026-08-07T16:04:30+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "We have adequate reserves to stabilise and protect cedi’s value – BoG Governor assures",
-      "url": "https://www.myjoyonline.com/we-have-adequate-reserves-to-stabilise-and-protect-cedis-value-bog-governor-assures/",
-      "summary": "Bank of Ghana (BoG) Governor Dr Johnson Asiama has assured businesses and the public that the central bank has adequate reserves to stabilise the cedi, stressing that there is no need for panic.",
-      "publishedAt": "2026-08-06T20:28:44+00:00",
+      "title": "Ghana: Genser energy buys back Oppenheimer partners’ stake as investor exits after five years",
+      "url": "https://www.myjoyonline.com/ghana-genser-energy-buys-back-oppenheimer-partners-stake-as-investor-exits-after-five-years/",
+      "summary": "Genser Energy has bought back the entire stake held by Oppenheimer Partners, completing the investment firm’s exit after five years and marking a new phase in the Ghanaian energy company’s regional expansion.",
+      "publishedAt": "2026-08-07T15:47:54+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Should BoG’s gold purchase programme be judged by profits or economic stability?",
-      "url": "https://www.myjoyonline.com/should-bogs-gold-purchase-programme-be-judged-by-profits-or-economic-stability/",
-      "summary": "However, evaluating the programme primarily through its accounting costs risks overlooking a more fundamental question: did the economic benefits outweigh the financial costs?",
-      "publishedAt": "2026-08-06T17:41:31+00:00",
+      "title": "Government targets 10% renewable energy mix by 2030, tasks BPA to lead expansion",
+      "url": "https://www.myjoyonline.com/government-targets-10-renewable-energy-mix-by-2030-tasks-bpa-to-lead-expansion/",
+      "summary": "The Government of Ghana has reaffirmed its commitment to achieving at least 10% renewable energy penetration in the country’s electricity generation mix by 2030, with the Bui Power Authority (BPA) expected to spearhead efforts towards meeting the target. Energ",
+      "publishedAt": "2026-08-07T15:17:00+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
@@ -658,7 +658,7 @@
       "category": "Public macro fallback"
     },
     {
-      "title": "Osei-Asare urges Mahama to review Cocoa Board Bill, warns against misuse of parliamentary majority",
+      "title": "IMF warns Ghana of elevated financing needs due to large rollover of T-bills in 2027-28",
       "url": "https://www.myjoyonline.com/?s=91-day+treasury+bill+rate",
       "summary": "",
       "publishedAt": null,
@@ -666,7 +666,7 @@
       "category": "Public macro fallback"
     },
     {
-      "title": "IMF report reveals $1.7 billion BoG gold purchase losses – 8 times higher than the previously reported $214 million",
+      "title": "IMF upgrades Ghana to moderate risk of debt distress",
       "url": "https://www.myjoyonline.com/?s=91-day+treasury+bill+rate",
       "summary": "",
       "publishedAt": null,
@@ -682,7 +682,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-07T11:49:05.164643+00:00"
+      "fetchedAt": "2026-08-08T11:32:09.159682+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -691,7 +691,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-07T11:49:05.164643+00:00"
+      "fetchedAt": "2026-08-08T11:32:09.159682+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -700,7 +700,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-07T11:49:05.164643+00:00"
+      "fetchedAt": "2026-08-08T11:32:09.159682+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -709,7 +709,7 @@
       "kind": "html",
       "ok": false,
       "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
-      "fetchedAt": "2026-08-07T11:49:05.164643+00:00"
+      "fetchedAt": "2026-08-08T11:32:09.159682+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -718,7 +718,7 @@
       "kind": "html",
       "ok": false,
       "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
-      "fetchedAt": "2026-08-07T11:49:05.164643+00:00"
+      "fetchedAt": "2026-08-08T11:32:09.159682+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -727,7 +727,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-07T11:49:05.164643+00:00"
+      "fetchedAt": "2026-08-08T11:32:09.159682+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -736,7 +736,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-08-07T11:49:05.164643+00:00"
+      "fetchedAt": "2026-08-08T11:32:09.159682+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -745,7 +745,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-07T11:49:05.164643+00:00"
+      "fetchedAt": "2026-08-08T11:32:09.159682+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -754,7 +754,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-07T11:49:05.164643+00:00"
+      "fetchedAt": "2026-08-08T11:32:09.159682+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -763,7 +763,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-07T11:49:05.164643+00:00"
+      "fetchedAt": "2026-08-08T11:32:09.159682+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -772,7 +772,7 @@
       "kind": "rss",
       "ok": false,
       "error": "HTTP Error 404: Not Found",
-      "fetchedAt": "2026-08-07T11:49:05.164643+00:00"
+      "fetchedAt": "2026-08-08T11:32:09.159682+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -781,7 +781,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-07T11:49:05.164643+00:00"
+      "fetchedAt": "2026-08-08T11:32:09.159682+00:00"
     },
     {
       "name": "Citi Business News",
@@ -790,7 +790,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-07T11:49:05.164643+00:00"
+      "fetchedAt": "2026-08-08T11:32:09.159682+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -799,7 +799,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-07T11:49:05.164643+00:00"
+      "fetchedAt": "2026-08-08T11:32:09.159682+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -808,7 +808,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-07T11:49:05.164643+00:00"
+      "fetchedAt": "2026-08-08T11:32:09.159682+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -817,7 +817,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-07T11:49:05.164643+00:00"
+      "fetchedAt": "2026-08-08T11:32:09.159682+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -826,7 +826,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-07T11:49:05.164643+00:00"
+      "fetchedAt": "2026-08-08T11:32:09.159682+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -835,7 +835,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-07T11:49:05.164643+00:00"
+      "fetchedAt": "2026-08-08T11:32:09.159682+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -844,7 +844,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-07T11:49:05.164643+00:00"
+      "fetchedAt": "2026-08-08T11:32:09.159682+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -853,7 +853,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-07T11:49:05.164643+00:00"
+      "fetchedAt": "2026-08-08T11:32:09.159682+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -862,7 +862,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-07T11:49:05.164643+00:00"
+      "fetchedAt": "2026-08-08T11:32:09.159682+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -871,7 +871,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-08-07T11:49:05.164643+00:00"
+      "fetchedAt": "2026-08-08T11:32:09.159682+00:00"
     }
   ]
 }
