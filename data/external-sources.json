@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-10T11:50:21.382902+00:00",
-  "generatedAtGhana": "2026-08-10T11:50:21.382902+00:00",
+  "generatedAt": "2026-08-11T11:46:54.923072+00:00",
+  "generatedAtGhana": "2026-08-11T11:46:54.923072+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
     "gseIndices": {
-      "asOf": "07/08/2026",
-      "composite": 15187.47,
-      "financialStocks": 8021.23,
+      "asOf": "10/08/2026",
+      "composite": 15225.56,
+      "financialStocks": 8073.37,
       "source": "Ghana Stock Exchange",
       "url": "https://gse.com.gh/"
     },
@@ -386,6 +386,54 @@
       "category": "Sovereign credit research"
     },
     {
+      "title": "Ghana records 1.3 million international tourists in 2025 – Minister",
+      "url": "https://www.ghanabusinessnews.com/2026/08/11/ghana-records-1-3-million-international-tourists-in-2025-minister/",
+      "summary": "Ghana's tourism performance released by Madam Abla Dzifa Gomashie, the Minister of Tourism, Culture and Creative Arts shows that the country welcomed 1,306,962 international tourists in 2025, which is an increase over the 2024 figure of 1,288,804. The post Gha",
+      "publishedAt": "2026-08-11T07:29:49+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Ghana standardises five more local languages to preserve cultural heritage",
+      "url": "https://www.ghanabusinessnews.com/2026/08/11/ghana-standardises-five-more-local-languages-to-preserve-cultural-heritage/",
+      "summary": "Madam Abla Dzifa Gomashie, the Minister of Tourism, Culture and Creative Arts, Monday said Ghana has increased the number of standardised local languages from 11 to 16, mentioning Kusaal, Likpakpaanl, and Sisaali as part of the five newly standardised. The pos",
+      "publishedAt": "2026-08-11T07:21:41+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "EBID Board approves some $510m to drive development across West Africa",
+      "url": "https://www.ghanabusinessnews.com/2026/08/11/ebid-board-approves-some-510m-to-drive-development-across-west-africa/",
+      "summary": "The Board of Directors of the ECOWAS Bank for Investment and Development (EBID) has approved five strategic operations valued at more than €269.55 million and $200 million, representing over $510 million in total commitments. The post EBID Board approves some ",
+      "publishedAt": "2026-08-11T06:54:52+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Government allocates GH¢20m to Film Fund, revamps National Theatre",
+      "url": "https://www.ghanabusinessnews.com/2026/08/11/government-allocates-gh%c2%a220m-to-film-fund-revamps-national-theatre/",
+      "summary": "The government has allocated GH¢20 million in the 2026 Budget to establish a Film Development Fund aimed at addressing financing challenges confronting Ghana’s film industry and stimulating growth across the creative sector. The post Government allocates GH¢20",
+      "publishedAt": "2026-08-11T06:47:46+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "IGP promotes 25 personnel in fight against robbery and drugs",
+      "url": "https://www.ghanabusinessnews.com/2026/08/11/igp-promotes-25-personnel-in-fight-against-robbery-and-drugs/",
+      "summary": "Mr Christian Tetteh Yohuno, the Inspector General of Police (IGP), has promoted 25 police personnel for their exceptional performance, which led to the busting of suspects in three robbery and drug incidents in the country. The post IGP promotes 25 personnel i",
+      "publishedAt": "2026-08-11T06:43:27+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "GPHA rolls out measures to address landside congestion at Tema Port",
+      "url": "https://www.ghanabusinessnews.com/2026/08/11/gpha-rolls-out-measures-to-address-landside-congestion-at-tema-port/",
+      "summary": "The Ghana Ports and Harbours Authority (GPHA) has introduced enhanced operational measures to address the significant landside congestion currently being experienced at the Port of Tema. The post GPHA rolls out measures to address landside congestion at Tema P",
+      "publishedAt": "2026-08-11T06:36:22+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
       "title": "ADF grants $4.3m to integrate natural capital into development financing in 13 African countries",
       "url": "https://www.ghanabusinessnews.com/2026/08/10/adf-grants-4-3m-to-integrate-natural-capital-into-development-financing-in-13-african-countries/",
       "summary": "The Board of Directors of the African Development Fund (ADF), the concessional window of the African Development Bank Group (AfDB), has approved a grant of $4.23 million to implement the second phase of a project to integrate natural capital into development f",
@@ -402,114 +450,66 @@
       "category": "Business news"
     },
     {
-      "title": "Private schools petition government, call for independent review of BECE",
-      "url": "https://www.ghanabusinessnews.com/2026/08/10/private-schools-petition-government-call-for-independent-review-of-bece/",
-      "summary": "Ghana National Council of Private Schools (GNACOPS) and the Ghana National Association of Private Schools (GNAPS) has presented a petition to the Ministry of Education for an independent review of the assessment, moderation and marking processes of this year’s",
-      "publishedAt": "2026-08-10T06:12:43+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "German minister calls for resignation of FIFA president Infantino",
-      "url": "https://www.ghanabusinessnews.com/2026/08/10/german-minister-calls-for-resignation-of-fifa-president-infantino/",
-      "summary": "German Minister of State for Culture, Wolfram Weimer, has become the first member of the federal government to call for the resignation of FIFA president Gianni Infantino. The post German minister calls for resignation of FIFA president Infantino appeared firs",
-      "publishedAt": "2026-08-10T06:03:26+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "How Gold Board is building a controlled supply chain in Ghana’s gold economy",
-      "url": "https://www.ghanabusinessnews.com/2026/08/09/how-gold-board-is-building-a-controlled-supply-chain-in-ghanas-gold-economy/",
-      "summary": "Ghana's gold industry has long presented a paradox. The country is one of Africa's leading gold producers, yet significant portions of the value generated by the sector have historically escaped the formal economy through smuggling, weak documentation, tax lea",
-      "publishedAt": "2026-08-09T06:09:46+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Ghana Statistical Service credits fuel relief, stable cedi for easing inflation pressures",
-      "url": "https://www.ghanabusinessnews.com/2026/08/09/ghana-statistical-service-credits-fuel-relief-stable-cedi-for-easing-inflation-pressures/",
-      "summary": "The Ghana government’s temporary petroleum relief measures and a stable exchange rate have helped contain inflationary pressures amid global market volatility. The post Ghana Statistical Service credits fuel relief, stable cedi for easing inflation pressures a",
-      "publishedAt": "2026-08-09T06:01:10+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Korea-backed plan seeks to broaden Ghana’s tax base",
-      "url": "https://www.ghanabusinessnews.com/2026/08/09/korea-backed-plan-seeks-to-broaden-ghanas-tax-base/",
-      "summary": "Ghana has received a Master Plan for Tax Modernisation aimed at broadening the tax base and strengthening domestic revenue mobilisation. The post Korea-backed plan seeks to broaden Ghana’s tax base appeared first on Ghana Business News .",
-      "publishedAt": "2026-08-09T05:53:18+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Wontumi seeks bail pending appeal",
-      "url": "https://www.ghanabusinessnews.com/2026/08/09/wontumi-seeks-bail-pending-appeal/",
-      "summary": "Bernard Antwi Boasiako, aka Wontumi, has filed a motion seeking bail pending an appeal against his 20-year prison sentence. The post Wontumi seeks bail pending appeal appeared first on Ghana Business News .",
-      "publishedAt": "2026-08-09T05:39:33+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Illegal mining pulling Ghana’s school children out of classrooms and into hazardous labour",
-      "url": "https://www.myjoyonline.com/illegal-mining-pulling-ghanas-school-children-out-of-classrooms-and-into-hazardous-labour/",
-      "summary": "A recent study conducted by Solidaridad West Africa and the Minerals Commission across four mining communities, Pameng, Asamang, Akwaboaso and Abrenya, in the Atiwa West District of the Eastern Region has revealed that school children are increasingly abandoni",
-      "publishedAt": "2026-08-10T11:20:33+00:00",
+      "title": "FirstBank Ghana deepens private education partnership with tailored financial solutions",
+      "url": "https://www.myjoyonline.com/firstbank-ghana-deepens-private-education-partnership-with-tailored-financial-solutions/",
+      "summary": "FirstBank Ghana has strengthened its partnership with Ghana’s private education sector following an engagement with members of the Ghana National Union of Private Schools (GNUPS) to explore financial solutions to challenges confronting private schools.",
+      "publishedAt": "2026-08-11T10:23:42+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "NPSC 2026 to lead discussions on smart and inclusive procurement for sustainable growth",
-      "url": "https://www.myjoyonline.com/npsc-2026-to-lead-discussions-on-smart-and-inclusive-procurement-for-sustainable-growth/",
-      "summary": "The Ghana Institute of Procurement and Supply (GIPS), in collaboration with its strategic partners, has announced the second edition of the National Procurement and Supply Chain Conference (NPSC 2026), a flagship event aimed at shaping the future of procuremen",
-      "publishedAt": "2026-08-10T09:38:49+00:00",
+      "title": "Start small and scale up gradually – Republic Bank Mortgage Manager advises Ghanaians",
+      "url": "https://www.myjoyonline.com/start-small-and-scale-up-gradually-republic-bank-mortgage-manager-advises-ghanaians/",
+      "summary": "The Manager in charge of Mortgage at Republic Bank Frank Oppong Yeboah, has advised prospective homeowners to build according to their income and financial capacity rather than taking on large loans to construct expensive houses at once.",
+      "publishedAt": "2026-08-11T10:19:13+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Zik Pan-African Award honours Zenith Bank CEO, Adaora Umeoji for transformational leadership",
-      "url": "https://www.myjoyonline.com/zik-pan-african-award-honours-zenith-bank-ceo-adaora-umeoji-for-transformational-leadership/",
-      "summary": "Group Managing Director and Chief Executive Officer of Zenith Bank Plc,Dame Dr. Adaora Umeoji, OON, has been honoured with the Zik Pan-African Award for Transformational Leadership in Banking and Financial Innovation. The award was presented at the 7th Zik Int",
-      "publishedAt": "2026-08-10T09:31:25+00:00",
+      "title": "Tafo Zongo residents accept losses as new road takes shape",
+      "url": "https://www.myjoyonline.com/tafo-zongo-residents-accept-losses-as-new-road-takes-shape/",
+      "summary": "Saeed Zakari spent more than GH¢20,000 building his shop in Tafo Zongo in the Ashanti Region. The structure has now been cleared to make way for a new road. The exercise is taking place along a designated road corridor that had remained undeveloped for years, ",
+      "publishedAt": "2026-08-11T08:58:00+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "ADB makes history with maiden CIB Chapter retreat to shape banking future",
-      "url": "https://www.myjoyonline.com/adb-makes-history-with-maiden-cib-chapter-retreat-to-shape-banking-future/",
-      "summary": "The Agricultural Development Bank (ADB PLC) has made another significant mark in Ghana’s banking industry with the first-ever retreat of its Chartered Institute of Bankers (CIB) Chapter.",
-      "publishedAt": "2026-08-10T09:30:52+00:00",
+      "title": "US court rules Meta, other tech firms must face thousands of lawsuits over social media addiction",
+      "url": "https://www.myjoyonline.com/us-court-rules-meta-other-tech-firms-must-face-thousands-of-lawsuits-over-social-media-addiction/",
+      "summary": "A U.S. appeals court on Monday allowed ​thousands of lawsuits to move forward against Meta Platforms, Alphabet's, Google, ByteDance's TikTok and Snap Inc's, Snapchat over claims they designed their products to be ‌addictive to young users.",
+      "publishedAt": "2026-08-11T02:16:00+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "InvestCorp Treasury Securities Fund: Delivering stability and growth in a changing market",
-      "url": "https://www.myjoyonline.com/investcorp-treasury-securities-fund-delivering-stability-and-growth-in-a-changing-market/",
-      "summary": "For many investors, the past few years have been a reminder that stability matters just as much as returns. In a market shaped by shifting interest rates, inflationary pressures, and cautious investor sentiment, the search for reliable investment options has b",
-      "publishedAt": "2026-08-10T09:22:38+00:00",
+      "title": "Intel plans $15 billion share sale as turnaround rally lifts stock",
+      "url": "https://www.myjoyonline.com/intel-plans-15-billion-share-sale-as-turnaround-rally-lifts-stock/",
+      "summary": "Intel said on Monday it was planning to raise $15 billion through a share sale, as it looks to fund the costly ​build-out of its chip contract manufacturing business by cashing in on a stock surge fueled by ‌its turnaround efforts.",
+      "publishedAt": "2026-08-11T00:10:00+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Telecel Ghana launches eco-SIM to advance environmental sustainability",
-      "url": "https://www.myjoyonline.com/telecel-ghana-launches-eco-sim-to-advance-environmental-sustainability/",
-      "summary": "Telecel Ghana has launched the biodegradable Eco-SIM, reinforcing its commitment to environmental sustainability and giving customers a greener way to stay connected.",
-      "publishedAt": "2026-08-10T05:19:00+00:00",
+      "title": "Nvidia gets $500bn from major investors to develop AI infrastructure",
+      "url": "https://www.myjoyonline.com/nvidia-gets-500bn-from-major-investors-to-develop-ai-infrastructure/",
+      "summary": "Nvidia has teamed up with some of Wall Street's largest banks and investors to raise $500bn (£370bn) in capital for artificial intelligence (AI) infrastructure.",
+      "publishedAt": "2026-08-10T23:20:00+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Ghana believes in its entrepreneurs – GEA CEO reaffirms commitment to SMEs",
-      "url": "https://www.myjoyonline.com/ghana-believes-in-its-entrepreneurs-gea-ceo-reaffirms-commitment-to-smes/",
-      "summary": "The CEO of the Ghana Enterprises Agency (GEA), Margaret Ansei, has reaffirmed government's commitment to strengthening Ghana's Micro, Small and Medium Enterprises (MSMEs).",
-      "publishedAt": "2026-08-10T03:44:00+00:00",
+      "title": "Ghana’s refining capacity yet to shield fuel market from global shocks – CEMSE",
+      "url": "https://www.myjoyonline.com/ghanas-refining-capacity-yet-to-shield-fuel-market-from-global-shocks-cemse/",
+      "summary": "Ghana’s growing refining capacity will improve fuel security but cannot yet fully shield the country from global petroleum market shocks, Mr Benjamin Nsiah, an energy expert, has said.",
+      "publishedAt": "2026-08-10T21:30:00+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "African governments must back African multinationals – Dr Ishmael Yamson",
-      "url": "https://www.myjoyonline.com/african-governments-must-back-african-multinationals-dr-ishmael-yamson/",
-      "summary": "The Board Chairman of MTN Ghana, Dr Ishmael Yamson, has urged African governments to provide stronger support for home-grown multinational companies, arguing that empowering African businesses is critical to accelerating regional integration and strengthening ",
-      "publishedAt": "2026-08-09T21:57:00+00:00",
+      "title": "GoldBod generated $10.8bn in forex from small-scale gold — Sammy Gyamfi",
+      "url": "https://www.myjoyonline.com/goldbod-generated-10-8bn-in-forex-from-small-scale-gold-sammy-gyamfi/",
+      "summary": "The Chief Executive Officer of the Ghana Gold Board (GoldBod), Sammy Gyamfi, says Ghana generated more than $10.8 billion in foreign exchange from artisanal and small-scale mining gold alone, contributing significantly to the country’s foreign exchange market ",
+      "publishedAt": "2026-08-10T17:56:12+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
@@ -658,7 +658,7 @@
       "category": "Public macro fallback"
     },
     {
-      "title": "InvestCorp Treasury Securities Fund: Delivering stability and growth in a changing market",
+      "title": "Cocoa farmers urge review of Bill before presidential assent",
       "url": "https://www.myjoyonline.com/?s=91-day+treasury+bill+rate",
       "summary": "",
       "publishedAt": null,
@@ -666,7 +666,7 @@
       "category": "Public macro fallback"
     },
     {
-      "title": "New COCOBOD Bill: Protecting cocoa should not come at the cost of farmers’ rights",
+      "title": "Cocoa Bill: Parliament caught constitutional flaw in mining provision before passage – Jerome Sam",
       "url": "https://www.myjoyonline.com/?s=91-day+treasury+bill+rate",
       "summary": "",
       "publishedAt": null,
@@ -682,7 +682,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-10T11:50:21.382902+00:00"
+      "fetchedAt": "2026-08-11T11:46:54.923072+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -691,7 +691,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-10T11:50:21.382902+00:00"
+      "fetchedAt": "2026-08-11T11:46:54.923072+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -700,7 +700,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-10T11:50:21.382902+00:00"
+      "fetchedAt": "2026-08-11T11:46:54.923072+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -709,7 +709,7 @@
       "kind": "html",
       "ok": false,
       "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
-      "fetchedAt": "2026-08-10T11:50:21.382902+00:00"
+      "fetchedAt": "2026-08-11T11:46:54.923072+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -718,7 +718,7 @@
       "kind": "html",
       "ok": false,
       "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
-      "fetchedAt": "2026-08-10T11:50:21.382902+00:00"
+      "fetchedAt": "2026-08-11T11:46:54.923072+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -727,7 +727,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-10T11:50:21.382902+00:00"
+      "fetchedAt": "2026-08-11T11:46:54.923072+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -736,7 +736,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-08-10T11:50:21.382902+00:00"
+      "fetchedAt": "2026-08-11T11:46:54.923072+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -745,7 +745,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-10T11:50:21.382902+00:00"
+      "fetchedAt": "2026-08-11T11:46:54.923072+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -754,7 +754,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-10T11:50:21.382902+00:00"
+      "fetchedAt": "2026-08-11T11:46:54.923072+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -763,7 +763,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-10T11:50:21.382902+00:00"
+      "fetchedAt": "2026-08-11T11:46:54.923072+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -772,7 +772,7 @@
       "kind": "rss",
       "ok": false,
       "error": "HTTP Error 404: Not Found",
-      "fetchedAt": "2026-08-10T11:50:21.382902+00:00"
+      "fetchedAt": "2026-08-11T11:46:54.923072+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -781,7 +781,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-10T11:50:21.382902+00:00"
+      "fetchedAt": "2026-08-11T11:46:54.923072+00:00"
     },
     {
       "name": "Citi Business News",
@@ -790,7 +790,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-10T11:50:21.382902+00:00"
+      "fetchedAt": "2026-08-11T11:46:54.923072+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -799,7 +799,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-10T11:50:21.382902+00:00"
+      "fetchedAt": "2026-08-11T11:46:54.923072+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -808,7 +808,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-10T11:50:21.382902+00:00"
+      "fetchedAt": "2026-08-11T11:46:54.923072+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -817,7 +817,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-10T11:50:21.382902+00:00"
+      "fetchedAt": "2026-08-11T11:46:54.923072+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -826,7 +826,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-10T11:50:21.382902+00:00"
+      "fetchedAt": "2026-08-11T11:46:54.923072+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -835,7 +835,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-10T11:50:21.382902+00:00"
+      "fetchedAt": "2026-08-11T11:46:54.923072+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -844,7 +844,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-10T11:50:21.382902+00:00"
+      "fetchedAt": "2026-08-11T11:46:54.923072+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -853,7 +853,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-10T11:50:21.382902+00:00"
+      "fetchedAt": "2026-08-11T11:46:54.923072+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -862,7 +862,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-10T11:50:21.382902+00:00"
+      "fetchedAt": "2026-08-11T11:46:54.923072+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -871,7 +871,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-08-10T11:50:21.382902+00:00"
+      "fetchedAt": "2026-08-11T11:46:54.923072+00:00"
     }
   ]
 }
