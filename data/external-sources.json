@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-17T11:29:15.147103+00:00",
-  "generatedAtGhana": "2026-08-17T11:29:15.147103+00:00",
+  "generatedAt": "2026-08-18T11:28:09.869462+00:00",
+  "generatedAtGhana": "2026-08-18T11:28:09.869462+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
     "gseIndices": {
-      "asOf": "14/08/2026",
-      "composite": 15307.71,
-      "financialStocks": 8116.98,
+      "asOf": "15/08/2026",
+      "composite": 15202.93,
+      "financialStocks": 8027.06,
       "source": "Ghana Stock Exchange",
       "url": "https://gse.com.gh/"
     },
@@ -386,6 +386,46 @@
       "category": "Sovereign credit research"
     },
     {
+      "title": "Cedi appreciates against US dollar from GH¢11.75 – GH¢10.94 in one week",
+      "url": "https://www.ghanabusinessnews.com/2026/08/18/cedi-appreciates-against-us-dollar-from-gh%c2%a211-75-gh%c2%a210-94-in-one-week/",
+      "summary": "The Ghana cedi appreciated significantly against the United States dollar over the past week, strengthening from an interbank buying rate of GH¢11.75 on August 10 to GH¢10.94 on August 17, according to Bank of Ghana daily exchange rate data. The post Cedi appr",
+      "publishedAt": "2026-08-18T08:01:12+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Human trafficking: Experts urge society to protect, not blame victims",
+      "url": "https://www.ghanabusinessnews.com/2026/08/18/human-trafficking-experts-urge-society-to-protect-not-blame-victims/",
+      "summary": "Experts have called for a victim-centred approach to tackling human trafficking and other forms of transnational organised crime. The post Human trafficking: Experts urge society to protect, not blame victims appeared first on Ghana Business News .",
+      "publishedAt": "2026-08-18T07:54:17+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Military leaders urged to prepare for emerging security threats",
+      "url": "https://www.ghanabusinessnews.com/2026/08/18/military-leaders-urged-to-prepare-for-emerging-security-threats/",
+      "summary": "Military leaders have been urged to anticipate emerging security threats and develop contingency plans for unexpected crises. The post Military leaders urged to prepare for emerging security threats appeared first on Ghana Business News .",
+      "publishedAt": "2026-08-18T07:47:53+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "GTA shuts down four accommodation facilities in Central Region",
+      "url": "https://www.ghanabusinessnews.com/2026/08/18/gta-shuts-down-four-accommodation-facilities-in-central-region/",
+      "summary": "The Ghana Tourism Authority (GTA) in the Central Region has temporarily shut down four hospitality establishments for breaching various tourism regulatory requirements. The post GTA shuts down four accommodation facilities in Central Region appeared first on G",
+      "publishedAt": "2026-08-18T07:39:50+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Sexual harassment has no place in educational institutions – MOE",
+      "url": "https://www.ghanabusinessnews.com/2026/08/18/sexual-harassment-has-no-place-in-educational-institutions-moe/",
+      "summary": "Ms Harriet Krakani, Deputy Director, Tertiary Directorate, Ministry of Education, says sexual harassment has no place in Ghana’s educational institutions. The post Sexual harassment has no place in educational institutions – MOE appeared first on Ghana Busines",
+      "publishedAt": "2026-08-18T07:28:41+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
       "title": "The exchange rate paradox: Macroeconomic triumph, the import subsidy trap and the threat to youth employment",
       "url": "https://www.ghanabusinessnews.com/2026/08/17/the-exchange-rate-paradox-macroeconomic-triumph-the-import-subsidy-trap-and-the-threat-to-youth-employment/",
       "summary": "A recent assertion circulating among Ghanaian youth and entrepreneurs poses a fundamental economic question: Is the current exchange rate of approximately GH¢10.94 to the US dollar literally killing local jobs by making imported products drastically cheaper th",
@@ -410,106 +450,66 @@
       "category": "Business news"
     },
     {
-      "title": "Ghana agricultural growth slows to 3.6% in May",
-      "url": "https://www.ghanabusinessnews.com/2026/08/17/ghana-agricultural-growth-slows-to-3-6-in-may/",
-      "summary": "Ghana’s agricultural growth slowed to 3.6 per cent in May 2026 from 9.8 per cent a year earlier, the Ghana Statistical Service (GSS) said. The post Ghana agricultural growth slows to 3.6% in May appeared first on Ghana Business News .",
-      "publishedAt": "2026-08-17T06:33:51+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Ghana can raise revenue through improved tax compliance – Coalition",
-      "url": "https://www.ghanabusinessnews.com/2026/08/17/ghana-can-raise-revenue-through-improved-tax-compliance-coalition/",
-      "summary": "Ghana can raise substantial additional domestic revenue by improving Value Added Tax and corporate income tax compliance, the Tax Justice Coalition-Ghana has said. The post Ghana can raise revenue through improved tax compliance – Coalition appeared first on G",
-      "publishedAt": "2026-08-17T06:29:35+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Ghana’s labour market sees growing internal career movement",
-      "url": "https://www.ghanabusinessnews.com/2026/08/17/ghanas-labour-market-sees-growing-internal-career-movement/",
-      "summary": "Dr Evans O. Boamah, Assistant Professor at Durham University Business School, UK, says Ghana’s labour market may be shifting, with more professionals advancing their careers within existing organisations instead of changing employers. The post Ghana’s labour m",
-      "publishedAt": "2026-08-17T06:24:09+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Between dream and license: Regulatory maze holding back Ghana’s MSMEs",
-      "url": "https://www.ghanabusinessnews.com/2026/08/17/between-dream-and-license-regulatory-maze-holding-back-ghanas-msmes/",
-      "summary": "For seven years, Ms. Samiratu Sakibu has built Mira Taste Services one product at a time. The post Between dream and license: Regulatory maze holding back Ghana’s MSMEs appeared first on Ghana Business News .",
-      "publishedAt": "2026-08-17T06:19:24+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "GHS staff to get scannable IDs to curb impersonation",
-      "url": "https://www.ghanabusinessnews.com/2026/08/17/ghs-staff-to-get-scannable-ids-to-curb-impersonation/",
-      "summary": "Dr Samuel Kaba Akoriyea, the Director-General (DG) of the Ghana Health Service (GHS), says health staff scheduled to undertake community and home-based services under the Free Primary Health Care (FPHC) programme will be issued staff Identification (ID) cards.",
-      "publishedAt": "2026-08-17T06:11:27+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "OMCs commence fuel price reviews; Star Oil sells petrol at GH¢14.97, diesel kept at GH¢16.97",
-      "url": "https://www.myjoyonline.com/omcs-commence-fuel-price-reviews-star-oil-sells-petrol-at-gh%c2%a214-97-diesel-kept-at-gh%c2%a216-97/",
-      "summary": "But some of the OMCs have told Joy Business that even though a decision has not been taken on prices that does not mean they will not review prices later in the day.",
-      "publishedAt": "2026-08-17T10:38:16+00:00",
+      "title": "GNPC turns 40, targets oil production recovery and $3.5bn fresh investment",
+      "url": "https://www.myjoyonline.com/gnpc-turns-40-targets-oil-production-recovery-and-3-5bn-fresh-investment/",
+      "summary": "The Ghana National Petroleum Corporation (GNPC) is targeting a recovery in oil production, expanded gas commercialisation and increased exploration as it marks 40 years of operations.",
+      "publishedAt": "2026-08-18T11:23:20+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Genser Energy secures 456m euros to accelerate next phase of growth across West Africa",
-      "url": "https://www.myjoyonline.com/genser-energy-secures-456m-euros-to-accelerate-next-phase-of-growth-across-west-africa/",
-      "summary": "The transaction builds on Genser Energy Ghana’s landmark US$428 million corporate refinancing and Genser Energy d’Ivoire SA’s EUR 200m equipment loan facility completed in 2025, demonstrating the Company's continued ability to attract support from leading fina",
-      "publishedAt": "2026-08-17T10:24:31+00:00",
+      "title": "Moody’s upgrades EBID rating to B1, citing stronger finances and shareholder support",
+      "url": "https://www.myjoyonline.com/moodys-upgrades-ebid-rating-to-b1-citing-stronger-finances-and-shareholder-support/",
+      "summary": "The ECOWAS Bank for Investment and Development (EBID) has secured an upgrade in its long-term issuer rating from Moody’s Ratings, moving from B2 to B1 with a stable outlook. The upgrade, published on August 14, 2026, reflects improvements in EBID’s financial p",
+      "publishedAt": "2026-08-18T11:09:29+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Republic Bank deepens commitment to homeownership with nationwide JoyNews Habitat Fair partnership",
-      "url": "https://www.myjoyonline.com/republic-bank-deepens-commitment-to-homeownership-with-nationwide-joynews-habitat-fair-partnership/",
-      "summary": "Republic Bank (Ghana) PLC has deepened its commitment to homeownership through the JoyNews Habitat Fair, following the signing of a partnership agreement with Multimedia Group Limited to expand the housing-focused platform across Ghana. A statement issued by t",
-      "publishedAt": "2026-08-17T09:37:18+00:00",
+      "title": "Cedi’s year-to-date loss slumps to 4.09% as recent gains gather pace",
+      "url": "https://www.myjoyonline.com/cedis-year-to-date-loss-slumps-to-4-09-as-recent-gains-gather-pace/",
+      "summary": "The cedi’s recent strong performance against the US dollar has significantly reduced its year-to-date depreciation.",
+      "publishedAt": "2026-08-18T09:38:07+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Tantalus or Triumph? Ghana and the Harvest of Economic Recovery",
-      "url": "https://www.myjoyonline.com/tantalus-or-triumph-ghana-and-the-harvest-of-economic-recovery/",
-      "summary": "The Torture of Tantalus In Greek mythology, King Tantalus was once a favoured mortal who dined at the tables of Mount Olympus. That intimacy proved his undoing. After abusing the hospitality of the gods to test their knowledge, he was cast into the deepest pit",
-      "publishedAt": "2026-08-17T08:51:53+00:00",
+      "title": "GCB, Ecobank, 4 others are top tier banks in Ghana – PwC Banking Survey",
+      "url": "https://www.myjoyonline.com/gcb-ecobank-4-others-are-top-tier-banks-in-ghana-pwc-banking-survey/",
+      "summary": "The report added that Ghana’s banking sector demonstrated sustained profitability in 2025 despite a contracting interest rate environment. With the policy rate falling to 18% and the Ghana Reference Rate dropping below 20%, quartile analysis shows year-on-year",
+      "publishedAt": "2026-08-18T08:53:51+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Cedi stages strong recovery as dollar supply improves, demand eases",
-      "url": "https://www.myjoyonline.com/cedi-stages-strong-recovery-as-dollar-supply-improves-demand-eases/",
-      "summary": "The Ghana cedi has staged a strong recovery against the US dollar, recording four consecutive days of gains between Tuesday, August 11 and Friday, August 14, 2026.",
-      "publishedAt": "2026-08-17T05:37:45+00:00",
+      "title": "Banks’ sustainable success will be defined less by interest margins – PwC",
+      "url": "https://www.myjoyonline.com/banks-sustainable-success-will-be-defined-less-by-interest-margins-pwc/",
+      "summary": "According to the professional services firm, the challenge ahead is not simply to navigate a lower-rate environment while keeping existing business models intact, but to deliberately reposition for it.",
+      "publishedAt": "2026-08-18T07:03:59+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Petrol prices to drop today with diesel up in mixed pump price review",
-      "url": "https://www.myjoyonline.com/petrol-prices-to-drop-today-with-diesel-up-in-mixed-pump-price-review/",
-      "summary": "Petrol prices are expected to fall while diesel prices could rise from today, August 17, in a mixed review of petroleum prices at the pumps.",
-      "publishedAt": "2026-08-17T05:30:36+00:00",
+      "title": "The GIPA Act: Resetting Ghana’s investment framework",
+      "url": "https://www.myjoyonline.com/the-gipa-act-resetting-ghanas-investment-framework/",
+      "summary": "The removal of the minimum capital requirement, however, is not a liberalisation of the economy at the expense of local businesses. All investment remain subject to the applicable sector-specific laws, licensing requirements and regulatory standards administer",
+      "publishedAt": "2026-08-18T06:05:38+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "If Meta loses this trial, Instagram and Facebook could change forever",
-      "url": "https://www.myjoyonline.com/if-meta-loses-this-trial-instagram-and-facebook-could-change-forever/",
-      "summary": "Meta has been hit with successive losses in court over how its platforms have targeted and harmed young users, but a jury trial set to begin on Tuesday may pose the biggest threat yet to its operations.",
-      "publishedAt": "2026-08-17T03:26:00+00:00",
+      "title": "GIPA secures investor leads at Invest Fest 2026",
+      "url": "https://www.myjoyonline.com/gipa-secures-investor-leads-at-invest-fest-2026/",
+      "summary": "The Ghana Investment Promotion Authority (GIPA) has secured investor leads and expressions of interest in real estate, tourism and other sectors following its participation in Invest Fest 2026 in Atlanta, United States. The engagements also generated discussio",
+      "publishedAt": "2026-08-18T06:00:03+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "T-bills auction: Government exceeds target by 88%, interest rates tumble",
-      "url": "https://www.myjoyonline.com/t-bills-auction-government-exceeds-target-by-88-interest-rates-tumble/",
-      "summary": "The 91-day bill overtook the 364-day bill as the most patronised short-term instrument.",
-      "publishedAt": "2026-08-16T17:56:39+00:00",
+      "title": "Green means Business: How Ghana’s garden revolution is growing jobs, wealth and hope",
+      "url": "https://www.myjoyonline.com/green-means-business-how-ghanas-garden-revolution-is-growing-jobs-wealth-and-hope/",
+      "summary": "From a modest flower exhibition to an internationally recognised movement, the Ghana Garden and Flower Show has blossomed into a powerful platform promoting enterprise, environmental stewardship and sustainable development. As preparations gather pace for the ",
+      "publishedAt": "2026-08-18T05:07:34+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
@@ -530,7 +530,7 @@
       "category": "Public FX fallback"
     },
     {
-      "title": "Cedi stages strong recovery as dollar supply improves, demand eases",
+      "title": "Cedi appreciates against US dollar from GH¢11.75 – 10.94 in one week",
       "url": "https://www.myjoyonline.com/?s=cedi+dollar",
       "summary": "",
       "publishedAt": null,
@@ -538,7 +538,7 @@
       "category": "Public FX fallback"
     },
     {
-      "title": "Cedi depreciated by 3.1% to dollar in July 2026, increasing year-to-date loss to 10.4%",
+      "title": "Cedi stages strong recovery as dollar supply improves, demand eases",
       "url": "https://www.myjoyonline.com/?s=cedi+dollar",
       "summary": "",
       "publishedAt": null,
@@ -658,7 +658,7 @@
       "category": "Public macro fallback"
     },
     {
-      "title": "COCOBOD CEO dismisses claims over new Cocoa Bill, says reforms will protect farms and improve sector",
+      "title": "Ghana’s missing billions: What 16 years of Auditor-General reports show",
       "url": "https://www.myjoyonline.com/?s=91-day+treasury+bill+rate",
       "summary": "",
       "publishedAt": null,
@@ -666,7 +666,7 @@
       "category": "Public macro fallback"
     },
     {
-      "title": "Ashanti Region records Ghana’s highest maternal mortality rate at 196.7 deaths per 100,000 births",
+      "title": "Gold extends gains on easing rate-hike fears, markets await Fed minutes",
       "url": "https://www.myjoyonline.com/?s=91-day+treasury+bill+rate",
       "summary": "",
       "publishedAt": null,
@@ -682,7 +682,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-17T11:29:15.147103+00:00"
+      "fetchedAt": "2026-08-18T11:28:09.869462+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -691,7 +691,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-17T11:29:15.147103+00:00"
+      "fetchedAt": "2026-08-18T11:28:09.869462+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -700,7 +700,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-17T11:29:15.147103+00:00"
+      "fetchedAt": "2026-08-18T11:28:09.869462+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -709,7 +709,7 @@
       "kind": "html",
       "ok": false,
       "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
-      "fetchedAt": "2026-08-17T11:29:15.147103+00:00"
+      "fetchedAt": "2026-08-18T11:28:09.869462+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -718,7 +718,7 @@
       "kind": "html",
       "ok": false,
       "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
-      "fetchedAt": "2026-08-17T11:29:15.147103+00:00"
+      "fetchedAt": "2026-08-18T11:28:09.869462+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -727,7 +727,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-17T11:29:15.147103+00:00"
+      "fetchedAt": "2026-08-18T11:28:09.869462+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -736,7 +736,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-08-17T11:29:15.147103+00:00"
+      "fetchedAt": "2026-08-18T11:28:09.869462+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -745,7 +745,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-17T11:29:15.147103+00:00"
+      "fetchedAt": "2026-08-18T11:28:09.869462+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -754,7 +754,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-17T11:29:15.147103+00:00"
+      "fetchedAt": "2026-08-18T11:28:09.869462+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -763,7 +763,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-17T11:29:15.147103+00:00"
+      "fetchedAt": "2026-08-18T11:28:09.869462+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -772,7 +772,7 @@
       "kind": "rss",
       "ok": false,
       "error": "HTTP Error 404: Not Found",
-      "fetchedAt": "2026-08-17T11:29:15.147103+00:00"
+      "fetchedAt": "2026-08-18T11:28:09.869462+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -781,7 +781,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-17T11:29:15.147103+00:00"
+      "fetchedAt": "2026-08-18T11:28:09.869462+00:00"
     },
     {
       "name": "Citi Business News",
@@ -790,7 +790,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-17T11:29:15.147103+00:00"
+      "fetchedAt": "2026-08-18T11:28:09.869462+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -799,7 +799,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-17T11:29:15.147103+00:00"
+      "fetchedAt": "2026-08-18T11:28:09.869462+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -808,7 +808,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-17T11:29:15.147103+00:00"
+      "fetchedAt": "2026-08-18T11:28:09.869462+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -817,7 +817,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-17T11:29:15.147103+00:00"
+      "fetchedAt": "2026-08-18T11:28:09.869462+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -826,7 +826,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-17T11:29:15.147103+00:00"
+      "fetchedAt": "2026-08-18T11:28:09.869462+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -835,7 +835,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-17T11:29:15.147103+00:00"
+      "fetchedAt": "2026-08-18T11:28:09.869462+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -844,7 +844,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-17T11:29:15.147103+00:00"
+      "fetchedAt": "2026-08-18T11:28:09.869462+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -853,7 +853,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-17T11:29:15.147103+00:00"
+      "fetchedAt": "2026-08-18T11:28:09.869462+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -862,7 +862,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-17T11:29:15.147103+00:00"
+      "fetchedAt": "2026-08-18T11:28:09.869462+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -871,7 +871,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-08-17T11:29:15.147103+00:00"
+      "fetchedAt": "2026-08-18T11:28:09.869462+00:00"
     }
   ]
 }
