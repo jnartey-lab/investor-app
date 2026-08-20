@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-19T11:28:20.668999+00:00",
-  "generatedAtGhana": "2026-08-19T11:28:20.668999+00:00",
+  "generatedAt": "2026-08-20T11:29:41.313772+00:00",
+  "generatedAtGhana": "2026-08-20T11:29:41.313772+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
     "gseIndices": {
-      "asOf": "18/08/2026",
-      "composite": 15206.41,
-      "financialStocks": 8025.08,
+      "asOf": "19/08/2026",
+      "composite": 15170.27,
+      "financialStocks": 7984.12,
       "source": "Ghana Stock Exchange",
       "url": "https://gse.com.gh/"
     },
@@ -450,66 +450,66 @@
       "category": "Business news"
     },
     {
-      "title": "GSE equities index surges 73% as trading activity soars",
-      "url": "https://www.myjoyonline.com/gse-equities-index-surges-73-as-trading-activity-soars/",
-      "summary": "Speaking at the launch of the updated GSE ESG Manual, Ms. Amoah said the equities index had closed 73% higher year-to-date as of August 18, 2026, describing the performance as one of the strongest among global equity markets.",
-      "publishedAt": "2026-08-19T10:28:23+00:00",
+      "title": "Absa supports €456m financing for Genser Energy’s next phase of growth",
+      "url": "https://www.myjoyonline.com/absa-supports-e456m-financing-for-genser-energys-next-phase-of-growth/",
+      "summary": "Absa has participated as one of the arrangers of a €456 million term and revolving credit facilities package for Genser Energy Investments LLC, a leading integrated energy company in West Africa.",
+      "publishedAt": "2026-08-20T11:12:28+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Understanding Ghana’s new Integrated Tax Administration System (ITAS)",
-      "url": "https://www.myjoyonline.com/understanding-ghanas-new-integrated-tax-administration-system-itas/",
-      "summary": "Consider Akosua, a fabric trader at Makola Market. She wants to do the right thing: register her business, keep accurate records, and set aside money to meet her tax obligations. However, when it is time to file, she finds herself moving between different coun",
-      "publishedAt": "2026-08-19T10:06:07+00:00",
+      "title": "Türkiye’s exports to Africa rise 12.6% to $13.3bn in seven months",
+      "url": "https://www.myjoyonline.com/turkiyes-exports-to-africa-rise-12-6-to-13-3bn-in-seven-months/",
+      "summary": "Türkiye’s exports to Africa reached $13.3 billion in the first seven months of 2026, rising 12.6% compared with the same period last year, as expanding logistics networks, construction projects and diplomatic engagement boost trade.",
+      "publishedAt": "2026-08-20T08:32:54+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "The losses were necessary – Manteaw defends GoldBod’s costly push to win Ghana’s gold market",
-      "url": "https://www.myjoyonline.com/the-losses-were-necessary-manteaw-defends-goldbods-costly-push-to-win-ghanas-gold-market/",
-      "summary": "Co-Chair of the Ghana Extractive Industries Transparency Initiative (GHEITI), Dr Emmanuel Steve Asare Manteaw, has defended the financial losses incurred by the Ghana Gold Board (GoldBod), describing them as necessary costs in its bid to take control of the co",
-      "publishedAt": "2026-08-19T06:11:00+00:00",
+      "title": "GIPA, GUTA outline roadmap to protect informal retail space for Ghanaians",
+      "url": "https://www.myjoyonline.com/gipa-guta-outline-roadmap-to-protect-informal-retail-space-for-ghanaians/",
+      "summary": "The strategic meeting, convened under the directive of the Ministry of Trade, Agribusiness and Industry (MoTAI) and led by the Chief Executive Officer of GIPA, Simon Madjie, focused on strengthening oversight mechanisms and preventing unauthorised entry into t",
+      "publishedAt": "2026-08-20T07:58:04+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "We are concerned about inflation outlook when setting policy rate – BoG Governor",
-      "url": "https://www.myjoyonline.com/we-are-concerned-about-inflation-outlook-when-setting-policy-rate-bog-governor/",
-      "summary": "Bank of Ghana (BoG) Governor Dr Johnson Asiama has revealed that the Monetary Policy Committee (MPC) pays close attention to the inflation outlook when setting the policy rate.",
-      "publishedAt": "2026-08-19T06:00:00+00:00",
+      "title": "GIPA invites investors to maiden ‘Invest Ghana Summit’",
+      "url": "https://www.myjoyonline.com/gipa-invites-investors-to-maiden-invest-ghana-summit/",
+      "summary": "Mr Sedor said the Summit would provide a platform for investors to engage government leaders, policymakers, business executives and other stakeholders on investment opportunities in Ghana.",
+      "publishedAt": "2026-08-20T07:52:23+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "GoldBod had to ‘pay more’ to beat Indians, Chinese in Ghana’s gold market – Manteaw",
-      "url": "https://www.myjoyonline.com/goldbod-had-to-pay-more-to-beat-indians-chinese-in-ghanas-gold-market-manteaw/",
-      "summary": "Co-Chair of the Ghana Extractive Industries Transparency Initiative (GHEITI), Dr Emmanuel Steve Asare Manteaw, says the financial losses recorded by the Ghana Gold Board (GoldBod) must be viewed within the context of the highly competitive gold market it enter",
-      "publishedAt": "2026-08-19T05:55:00+00:00",
+      "title": "Mark Zuckerberg encouraged growth over child safety, ex-Meta executive testifies at trial",
+      "url": "https://www.myjoyonline.com/mark-zuckerberg-encouraged-growth-over-child-safety-ex-meta-executive-testifies-at-trial/",
+      "summary": "A former engineering director at Meta Platforms testified on Wednesday that ​CEO Mark Zuckerberg fostered a culture that treated child safety as secondary to growth and engagement on Facebook and Instagram.",
+      "publishedAt": "2026-08-20T00:15:00+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Gov’t pays GH¢10.8bn DDEP Coupon in full and on schedule",
-      "url": "https://www.myjoyonline.com/govt-pays-gh%c2%a210-8bn-ddep-coupon-in-full-and-on-schedule/",
-      "summary": "The government has paid GH¢10.82 billion to bondholders under the Domestic Debt Exchange Programme (DDEP). The Ministry of Finance said the payment, totalling GH¢10,816,840,318.26, was made in full and on schedule. It brings the total amount paid to DDEP bondh",
-      "publishedAt": "2026-08-19T05:43:00+00:00",
+      "title": "Ghana’s output expansion largely driven by labour, capital rather than innovation – Opoku-Afari",
+      "url": "https://www.myjoyonline.com/ghanas-output-expansion-largely-driven-by-labour-capital-rather-than-innovation-opoku-afari/",
+      "summary": "He pointed out that borrowing was frequently framed as financing for infrastructure and flagship programmes.",
+      "publishedAt": "2026-08-19T22:00:38+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "GoldBod’s $1.7bn loss is worth it; forex gains have stabilised Ghana’s economy, Manteaw says",
-      "url": "https://www.myjoyonline.com/goldbods-1-7bn-loss-is-worth-it-forex-gains-have-stabilised-ghanas-economy-manteaw-says/",
-      "summary": "Co-Chair of the Ghana Extractive Industries Transparency Initiative (GHEITI), Dr Emmanuel Steve Asare Manteaw, says the $1.7 billion loss incurred by the Ghana Gold Board (GoldBod) is justified by the foreign exchange gains and wider economic benefits generate",
-      "publishedAt": "2026-08-19T05:18:00+00:00",
+      "title": "Stronger research, industry linkages needed to build a competitive digital economy – Deloitte Technology Senior Manager",
+      "url": "https://www.myjoyonline.com/stronger-research-industry-linkages-needed-to-build-a-competitive-digital-economy-deloitte-technology-senior-manager/",
+      "summary": "Speaking as a panellist at the 2026 National ICT Week Celebrations organised by the National Information Technology Agency (NIITA) at the Cedi Conference Centre, University of Ghana, Legon, Mr Aikins said a stronger collaboration between researchers and indust",
+      "publishedAt": "2026-08-19T21:35:48+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "GoldBod losses: Why act like Ghana has never lost money on Gold? – Manteaw",
-      "url": "https://www.myjoyonline.com/goldbod-losses-why-act-like-ghana-has-never-lost-money-on-gold-manteaw/",
-      "summary": "Policy analyst and Co-Chair of the Ghana Extractive Industries Transparency Initiative (GHEITI), Dr Emmanuel Steve Asare Manteaw, has challenged criticism of losses recorded under the Ghana Gold Board’s (GoldBod) domestic gold purchase programme.",
-      "publishedAt": "2026-08-19T04:50:00+00:00",
+      "title": "Economy experience high but unbalanced growth from mid-2000 to 2022 debt crisis – Former 1st Deputy Governor",
+      "url": "https://www.myjoyonline.com/economy-experience-high-but-unbalanced-growth-from-mid-2000-to-2022-debt-crisis-former-1st-deputy-governor/",
+      "summary": "“Election-driven spending booms produced some growth spurts but were quickly followed by deep fiscal and debt crisis. What is even more surprising is that this high spending often did not result in electoral victories for the ruling government, as the pattern ",
+      "publishedAt": "2026-08-19T21:19:28+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
@@ -682,7 +682,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-19T11:28:20.668999+00:00"
+      "fetchedAt": "2026-08-20T11:29:41.313772+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -691,7 +691,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-19T11:28:20.668999+00:00"
+      "fetchedAt": "2026-08-20T11:29:41.313772+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -700,7 +700,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-19T11:28:20.668999+00:00"
+      "fetchedAt": "2026-08-20T11:29:41.313772+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -709,7 +709,7 @@
       "kind": "html",
       "ok": false,
       "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
-      "fetchedAt": "2026-08-19T11:28:20.668999+00:00"
+      "fetchedAt": "2026-08-20T11:29:41.313772+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -718,7 +718,7 @@
       "kind": "html",
       "ok": false,
       "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
-      "fetchedAt": "2026-08-19T11:28:20.668999+00:00"
+      "fetchedAt": "2026-08-20T11:29:41.313772+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -727,7 +727,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-19T11:28:20.668999+00:00"
+      "fetchedAt": "2026-08-20T11:29:41.313772+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -736,7 +736,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-08-19T11:28:20.668999+00:00"
+      "fetchedAt": "2026-08-20T11:29:41.313772+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -745,7 +745,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-19T11:28:20.668999+00:00"
+      "fetchedAt": "2026-08-20T11:29:41.313772+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -754,7 +754,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-19T11:28:20.668999+00:00"
+      "fetchedAt": "2026-08-20T11:29:41.313772+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -763,7 +763,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-19T11:28:20.668999+00:00"
+      "fetchedAt": "2026-08-20T11:29:41.313772+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -772,7 +772,7 @@
       "kind": "rss",
       "ok": false,
       "error": "HTTP Error 404: Not Found",
-      "fetchedAt": "2026-08-19T11:28:20.668999+00:00"
+      "fetchedAt": "2026-08-20T11:29:41.313772+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -781,7 +781,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-19T11:28:20.668999+00:00"
+      "fetchedAt": "2026-08-20T11:29:41.313772+00:00"
     },
     {
       "name": "Citi Business News",
@@ -790,7 +790,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-19T11:28:20.668999+00:00"
+      "fetchedAt": "2026-08-20T11:29:41.313772+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -799,7 +799,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-19T11:28:20.668999+00:00"
+      "fetchedAt": "2026-08-20T11:29:41.313772+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -808,7 +808,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-19T11:28:20.668999+00:00"
+      "fetchedAt": "2026-08-20T11:29:41.313772+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -817,7 +817,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-19T11:28:20.668999+00:00"
+      "fetchedAt": "2026-08-20T11:29:41.313772+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -826,7 +826,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-19T11:28:20.668999+00:00"
+      "fetchedAt": "2026-08-20T11:29:41.313772+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -835,7 +835,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-19T11:28:20.668999+00:00"
+      "fetchedAt": "2026-08-20T11:29:41.313772+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -844,7 +844,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-19T11:28:20.668999+00:00"
+      "fetchedAt": "2026-08-20T11:29:41.313772+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -853,7 +853,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-19T11:28:20.668999+00:00"
+      "fetchedAt": "2026-08-20T11:29:41.313772+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -862,7 +862,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-19T11:28:20.668999+00:00"
+      "fetchedAt": "2026-08-20T11:29:41.313772+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -871,7 +871,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-08-19T11:28:20.668999+00:00"
+      "fetchedAt": "2026-08-20T11:29:41.313772+00:00"
     }
   ]
 }
