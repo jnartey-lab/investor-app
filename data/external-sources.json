@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-22T11:23:13.380119+00:00",
-  "generatedAtGhana": "2026-08-22T11:23:13.380119+00:00",
+  "generatedAt": "2026-08-23T11:23:46.676931+00:00",
+  "generatedAtGhana": "2026-08-23T11:23:46.676931+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
@@ -386,6 +386,30 @@
       "category": "Sovereign credit research"
     },
     {
+      "title": "Ghana to establish pharmaceutical industrial park to boost local production",
+      "url": "https://www.ghanabusinessnews.com/2026/08/23/ghana-to-establish-pharmaceutical-industrial-park-to-boost-local-production/",
+      "summary": "Ghana is set to establish a pharmaceutical industrial park to attract local and international manufacturers and strengthen domestic production of medicines, medical devices and other health-related products. The post Ghana to establish pharmaceutical industria",
+      "publishedAt": "2026-08-23T11:03:41+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "NIA clarifies Ghana Card fees, says Parliament approved revised charges",
+      "url": "https://www.ghanabusinessnews.com/2026/08/23/nia-clarifies-ghana-card-fees-says-parliament-approved-revised-charges/",
+      "summary": "The National Identification Authority (NIA) has clarified that the revised fees for the Ghana Card registration and related services were approved by Parliament and not unilaterally introduced by the Authority. The post NIA clarifies Ghana Card fees, says Parl",
+      "publishedAt": "2026-08-23T10:48:48+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Unapproved border routes undermine Ghana-Togo disease control efforts",
+      "url": "https://www.ghanabusinessnews.com/2026/08/23/unapproved-border-routes-undermine-ghana-togo-disease-control-efforts/",
+      "summary": "The numerous unapproved crossing routes along the Ghana-Togo border are undermining efforts to achieve total protection against the cross-border spread of infectious diseases, stakeholders have observed. The post Unapproved border routes undermine Ghana-Togo d",
+      "publishedAt": "2026-08-23T10:27:42+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
       "title": "Ghana receives €2m for vaccine, pharmaceutical innovation",
       "url": "https://www.ghanabusinessnews.com/2026/08/22/ghana-receives-e2m-for-vaccine-pharmaceutical-innovation/",
       "summary": "Eight research projects have received grants totalling €2 million under the PharmaVax Ghana programme to advance vaccine and pharmaceutical innovation and strengthen local manufacturing capacity. The post Ghana receives €2m for vaccine, pharmaceutical innovati",
@@ -426,27 +450,43 @@
       "category": "Business news"
     },
     {
-      "title": "Mineworkers petition Bank of Ghana over GH¢380m locked-up funds",
-      "url": "https://www.ghanabusinessnews.com/2026/08/22/mineworkers-petition-bank-of-ghana-over-gh%c2%a2380m-locked-up-funds/",
-      "summary": "The Ghana Mineworkers’ Union (GMWU) has petitioned the Bank of Ghana (BoG) for the release of more than GH¢380 million in locked-up funds. The post Mineworkers petition Bank of Ghana over GH¢380m locked-up funds appeared first on Ghana Business News .",
-      "publishedAt": "2026-08-22T07:09:54+00:00",
-      "source": "Ghana Business News",
+      "title": "VALCO rolling mill opens new frontier for Ghana’s aluminium industry",
+      "url": "https://www.myjoyonline.com/valco-rolling-mill-opens-new-frontier-for-ghanas-aluminium-industry/",
+      "summary": "The Volta Aluminium Company Limited (VALCO) is positioning itself to move beyond primary aluminium production with the introduction of a continuous casting and rolling mill capable of producing aluminium rods for the domestic electrical cable industry and pote",
+      "publishedAt": "2026-08-23T02:45:00+00:00",
+      "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Unemployed man goes to prison for stealing of plantain",
-      "url": "https://www.ghanabusinessnews.com/2026/08/22/unemployed-man-goes-to-prison-for-stealing-of-plantain/",
-      "summary": "The Odumase-Krobo Circuit Court has sentenced a 35-year-old unemployed man, Anani Bakar, to four weeks’ imprisonment for stealing plantain at Nuaso Newtown in the Eastern Region. The post Unemployed man goes to prison for stealing of plantain appeared first on",
-      "publishedAt": "2026-08-22T07:00:37+00:00",
-      "source": "Ghana Business News",
+      "title": "Labadi Beach Hotel marks 35 years with plans for new investments and developments",
+      "url": "https://www.myjoyonline.com/labadi-beach-hotel-marks-35-years-with-plans-for-new-investments-and-developments/",
+      "summary": "Labadi Beach Hotel is set for a new phase of growth, with management announcing plans for fresh investments and developments as the iconic Accra hotel marks 35 years of operations. The anniversary was commemorated with a health walk from the hotel to the Indep",
+      "publishedAt": "2026-08-22T20:20:03+00:00",
+      "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Homeowners along Cape Coast–Takoradi highway demand proper compensation",
-      "url": "https://www.ghanabusinessnews.com/2026/08/22/homeowners-along-cape-coast-takoradi-highway-demand-proper-compensation/",
-      "summary": "More than 500 homeowners in Cape Coast affected by the Cape Coast–Takoradi Highway Big Push Road construction, have called on the government to urgently provide adequate compensation and proper resettlement following an ongoing demolition along that stretch. T",
-      "publishedAt": "2026-08-22T06:47:38+00:00",
-      "source": "Ghana Business News",
+      "title": "Africa’s $9 trillion lithium bonanza: Can Africa turn its mineral wealth into a global economic powerhouse?",
+      "url": "https://www.myjoyonline.com/africas-9-trillion-lithium-bonanza-can-africa-turn-its-mineral-wealth-into-a-global-economic-powerhouse/",
+      "summary": "Africa’s vast lithium deposits could hold the key to transforming the continent’s economic fortunes—if African countries can take control of the entire value chain and stop exporting raw minerals. This is the emerging message from the ongoing Summer School on ",
+      "publishedAt": "2026-08-22T15:45:41+00:00",
+      "source": "MyJoyOnline Business",
+      "category": "Business news"
+    },
+    {
+      "title": "CMC Managing Director launches 24-hour operating model",
+      "url": "https://www.myjoyonline.com/cmc-managing-director-launches-24-hour-operating-model/",
+      "summary": "The Cocoa Marketing Company (Ghana) Limited (CMC) has officially launched a comprehensive 24-hour operational model aimed at improving the movement of cocoa across the country’s logistics and export value chain, in a major step towards the implementation of Pr",
+      "publishedAt": "2026-08-22T15:30:55+00:00",
+      "source": "MyJoyOnline Business",
+      "category": "Business news"
+    },
+    {
+      "title": "Cocoa Marketing Company rolls out 24-hour cocoa operations to speed up exports and cut delays",
+      "url": "https://www.myjoyonline.com/cocoa-marketing-company-rolls-out-24-hour-cocoa-operations-to-speed-up-exports-and-cut-delays/",
+      "summary": "The Cocoa Marketing Company (CMC) has commenced 24-hour operations at its cocoa takeover and export facilities as part of efforts to reduce delays, improve turnaround times and make Ghana’s cocoa export chain more competitive. The new operating model is built ",
+      "publishedAt": "2026-08-22T15:19:22+00:00",
+      "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
@@ -470,46 +510,6 @@
       "url": "https://www.myjoyonline.com/cmc-launches-24-hour-cocoa-operations/",
       "summary": "The Cocoa Marketing Company (Ghana) Limited (CMC) has launched a comprehensive 24-hour operational model to improve the movement of cocoa across the logistics and export value chain.",
       "publishedAt": "2026-08-22T06:38:35+00:00",
-      "source": "MyJoyOnline Business",
-      "category": "Business news"
-    },
-    {
-      "title": "Ghana clears upstream disputes as $3.5bn investment pipeline takes shape",
-      "url": "https://www.myjoyonline.com/ghana-clears-upstream-disputes-as-3-5bn-investment-pipeline-takes-shape/",
-      "summary": "Ghana’s upstream petroleum industry is poised for a fresh wave of investment after the government resolved outstanding disputes with key oil and gas operators, removing a major source of uncertainty that had weighed on investor confidence.",
-      "publishedAt": "2026-08-22T03:06:16+00:00",
-      "source": "MyJoyOnline Business",
-      "category": "Business news"
-    },
-    {
-      "title": "Adamus must settle GRA, MIIF and financial institutions liabilities under new turnaround roadmap",
-      "url": "https://www.myjoyonline.com/adamus-must-settle-gra-miif-and-financial-institutions-liabilities-under-new-turnaround-roadmap/",
-      "summary": "Adamus Resources Limited is to develop a plan to settle its outstanding liabilities to the Ghana Revenue Authority (GRA), the Minerals Income Investment Fund (MIIF), financial institutions and suppliers as part of a new 12-month roadmap to turn around its mini",
-      "publishedAt": "2026-08-21T19:30:52+00:00",
-      "source": "MyJoyOnline Business",
-      "category": "Business news"
-    },
-    {
-      "title": "Gov’t to form 6-member team to supervise Adamus mine turnaround",
-      "url": "https://www.myjoyonline.com/govt-to-form-6-member-team-to-supervise-adamus-mine-turnaround/",
-      "summary": "The government is to form a six-member management team with Adamus Resources Limited to supervise the turnaround of the company’s mining operation under a new 12-month roadmap agreed at the presidency. The team will comprise three representatives from Adamus a",
-      "publishedAt": "2026-08-21T19:09:24+00:00",
-      "source": "MyJoyOnline Business",
-      "category": "Business news"
-    },
-    {
-      "title": "Government gives Adamus Resources reprieve, orders 12-month turnaround plan",
-      "url": "https://www.myjoyonline.com/government-gives-adamus-resources-reprieve-orders-12-month-turnaround-plan/",
-      "summary": "The government has given mining firm Adamus Resources Limited a fresh opportunity to revive its mining operations, days after upholding the revocation of three of the company’s mining leases following months of regulatory scrutiny and a dispute over alleged br",
-      "publishedAt": "2026-08-21T18:37:47+00:00",
-      "source": "MyJoyOnline Business",
-      "category": "Business news"
-    },
-    {
-      "title": "Republic Bank Ghana and Enterprise Life launch enhanced insurance products for customers",
-      "url": "https://www.myjoyonline.com/republic-bank-ghana-and-enterprise-life-launch-enhanced-insurance-products-for-customers/",
-      "summary": "The products are the Enhanced Funeral Finance Plan Unlimited, Family Income Security Plan, and Enhanced Educare.",
-      "publishedAt": "2026-08-21T17:41:23+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
@@ -682,7 +682,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-22T11:23:13.380119+00:00"
+      "fetchedAt": "2026-08-23T11:23:46.676931+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -691,7 +691,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-22T11:23:13.380119+00:00"
+      "fetchedAt": "2026-08-23T11:23:46.676931+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -700,7 +700,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-22T11:23:13.380119+00:00"
+      "fetchedAt": "2026-08-23T11:23:46.676931+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -709,7 +709,7 @@
       "kind": "html",
       "ok": false,
       "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
-      "fetchedAt": "2026-08-22T11:23:13.380119+00:00"
+      "fetchedAt": "2026-08-23T11:23:46.676931+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -718,7 +718,7 @@
       "kind": "html",
       "ok": false,
       "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
-      "fetchedAt": "2026-08-22T11:23:13.380119+00:00"
+      "fetchedAt": "2026-08-23T11:23:46.676931+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -727,7 +727,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-22T11:23:13.380119+00:00"
+      "fetchedAt": "2026-08-23T11:23:46.676931+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -736,7 +736,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-08-22T11:23:13.380119+00:00"
+      "fetchedAt": "2026-08-23T11:23:46.676931+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -745,7 +745,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-22T11:23:13.380119+00:00"
+      "fetchedAt": "2026-08-23T11:23:46.676931+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -754,7 +754,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-22T11:23:13.380119+00:00"
+      "fetchedAt": "2026-08-23T11:23:46.676931+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -763,7 +763,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-22T11:23:13.380119+00:00"
+      "fetchedAt": "2026-08-23T11:23:46.676931+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -772,7 +772,7 @@
       "kind": "rss",
       "ok": false,
       "error": "HTTP Error 404: Not Found",
-      "fetchedAt": "2026-08-22T11:23:13.380119+00:00"
+      "fetchedAt": "2026-08-23T11:23:46.676931+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -781,7 +781,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-22T11:23:13.380119+00:00"
+      "fetchedAt": "2026-08-23T11:23:46.676931+00:00"
     },
     {
       "name": "Citi Business News",
@@ -790,7 +790,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-22T11:23:13.380119+00:00"
+      "fetchedAt": "2026-08-23T11:23:46.676931+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -799,7 +799,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-22T11:23:13.380119+00:00"
+      "fetchedAt": "2026-08-23T11:23:46.676931+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -808,7 +808,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-22T11:23:13.380119+00:00"
+      "fetchedAt": "2026-08-23T11:23:46.676931+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -817,7 +817,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-22T11:23:13.380119+00:00"
+      "fetchedAt": "2026-08-23T11:23:46.676931+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -826,7 +826,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-22T11:23:13.380119+00:00"
+      "fetchedAt": "2026-08-23T11:23:46.676931+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -835,7 +835,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-22T11:23:13.380119+00:00"
+      "fetchedAt": "2026-08-23T11:23:46.676931+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -844,7 +844,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-22T11:23:13.380119+00:00"
+      "fetchedAt": "2026-08-23T11:23:46.676931+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -853,7 +853,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-22T11:23:13.380119+00:00"
+      "fetchedAt": "2026-08-23T11:23:46.676931+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -862,7 +862,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-22T11:23:13.380119+00:00"
+      "fetchedAt": "2026-08-23T11:23:46.676931+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -871,7 +871,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-08-22T11:23:13.380119+00:00"
+      "fetchedAt": "2026-08-23T11:23:46.676931+00:00"
     }
   ]
 }
