@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-27T20:56:01.859957+00:00",
-  "generatedAtGhana": "2026-08-27T20:56:01.859957+00:00",
+  "generatedAt": "2026-08-28T21:19:34.798857+00:00",
+  "generatedAtGhana": "2026-08-28T21:19:34.798857+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
     "gseIndices": {
-      "asOf": "27/08/2026",
-      "composite": 14999.64,
-      "financialStocks": 7887.51,
+      "asOf": "28/08/2026",
+      "composite": 15020.41,
+      "financialStocks": 7890.64,
       "source": "Ghana Stock Exchange",
       "url": "https://gse.com.gh/"
     },
@@ -19,14 +19,14 @@
       "url": "https://www.bog.gov.gh/"
     },
     "fx": {
-      "usdGhsMid": 11.2185,
+      "usdGhsMid": 11.25,
       "rateBasis": "public news reported rate",
       "source": "Bank of Ghana Daily Interbank FX Rates",
       "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
       "sourceType": "public_news_fallback",
-      "asOf": "27 Aug 2026",
-      "usdGhsBuying": 11.2129,
-      "usdGhsSelling": 11.2241
+      "asOf": "28 Aug 2026",
+      "usdGhsBuying": 11.2444,
+      "usdGhsSelling": 11.2556
     },
     "ghanaStatisticalService": {
       "cpiInflationYoy": 4.6,
@@ -229,7 +229,7 @@
       "category": "Official macro"
     },
     {
-      "title": "Day's Weighted Average Rate Day’s Weighted Median Rate: 11.2185 table.wpDataTable td.numdata { text-align: right !important; } /* buttons font color */ .wpDataTables .wdt-checkbox-filter.btn, .wpDataTables .selecter .selecter-selected, .wdt-frontend-modal .btn:not(.dropdown-toggle), div.dt-button-collection a.dt-button.active:not(.disabled), div.dt-button-collection button.dt-button.active:not(.disabled) { color: #222222 !important; } /** buttons background hover color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { background-color: #ebbd3f !important; background-image: none !important; } /** buttons hover border color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { border-color: #222222 !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } .wpdt-c .wpDataTablesWrapper table.wpDataTable thead tr:nth-child(2) th { overflow: visible; }",
+      "title": "Day's Weighted Average Rate Day’s Weighted Median Rate: 11.2500 table.wpDataTable td.numdata { text-align: right !important; } /* buttons font color */ .wpDataTables .wdt-checkbox-filter.btn, .wpDataTables .selecter .selecter-selected, .wdt-frontend-modal .btn:not(.dropdown-toggle), div.dt-button-collection a.dt-button.active:not(.disabled), div.dt-button-collection button.dt-button.active:not(.disabled) { color: #222222 !important; } /** buttons background hover color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { background-color: #ebbd3f !important; background-image: none !important; } /** buttons hover border color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { border-color: #222222 !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } .wpdt-c .wpDataTablesWrapper table.wpDataTable thead tr:nth-child(2) th { overflow: visible; }",
       "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
       "summary": "",
       "publishedAt": null,
@@ -517,6 +517,54 @@
       "category": "Sovereign credit research"
     },
     {
+      "title": "No problem with Public Tribunals law – Supreme Court judge-designate Forson says",
+      "url": "https://www.ghanabusinessnews.com/2026/08/28/no-problem-with-public-tribunals-law-supreme-court-judge-designate-forson-says/",
+      "summary": "Mr Anthony Forson Jr., nominated to serve at the Supreme Court (SC), has expressed support for the recently passed Public Tribunals Bill, arguing that there should be no concern over the legislation as long as Parliament enacted it in accordance with the Const",
+      "publishedAt": "2026-08-28T07:06:09+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "ACCPA and CEIBS Africa sign MoU to strengthen Africa-China policy engagement",
+      "url": "https://www.ghanabusinessnews.com/2026/08/28/accpa-and-ceibs-africa-sign-mou-to-strengthen-africa-china-policy-engagement/",
+      "summary": "The Africa-China Centre for Policy and Advisory (ACCPA) and CEIBS Africa have signed a Memorandum of Understanding (MoU) to strengthen policy, business and knowledge exchange on Africa-China cooperation and deepen engagement among policymakers, businesses and ",
+      "publishedAt": "2026-08-28T07:01:21+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "KATH records reduced maternal deaths for the first time in 10 years",
+      "url": "https://www.ghanabusinessnews.com/2026/08/28/kath-records-reduced-maternal-deaths-for-the-first-time-in-10-years/",
+      "summary": "For the first time in ten years, the Komfo Anokye Teaching Hospital (KATH) has recorded a significant decline in maternal mortality. The post KATH records reduced maternal deaths for the first time in 10 years appeared first on Ghana Business News .",
+      "publishedAt": "2026-08-28T06:49:16+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "President Mahama cuts sod for multi-tiered, multi-purpose carpark and airport hotels complex",
+      "url": "https://www.ghanabusinessnews.com/2026/08/28/president-mahama-cuts-sod-for-multi-tiered-multi-purpose-carpark-and-airport-hotels-complex/",
+      "summary": "President John Dramani Mahama has cut the sod for the construction of a Multi-Tiered, Multi-Purpose Carpark and Airport Hotels Complex at the Accra International Airport as part of efforts to modernise aviation infrastructure and improve passenger experience. ",
+      "publishedAt": "2026-08-28T06:39:40+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Suspects should sue police if detained beyond 48 hours – Justice Asante",
+      "url": "https://www.ghanabusinessnews.com/2026/08/27/suspects-should-sue-police-if-detained-beyond-48-hours-justice-asante/",
+      "summary": "Justice Edward Amoako Asante, a Supreme Court nominee, has urged suspects detained beyond the constitutional 48-hour limit to seek redress through the courts. The post Suspects should sue police if detained beyond 48 hours – Justice Asante appeared first on Gh",
+      "publishedAt": "2026-08-27T22:00:10+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Minority boycotts vetting of Supreme Court nominees over timing concerns",
+      "url": "https://www.ghanabusinessnews.com/2026/08/27/minority-boycotts-vetting-of-supreme-court-nominees-over-timing-concerns/",
+      "summary": "The New Patriotic Party (NPP) Minority Caucus in Parliament on Thursday boycotted the vetting of three Supreme Court nominees, citing concerns over what it described as an unduly compressed timetable for the process. The post Minority boycotts vetting of Supre",
+      "publishedAt": "2026-08-27T21:56:19+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
       "title": "GoldBod GH¢1.7b loss is misconstrued – IEA",
       "url": "https://www.ghanabusinessnews.com/2026/08/27/goldbod-gh%c2%a21-7b-loss-is-misconstrued-iea/",
       "summary": "The Institute of Economic Affairs (IEA) has rejected the attribution of a GH¢1.7 billion loss under the Bank of Ghana’s Domestic Gold Purchase Programme to the Ghana Gold Board (GoldBod). The post GoldBod GH¢1.7b loss is misconstrued – IEA appeared first on Gh",
@@ -533,114 +581,66 @@
       "category": "Business news"
     },
     {
-      "title": "Vice President reiterates importance of Africans taking greater ownership of their development",
-      "url": "https://www.ghanabusinessnews.com/2026/08/27/vice-president-reiterates-importance-of-africans-taking-greater-ownership-of-their-development/",
-      "summary": "Vice President Professor Jane Naana Opoku-Agyemang has reiterated the importance of Africans taking greater ownership of their development and narratives, and of understanding their history. The post Vice President reiterates importance of Africans taking grea",
-      "publishedAt": "2026-08-27T07:09:53+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Nigeria urges PPP in Ghana’s transport infrastructure development",
-      "url": "https://www.ghanabusinessnews.com/2026/08/27/nigeria-urges-ppp-in-ghanas-transport-infrastructure-development/",
-      "summary": "Dr Boboye Oyeyemi, the Nigerian President of the Chartered Institute of Logistics and Transport (CILT), has called for Public Private Partnership (PPP) in Ghana’s road infrastructure development. The post Nigeria urges PPP in Ghana’s transport infrastructure d",
-      "publishedAt": "2026-08-27T07:06:21+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Africa must shape its own green transition agenda – Prof Denton",
-      "url": "https://www.ghanabusinessnews.com/2026/08/27/africa-must-shape-its-own-green-transition-agenda-prof-denton/",
-      "summary": "Professor Fatima Denton, Director of the United Nations University Institute for Natural Resources in Africa (UNU-INRA), says Africa must use its mineral wealth to drive industrialisation rather than perpetuate extractive economic models. The post Africa must ",
-      "publishedAt": "2026-08-27T07:04:10+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Audit Committees inaugurated to strengthen accountability at MMDAs",
-      "url": "https://www.ghanabusinessnews.com/2026/08/27/audit-committees-inaugurated-to-strengthen-accountability-at-mmdas/",
-      "summary": "The newly inaugurated Audit Committees of Metropolitan, Municipal and District Assemblies (MMDAs) in the Greater Accra Region have been tasked to strengthen internal controls, monitor audit recommendations, and ensure prudent management of public resources. Th",
-      "publishedAt": "2026-08-27T07:01:20+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Ghanaian actress Grace Nortey is dead at 89",
-      "url": "https://www.ghanabusinessnews.com/2026/08/27/ghanaian-actress-grace-nortey-is-dead-at-89/",
-      "summary": "Veteran Ghanaian actress Grace Nortey, one of the pioneering figures of the country's film and theatre industry, has died at the age of 89. The post Ghanaian actress Grace Nortey is dead at 89 appeared first on Ghana Business News .",
-      "publishedAt": "2026-08-27T06:57:57+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Establish Ghana-China zero-tariff fund for speedy export growth – Stakeholders",
-      "url": "https://www.ghanabusinessnews.com/2026/08/27/establish-ghana-china-zero-tariff-fund-for-speedy-export-growth-stakeholders/",
-      "summary": "Stakeholders from government, financial institutions, regulatory agencies, private sector and academia, have proposed the establishment of a dedicated Ghana-China Zero-Tariff Fund to help Ghanaian exporters overcome financing constraints and take advantage of ",
-      "publishedAt": "2026-08-27T06:50:25+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "African Pension Funds shift more capital into private equity",
-      "url": "https://www.myjoyonline.com/african-pension-funds-shift-more-capital-into-private-equity/",
-      "summary": "Ghana is increasingly being recognised as one of Africa’s most credible examples of how domestic pension savings can be invested in more diverse alternatives and channelled into assets such as private equity, venture capital and SME growth financing.",
-      "publishedAt": "2026-08-27T16:03:10+00:00",
+      "title": "SankofaFresh uses technology to cut post-harvest losses and connect farmers to markets",
+      "url": "https://www.myjoyonline.com/sankofafresh-uses-technology-to-cut-post-harvest-losses-and-connect-farmers-to-markets/",
+      "summary": "Ghanaian food-systems technology platform SankofaFresh is seeking to tackle one of agriculture’s most persistent challenges by reducing post-harvest losses and connecting smallholder farmers to more reliable markets. Across the world, an estimated 30 to 50 per",
+      "publishedAt": "2026-08-28T20:04:52+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Domestic Gold Purchase Programme: ‘US$1.7bn loss is largely a book issue’ — IEA",
-      "url": "https://www.myjoyonline.com/domestic-gold-purchase-programme-us1-7bn-loss-is-largely-a-book-issue-iea/",
-      "summary": "A significant portion of the reported US$1.7 billion loss associated with the Bank of Ghana’s (BoG) Domestic Gold Purchase Programme involving the Ghana Gold Board (GoldBod)",
-      "publishedAt": "2026-08-27T15:48:46+00:00",
+      "title": "Jobs, not guns, are the most durable answer to insecurity in Northern Ghana — Northshore CEO",
+      "url": "https://www.myjoyonline.com/jobs-not-guns-are-the-most-durable-answer-to-insecurity-in-northern-ghana-northshore-ceo/",
+      "summary": "The Chief Executive Officer of Northshore Apparel Ghana Limited, Nurideen Mohammed, says sustainable employment, rather than an exclusive focus on armed security responses, offers the most enduring solution to insecurity in Northern Ghana.",
+      "publishedAt": "2026-08-28T18:25:21+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "World Bank’s Ghana poverty findings vindicate our April 2026 wellbeing report – APL",
-      "url": "https://www.myjoyonline.com/world-banks-ghana-poverty-findings-vindicate-our-april-2026-wellbeing-report-apl/",
-      "summary": "The Africa Policy Lens (APL) says findings from the World Bank's 10th Ghana Economic Update have vindicated its April 2026 Ghana Wellbeing Tracker report, which concluded that Ghana was “stabilising but not yet thriving.” The World Bank, at the launch of its l",
-      "publishedAt": "2026-08-27T14:51:36+00:00",
+      "title": "Northshore Apparel plans fabric mill, cotton outgrower scheme as part of expansion – CEO",
+      "url": "https://www.myjoyonline.com/northshore-apparel-plans-fabric-mill-cotton-outgrower-scheme-as-part-of-expansion-ceo/",
+      "summary": "Northshore Apparel Ghana Limited has announced plans to establish a fabric mill and introduce a cotton outgrower scheme across northern Ghana and neighbouring countries as part of the expansion of its industrial park in Savelugu.",
+      "publishedAt": "2026-08-28T18:24:24+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Ghana’s building cost inflation rises to 4% in July",
-      "url": "https://www.myjoyonline.com/ghanas-building-cost-inflation-rises-to-4-in-july/",
-      "summary": "Despite the July increase, building cost inflation remains significantly lower than the 14.2% recorded in July 2025, reflecting a sharp moderation in construction cost pressures over the past year.",
-      "publishedAt": "2026-08-27T09:44:27+00:00",
+      "title": "Bawumia feared Sri Lanka-style food crisis as Ghana battled forex shortages",
+      "url": "https://www.myjoyonline.com/bawumia-feared-sri-lanka-style-food-crisis-as-ghana-battled-forex-shortages/",
+      "summary": "Flagbearer of the New Patriotic Party, Dr Mahamudu Bawumia, has revealed that he feared Ghana could suffer a Sri Lanka-style economic crisis as the country struggled with severe foreign exchange shortages. He said his concerns grew as Ghana battled a balance o",
+      "publishedAt": "2026-08-28T17:57:47+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "PURC seeks safeguards for utility lines amid construction",
-      "url": "https://www.myjoyonline.com/purc-seeks-safeguards-for-utility-lines-amid-construction/",
-      "summary": "Speaking during a media engagement in the Western Region, PURC Executive Secretary, Dr Shafic Suleman, said the Commission will engage the Ministry of Roads and Highways, contractors and utility providers to find a more proactive approach to protecting critica",
-      "publishedAt": "2026-08-27T09:38:55+00:00",
+      "title": "Mahama announces plans for net metering to allow businesses to sell excess solar power to national grid",
+      "url": "https://www.myjoyonline.com/mahama-announces-plans-for-net-metering-to-allow-businesses-to-sell-excess-solar-power-to-national-grid/",
+      "summary": "President John Mahama says the government will soon introduce net metering to allow companies generating electricity from solar plants to feed excess power into the national grid and receive payment for it.",
+      "publishedAt": "2026-08-28T17:42:53+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Prudential Life Insurance Ghana introduces Levela, a free financial education platform to help Ghanaians build money confidence",
-      "url": "https://www.myjoyonline.com/prudential-life-insurance-ghana-introduces-levela-a-free-financial-education-platform-to-help-ghanaians-build-money-confidence/",
-      "summary": "Prudential Life Insurance Ghana has introduced Levela, Prudence Foundation’s free financial education platform for young adults, to help Ghanaians build practical money skills and grow their confidence in making every day financial decisions. The official laun",
-      "publishedAt": "2026-08-27T09:31:00+00:00",
+      "title": "US, South African buyers expressed interest in Northshore Apparel before production began — GEXIM CEO",
+      "url": "https://www.myjoyonline.com/us-south-african-buyers-expressed-interest-in-northshore-apparel-before-production-began-gexim-ceo/",
+      "summary": "Major buyers in the United States and South Africa had expressed interest in purchasing garments from Northshore Apparel Ghana even before production began at its newly commissioned factory in Savelugu.",
+      "publishedAt": "2026-08-28T15:42:59+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Cocoa bean exports to EU: Ghana ranked 4th in Africa – Fitch Solutions",
-      "url": "https://www.myjoyonline.com/cocoa-bean-exports-to-eu-ghana-ranked-4th-in-africa-fitch-solutions/",
-      "summary": "The UK-based firm said while domestic processing offers one avenue for capturing greater value, it expects sustainability and traceability requirements to become increasingly important in shaping export flows, particularly for exports destined for the EU.",
-      "publishedAt": "2026-08-27T08:24:21+00:00",
+      "title": "Northshore Apparel factory creates 3,000 jobs, targets 10,000 at full capacity",
+      "url": "https://www.myjoyonline.com/northshore-apparel-factory-creates-3000-jobs-targets-10000-at-full-capacity/",
+      "summary": "The newly commissioned Northshore Apparel Ghana factory in Savelugu in the Northern Region has created 3,000 immediate jobs and is expected to employ 10,000 people when it reaches full operational capacity.",
+      "publishedAt": "2026-08-28T14:21:11+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Rotary Club of Accra-Airport celebrates 25 years with book, documentary launch",
-      "url": "https://www.myjoyonline.com/rotary-club-of-accra-airport-celebrates-25-years-with-documentary-launch/",
-      "summary": "In his welcome remarks, the President of the Rotary Club of Accra-Airport, Rotarian David Kwatia Nyante, described the occasion as an opportunity to preserve the Club’s institutional memory and honour the people who have shaped its journey.",
-      "publishedAt": "2026-08-27T08:01:00+00:00",
+      "title": "Northshore Apparel Hub positions Ghana for global garment market – GEXIM CEO",
+      "url": "https://www.myjoyonline.com/northshore-apparel-hub-positions-ghana-for-global-garment-market-gexim-ceo/",
+      "summary": "The Chief Executive Officer (CEO) of the Ghana Export-Import Bank (GEXIM), Sylvester Adinam Mensah, says the newly commissioned Northshore Apparel Hub will create employment and stimulate economic activity across the Northern Region.",
+      "publishedAt": "2026-08-28T14:10:54+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
@@ -685,7 +685,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-27T20:56:01.859957+00:00"
+      "fetchedAt": "2026-08-28T21:19:34.798857+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -694,7 +694,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-27T20:56:01.859957+00:00"
+      "fetchedAt": "2026-08-28T21:19:34.798857+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -703,7 +703,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-27T20:56:01.859957+00:00"
+      "fetchedAt": "2026-08-28T21:19:34.798857+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -712,7 +712,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-27T20:56:01.859957+00:00"
+      "fetchedAt": "2026-08-28T21:19:34.798857+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -721,7 +721,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-27T20:56:01.859957+00:00"
+      "fetchedAt": "2026-08-28T21:19:34.798857+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -730,7 +730,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-27T20:56:01.859957+00:00"
+      "fetchedAt": "2026-08-28T21:19:34.798857+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -739,7 +739,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-08-27T20:56:01.859957+00:00"
+      "fetchedAt": "2026-08-28T21:19:34.798857+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -748,7 +748,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-27T20:56:01.859957+00:00"
+      "fetchedAt": "2026-08-28T21:19:34.798857+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -757,7 +757,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-27T20:56:01.859957+00:00"
+      "fetchedAt": "2026-08-28T21:19:34.798857+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -766,7 +766,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-27T20:56:01.859957+00:00"
+      "fetchedAt": "2026-08-28T21:19:34.798857+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -775,7 +775,7 @@
       "kind": "rss",
       "ok": false,
       "error": "HTTP Error 404: Not Found",
-      "fetchedAt": "2026-08-27T20:56:01.859957+00:00"
+      "fetchedAt": "2026-08-28T21:19:34.798857+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -784,7 +784,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-27T20:56:01.859957+00:00"
+      "fetchedAt": "2026-08-28T21:19:34.798857+00:00"
     },
     {
       "name": "Citi Business News",
@@ -793,7 +793,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-27T20:56:01.859957+00:00"
+      "fetchedAt": "2026-08-28T21:19:34.798857+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -802,7 +802,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-27T20:56:01.859957+00:00"
+      "fetchedAt": "2026-08-28T21:19:34.798857+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -811,7 +811,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-27T20:56:01.859957+00:00"
+      "fetchedAt": "2026-08-28T21:19:34.798857+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -820,7 +820,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-27T20:56:01.859957+00:00"
+      "fetchedAt": "2026-08-28T21:19:34.798857+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -829,7 +829,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-27T20:56:01.859957+00:00"
+      "fetchedAt": "2026-08-28T21:19:34.798857+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -838,7 +838,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-27T20:56:01.859957+00:00"
+      "fetchedAt": "2026-08-28T21:19:34.798857+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -847,7 +847,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-27T20:56:01.859957+00:00"
+      "fetchedAt": "2026-08-28T21:19:34.798857+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -856,7 +856,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-27T20:56:01.859957+00:00"
+      "fetchedAt": "2026-08-28T21:19:34.798857+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -865,7 +865,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-27T20:56:01.859957+00:00"
+      "fetchedAt": "2026-08-28T21:19:34.798857+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -874,7 +874,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-08-27T20:56:01.859957+00:00"
+      "fetchedAt": "2026-08-28T21:19:34.798857+00:00"
     }
   ]
 }
