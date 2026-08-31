@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-08-30T15:15:33.807474+00:00",
-  "generatedAtGhana": "2026-08-30T15:15:33.807474+00:00",
+  "generatedAt": "2026-08-31T17:56:34.355780+00:00",
+  "generatedAtGhana": "2026-08-31T17:56:34.355780+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
     "gseIndices": {
-      "asOf": "28/08/2026",
-      "composite": 15020.41,
-      "financialStocks": 7890.64,
+      "asOf": "31/08/2026",
+      "composite": 15076.25,
+      "financialStocks": 7904.58,
       "source": "Ghana Stock Exchange",
       "url": "https://gse.com.gh/"
     },
     "bankOfGhana": {
       "policyRate": 14.0,
-      "tBill91Day": 5.0158,
+      "tBill91Day": 4.8856,
       "inflation": 4.6,
       "source": "Bank of Ghana",
       "url": "https://www.bog.gov.gh/"
@@ -24,7 +24,7 @@
       "source": "Bank of Ghana Daily Interbank FX Rates",
       "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
       "sourceType": "public_news_fallback",
-      "asOf": "28 Aug 2026",
+      "asOf": "31 Aug 2026",
       "usdGhsBuying": 11.2444,
       "usdGhsSelling": 11.2556
     },
@@ -517,130 +517,130 @@
       "category": "Sovereign credit research"
     },
     {
-      "title": "Perseus Mining donates building materials worth GH¢200,000 to 19 communities",
-      "url": "https://www.ghanabusinessnews.com/2026/08/30/perseus-mining-donates-building-materials-worth-gh%c2%a2200000-to-19-communities/",
-      "summary": "As part of efforts to support community development and strengthen collaboration with its host communities, Perseus Mining Ghana Limited (PMGL) has donated building materials valued at GH¢200,000 to 19 communities within its exploration catchment areas. The po",
-      "publishedAt": "2026-08-30T10:39:43+00:00",
+      "title": "Ghana government to issue four-year bond for future debt payments",
+      "url": "https://www.ghanabusinessnews.com/2026/08/31/ghana-government-to-issue-four-year-bond-for-future-debt-payments/",
+      "summary": "The Ghana government will issue a new four-year Treasury bond on September 1, 2026, as part of efforts to raise funds from the domestic market and prepare for major debt repayments due in the coming years. The post Ghana government to issue four-year bond for ",
+      "publishedAt": "2026-08-31T17:36:51+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Joint police-military operation arrests 11 at Kromase",
-      "url": "https://www.ghanabusinessnews.com/2026/08/30/joint-police-military-operation-arrests-11-at-kromase/",
-      "summary": "A joint police and military team has arrested 11 suspects, aged between 17 and 70 years, during an intelligence-led operation at Kromase, near Nkwanta in the Oti Region. The post Joint police-military operation arrests 11 at Kromase appeared first on Ghana Bus",
-      "publishedAt": "2026-08-30T09:55:59+00:00",
+      "title": "Man accused of threatening EOCO staff granted GH¢100,000 bail",
+      "url": "https://www.ghanabusinessnews.com/2026/08/31/man-accused-of-threatening-eoco-staff-granted-gh%c2%a2100000-bail/",
+      "summary": "An Accra Circuit Court has granted Kweku Osei Korankye Asiedu, also known as Koka, a marketer, bail in the sum of GH¢100,000 with two sureties, who must reside within the court's jurisdiction. The post Man accused of threatening EOCO staff granted GH¢100,000 b",
+      "publishedAt": "2026-08-31T17:29:21+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Ghana to face Nigeria for beach soccer AFCON qualifiers",
-      "url": "https://www.ghanabusinessnews.com/2026/08/30/ghana-to-face-nigeria-for-beach-soccer-afcon-qualifiers/",
-      "summary": "Ghana and Nigeria have been paired in the second round of the 2026 Confederation of Africa Football (CAF) Beach Soccer Africa Cup of Nations qualifiers, for a place at the continental finals in Senegal on the line. The post Ghana to face Nigeria for beach socc",
-      "publishedAt": "2026-08-30T09:42:59+00:00",
+      "title": "MTN Pan African MIP could mark new beginning for African journalism – TAEF Vice-President",
+      "url": "https://www.ghanabusinessnews.com/2026/08/31/mtn-pan-african-mip-could-mark-new-beginning-for-african-journalism-taef-vice-president/",
+      "summary": "The MTN Pan African Media Innovation Programme at the University of Johannesburg has been described as a learning programme with the potential to begin a new chapter in how African journalism is practiced. The post MTN Pan African MIP could mark new beginning ",
+      "publishedAt": "2026-08-31T12:40:26+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Job advertisements increase 45% year-on-year in June – Bank of Ghana",
-      "url": "https://www.ghanabusinessnews.com/2026/08/30/job-advertisements-increase-45-year-on-year-in-june-bank-of-ghana/",
-      "summary": "The number of job advertisements in selected print and online media increased by 45 per cent year-on-year in June 2026, signalling improved labour demand and strengthening economic activity, the Bank of Ghana (BoG) said in its latest Monetary Policy Report. Th",
-      "publishedAt": "2026-08-30T09:31:45+00:00",
+      "title": "Accra Technical University unveils HND in Paramedical Trichology",
+      "url": "https://www.ghanabusinessnews.com/2026/08/31/accra-technical-university-unveils-hnd-in-paramedical-trichology/",
+      "summary": "The Accra Technical University (ATU) has launched a new Higher National Diploma (HND) programme in Paramedical Trichology aimed at professionalising the study and management of hair and scalp conditions in Ghana. The post Accra Technical University unveils HND",
+      "publishedAt": "2026-08-31T09:25:37+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Barosky open to returning home after meeting High Commissioner",
-      "url": "https://www.ghanabusinessnews.com/2026/08/30/barosky-open-to-returning-home-after-meeting-high-commissioner/",
-      "summary": "Veteran Hi-life musician Barosky has expressed his willingness to return to Ghana after meeting Ghana's High Commissioner to the United Kingdom, Mrs Sabah Zita Benson, who visited him in Manchester following public concern over his welfare. The post Barosky op",
-      "publishedAt": "2026-08-30T09:25:13+00:00",
+      "title": "Ghana cedi records 7.9% depreciation against US dollar in first half of 2026",
+      "url": "https://www.ghanabusinessnews.com/2026/08/31/ghana-cedi-records-7-9-depreciation-against-us-dollar-in-first-half-of-2026/",
+      "summary": "The Ghana cedi depreciated by 7.9 per cent against the United States dollar on the interbank foreign exchange market during the first half of 2026, the Bank of Ghana (BoG) revealed in its latest Monetary Policy Report. The post Ghana cedi records 7.9% deprecia",
+      "publishedAt": "2026-08-31T09:16:49+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "RTI Commission announces September as Right to Information Month",
-      "url": "https://www.ghanabusinessnews.com/2026/08/29/rti-commission-announces-september-as-right-to-information-month/",
-      "summary": "The Right to Information Commission (RTIC) has designated September 2026 as Right to Information (RTI) Month to promote public awareness and access to information. The post RTI Commission announces September as Right to Information Month appeared first on Ghan",
-      "publishedAt": "2026-08-29T08:47:43+00:00",
+      "title": "Styrofoam ban is first phase of single-use plastics crackdown – EPA",
+      "url": "https://www.ghanabusinessnews.com/2026/08/31/styrofoam-ban-is-first-phase-of-single-use-plastics-crackdown-epa/",
+      "summary": "The Environmental Protection Authority (EPA) has described the ban on expanded polystyrene (styrofoam) food containers, as the first phase of a broader national strategy to eliminate non-biodegradable single-use plastics in Ghana. The post Styrofoam ban is fir",
+      "publishedAt": "2026-08-31T07:58:53+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Court adjourns OSP extortion case against Abdul-Hamid and six others",
-      "url": "https://www.ghanabusinessnews.com/2026/08/29/court-adjourns-osp-extortion-case-against-abdul-hamid-and-six-others/",
-      "summary": "The Accra High Court has adjourned to September 2, the extortion case involving Dr Mustapha Abdul-Hamid and six others. The post Court adjourns OSP extortion case against Abdul-Hamid and six others appeared first on Ghana Business News .",
-      "publishedAt": "2026-08-29T08:20:27+00:00",
+      "title": "German police hunt for prisoner after daring rooftop escape",
+      "url": "https://www.ghanabusinessnews.com/2026/08/31/german-police-hunt-for-prisoner-after-daring-rooftop-escape/",
+      "summary": "A 35-year-old prisoner staged a dramatic escape from a jail in western Germany early on Sunday, apparently scaling the outside of the building before fleeing across the roof. The post German police hunt for prisoner after daring rooftop escape appeared first o",
+      "publishedAt": "2026-08-31T07:53:44+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Minister orders independent probe into alleged ECG overbilling in Volta",
-      "url": "https://www.ghanabusinessnews.com/2026/08/29/minister-orders-independent-probe-into-alleged-ecg-overbilling-in-volta/",
-      "summary": "Dr John Abdulai Jinapor, Minister for Energy and Green Transition, has announced plans for an independent investigation into complaints of alleged overbilling and faulty electricity meters in some communities in the Volta Region. The post Minister orders indep",
-      "publishedAt": "2026-08-29T08:10:58+00:00",
+      "title": "Government to develop 150-acre air cargo hub at Tamale Airport – Goosie Tanoh",
+      "url": "https://www.ghanabusinessnews.com/2026/08/31/government-to-develop-150-acre-air-cargo-hub-at-tamale-airport-goosie-tanoh/",
+      "summary": "The government is set to develop an approximately 150-acre air cargo hub at the Tamale International Airport, to facilitate the export of vegetables, fruits and other high-value agricultural produce from northern Ghana to international markets. The post Govern",
+      "publishedAt": "2026-08-31T07:49:15+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "New four-year Treasury Bond opens for bids September 1",
-      "url": "https://www.myjoyonline.com/new-four-year-treasury-bond-opens-for-bids-september-1/",
-      "summary": "The government is set to open the book-build for a new four-year cedi-denominated Treasury Bond on Tuesday, September 1, 2026, as it seeks to raise funds from investors through the domestic capital market.",
-      "publishedAt": "2026-08-30T05:40:40+00:00",
+      "title": "YIPs Ghana honours 5 outstanding students at 2026 Tertiary Achievers Awards",
+      "url": "https://www.myjoyonline.com/yips-ghana-honours-5-outstanding-students-at-2026-tertiary-achievers-awards/",
+      "summary": "The Association of Young Insurance Professionals (YIPs Ghana) under the auspices the Chartered Insurance Institute of Ghana (CIIG), through its Y Ghana initiative, honoured five exceptional tertiary students at the 2026 Tertiary Achievers Awards, held during t",
+      "publishedAt": "2026-08-31T16:50:50+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "BoG inaugurates committee to probe seized foreign currency at Ghana’s borders",
-      "url": "https://www.myjoyonline.com/bog-inaugurates-committee-to-probe-seized-foreign-currency-at-ghanas-borders/",
-      "summary": "The Bank of Ghana (BoG) has inaugurated a Preliminary Investigation Committee on Seized Foreign Currency as part of efforts to address the movement of undeclared foreign currency through Ghana’s airports and border points.",
-      "publishedAt": "2026-08-29T19:11:56+00:00",
+      "title": "Non-interest banking will not replace conventional banking – Dr Johnson Asiama",
+      "url": "https://www.myjoyonline.com/non-interest-banking-will-not-replace-conventional-banking-dr-johnson-asiama/",
+      "summary": "Speaking at an engagement with members of the clergy, the Governor said customers who prefer conventional banking would continue to have access to it, while those interested in non-interest financial products would have another option.",
+      "publishedAt": "2026-08-31T16:46:43+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Fix Tema Port, roads to cut logistics costs and boost trade — Oro Oil CEO, Maxwell Commey",
-      "url": "https://www.myjoyonline.com/fix-tema-port-roads-to-cut-logistics-costs-and-boost-trade-oro-oil-ceo-maxwell-commey/",
-      "summary": "Chief Executive Officer of Oro Oil Ghana Limited, Maxwell Commey, has called for urgent and coordinated action to address congestion, high logistics costs and weak inland connectivity affecting Ghana’s ports, particularly the Tema Port. Mr Commey said the chal",
-      "publishedAt": "2026-08-29T18:55:52+00:00",
+      "title": "Non-interest banking products available to everyone, not just Muslims – Asiama",
+      "url": "https://www.myjoyonline.com/non-interest-banking-products-available-to-everyone-not-just-muslims-asiama/",
+      "summary": "Speaking at an engagement with members of the clergy, the Governor said the Bank of Ghana had engaged various religious groups to ensure that the framework and its public communication reflect Ghana's religious diversity.",
+      "publishedAt": "2026-08-31T16:43:30+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "GIPA CEO calls for stronger coordination to provide a clearer picture of investment activity",
-      "url": "https://www.myjoyonline.com/gipa-ceo-calls-for-stronger-coordination-to-provide-a-clearer-picture-of-investment-activity/",
-      "summary": "He said Foreign Direct Investment (FDI) went beyond cash inflows to include investments in machinery, equipment, raw materials and other components.",
-      "publishedAt": "2026-08-29T17:54:05+00:00",
+      "title": "Tibule Advertising marks ‘Gong Gong Awards’ debut with a win for indomie",
+      "url": "https://www.myjoyonline.com/tibule-advertising-marks-gong-gong-awards-debut-with-a-win-for-indomie/",
+      "summary": "For Tibule, the recognition marks its first appearance at the Gong Gong Awards and a significant milestone for the team behind the work.",
+      "publishedAt": "2026-08-31T16:34:48+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "JoySports Invitational 2026: The Luckiest make a splash, sweep 1st and 2nd in swimming",
-      "url": "https://www.myjoyonline.com/joysports-invitational-2026-the-luckiest-make-a-splash-sweep-1st-and-2nd-in-swimming/",
-      "summary": "The Luckiest made a major splash at the JoySports Invitational Tournament 2026, dominating the swimming competition by claiming both first and second positions in an impressive display of speed, stamina, and composure in the pool.",
-      "publishedAt": "2026-08-29T16:19:43+00:00",
+      "title": "Nurturing market-ready solutions that create jobs: KIC AgriTech Challenge Pro teams first pitch commenced",
+      "url": "https://www.myjoyonline.com/nurturing-market-ready-solutions-that-create-jobs-kic-agritech-challenge-pro-teams-first-pitch-commenced/",
+      "summary": "The 2026 Kosmos Innovation Centre (KIC) AgriTech Challenge Pro has reached another important milestone, with participating teams taking part in their first pitch, marking a significant step in their journey from innovative ideas to viable agribusinesses.",
+      "publishedAt": "2026-08-31T16:32:16+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Ghana’s MSME $4.8 billion credit gap is an information problem",
-      "url": "https://www.myjoyonline.com/ghanas-msme-4-8-billion-credit-gap-is-an-information-problem/",
-      "summary": "“We built extraordinary payment rails. Now we build the credit rails.” At the Distinguished Digital Finance Lecture, held during the National ICT Week, our Deputy Governor Matilda Asante- Asiedu mentioned this in her remarks. The Bank of Ghana has put a number",
-      "publishedAt": "2026-08-29T14:48:35+00:00",
+      "title": "Financial irregularities in some state institutions drop significantly to GHC 7.69 billion in 2025 – Nyarko Ampem",
+      "url": "https://www.myjoyonline.com/financial-irregularities-in-some-state-institutions-drop-significantly-to-ghc-7-69-billion-in-2025-nyarko-ampem/",
+      "summary": "Financial irregularities across five audited sectors declined by 62.9 per cent, from approximately GH¢20.72 billion in 2024 to GH¢7.69 billion in 2025, Deputy Minister for Finance Thomas Nyarko Ampem has announced.",
+      "publishedAt": "2026-08-31T16:11:07+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Trust, judgment and value: The 3 questions every organisation must answer about AI",
-      "url": "https://www.myjoyonline.com/trust-judgment-and-value-the-3-questions-every-organisation-must-answer-about-ai/",
-      "summary": "These questions may appear straightforward, but they will often determine whether AI becomes a source of lasting business value or simply another technology experiment. As AI becomes increasingly embedded in business processes and decision-making, the challeng",
-      "publishedAt": "2026-08-29T11:39:24+00:00",
+      "title": "Gov’t challenges ABL’s claim that beer tax changes threaten 2,000 jobs",
+      "url": "https://www.myjoyonline.com/govt-challenges-abls-claim-that-beer-tax-changes-threaten-2000-jobs/",
+      "summary": "The government has rejected Accra Brewery PLC’s claim that changes to Ghana’s beer excise duty regime could put up to 2,000 jobs at risk, saying the company has not provided sufficient evidence to support the estimate.",
+      "publishedAt": "2026-08-31T15:46:39+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "NPA increases price floor from September 1; Petrol to sell at GH¢14.53, diesel at GH¢15.60",
-      "url": "https://www.myjoyonline.com/npa-increases-price-floor-from-september-1-petrol-to-sell-at-gh%c2%a214-53-diesel-at-gh%c2%a215-60/",
-      "summary": "This is because the National Petroleum Authority (NPA) has increased the price of petroleum products that will be sold on the market from September 1 to 16, 2026.",
-      "publishedAt": "2026-08-29T11:29:11+00:00",
+      "title": "Full Report: SIGA releases 2025 State Ownership Report on performance of state entities",
+      "url": "https://www.myjoyonline.com/full-report-siga-releases-2025-state-ownership-report-on-performance-of-state-entities/",
+      "summary": "The State Interests and Governance Authority (SIGA) has released its 2025 State Ownership Report, providing a comprehensive assessment of the financial, operational and governance performance of Ghana’s specified entities.",
+      "publishedAt": "2026-08-31T15:26:34+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
@@ -661,7 +661,7 @@
       "category": "Public FX fallback"
     },
     {
-      "title": "Cedi appreciates against US dollar from GH¢11.75 – 10.94 in one week",
+      "title": "Cedi records 7.9% depreciation against US dollar in first half of 2026",
       "url": "https://www.myjoyonline.com/?s=cedi+dollar",
       "summary": "",
       "publishedAt": null,
@@ -669,7 +669,7 @@
       "category": "Public FX fallback"
     },
     {
-      "title": "Cedi stages strong recovery as dollar supply improves, demand eases",
+      "title": "Cedi appreciates against US dollar from GH¢11.75 – 10.94 in one week",
       "url": "https://www.myjoyonline.com/?s=cedi+dollar",
       "summary": "",
       "publishedAt": null,
@@ -685,7 +685,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-30T15:15:33.807474+00:00"
+      "fetchedAt": "2026-08-31T17:56:34.355780+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -694,7 +694,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-30T15:15:33.807474+00:00"
+      "fetchedAt": "2026-08-31T17:56:34.355780+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -703,7 +703,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-30T15:15:33.807474+00:00"
+      "fetchedAt": "2026-08-31T17:56:34.355780+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -712,7 +712,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-30T15:15:33.807474+00:00"
+      "fetchedAt": "2026-08-31T17:56:34.355780+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -721,7 +721,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-30T15:15:33.807474+00:00"
+      "fetchedAt": "2026-08-31T17:56:34.355780+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -730,7 +730,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-30T15:15:33.807474+00:00"
+      "fetchedAt": "2026-08-31T17:56:34.355780+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -739,7 +739,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-08-30T15:15:33.807474+00:00"
+      "fetchedAt": "2026-08-31T17:56:34.355780+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -748,7 +748,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-30T15:15:33.807474+00:00"
+      "fetchedAt": "2026-08-31T17:56:34.355780+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -757,7 +757,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-30T15:15:33.807474+00:00"
+      "fetchedAt": "2026-08-31T17:56:34.355780+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -766,7 +766,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-30T15:15:33.807474+00:00"
+      "fetchedAt": "2026-08-31T17:56:34.355780+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -775,7 +775,7 @@
       "kind": "rss",
       "ok": false,
       "error": "HTTP Error 404: Not Found",
-      "fetchedAt": "2026-08-30T15:15:33.807474+00:00"
+      "fetchedAt": "2026-08-31T17:56:34.355780+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -784,7 +784,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-30T15:15:33.807474+00:00"
+      "fetchedAt": "2026-08-31T17:56:34.355780+00:00"
     },
     {
       "name": "Citi Business News",
@@ -793,7 +793,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-30T15:15:33.807474+00:00"
+      "fetchedAt": "2026-08-31T17:56:34.355780+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -802,7 +802,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-30T15:15:33.807474+00:00"
+      "fetchedAt": "2026-08-31T17:56:34.355780+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -811,7 +811,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-30T15:15:33.807474+00:00"
+      "fetchedAt": "2026-08-31T17:56:34.355780+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -820,7 +820,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-30T15:15:33.807474+00:00"
+      "fetchedAt": "2026-08-31T17:56:34.355780+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -829,7 +829,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-30T15:15:33.807474+00:00"
+      "fetchedAt": "2026-08-31T17:56:34.355780+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -838,7 +838,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-30T15:15:33.807474+00:00"
+      "fetchedAt": "2026-08-31T17:56:34.355780+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -847,7 +847,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-30T15:15:33.807474+00:00"
+      "fetchedAt": "2026-08-31T17:56:34.355780+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -856,7 +856,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-30T15:15:33.807474+00:00"
+      "fetchedAt": "2026-08-31T17:56:34.355780+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -865,7 +865,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-08-30T15:15:33.807474+00:00"
+      "fetchedAt": "2026-08-31T17:56:34.355780+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -874,7 +874,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-08-30T15:15:33.807474+00:00"
+      "fetchedAt": "2026-08-31T17:56:34.355780+00:00"
     }
   ]
 }
