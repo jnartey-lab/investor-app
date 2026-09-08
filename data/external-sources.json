@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-07T16:19:21.405388+00:00",
-  "generatedAtGhana": "2026-09-07T16:19:21.405388+00:00",
+  "generatedAt": "2026-09-08T15:00:04.152472+00:00",
+  "generatedAtGhana": "2026-09-08T15:00:04.152472+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
     "gseIndices": {
-      "asOf": "4/09/2026",
-      "composite": 14814.08,
-      "financialStocks": 7818.11,
+      "asOf": "7/09/2026",
+      "composite": 14781.68,
+      "financialStocks": 7828.03,
       "source": "Ghana Stock Exchange",
       "url": "https://gse.com.gh/"
     },
@@ -19,14 +19,14 @@
       "url": "https://www.bog.gov.gh/"
     },
     "fx": {
-      "usdGhsMid": 11.4,
+      "usdGhsMid": 11.395,
       "rateBasis": "public news reported rate",
       "source": "Bank of Ghana Daily Interbank FX Rates",
       "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
       "sourceType": "public_news_fallback",
-      "asOf": "04 Sep 2026",
-      "usdGhsBuying": 11.3943,
-      "usdGhsSelling": 11.4057
+      "asOf": "07 Sep 2026",
+      "usdGhsBuying": 11.3893,
+      "usdGhsSelling": 11.4007
     },
     "ghanaStatisticalService": {
       "cpiInflationYoy": 5.0,
@@ -229,7 +229,7 @@
       "category": "Official macro"
     },
     {
-      "title": "Day's Weighted Average Rate Day’s Weighted Median Rate: 11.4000 table.wpDataTable td.numdata { text-align: right !important; } /* buttons font color */ .wpDataTables .wdt-checkbox-filter.btn, .wpDataTables .selecter .selecter-selected, .wdt-frontend-modal .btn:not(.dropdown-toggle), div.dt-button-collection a.dt-button.active:not(.disabled), div.dt-button-collection button.dt-button.active:not(.disabled) { color: #222222 !important; } /** buttons background hover color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { background-color: #ebbd3f !important; background-image: none !important; } /** buttons hover border color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { border-color: #222222 !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } .wpdt-c .wpDataTablesWrapper table.wpDataTable thead tr:nth-child(2) th { overflow: visible; }",
+      "title": "Day's Weighted Average Rate Day’s Weighted Median Rate: 11.3950 table.wpDataTable td.numdata { text-align: right !important; } /* buttons font color */ .wpDataTables .wdt-checkbox-filter.btn, .wpDataTables .selecter .selecter-selected, .wdt-frontend-modal .btn:not(.dropdown-toggle), div.dt-button-collection a.dt-button.active:not(.disabled), div.dt-button-collection button.dt-button.active:not(.disabled) { color: #222222 !important; } /** buttons background hover color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { background-color: #ebbd3f !important; background-image: none !important; } /** buttons hover border color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { border-color: #222222 !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } .wpdt-c .wpDataTablesWrapper table.wpDataTable thead tr:nth-child(2) th { overflow: visible; }",
       "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
       "summary": "",
       "publishedAt": null,
@@ -517,130 +517,130 @@
       "category": "Sovereign credit research"
     },
     {
-      "title": "Lawyer sues GRA over power to grant passenger baggage duty exemptions",
-      "url": "https://www.ghanabusinessnews.com/2026/09/07/lawyer-sues-gra-over-power-to-grant-passenger-baggage-duty-exemptions/",
-      "summary": "Mr Jonathan A. Alua, a legal practitioner, has sued the Attorney‑General and the Commissioner‑General of the Ghana Revenue Authority (GRA) over passenger baggage tax exemptions. The post Lawyer sues GRA over power to grant passenger baggage duty exemptions app",
-      "publishedAt": "2026-09-07T07:52:02+00:00",
+      "title": "The age of Quantum Computing will soon be upon us: Is Africa ready?",
+      "url": "https://www.ghanabusinessnews.com/2026/09/08/the-age-of-quantum-computing-will-soon-be-upon-us-is-africa-ready/",
+      "summary": "While Africa is still exploring ways of leveraging on the transformative potential of Artificial Intelligence (AI), which is arguably the most disruptive innovation of the modern age, yet another technological revolution is rapidly approaching. Quantum computi",
+      "publishedAt": "2026-09-08T07:02:25+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "OSP probes alleged GH¢70,000.00 payment to MP",
-      "url": "https://www.ghanabusinessnews.com/2026/09/07/osp-probes-alleged-gh%c2%a270000-00-payment-to-mp/",
-      "summary": "The Office of the Special Prosecutor (OSP) has commenced preliminary investigations into an alleged GH¢70,000.00 payment involving a Member of Parliament. The post OSP probes alleged GH¢70,000.00 payment to MP appeared first on Ghana Business News .",
-      "publishedAt": "2026-09-07T07:47:09+00:00",
+      "title": "Ghana to begin deployment of 5G by close of 2026 – Minister",
+      "url": "https://www.ghanabusinessnews.com/2026/09/08/ghana-to-begin-deployment-of-5g-by-close-of-2026-minister/",
+      "summary": "Mr Samuel Nartey George, the Minister for Communications, Digital Technology and Innovation, has announced that the National Communications Authority (NCA) is scheduled to complete a 5G spectrum assignment before the end of 2026, and begin its deployment. The ",
+      "publishedAt": "2026-09-08T06:14:31+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "140,000 register for One Million Coders Programme, 10,000 complete training",
-      "url": "https://www.ghanabusinessnews.com/2026/09/07/140000-register-for-one-million-coders-programme-10000-complete-training/",
-      "summary": "About 140,000 people have registered for the government’s One Million Coders Programme, with more than 10,000 participants already completing their training. The post 140,000 register for One Million Coders Programme, 10,000 complete training appeared first on",
-      "publishedAt": "2026-09-07T07:44:48+00:00",
+      "title": "Ghana records 8,578 fibre cuts",
+      "url": "https://www.ghanabusinessnews.com/2026/09/08/ghana-records-8578-fibre-cuts/",
+      "summary": "Road construction activities have accounted for 49 per cent of the 8,578 fibre cuts recorded in Ghana so far this year, Mr Samuel Nartey George, the Minister of Communications, Digital Technology and Innovations, disclosed on Monday. The post Ghana records 8,5",
+      "publishedAt": "2026-09-08T06:11:21+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Government urges stronger investment in literacy, lifelong learning",
-      "url": "https://www.ghanabusinessnews.com/2026/09/07/government-urges-stronger-investment-in-literacy-lifelong-learning/",
-      "summary": "Professor George K. T. Oduro, the Technical Advisor to the Minister of Education, has called for renewed commitment and stronger partnerships to advance literacy and lifelong learning in Ghana. The post Government urges stronger investment in literacy, lifelon",
-      "publishedAt": "2026-09-07T07:29:17+00:00",
+      "title": "Ministry of Foreign Affairs to launch Diaspora Consular Fund",
+      "url": "https://www.ghanabusinessnews.com/2026/09/08/ministry-of-foreign-affairs-to-launch-diaspora-consular-fund/",
+      "summary": "The Ministry of Foreign Affairs is to establish a Ghanaian Diaspora Consular Fund to finance emergency assistance for Ghanaians in distress abroad. The post Ministry of Foreign Affairs to launch Diaspora Consular Fund appeared first on Ghana Business News .",
+      "publishedAt": "2026-09-08T06:08:21+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "MCE urges transport operators to stick to approve fares",
-      "url": "https://www.ghanabusinessnews.com/2026/09/07/mce-urges-transport-operators-to-stick-to-approve-fares/",
-      "summary": "Mr. Ebenezer Cobbinah, the Municipal Chief Executive (MCE) of Tarkwa Nsuaem, has urged transport operators within the municipality to stick to the approved fares while consultations continued. The post MCE urges transport operators to stick to approve fares ap",
-      "publishedAt": "2026-09-07T07:24:32+00:00",
+      "title": "Ghana and Burkina Faso explore public sector reforms, AI adoption at HR Café",
+      "url": "https://www.ghanabusinessnews.com/2026/09/08/ghana-and-burkina-faso-explore-public-sector-reforms-ai-adoption-at-hr-cafe/",
+      "summary": "Ghana and Burkina Faso are exploring opportunities for deeper cooperation in public sector reforms, human capital development and responsible adoption of Artificial Intelligence (AI) to improve public service delivery. The post Ghana and Burkina Faso explore p",
+      "publishedAt": "2026-09-08T06:02:23+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Sanitation must not be politicised – Ayariga",
-      "url": "https://www.ghanabusinessnews.com/2026/09/07/sanitation-must-not-be-politicised-ayariga/",
-      "summary": "Mr Mahama Ayariga, Minister of Local Government, Chieftaincy and Religious Affairs, has called for collective action to address Ghana’s sanitation and environmental challenges. The post Sanitation must not be politicised – Ayariga appeared first on Ghana Busin",
-      "publishedAt": "2026-09-07T07:20:54+00:00",
+      "title": "Germany could face shortage of 723,000 skilled workers by 2029",
+      "url": "https://www.ghanabusinessnews.com/2026/09/08/germany-could-face-shortage-of-723000-skilled-workers-by-2029/",
+      "summary": "Germany could face a shortage of around 723,000 skilled workers by 2029, nearly twice the level recorded in 2025, according to a study by the employer-linked German Economic Institute (IW). The post Germany could face shortage of 723,000 skilled workers by 202",
+      "publishedAt": "2026-09-08T05:58:09+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "NPP clears 47 aspirants for national officers’ elections",
-      "url": "https://www.ghanabusinessnews.com/2026/09/07/npp-clears-47-aspirants-for-national-officers-elections/",
-      "summary": "The New Patriotic Party (NPP) has cleared all 47 aspirants who filed nominations to contest its 2026 National Officers’ Elections. The post NPP clears 47 aspirants for national officers’ elections appeared first on Ghana Business News .",
-      "publishedAt": "2026-09-07T07:14:27+00:00",
+      "title": "Beyond funding, Africans search for voice, dignity, and ownership",
+      "url": "https://www.ghanabusinessnews.com/2026/09/08/beyond-funding-africans-search-for-voice-dignity-and-ownership/",
+      "summary": "In Kenya, a small civil society organisation faced a decision that could determine its future. The donor money on the table was substantial. Accepting it would have secured programmes, protected jobs, and eased financial pressure. Rejecting it could have meant",
+      "publishedAt": "2026-09-08T05:51:23+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Nigerian jailed seven years in Ghana over human trafficking, prostitution",
-      "url": "https://www.ghanabusinessnews.com/2026/09/07/nigerian-jailed-seven-years-in-ghana-over-human-trafficking-prostitution/",
-      "summary": "The Accra Circuit Court Four has sentenced a food vendor to seven years’ imprisonment in hard labour for human trafficking and prostitution. The post Nigerian jailed seven years in Ghana over human trafficking, prostitution appeared first on Ghana Business New",
-      "publishedAt": "2026-09-07T07:11:25+00:00",
+      "title": "BECE candidates with grade nine in English, Maths eligible for self-placement",
+      "url": "https://www.ghanabusinessnews.com/2026/09/08/bece-candidates-with-grade-nine-in-english-maths-eligible-for-self-placement/",
+      "summary": "The government has opened the self-placement system to the Basic Education Certificate Examination (BECE) candidates who obtained a score of nine in either English Language or Mathematics, or in both subjects. The post BECE candidates with grade nine in Englis",
+      "publishedAt": "2026-09-08T05:48:04+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Republic Bank, UPSA sign MOU to strengthen staff skills and industry-academia collaboration",
-      "url": "https://www.myjoyonline.com/republic-bank-upsa-sign-mou-to-strengthen-staff-skills-and-industry-academia-collaboration/",
-      "summary": "The agreement is expected to provide Republic Bank employees with access to professional training and Continuing Professional Development (CPD) programmes designed to update their knowledge, strengthen their competencies and improve workplace performance.",
-      "publishedAt": "2026-09-07T15:16:30+00:00",
+      "title": "Loans and advances increased by 39% to GH¢124.3bn in June 2026",
+      "url": "https://www.myjoyonline.com/loans-and-advances-increased-by-39-to-gh%c2%a2124-3bn-in-june-2026/",
+      "summary": "According to the July 2026 Monetary Policy Report, the expansion in credit was driven primarily by stronger lending to the private sector, with credit extended to private enterprises and households rising by 39.6% to GH¢119.1 billion.",
+      "publishedAt": "2026-09-08T13:39:16+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "GEA and UNIDO celebrate enterprise excellence and productivity at 3rd National Kaizen Awards",
-      "url": "https://www.myjoyonline.com/gea-and-unido-celebrate-enterprise-excellence-and-productivity-at-3rd-national-kaizen-awards/",
-      "summary": "The awards were held under the theme, “Driving Productivity, Innovation and Competitiveness through Kaizen Excellence.”",
-      "publishedAt": "2026-09-07T14:28:58+00:00",
+      "title": "Banking industry profit moderate to GH¢7.2bn in June 2026",
+      "url": "https://www.myjoyonline.com/banking-industry-profit-moderate-to-gh%c2%a27-2bn-in-june-2026/",
+      "summary": "Similarly, profit-before-tax (PBT) declined on a year-on-year basis, recording a contraction of 1.5% in June 2026, in contrast to the 32.2% growth observed in the corresponding period of 202",
+      "publishedAt": "2026-09-08T13:12:52+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Akaa Assembly Member appeals for telecom mast over poor network coverage",
-      "url": "https://www.myjoyonline.com/akaa-assembly-member-appeals-for-telecom-mast-over-poor-network-coverage/",
-      "summary": "The Assembly Member for the Akaa Electoral Area in the Jasikan Municipality of the Oti Region, George Yeboah, popularly known as Teapot, has appealed to the government and telecommunications operators to urgently address persistent network connectivity challen",
-      "publishedAt": "2026-09-07T11:47:43+00:00",
+      "title": "GH¢3.1bn bond sale strengthens fiscal self-reliance, deepens domestic market",
+      "url": "https://www.myjoyonline.com/gh%c2%a23-1bn-bond-sale-strengthens-fiscal-self-reliance-deepens-domestic-market/",
+      "summary": "Ghana’s successful mobilisation of approximately GH¢3.15 billion through its latest four-year Treasury bond represents more than a routine government financing exercise. It is a significant signal of improving confidence in the domestic capital market and an i",
+      "publishedAt": "2026-09-08T12:34:57+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Ghana Property & Lifestyle Expo launches 10th anniversary edition at Ghana High Commission in London",
-      "url": "https://www.myjoyonline.com/ghana-property-lifestyle-expo-launches-10th-anniversary-edition-at-ghana-high-commission-in-london/",
-      "summary": "The Ghana Property & Lifestyle Expo launched its 10th anniversary edition at a reception held at the Ghana High Commission in Belgravia, London. Held under the theme “A Decade of Impact: Bridging Continents, Building Futures”, the event brought together diplom",
-      "publishedAt": "2026-09-07T11:27:00+00:00",
+      "title": "Policy consistency needed to boost oil and gas sector – Deloitte Tax Partner",
+      "url": "https://www.myjoyonline.com/policy-consistency-needed-to-boost-oil-and-gas-sector-deloitte-tax-partner/",
+      "summary": "Addressing the media on the sidelines of the African Oil Week conference, Tax Partner Gideon said a greater policy coherence is critical to unlock investments in the sector.",
+      "publishedAt": "2026-09-08T12:24:37+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Money supply increases to 28.5% year-on-year in June 2026",
-      "url": "https://www.myjoyonline.com/money-supply-increases-to-28-5-year-on-year-in-june-2026/",
-      "summary": "According to the Bank of Ghana, the increase in broad money growth was largely driven by a significant build-up in Net Foreign Assets (NFA), as well as growth in Net Domestic Assets (NDA).",
-      "publishedAt": "2026-09-07T11:16:45+00:00",
+      "title": "GIISDEC takes charge of scrap metal recovery in NAIMOS operational areas",
+      "url": "https://www.myjoyonline.com/giisdec-takes-charge-of-scrap-metal-recovery-in-naimos-operational-areas/",
+      "summary": "The initiative forms part of GIISDEC’s broader mandate to support the development of Ghana’s iron and steel industry while promoting responsible resource utilization and environmental stewardship.",
+      "publishedAt": "2026-09-08T12:10:59+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "British Council launches ‘Study UK Alumni Awards’ to celebrate international UK alumni achievements",
-      "url": "https://www.myjoyonline.com/british-council-launches-study-uk-alumni-awards-to-celebrate-international-uk-alumni-achievements-2/",
-      "summary": "These awards honour leaders who have leveraged their UK education to make significant contributions to their communities, industries, and countries.",
-      "publishedAt": "2026-09-07T10:51:02+00:00",
+      "title": "Nilee Consult to host fifth Business Growth Accelerator Workshop in Accra",
+      "url": "https://www.myjoyonline.com/nilee-consult-to-host-fifth-business-growth-accelerator-workshop-in-accra/",
+      "summary": "Nilee Consult, a business transformation and customer experience management consulting firm, will host the fifth edition of its Business Growth Accelerator Workshop in Accra on 24 and 25 September 2026.",
+      "publishedAt": "2026-09-08T11:54:57+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Digital strategy platform ‘Strategy Partner Pro’ launched",
-      "url": "https://www.myjoyonline.com/digital-strategy-platform-strategy-partner-pro-launched/",
-      "summary": "Strategy Partner Pro is a platform that will convert strategic goals into clear initiatives, actions, and performance measures.",
-      "publishedAt": "2026-09-07T10:23:43+00:00",
+      "title": "CIB Ghana launches 2026 edition of The Ghanaian Banker Magazine",
+      "url": "https://www.myjoyonline.com/cib-ghana-launches-2026-edition-of-the-ghanaian-banker-magazine/",
+      "summary": "The Chartered Institute of Bankers, Ghana (CIB Ghana) has launched the 2026 edition of the Ghanaian Banker Magazine, its flagship publication chronicling the state of the country’s banking industry and the Institute’s role in shaping professional standards wit",
+      "publishedAt": "2026-09-08T11:04:04+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Sunbeth Global Concepts redeems ₦25.1bn CP, demonstrating strong liquidity, investor confidence",
-      "url": "https://www.myjoyonline.com/sunbeth-global-concepts-redeems-%e2%82%a625-1bn-cp-demonstrating-strong-liquidity-investor-confidence/",
-      "summary": "Sunbeth Global Concepts Limited, a leading agro-commodities sourcing and trading company, has announced the successful and timely redemption of its ₦25.1 billion Series 1 Commercial Paper (CP) issued under its ₦200 billion Commercial Paper Programme.",
-      "publishedAt": "2026-09-07T10:07:28+00:00",
+      "title": "First National Bank Accra Marathon brings back full race for 2026",
+      "url": "https://www.myjoyonline.com/first-national-bank-accra-marathon-brings-back-full-race-for-2026/",
+      "summary": "The event marks the fourth consecutive year of First National Bank’s partnership with organisers, the Dansoman Keep Fit Club.",
+      "publishedAt": "2026-09-08T10:03:29+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
@@ -685,7 +685,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-07T16:19:21.405388+00:00"
+      "fetchedAt": "2026-09-08T15:00:04.152472+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -694,7 +694,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-07T16:19:21.405388+00:00"
+      "fetchedAt": "2026-09-08T15:00:04.152472+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -703,7 +703,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-07T16:19:21.405388+00:00"
+      "fetchedAt": "2026-09-08T15:00:04.152472+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -712,7 +712,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-07T16:19:21.405388+00:00"
+      "fetchedAt": "2026-09-08T15:00:04.152472+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -721,7 +721,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-07T16:19:21.405388+00:00"
+      "fetchedAt": "2026-09-08T15:00:04.152472+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -730,7 +730,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-07T16:19:21.405388+00:00"
+      "fetchedAt": "2026-09-08T15:00:04.152472+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -739,7 +739,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-09-07T16:19:21.405388+00:00"
+      "fetchedAt": "2026-09-08T15:00:04.152472+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -748,7 +748,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-07T16:19:21.405388+00:00"
+      "fetchedAt": "2026-09-08T15:00:04.152472+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -757,7 +757,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-07T16:19:21.405388+00:00"
+      "fetchedAt": "2026-09-08T15:00:04.152472+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -766,7 +766,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-07T16:19:21.405388+00:00"
+      "fetchedAt": "2026-09-08T15:00:04.152472+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -775,7 +775,7 @@
       "kind": "rss",
       "ok": false,
       "error": "HTTP Error 404: Not Found",
-      "fetchedAt": "2026-09-07T16:19:21.405388+00:00"
+      "fetchedAt": "2026-09-08T15:00:04.152472+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -784,7 +784,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-07T16:19:21.405388+00:00"
+      "fetchedAt": "2026-09-08T15:00:04.152472+00:00"
     },
     {
       "name": "Citi Business News",
@@ -793,7 +793,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-07T16:19:21.405388+00:00"
+      "fetchedAt": "2026-09-08T15:00:04.152472+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -802,7 +802,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-07T16:19:21.405388+00:00"
+      "fetchedAt": "2026-09-08T15:00:04.152472+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -811,7 +811,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-07T16:19:21.405388+00:00"
+      "fetchedAt": "2026-09-08T15:00:04.152472+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -820,7 +820,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-07T16:19:21.405388+00:00"
+      "fetchedAt": "2026-09-08T15:00:04.152472+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -829,7 +829,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-07T16:19:21.405388+00:00"
+      "fetchedAt": "2026-09-08T15:00:04.152472+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -838,7 +838,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-07T16:19:21.405388+00:00"
+      "fetchedAt": "2026-09-08T15:00:04.152472+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -847,7 +847,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-07T16:19:21.405388+00:00"
+      "fetchedAt": "2026-09-08T15:00:04.152472+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -856,7 +856,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-07T16:19:21.405388+00:00"
+      "fetchedAt": "2026-09-08T15:00:04.152472+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -865,7 +865,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-07T16:19:21.405388+00:00"
+      "fetchedAt": "2026-09-08T15:00:04.152472+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -874,7 +874,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-09-07T16:19:21.405388+00:00"
+      "fetchedAt": "2026-09-08T15:00:04.152472+00:00"
     }
   ]
 }
