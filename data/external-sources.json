@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-14T16:51:33.137325+00:00",
-  "generatedAtGhana": "2026-09-14T16:51:33.137325+00:00",
+  "generatedAt": "2026-09-15T15:28:53.489261+00:00",
+  "generatedAtGhana": "2026-09-15T15:28:53.489261+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
@@ -13,17 +13,20 @@
     },
     "bankOfGhana": {
       "policyRate": 14.0,
-      "tBill91Day": 4.748,
+      "tBill91Day": 4.6405,
       "inflation": 5.0,
       "source": "Bank of Ghana",
       "url": "https://www.bog.gov.gh/"
     },
     "fx": {
-      "usdGhsMid": 12.2,
+      "usdGhsMid": 11.463,
       "rateBasis": "public news reported rate",
-      "source": "MyJoyOnline USD GHS Search (public fallback)",
-      "url": "https://www.myjoyonline.com/?s=cedi+dollar",
-      "sourceType": "public_news_fallback"
+      "source": "Bank of Ghana Daily Interbank FX Rates",
+      "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
+      "sourceType": "public_news_fallback",
+      "asOf": "14 Sep 2026",
+      "usdGhsBuying": 11.4573,
+      "usdGhsSelling": 11.4687
     },
     "ghanaStatisticalService": {
       "cpiInflationYoy": 5.0,
@@ -160,6 +163,134 @@
       "publishedAt": null,
       "source": "GSE Listed Companies",
       "category": "Official issuer universe"
+    },
+    {
+      "title": "Current Monetary Policy Rate (%)",
+      "url": "https://www.bog.gov.gh/",
+      "summary": "",
+      "publishedAt": null,
+      "source": "Bank of Ghana",
+      "category": "Official macro"
+    },
+    {
+      "title": "Inflation Target (%)",
+      "url": "https://www.bog.gov.gh/",
+      "summary": "",
+      "publishedAt": null,
+      "source": "Bank of Ghana",
+      "category": "Official macro"
+    },
+    {
+      "title": "Current inflation rate (%)",
+      "url": "https://www.bog.gov.gh/",
+      "summary": "",
+      "publishedAt": null,
+      "source": "Bank of Ghana",
+      "category": "Official macro"
+    },
+    {
+      "title": "91-Day Treasury Bill Rate (%)",
+      "url": "https://www.bog.gov.gh/",
+      "summary": "",
+      "publishedAt": null,
+      "source": "Bank of Ghana",
+      "category": "Official macro"
+    },
+    {
+      "title": "Broadcast",
+      "url": "https://www.bog.gov.gh/",
+      "summary": "",
+      "publishedAt": null,
+      "source": "Bank of Ghana",
+      "category": "Official macro"
+    },
+    {
+      "title": "131ST MPC PRESS BRIEFING",
+      "url": "https://www.bog.gov.gh/",
+      "summary": "",
+      "publishedAt": null,
+      "source": "Bank of Ghana",
+      "category": "Official macro"
+    },
+    {
+      "title": "122nd MPC Press Briefing",
+      "url": "https://www.bog.gov.gh/",
+      "summary": "",
+      "publishedAt": null,
+      "source": "Bank of Ghana",
+      "category": "Official macro"
+    },
+    {
+      "title": "97th MPC Press Conference - Bank of Ghana",
+      "url": "https://www.bog.gov.gh/",
+      "summary": "",
+      "publishedAt": null,
+      "source": "Bank of Ghana",
+      "category": "Official macro"
+    },
+    {
+      "title": "Day's Weighted Average Rate Day’s Weighted Median Rate: 11.4630 table.wpDataTable td.numdata { text-align: right !important; } /* buttons font color */ .wpDataTables .wdt-checkbox-filter.btn, .wpDataTables .selecter .selecter-selected, .wdt-frontend-modal .btn:not(.dropdown-toggle), div.dt-button-collection a.dt-button.active:not(.disabled), div.dt-button-collection button.dt-button.active:not(.disabled) { color: #222222 !important; } /** buttons background hover color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { background-color: #ebbd3f !important; background-image: none !important; } /** buttons hover border color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { border-color: #222222 !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } .wpdt-c .wpDataTablesWrapper table.wpDataTable thead tr:nth-child(2) th { overflow: visible; }",
+      "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
+      "summary": "",
+      "publishedAt": null,
+      "source": "Bank of Ghana FX Rates",
+      "category": "Official FX"
+    },
+    {
+      "title": "CONTACT US",
+      "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
+      "summary": "",
+      "publishedAt": null,
+      "source": "Bank of Ghana FX Rates",
+      "category": "Official FX"
+    },
+    {
+      "title": "Bank Notes & Coins",
+      "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
+      "summary": "",
+      "publishedAt": null,
+      "source": "Bank of Ghana FX Rates",
+      "category": "Official FX"
+    },
+    {
+      "title": "Economic Data",
+      "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
+      "summary": "",
+      "publishedAt": null,
+      "source": "Bank of Ghana FX Rates",
+      "category": "Official FX"
+    },
+    {
+      "title": "Monetary Policy",
+      "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
+      "summary": "",
+      "publishedAt": null,
+      "source": "Bank of Ghana FX Rates",
+      "category": "Official FX"
+    },
+    {
+      "title": "Payment Systems",
+      "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
+      "summary": "",
+      "publishedAt": null,
+      "source": "Bank of Ghana FX Rates",
+      "category": "Official FX"
+    },
+    {
+      "title": "Supervision & Regulation",
+      "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
+      "summary": "",
+      "publishedAt": null,
+      "source": "Bank of Ghana FX Rates",
+      "category": "Official FX"
+    },
+    {
+      "title": "Treasury & the Markets",
+      "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
+      "summary": "",
+      "publishedAt": null,
+      "source": "Bank of Ghana FX Rates",
+      "category": "Official FX"
     },
     {
       "title": "Ghana at a Glance",
@@ -386,130 +517,130 @@
       "category": "Sovereign credit research"
     },
     {
-      "title": "Ghanaian authorities arrest Leijdekker’s accomplices linked to drugs seized in France",
-      "url": "https://www.ghanabusinessnews.com/2026/09/14/ghanaian-authorities-arrest-leijdekkers-accomplices-linked-to-drugs-seized-in-france/",
-      "summary": "Ghanaian security authorities have announced the arrest of three persons connected to the most wanted drug lord in Europe, Jos Leijdekkers, who are also linked to the recent shipment of cocaine seized in France. The post Ghanaian authorities arrest Leijdekker’",
-      "publishedAt": "2026-09-14T13:51:40+00:00",
+      "title": "We have not gone to borrow money from anywhere – Mahama",
+      "url": "https://www.ghanabusinessnews.com/2026/09/15/we-have-not-gone-to-borrow-money-from-anywhere-mahama/",
+      "summary": "President John Dramani Mahama has stated that the 175.6km Accra-Kumasi Expressway construction project will be executed through locally generated funds. The post We have not gone to borrow money from anywhere – Mahama appeared first on Ghana Business News .",
+      "publishedAt": "2026-09-15T09:21:25+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Urologist cautions against prescribing sex for prostate cancer prevention",
-      "url": "https://www.ghanabusinessnews.com/2026/09/14/urologist-cautions-against-prescribing-sex-for-prostate-cancer-prevention/",
-      "summary": "Dr John Nana Nkrumah, Urologist and Senior Specialist at the GPHA Clinic and International Maritime Hospital, has cautioned against treating frequent sexual activity as a prescribed way of preventing prostate cancer. The post Urologist cautions against prescri",
-      "publishedAt": "2026-09-14T07:04:22+00:00",
+      "title": "Ghana police interdict officer over death of 23-year-old law student",
+      "url": "https://www.ghanabusinessnews.com/2026/09/15/ghana-police-interdict-officer-over-death-of-23-year-old-law-student/",
+      "summary": "The Ghana Police Service has interdicted General Corporal Robert Koranteng over the death of 23-year-old Law student, Ivan Baidoo. The post Ghana police interdict officer over death of 23-year-old law student appeared first on Ghana Business News .",
+      "publishedAt": "2026-09-15T09:13:20+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Ghana and Uganda deepen upstream petroleum cooperation through peer learning",
-      "url": "https://www.ghanabusinessnews.com/2026/09/14/ghana-and-uganda-deepen-upstream-petroleum-cooperation-through-peer-learning/",
-      "summary": "Ghana and Uganda are strengthening cooperation in the upstream petroleum sector through the exchange of practical lessons on petroleum governance, regulation and operations. The post Ghana and Uganda deepen upstream petroleum cooperation through peer learning ",
-      "publishedAt": "2026-09-14T07:01:14+00:00",
+      "title": "Ghana risks losing import trade to Abidjan – IEAG",
+      "url": "https://www.ghanabusinessnews.com/2026/09/15/ghana-risks-losing-import-trade-to-abidjan-ieag/",
+      "summary": "Ghana risks losing portions of its import trade to competing ports in the sub-region if urgent measures are not taken to resolve persistent congestion and delays at its ports, the Importers and Exporters Association of Ghana (IEAG) has warned. The post Ghana r",
+      "publishedAt": "2026-09-15T09:09:05+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Ghana and INTERPOL make strides in crime fight – CID Director-General",
-      "url": "https://www.ghanabusinessnews.com/2026/09/14/ghana-and-interpol-make-strides-in-crime-fight-cid-director-general/",
-      "summary": "Ghana, in collaboration with INTERPOL and other international law-enforcement partners, has made significant strides in combating transnational organised crime, Commissioner of Police (COP) Lydia Yaako Donkor, Director-General of the Criminal Investigations De",
-      "publishedAt": "2026-09-14T06:55:20+00:00",
+      "title": "Two arrested over alleged plot to assassinate susu collector",
+      "url": "https://www.ghanabusinessnews.com/2026/09/15/two-arrested-over-alleged-plot-to-assassinate-susu-collector/",
+      "summary": "The Madina Divisional Police Command has arrested two suspects over an alleged plot to assassinate a susu collector at the Botwe Taxi Rank. The post Two arrested over alleged plot to assassinate susu collector appeared first on Ghana Business News .",
+      "publishedAt": "2026-09-15T09:03:14+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Four alleged illegal sand winners remanded",
-      "url": "https://www.ghanabusinessnews.com/2026/09/14/four-alleged-illegal-sand-winners-remanded/",
-      "summary": "The Accra Circuit Court Eight has remanded four persons accused of engaging in illegal sand winning activities at Teacher Mantey near Amasaman. The post Four alleged illegal sand winners remanded appeared first on Ghana Business News .",
-      "publishedAt": "2026-09-14T06:46:18+00:00",
+      "title": "Digital finance must move Ghanaians beyond basic transactions – MMFL",
+      "url": "https://www.ghanabusinessnews.com/2026/09/15/digital-finance-must-move-ghanaians-beyond-basic-transactions-mmfl/",
+      "summary": "Ghana’s next phase of financial inclusion must move beyond sending and receiving money to help more people save, invest, access credit, obtain insurance and build stronger financial futures, Mr Abdul-Razak Issaka Ali, Chief Commercial Operations Officer of Mob",
+      "publishedAt": "2026-09-15T08:51:45+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Upper West receives GH¢101.9m DACF for development projects – Minister",
-      "url": "https://www.ghanabusinessnews.com/2026/09/14/upper-west-receives-gh%c2%a2101-9m-dacf-for-development-projects-minister/",
-      "summary": "The Upper West Region has so far received GH¢101,902,000 out of its District Assemblies Common Fund (DACF) allocation for the implementation of development projects across the region. The post Upper West receives GH¢101.9m DACF for development projects – Minis",
-      "publishedAt": "2026-09-14T06:42:58+00:00",
+      "title": "Veep launches initiative to tackle maternal deaths",
+      "url": "https://www.ghanabusinessnews.com/2026/09/15/veep-launches-initiative-to-tackle-maternal-deaths/",
+      "summary": "Vice President Professor Jane Naana Opoku-Agyemang has launched the Presidential Initiative on Maternal Health Emergency Response (PRIMER), a five-year plan to reduce preventable maternal and newborn deaths in Ghana. The post Veep launches initiative to tackle",
+      "publishedAt": "2026-09-15T08:33:34+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Atta-Akyea denies abandoning Adu-Boahene, others",
-      "url": "https://www.ghanabusinessnews.com/2026/09/14/atta-akyea-denies-abandoning-adu-boahene-others/",
-      "summary": "Mr Samuel Atta-Akyea, counsel for Kwabena Adu-Boahene, Madam Angela Adjei Boateng and Advantage Solutions Limited, has denied claims that he has abandoned his clients in their ongoing criminal trial. The post Atta-Akyea denies abandoning Adu-Boahene, others ap",
-      "publishedAt": "2026-09-14T06:39:11+00:00",
+      "title": "Minority accuses government of undermining decentralisation",
+      "url": "https://www.ghanabusinessnews.com/2026/09/15/minority-accuses-government-of-undermining-decentralisation/",
+      "summary": "The New Patriotic Party Minority Caucus in Parliament has accused the government of allegedly undermining the principles of decentralisation in the implementation of its flagship 24-Hour Markets programme being rolled out across districts. The post Minority ac",
+      "publishedAt": "2026-09-15T08:29:40+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "MTN deepens cybersecurity awareness as fraudsters evolve",
-      "url": "https://www.ghanabusinessnews.com/2026/09/14/mtn-deepens-cybersecurity-awareness-as-fraudsters-evolve/",
-      "summary": "MTN Ghana has intensified cybersecurity awareness among its workforce to counter increasingly sophisticated methods used by cybercriminals, hackers and fraudsters. The post MTN deepens cybersecurity awareness as fraudsters evolve appeared first on Ghana Busine",
-      "publishedAt": "2026-09-14T06:36:41+00:00",
+      "title": "Parents raise concerns over cost of learning materials in private schools",
+      "url": "https://www.ghanabusinessnews.com/2026/09/15/parents-raise-concerns-over-cost-of-learning-materials-in-private-schools/",
+      "summary": "Some parents of pupils in private schools in Tema have expressed concern over the rising cost of learning materials, saying the financial burden is particularly heavy for families with more than one child in private education. The post Parents raise concerns o",
+      "publishedAt": "2026-09-15T08:20:23+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "NPA increases price floor from September 16; petrol to sell at GH¢16, diesel at GH¢16.77",
-      "url": "https://www.myjoyonline.com/npa-increases-price-floor-from-september-16-petrol-to-sell-at-ghc16-diesel-at-ghc16-77/",
-      "summary": "The development should mean that we are likely to see some significant increases in the prices of petroleum products from the current levels or price quotes by the various oil marketing companies.",
-      "publishedAt": "2026-09-14T15:55:31+00:00",
+      "title": "Vehicle assemblers must meet local content threshold to enjoy VAT exemption – Mahama",
+      "url": "https://www.myjoyonline.com/vehicle-assemblers-must-meet-local-content-threshold-to-enjoy-vat-exemption-mahama/",
+      "summary": "President John Dramani Mahama has announced that vehicle assemblers in Ghana will be required to meet a specified local assembly threshold to qualify for VAT exemptions under new incentives being developed for the automotive sector.",
+      "publishedAt": "2026-09-15T14:00:08+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Elevate Africa Summit to push AfCFTA toward fully functional markets",
-      "url": "https://www.myjoyonline.com/elevate-africa-summit-to-push-afcfta-toward-fully-functional-markets/",
-      "summary": "Accra will provide the setting for these discussions as Ghana continues to position itself as a key centre for Africa’s trade integration agenda. The city hosts the AfCFTA Secretariat, while President John Dramani Mahama’s recently announced “Accra Reset” call",
-      "publishedAt": "2026-09-14T15:16:51+00:00",
+      "title": "GHIPO moves to secure global protection for Ghana’s Akpeteshie",
+      "url": "https://www.myjoyonline.com/ghipo-moves-to-secure-global-protection-for-ghanas-akpeteshie/",
+      "summary": "Ghana is stepping up efforts to secure Geographical Indication (GI) protection for Akpeteshie, in a move aimed at safeguarding the identity of the traditional spirit and positioning it for greater competition on international markets. The initiative is being l",
+      "publishedAt": "2026-09-15T11:56:11+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Workers must complement AI skills with professional expertise to remain relevant – ALX Enterprise",
-      "url": "https://www.myjoyonline.com/workers-must-complement-ai-skills-with-professional-expertise-to-remain-relevant-alx-enterprise/",
-      "summary": "Alternative lead The rapid rise of artificial intelligence (AI) is changing the nature of work, with ALX Partnership Manager Edward Akani urging workers to continuously develop their skills to remain relevant in the evolving job market.",
-      "publishedAt": "2026-09-14T10:39:15+00:00",
+      "title": "Deliberate VAT evasion will attract penalties — GRA",
+      "url": "https://www.myjoyonline.com/deliberate-vat-evasion-will-attract-penalties-gra/",
+      "summary": "The Ghana Revenue Authority (GRA) has warned businesses that deliberately evade their Value Added Tax (VAT) obligations that they risk facing penalties, interest and other enforcement measures.",
+      "publishedAt": "2026-09-15T10:25:47+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Companies that delay AI adoption risk losing market opportunities – ALX Enterprise",
-      "url": "https://www.myjoyonline.com/companies-that-delay-ai-adoption-risk-losing-market-opportunities-alx-enterprise/",
-      "summary": "ALX Partnership Manager Edward Akani has urged businesses to adopt artificial intelligence (AI) early to avoid losing market opportunities.",
-      "publishedAt": "2026-09-14T10:25:30+00:00",
+      "title": "Businesses above GH¢750,000 turnover must register for VAT – GRA",
+      "url": "https://www.myjoyonline.com/businesses-above-gh%c2%a2750000-turnover-must-register-for-vat-gra/",
+      "summary": "The Commissioner of Domestic Tax Revenue at the Ghana Revenue Authority (GRA), Dr Martin Kolbil Yamborigya, has warned businesses with annual taxable turnover exceeding GH¢750,000 to register for Value Added Tax (VAT) and comply with the provisions of the Valu",
+      "publishedAt": "2026-09-15T09:56:28+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Malta and Ghana set sights on practical AI partnership",
-      "url": "https://www.myjoyonline.com/malta-and-ghana-set-sights-on-practical-ai-partnership/",
-      "summary": "Malta’s High Commissioner to Ghana, Ronald Micallef, made the call at One Vecta Africa AI Week 2026 in Accra, where he proposed a structured dialogue bringing together governments, regulators, universities and the private sector.",
-      "publishedAt": "2026-09-14T10:08:29+00:00",
+      "title": "A Partnership for Progress: Why the ProMark–KPMG collaboration matters for Africa’s digital assets future",
+      "url": "https://www.myjoyonline.com/a-partnership-for-progress-why-the-promark-kpmg-collaboration-matters-for-africas-digital-assets-future/",
+      "summary": "Africa’s digital assets agenda has moved beyond interest in new technology. The priority now is to establish clear rules, strengthen institutional capacity and translate responsible innovation into economic value. The collaboration between ProMark Elite Limite",
+      "publishedAt": "2026-09-15T07:15:41+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "GOIL could hold fuel prices despite $100 crude oil shock – Edward Bawa",
-      "url": "https://www.myjoyonline.com/goil-could-hold-fuel-prices-despite-100-crude-oil-shock-edward-bawa/",
-      "summary": "GOIL says it is exploring ways to prevent a surge in fuel prices at the pumps despite crude oil hitting $100 per barrel.",
-      "publishedAt": "2026-09-14T05:57:00+00:00",
+      "title": "Cedi under fresh pressure as Christmas import demand drives dollar surge",
+      "url": "https://www.myjoyonline.com/cedi-under-fresh-pressure-as-christmas-import-demand-drives-dollar-surge/",
+      "summary": "The Ghana cedi is facing renewed pressure against the US dollar, recording its second monthly depreciation since May as demand for foreign exchange continues to rise.",
+      "publishedAt": "2026-09-15T05:51:00+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Fuel prices may rise, but GOIL says 30% transport fare hike doesn’t add up",
-      "url": "https://www.myjoyonline.com/fuel-prices-may-rise-but-goil-says-30-transport-fare-hike-doesnt-add-up/",
-      "summary": "GOIL says rising fuel prices alone cannot justify the Ghana Private Road Transport Union's (GPRTU) proposed 30% increase in transport fares.",
-      "publishedAt": "2026-09-14T05:15:50+00:00",
+      "title": "Ato Forson eyes first-week November for 2027 Budget, promises jobs and major infrastructure push",
+      "url": "https://www.myjoyonline.com/ato-forson-eyes-first-week-november-for-2027-budget-promises-jobs-and-major-infrastructure-push/",
+      "summary": "Finance Minister Dr Cassiel Ato Forson has hinted that the 2027 Budget will be presented to Parliament in the first week of November 2026.",
+      "publishedAt": "2026-09-15T05:42:00+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "GOIL sets Sept. 16 deadline for decision on fuel prices",
-      "url": "https://www.myjoyonline.com/goil-sets-sept-16-deadline-for-decision-on-fuel-prices/",
-      "summary": "GOIL is studying the impact of crude oil prices hitting $100 a barrel before deciding whether to adjust fuel prices at its pumps.",
-      "publishedAt": "2026-09-14T04:57:51+00:00",
+      "title": "African banks’ foreign subsidiary contributions increasing; Access Bank records fastest cross-border growth",
+      "url": "https://www.myjoyonline.com/african-banks-foreign-subsidiary-contributions-increasing-access-bank-records-fastest-cross-border-growth/",
+      "summary": "According to the UK-based firm, the contributions from these subsidiaries have grown over the past decade, and the increase has accelerated since the pandemic, propelled by acquisitions and, in the case of Nigerian banking groups, the devaluation of the Nigeri",
+      "publishedAt": "2026-09-15T03:41:46+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
@@ -530,148 +661,20 @@
       "category": "Public FX fallback"
     },
     {
+      "title": "Cedi under fresh pressure as Christmas import demand drives dollar surge",
+      "url": "https://www.myjoyonline.com/?s=cedi+dollar",
+      "summary": "",
+      "publishedAt": null,
+      "source": "MyJoyOnline USD GHS Search",
+      "category": "Public FX fallback"
+    },
+    {
       "title": "Cedi records 7.9% depreciation against US dollar in first half of 2026",
       "url": "https://www.myjoyonline.com/?s=cedi+dollar",
       "summary": "",
       "publishedAt": null,
       "source": "MyJoyOnline USD GHS Search",
       "category": "Public FX fallback"
-    },
-    {
-      "title": "Cedi appreciates against US dollar from GH¢11.75 – 10.94 in one week",
-      "url": "https://www.myjoyonline.com/?s=cedi+dollar",
-      "summary": "",
-      "publishedAt": null,
-      "source": "MyJoyOnline USD GHS Search",
-      "category": "Public FX fallback"
-    },
-    {
-      "title": "US Dollar to Ghanaian Cedis - Exchange Rate Today",
-      "url": "https://usd.currencyrate.today/ghs",
-      "summary": "",
-      "publishedAt": null,
-      "source": "CurrencyRate USD GHS",
-      "category": "Public FX fallback"
-    },
-    {
-      "title": "Convert US Dollar to Ghanaian Cedi",
-      "url": "https://usd.currencyrate.today/ghs",
-      "summary": "",
-      "publishedAt": null,
-      "source": "CurrencyRate USD GHS",
-      "category": "Public FX fallback"
-    },
-    {
-      "title": "Convert Ghanaian Cedi to US Dollar",
-      "url": "https://usd.currencyrate.today/ghs",
-      "summary": "",
-      "publishedAt": null,
-      "source": "CurrencyRate USD GHS",
-      "category": "Public FX fallback"
-    },
-    {
-      "title": "Historical Chart 1 USD/GHS",
-      "url": "https://usd.currencyrate.today/ghs",
-      "summary": "",
-      "publishedAt": null,
-      "source": "CurrencyRate USD GHS",
-      "category": "Public FX fallback"
-    },
-    {
-      "title": "Receive news updates on the go.",
-      "url": "https://www.myjoyonline.com/?s=GSE+Composite+Index",
-      "summary": "",
-      "publishedAt": null,
-      "source": "MyJoyOnline GSE Search",
-      "category": "Public market fallback"
-    },
-    {
-      "title": "Search results for GSE Composite Index",
-      "url": "https://www.myjoyonline.com/?s=GSE+Composite+Index",
-      "summary": "",
-      "publishedAt": null,
-      "source": "MyJoyOnline GSE Search",
-      "category": "Public market fallback"
-    },
-    {
-      "title": "GSE Composite Index increased by 11% in July 2025 to record 43.03% year-to-date gain",
-      "url": "https://www.myjoyonline.com/?s=GSE+Composite+Index",
-      "summary": "",
-      "publishedAt": null,
-      "source": "MyJoyOnline GSE Search",
-      "category": "Public market fallback"
-    },
-    {
-      "title": "Money Lab: What is GSE Composite Index?",
-      "url": "https://www.myjoyonline.com/?s=GSE+Composite+Index",
-      "summary": "",
-      "publishedAt": null,
-      "source": "MyJoyOnline GSE Search",
-      "category": "Public market fallback"
-    },
-    {
-      "title": "Receive news updates on the go.",
-      "url": "https://www.myjoyonline.com/?s=Ghana+policy+rate",
-      "summary": "",
-      "publishedAt": null,
-      "source": "MyJoyOnline Policy Rate Search",
-      "category": "Public macro fallback"
-    },
-    {
-      "title": "Search results for Ghana policy rate",
-      "url": "https://www.myjoyonline.com/?s=Ghana+policy+rate",
-      "summary": "",
-      "publishedAt": null,
-      "source": "MyJoyOnline Policy Rate Search",
-      "category": "Public macro fallback"
-    },
-    {
-      "title": "Bank of Ghana policy rate now 15%",
-      "url": "https://www.myjoyonline.com/?s=Ghana+policy+rate",
-      "summary": "",
-      "publishedAt": null,
-      "source": "MyJoyOnline Policy Rate Search",
-      "category": "Public macro fallback"
-    },
-    {
-      "title": "Ghana places 8th in Africa out of 44 countries with highest policy rate",
-      "url": "https://www.myjoyonline.com/?s=Ghana+policy+rate",
-      "summary": "",
-      "publishedAt": null,
-      "source": "MyJoyOnline Policy Rate Search",
-      "category": "Public macro fallback"
-    },
-    {
-      "title": "Receive news updates on the go.",
-      "url": "https://www.myjoyonline.com/?s=91-day+treasury+bill+rate",
-      "summary": "",
-      "publishedAt": null,
-      "source": "MyJoyOnline Treasury Bill Search",
-      "category": "Public macro fallback"
-    },
-    {
-      "title": "Search results for 91-day treasury bill rate",
-      "url": "https://www.myjoyonline.com/?s=91-day+treasury+bill+rate",
-      "summary": "",
-      "publishedAt": null,
-      "source": "MyJoyOnline Treasury Bill Search",
-      "category": "Public macro fallback"
-    },
-    {
-      "title": "THE LAW 101: Overhauling Lawyer Discipline – Why the Practitioners Standards Board Bill is long overdue",
-      "url": "https://www.myjoyonline.com/?s=91-day+treasury+bill+rate",
-      "summary": "",
-      "publishedAt": null,
-      "source": "MyJoyOnline Treasury Bill Search",
-      "category": "Public macro fallback"
-    },
-    {
-      "title": "Attorney General to introduce new bill to regulate discipline of lawyers",
-      "url": "https://www.myjoyonline.com/?s=91-day+treasury+bill+rate",
-      "summary": "",
-      "publishedAt": null,
-      "source": "MyJoyOnline Treasury Bill Search",
-      "category": "Public macro fallback"
     }
   ],
   "sources": [
@@ -682,7 +685,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-14T16:51:33.137325+00:00"
+      "fetchedAt": "2026-09-15T15:28:53.489261+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -691,7 +694,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-14T16:51:33.137325+00:00"
+      "fetchedAt": "2026-09-15T15:28:53.489261+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -700,25 +703,25 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-14T16:51:33.137325+00:00"
+      "fetchedAt": "2026-09-15T15:28:53.489261+00:00"
     },
     {
       "name": "Bank of Ghana",
       "url": "https://www.bog.gov.gh/",
       "category": "Official macro",
       "kind": "html",
-      "ok": false,
-      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>",
-      "fetchedAt": "2026-09-14T16:51:33.137325+00:00"
+      "ok": true,
+      "error": null,
+      "fetchedAt": "2026-09-15T15:28:53.489261+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
       "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
       "category": "Official FX",
       "kind": "html",
-      "ok": false,
-      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>",
-      "fetchedAt": "2026-09-14T16:51:33.137325+00:00"
+      "ok": true,
+      "error": null,
+      "fetchedAt": "2026-09-15T15:28:53.489261+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -727,7 +730,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-14T16:51:33.137325+00:00"
+      "fetchedAt": "2026-09-15T15:28:53.489261+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -736,7 +739,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-09-14T16:51:33.137325+00:00"
+      "fetchedAt": "2026-09-15T15:28:53.489261+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -745,7 +748,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-14T16:51:33.137325+00:00"
+      "fetchedAt": "2026-09-15T15:28:53.489261+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -754,7 +757,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-14T16:51:33.137325+00:00"
+      "fetchedAt": "2026-09-15T15:28:53.489261+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -763,7 +766,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-14T16:51:33.137325+00:00"
+      "fetchedAt": "2026-09-15T15:28:53.489261+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -772,7 +775,7 @@
       "kind": "rss",
       "ok": false,
       "error": "HTTP Error 404: Not Found",
-      "fetchedAt": "2026-09-14T16:51:33.137325+00:00"
+      "fetchedAt": "2026-09-15T15:28:53.489261+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -781,7 +784,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-14T16:51:33.137325+00:00"
+      "fetchedAt": "2026-09-15T15:28:53.489261+00:00"
     },
     {
       "name": "Citi Business News",
@@ -790,7 +793,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-14T16:51:33.137325+00:00"
+      "fetchedAt": "2026-09-15T15:28:53.489261+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -799,7 +802,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-14T16:51:33.137325+00:00"
+      "fetchedAt": "2026-09-15T15:28:53.489261+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -808,7 +811,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-14T16:51:33.137325+00:00"
+      "fetchedAt": "2026-09-15T15:28:53.489261+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -817,7 +820,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-14T16:51:33.137325+00:00"
+      "fetchedAt": "2026-09-15T15:28:53.489261+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -826,7 +829,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-14T16:51:33.137325+00:00"
+      "fetchedAt": "2026-09-15T15:28:53.489261+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -835,7 +838,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-14T16:51:33.137325+00:00"
+      "fetchedAt": "2026-09-15T15:28:53.489261+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -844,7 +847,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-14T16:51:33.137325+00:00"
+      "fetchedAt": "2026-09-15T15:28:53.489261+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -853,7 +856,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-14T16:51:33.137325+00:00"
+      "fetchedAt": "2026-09-15T15:28:53.489261+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -862,7 +865,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-14T16:51:33.137325+00:00"
+      "fetchedAt": "2026-09-15T15:28:53.489261+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -871,7 +874,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-09-14T16:51:33.137325+00:00"
+      "fetchedAt": "2026-09-15T15:28:53.489261+00:00"
     }
   ]
 }
