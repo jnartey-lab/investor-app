@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-18T14:50:44.153559+00:00",
-  "generatedAtGhana": "2026-09-18T14:50:44.153559+00:00",
+  "generatedAt": "2026-09-19T14:13:11.805474+00:00",
+  "generatedAtGhana": "2026-09-19T14:13:11.805474+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
     "gseIndices": {
-      "asOf": "17/09/2026",
-      "composite": 14088.52,
-      "financialStocks": 7427.45,
+      "asOf": "18/09/2026",
+      "composite": 14309.49,
+      "financialStocks": 7491.59,
       "source": "Ghana Stock Exchange",
       "url": "https://gse.com.gh/"
     },
@@ -19,14 +19,14 @@
       "url": "https://www.bog.gov.gh/"
     },
     "fx": {
-      "usdGhsMid": 11.52,
+      "usdGhsMid": 11.55,
       "rateBasis": "public news reported rate",
       "source": "Bank of Ghana Daily Interbank FX Rates",
       "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
       "sourceType": "public_news_fallback",
-      "asOf": "17 Sep 2026",
-      "usdGhsBuying": 11.5142,
-      "usdGhsSelling": 11.5258
+      "asOf": "18 Sep 2026",
+      "usdGhsBuying": 11.5442,
+      "usdGhsSelling": 11.5558
     },
     "ghanaStatisticalService": {
       "cpiInflationYoy": 5.0,
@@ -229,7 +229,7 @@
       "category": "Official macro"
     },
     {
-      "title": "Day's Weighted Average Rate Day’s Weighted Median Rate: 11.5200 table.wpDataTable td.numdata { text-align: right !important; } /* buttons font color */ .wpDataTables .wdt-checkbox-filter.btn, .wpDataTables .selecter .selecter-selected, .wdt-frontend-modal .btn:not(.dropdown-toggle), div.dt-button-collection a.dt-button.active:not(.disabled), div.dt-button-collection button.dt-button.active:not(.disabled) { color: #222222 !important; } /** buttons background hover color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { background-color: #ebbd3f !important; background-image: none !important; } /** buttons hover border color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { border-color: #222222 !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } .wpdt-c .wpDataTablesWrapper table.wpDataTable thead tr:nth-child(2) th { overflow: visible; }",
+      "title": "Day's Weighted Average Rate Day’s Weighted Median Rate: 11.5500 table.wpDataTable td.numdata { text-align: right !important; } /* buttons font color */ .wpDataTables .wdt-checkbox-filter.btn, .wpDataTables .selecter .selecter-selected, .wdt-frontend-modal .btn:not(.dropdown-toggle), div.dt-button-collection a.dt-button.active:not(.disabled), div.dt-button-collection button.dt-button.active:not(.disabled) { color: #222222 !important; } /** buttons background hover color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { background-color: #ebbd3f !important; background-image: none !important; } /** buttons hover border color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { border-color: #222222 !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } .wpdt-c .wpDataTablesWrapper table.wpDataTable thead tr:nth-child(2) th { overflow: visible; }",
       "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
       "summary": "",
       "publishedAt": null,
@@ -453,7 +453,7 @@
       "category": "Credit ratings news"
     },
     {
-      "title": "Fitch Changes Sovereigns Outlook to ‘Deteriorating’ on Iran War Impact",
+      "title": "Sovereigns",
       "url": "https://www.fitchratings.com/sovereigns",
       "summary": "",
       "publishedAt": null,
@@ -517,67 +517,107 @@
       "category": "Sovereign credit research"
     },
     {
-      "title": "Tomato farmers at Anloga-Avume call for buyers, government intervention",
-      "url": "https://www.ghanabusinessnews.com/2026/09/18/tomato-farmers-at-anloga-avume-call-for-buyers-government-intervention/",
-      "summary": "Tomato farmers in the Anloga-Avume area of the Anloga District in the Volta Region have raised the alarm over huge post-harvest losses, as tonnes of ripe tomatoes rot on their farms because of shortage of harvesting crates and the absence of buyers. The post T",
-      "publishedAt": "2026-09-18T06:57:44+00:00",
+      "title": "Volta House of Chiefs signs four agreements to attract Chinese investments",
+      "url": "https://www.ghanabusinessnews.com/2026/09/19/volta-house-of-chiefs-signs-four-agreements-to-attract-chinese-investments/",
+      "summary": "The Volta Regional House of Chiefs (VRHC), led by its President, Togbe Tepre Hodo IV, has signed four strategic agreements with Chinese companies to promote investment, technology transfer, infrastructure development and aquaculture in the Volta Region. The po",
+      "publishedAt": "2026-09-19T07:37:22+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Labone GCB Bank attempted robbery case adjourned",
-      "url": "https://www.ghanabusinessnews.com/2026/09/18/labone-gcb-bank-attempted-robbery-case-adjourned/",
-      "summary": "An Accra Circuit Court has adjourned to October 6, 2026, the case in which Augustine Okechukwu Maazi is standing trial over the attempted robbery of the GCB Bank branch at Labone. The post Labone GCB Bank attempted robbery case adjourned appeared first on Ghan",
-      "publishedAt": "2026-09-18T06:53:42+00:00",
+      "title": "Kwesi Pratt blames political leadership for Ghana’s constitutional crisis",
+      "url": "https://www.ghanabusinessnews.com/2026/09/19/kwesi-pratt-blames-political-leadership-for-ghanas-constitutional-crisis/",
+      "summary": "Mr Kwesi Pratt Jnr, renowned Ghanaian journalist and political analyst, has blamed Ghana’s persistent constitutional crisis on poor political leadership and the failure of relevant state institutions to implement the Constitution in ways that benefit citizens ",
+      "publishedAt": "2026-09-19T07:28:33+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Debt servicing takes about 65% of climate-vulnerable countries’ revenues – Report",
-      "url": "https://www.ghanabusinessnews.com/2026/09/18/debt-servicing-takes-about-65-of-climate-vulnerable-countries-revenues-report/",
-      "summary": "A report by ActionAid has revealed that climate-vulnerable countries are spending about 65 per cent of their national revenues on servicing debt, leaving limited resources for climate action and essential public service provision. The post Debt servicing takes",
-      "publishedAt": "2026-09-18T06:47:25+00:00",
+      "title": "Ghana Minister advises African governments to strengthen regional tax cooperation",
+      "url": "https://www.ghanabusinessnews.com/2026/09/19/ghana-minister-advises-african-governments-to-strengthen-regional-tax-cooperation/",
+      "summary": "Finance Minister Cassiel Ato Forson has urged African governments and regional institutions to strengthen tax cooperation to protect domestic revenue and secure the continent’s development financing needs. The post Ghana Minister advises African governments to",
+      "publishedAt": "2026-09-19T07:24:22+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Ghana must turn research into practical solutions for development – Chief of Staff",
-      "url": "https://www.ghanabusinessnews.com/2026/09/18/ghana-must-turn-research-into-practical-solutions-for-development-chief-of-staff/",
-      "summary": "Dr Julius Debrah, Chief of Staff, has called for stronger collaboration among universities, research institutions, industry and policymakers to ensure that research conducted in Ghana is translated into practical solutions for national development. The post Gh",
-      "publishedAt": "2026-09-18T06:32:58+00:00",
+      "title": "NSA denies alleged visa facilitation scheme amid police probe",
+      "url": "https://www.ghanabusinessnews.com/2026/09/19/nsa-denies-alleged-visa-facilitation-scheme-amid-police-probe/",
+      "summary": "The National Sports Authority (NSA) has denied allegations against its Director-General, Yaw Ampofo Ankrah and some staff, over an alleged visa facilitation scheme linked to the 2026 FIFA World Cup. The post NSA denies alleged visa facilitation scheme amid pol",
+      "publishedAt": "2026-09-19T06:54:42+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Atebubu College of Education graduates 366",
-      "url": "https://www.ghanabusinessnews.com/2026/09/18/atebubu-college-of-education-graduates-366/",
-      "summary": "A total of 366 trainees have graduated from the Atebubu College of Education in the Bono East Region after completing four-year degree programmes in Early Childhood, Primary and Junior High School (JHS) Education. The post Atebubu College of Education graduate",
-      "publishedAt": "2026-09-18T06:29:21+00:00",
+      "title": "Ghana Standards Authority records 18% revenue growth in 2025",
+      "url": "https://www.ghanabusinessnews.com/2026/09/19/ghana-standards-authority-records-18-revenue-growth-in-2025/",
+      "summary": "George Agyei, the Director-General, Ghana Standards Authority (GSA), says the Authority recorded an 18 per cent increase in revenue in 2025, generating more than GH¢228 million, while expanding its testing, calibration, and verification activities. The post Gh",
+      "publishedAt": "2026-09-19T06:50:53+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Nurse remanded for allegedly conspiring with TikToker to publish, circulate false news",
-      "url": "https://www.ghanabusinessnews.com/2026/09/18/nurse-remanded-for-allegedly-conspiring-with-tiktoker-to-publish-circulate-false-news/",
-      "summary": "An Adentan Circuit Court on Thursday remanded a 40-year-old nurse, Salomey Awiti Bafoh, into police custody for allegedly conspiring with a UK-based TikToker, Barbara Asantewa Kodua, popularly known as \"Ghana Jollof,\" to publish and circulate false news. The p",
-      "publishedAt": "2026-09-18T06:24:31+00:00",
+      "title": "Ghana coach Queiroz names 21-man squad for 2027 AFCON qualifiers double-header",
+      "url": "https://www.ghanabusinessnews.com/2026/09/19/ghana-coach-queiroz-names-21-man-squad-for-2027-afcon-qualifiers-double-header/",
+      "summary": "Black Stars Head Coach, Carlos Queiroz, has named a 21-man squad for Ghana’s upcoming 2027 Africa Cup of Nations (AFCON) qualifying matches against Côte d’Ivoire and The Gambia. The post Ghana coach Queiroz names 21-man squad for 2027 AFCON qualifiers double-h",
+      "publishedAt": "2026-09-19T06:46:00+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "President Mahama briefed on recent narcotic trafficking cases",
-      "url": "https://www.ghanabusinessnews.com/2026/09/18/president-mahama-briefed-on-recent-narcotic-trafficking-cases/",
-      "summary": "President John Dramani Mahama on Thursday chaired a meeting of security chiefs and received a detailed briefing on investigations into the recent trafficking of drugs out of Ghana’s ports. The post President Mahama briefed on recent narcotic trafficking cases ",
-      "publishedAt": "2026-09-18T06:10:09+00:00",
+      "title": "CPCR opposes MPs serving as ministers under Constitution Review proposals",
+      "url": "https://www.ghanabusinessnews.com/2026/09/19/cpcr-opposes-mps-serving-as-ministers-under-constitution-review-proposals/",
+      "summary": "The Citizens’ Platform on Constitutional Reforms (CPCR) has reiterated its opposition to the continued appointment of Members of Parliament (MPs) as ministers. The post CPCR opposes MPs serving as ministers under Constitution Review proposals appeared first on",
+      "publishedAt": "2026-09-19T06:41:40+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "2027 Budget to focus on nine critical areas – Mahama",
-      "url": "https://www.ghanabusinessnews.com/2026/09/17/2027-budget-to-focus-on-nine-critical-areas-mahama/",
-      "summary": "President John Dramani Mahama has announced that the 2027 Budget Statement and Economic Policy of the Government to be presented to Parliament in November by the Finance Minister will focus on nine critical sectors of the economy. The post 2027 Budget to focus",
-      "publishedAt": "2026-09-17T12:03:51+00:00",
+      "title": "Nearly half of Germans expect Chancellor Merz to be replaced by end of year",
+      "url": "https://www.ghanabusinessnews.com/2026/09/19/nearly-half-of-germans-expect-chancellor-merz-to-be-replaced-by-end-of-year/",
+      "summary": "Nearly half of Germans expect Chancellor Friedrich Merz to be replaced by the end of the year, according to a YouGov poll. The post Nearly half of Germans expect Chancellor Merz to be replaced by end of year appeared first on Ghana Business News .",
+      "publishedAt": "2026-09-19T06:34:00+00:00",
       "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Western regional security council steps into Betterland-Gwira mining dispute",
+      "url": "https://www.myjoyonline.com/western-regional-security-council-steps-into-betterland-gwira-mining-dispute/",
+      "summary": "The Western Regional Security Council has intervened in the growing disagreement surrounding Betterland Ghana Limited’s mineral exploration activities at Gwira Banso in the Nzema East Municipality. The intervention brought representatives of the mining company",
+      "publishedAt": "2026-09-19T13:36:55+00:00",
+      "source": "MyJoyOnline Business",
+      "category": "Business news"
+    },
+    {
+      "title": "Collateral Registry: Security interest registrations declined by 32.2% in quarter 2, 2026",
+      "url": "https://www.myjoyonline.com/collateral-registry-security-interest-registrations-declined-by-32-2-in-quarter-2-2026/",
+      "summary": "The registration of security interests decreased significantly to 92,033 in quarter two 2026 from 135,721 registrations recorded in quarter two 2025.",
+      "publishedAt": "2026-09-19T01:29:21+00:00",
+      "source": "MyJoyOnline Business",
+      "category": "Business news"
+    },
+    {
+      "title": "Total value of secured loans hits GH¢31.5bn in quarter 2 2026",
+      "url": "https://www.myjoyonline.com/total-value-of-secured-loans-hit-gh%c2%a231-5bn-in-quarter-2-2026/",
+      "summary": "According to the report, banks continued to dominate the secured transactions landscape by value of registered credit, accounting for a total value of GH¢19.9 billion, equivalent to 63.1% of total secured credit value registered in the second quarter of 2026.",
+      "publishedAt": "2026-09-19T01:16:21+00:00",
+      "source": "MyJoyOnline Business",
+      "category": "Business news"
+    },
+    {
+      "title": "Why Republic Bank is betting big on mortgages",
+      "url": "https://www.myjoyonline.com/why-republic-bank-is-betting-big-on-mortgages/",
+      "summary": "Republic Bank (Ghana) PLC is putting mortgage financing back at the centre of its growth strategy, with Managing Director, Dr Benjamin Dzoboku, saying the move represents a return to the institution’s original purpose.",
+      "publishedAt": "2026-09-18T21:20:00+00:00",
+      "source": "MyJoyOnline Business",
+      "category": "Business news"
+    },
+    {
+      "title": "Ten female entrepreneurs graduate from the Standard Chartered Foundation Women in Tech Accelerator",
+      "url": "https://www.myjoyonline.com/ten-female-entrepreneurs-graduate-from-the-standard-chartered-foundation-women-in-tech-accelerator/",
+      "summary": "Standard Chartered Bank Ghana PLC held the Pitch Day and Graduation ceremony for the sixth cohort of its Women in Tech programme, celebrating ten women entrepreneurs who completed the programme and pitched their businesses for a share of the grant funding.",
+      "publishedAt": "2026-09-18T19:11:25+00:00",
+      "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
@@ -601,46 +641,6 @@
       "url": "https://www.myjoyonline.com/agriculture-ministry-launches-phase-i-of-tomato-production-initiative/",
       "summary": "The Ministry of Food and Agriculture has launched Phase I of a major initiative aimed at boosting local tomato production and reducing Ghana’s dependence on imported tomatoes.",
       "publishedAt": "2026-09-18T13:23:13+00:00",
-      "source": "MyJoyOnline Business",
-      "category": "Business news"
-    },
-    {
-      "title": "Explainer: Can Ghana’s new oil deals reverse years of declining production?",
-      "url": "https://www.myjoyonline.com/explainer-can-ghanas-new-oil-deals-reverse-years-of-declining-production/",
-      "summary": "For years, Ghana’s oil industry was seen as one of the country’s biggest economic success stories. Commercial production began in 2010 after the discovery of the Jubilee Field, and output climbed rapidly as more fields came on stream.",
-      "publishedAt": "2026-09-18T12:14:51+00:00",
-      "source": "MyJoyOnline Business",
-      "category": "Business news"
-    },
-    {
-      "title": "Several options being considered by government to cushion consumers against fuel price hikes – NPA Boss",
-      "url": "https://www.myjoyonline.com/several-options-being-considered-by-government-to-cushion-consumers-against-fuel-price-hikes-npa-boss/",
-      "summary": "“From our end at the National Petroleum Authority, we have submitted several scenarios to my sector minister, Dr. John Abdulai Jinapor and he is looking through to take the necessary measures”.",
-      "publishedAt": "2026-09-18T12:09:45+00:00",
-      "source": "MyJoyOnline Business",
-      "category": "Business news"
-    },
-    {
-      "title": "Ghana TVET appoints Ishmael Kodzokpo as Chairman for Anfoeta Technical Institute",
-      "url": "https://www.myjoyonline.com/ghana-tvet-appoints-ishmael-kodzokpo-as-chairman-for-anfoeta-technical-institute/",
-      "summary": "Under this statutory provision, the Governing Board is entrusted with the strategic leadership, institutional policy oversight, and administrative governance required to drive excellence in public Technical and Vocational Education and Training (TVET) institut",
-      "publishedAt": "2026-09-18T11:49:47+00:00",
-      "source": "MyJoyOnline Business",
-      "category": "Business news"
-    },
-    {
-      "title": "Future of revenue mobilisation is digital – Commissioner General to West Africa tax administrators",
-      "url": "https://www.myjoyonline.com/future-of-revenue-mobilisation-is-digital-commissioner-general-to-west-africa-tax-administrators/",
-      "summary": "The Commissioner General of the Ghana Revenue Authority, Anthony Kwasi Sarpong, has urged fellow tax administrators in the West African sub region to prioritise modernisation as part of its tax reforms. He argued that the inclusion of modern technology in Ghan",
-      "publishedAt": "2026-09-18T11:46:59+00:00",
-      "source": "MyJoyOnline Business",
-      "category": "Business news"
-    },
-    {
-      "title": "GNPC moves Voltaian Basin exploration towards TUA 1X Well at Chegu",
-      "url": "https://www.myjoyonline.com/gnpc-moves-voltaian-basin-exploration-towards-tua-1x-well-at-chegu/",
-      "summary": "Years of subsurface studies in Ghana’s Voltaian Basin are advancing towards a major milestone, as the Ghana National Petroleum Corporation (GNPC) and GNPC Explorco intensify preparations to drill the TUA-1X exploratory well at Chegu in the Mion District.",
-      "publishedAt": "2026-09-18T11:07:24+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
@@ -685,7 +685,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-18T14:50:44.153559+00:00"
+      "fetchedAt": "2026-09-19T14:13:11.805474+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -694,7 +694,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-18T14:50:44.153559+00:00"
+      "fetchedAt": "2026-09-19T14:13:11.805474+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -703,7 +703,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-18T14:50:44.153559+00:00"
+      "fetchedAt": "2026-09-19T14:13:11.805474+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -712,7 +712,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-18T14:50:44.153559+00:00"
+      "fetchedAt": "2026-09-19T14:13:11.805474+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -721,7 +721,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-18T14:50:44.153559+00:00"
+      "fetchedAt": "2026-09-19T14:13:11.805474+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -730,7 +730,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-18T14:50:44.153559+00:00"
+      "fetchedAt": "2026-09-19T14:13:11.805474+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -739,7 +739,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-09-18T14:50:44.153559+00:00"
+      "fetchedAt": "2026-09-19T14:13:11.805474+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -748,7 +748,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-18T14:50:44.153559+00:00"
+      "fetchedAt": "2026-09-19T14:13:11.805474+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -757,7 +757,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-18T14:50:44.153559+00:00"
+      "fetchedAt": "2026-09-19T14:13:11.805474+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -766,7 +766,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-18T14:50:44.153559+00:00"
+      "fetchedAt": "2026-09-19T14:13:11.805474+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -775,7 +775,7 @@
       "kind": "rss",
       "ok": false,
       "error": "HTTP Error 404: Not Found",
-      "fetchedAt": "2026-09-18T14:50:44.153559+00:00"
+      "fetchedAt": "2026-09-19T14:13:11.805474+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -784,7 +784,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-18T14:50:44.153559+00:00"
+      "fetchedAt": "2026-09-19T14:13:11.805474+00:00"
     },
     {
       "name": "Citi Business News",
@@ -793,7 +793,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-18T14:50:44.153559+00:00"
+      "fetchedAt": "2026-09-19T14:13:11.805474+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -802,7 +802,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-18T14:50:44.153559+00:00"
+      "fetchedAt": "2026-09-19T14:13:11.805474+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -811,7 +811,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-18T14:50:44.153559+00:00"
+      "fetchedAt": "2026-09-19T14:13:11.805474+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -820,7 +820,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-18T14:50:44.153559+00:00"
+      "fetchedAt": "2026-09-19T14:13:11.805474+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -829,7 +829,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-18T14:50:44.153559+00:00"
+      "fetchedAt": "2026-09-19T14:13:11.805474+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -838,7 +838,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-18T14:50:44.153559+00:00"
+      "fetchedAt": "2026-09-19T14:13:11.805474+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -847,7 +847,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-18T14:50:44.153559+00:00"
+      "fetchedAt": "2026-09-19T14:13:11.805474+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -856,7 +856,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-18T14:50:44.153559+00:00"
+      "fetchedAt": "2026-09-19T14:13:11.805474+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -865,7 +865,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-09-18T14:50:44.153559+00:00"
+      "fetchedAt": "2026-09-19T14:13:11.805474+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -874,7 +874,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-09-18T14:50:44.153559+00:00"
+      "fetchedAt": "2026-09-19T14:13:11.805474+00:00"
     }
   ]
 }
