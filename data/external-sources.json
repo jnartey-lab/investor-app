@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-02T16:33:15.602456+00:00",
-  "generatedAtGhana": "2026-10-02T16:33:15.602456+00:00",
+  "generatedAt": "2026-10-03T15:04:51.391799+00:00",
+  "generatedAtGhana": "2026-10-03T15:04:51.391799+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
     "gseIndices": {
-      "asOf": "01/10/2026",
-      "composite": 14051.2,
-      "financialStocks": 7443.09,
+      "asOf": "02/10/2026",
+      "composite": 14071.44,
+      "financialStocks": 7453.25,
       "source": "Ghana Stock Exchange",
       "url": "https://gse.com.gh/"
     },
@@ -517,6 +517,38 @@
       "category": "Sovereign credit research"
     },
     {
+      "title": "Traders in Sunyani raise concern about influx of shopping malls",
+      "url": "https://www.ghanabusinessnews.com/2026/10/03/traders-in-sunyani-raise-concern-about-influx-of-shopping-malls/",
+      "summary": "Traders in Sunyani have expressed concern about the increasing number of shopping malls in the Bono Regional capital, saying the trend is threatening the survival of their businesses. The post Traders in Sunyani raise concern about influx of shopping malls app",
+      "publishedAt": "2026-10-03T08:05:32+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "LPG infrastructure investments critical to Ghana’s energy future – Jinapor",
+      "url": "https://www.ghanabusinessnews.com/2026/10/03/lpg-infrastructure-investments-critical-to-ghanas-energy-future-jinapor/",
+      "summary": "Dr John Abdulai Jinapor, Minister for Energy and Green Transition, has stressed the need for strategic investments in liquefied petroleum gas (LPG) infrastructure to strengthen Ghana’s energy security and expand access to cleaner energy. The post LPG infrastru",
+      "publishedAt": "2026-10-03T07:56:24+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Improve conditions of service of judges, magistrates, staff – JUSAG",
+      "url": "https://www.ghanabusinessnews.com/2026/10/03/improve-conditions-of-service-of-judges-magistrates-staff-jusag/",
+      "summary": "Mr Samuel Afotey Otu, President of the Judicial Service Staff Association of Ghana (JUSAG), on Thursday appealed to the government to improve the remuneration and conditions of service of judges, magistrates and staff of the Judicial Service to enhance their w",
+      "publishedAt": "2026-10-03T06:52:05+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Police arrest three over alleged abduction at Dobini Bunban",
+      "url": "https://www.ghanabusinessnews.com/2026/10/03/police-arrest-three-over-alleged-abduction-at-dobini-bunban/",
+      "summary": "Police have arrested three persons in connection with the alleged abduction of Ayuba Sumiya Mawudu, alias Haruna, at Dobini Bunban near Yendi in the Northern Region. The post Police arrest three over alleged abduction at Dobini Bunban appeared first on Ghana B",
+      "publishedAt": "2026-10-03T06:44:44+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
       "title": "Over 130 courts are without magistrates – JUSAG",
       "url": "https://www.ghanabusinessnews.com/2026/10/02/over-130-courts-are-without-magistrates-jusag/",
       "summary": "The Judicial Service Staff Association of Ghana (JUSAG) says more than 130 courts across the country are currently without magistrates, a situation that requires urgent recruitment to ensure efficient administration of justice. The post Over 130 courts are wit",
@@ -549,35 +581,27 @@
       "category": "Business news"
     },
     {
-      "title": "National Heroes Project launched to preserve Ghana’s historical legacy",
-      "url": "https://www.ghanabusinessnews.com/2026/10/02/national-heroes-project-launched-to-preserve-ghanas-historical-legacy/",
-      "summary": "The Center for National Interest and Research (CNIR) and the Centenary Agenda Secretariat, Ghana, on Thursday, launched the National Heroes Project, in Accra. The post National Heroes Project launched to preserve Ghana’s historical legacy appeared first on Gha",
-      "publishedAt": "2026-10-02T06:39:23+00:00",
-      "source": "Ghana Business News",
+      "title": "MT Asharami Ghana arrives in Tema as government pushes stronger LPG infrastructure",
+      "url": "https://www.myjoyonline.com/mt-asharami-ghana-arrives-in-tema-as-government-pushes-stronger-lpg-infrastructure/",
+      "summary": "The Minister for Energy and Green Transition, Dr John Abdulai Jinapor, has stressed the need for strategic investments in liquefied petroleum gas (LPG) infrastructure to strengthen Ghana's energy security and expand access to cleaner energy.",
+      "publishedAt": "2026-10-03T09:36:30+00:00",
+      "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Assemblies of God World Congress to bring over 10,000 delegates to Accra",
-      "url": "https://www.ghanabusinessnews.com/2026/10/02/assemblies-of-god-world-congress-to-bring-over-10000-delegates-to-accra/",
-      "summary": "Reverend Stephen Yenusom Wengam, the General Superintendent of the Assemblies of God, Ghana, has announced the expected convergence of more than 10,000 delegates from about 100 countries for the 10th Triennial Assemblies of God World Congress in Accra. The pos",
-      "publishedAt": "2026-10-02T06:32:24+00:00",
-      "source": "Ghana Business News",
+      "title": "MTN set to deploy 5G services after winning spectrum licenses worth US$202m",
+      "url": "https://www.myjoyonline.com/mtn-set-to-deploy-5g-services-after-winning-spectrum-licenses-worth-us202m/",
+      "summary": "This is coming after the telecom giant announced that the NCA has notified the firm of the award of spectrum in the 700 MHz and 3 GHz bands, following its invitation to apply for spectrum licences in the 700 MHz, 2.3 GHz and 3 GHz mid-band frequencies for the ",
+      "publishedAt": "2026-10-03T01:19:30+00:00",
+      "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Police raid network linked to Hells Angels in four European countries",
-      "url": "https://www.ghanabusinessnews.com/2026/10/01/police-raid-network-linked-to-hells-angels-in-four-european-countries/",
-      "summary": "More than 1,000 police officers launched raids across Germany, Belgium, Bulgaria and the Netherlands early on Wednesday targeting an international money-laundering network linked to members of the Hells Angels biker gang. The post Police raid network linked to",
-      "publishedAt": "2026-10-01T10:52:21+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Cardiovascular diseases lead causes of death since 2016",
-      "url": "https://www.ghanabusinessnews.com/2026/10/01/cardiovascular-diseases-lead-causes-of-death-since-2016/",
-      "summary": "Heart disease and stroke have accounted for more deaths in Ghanaian hospitals than any other recorded cause since 2016. The post Cardiovascular diseases lead causes of death since 2016 appeared first on Ghana Business News .",
-      "publishedAt": "2026-10-01T10:38:03+00:00",
-      "source": "Ghana Business News",
+      "title": "Kwabena Boamah appointed Board Chair for Impact Investing Ghana",
+      "url": "https://www.myjoyonline.com/kwabena-boamah-appointed-board-chair-for-impact-investing-ghana/",
+      "summary": "Impact Investing Ghana (IIGh) is pleased to announce a transition in its Board of Directors leadership. Kwabena Boamah has been appointed as the new Board Chair, bringing more than 25 years of leadership experience in asset management, pensions, and investment",
+      "publishedAt": "2026-10-02T19:34:42+00:00",
+      "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
@@ -617,30 +641,6 @@
       "url": "https://www.myjoyonline.com/bog-governor-all-mpc-members-voted-to-keep-policy-rate-at-14/",
       "summary": "A careful look at the report showed that the majority of these members cited external risks to the economy and concerns about the rising inflation as their major reasons for the rate hold.",
       "publishedAt": "2026-10-02T15:00:35+00:00",
-      "source": "MyJoyOnline Business",
-      "category": "Business news"
-    },
-    {
-      "title": "VRA Board Chairman calls for proportional power cuts to Ghana’s neighbours during shortages",
-      "url": "https://www.myjoyonline.com/vra-board-chairman-calls-for-proportional-power-cuts-to-ghanas-neighbours-during-shortages/",
-      "summary": "Board Chairman of the Volta River Authority (VRA), Jabesh Amissah-Arthur, has called for a proportional approach to power supply reductions to Ghana’s neighbouring countries whenever the country faces electricity shortages. He said Ghana should avoid completel",
-      "publishedAt": "2026-10-02T13:30:50+00:00",
-      "source": "MyJoyOnline Business",
-      "category": "Business news"
-    },
-    {
-      "title": "St Augustine’s, Mfantsipim, Prempeh and Corpus Christi battle for 2026 Investment Quiz crown",
-      "url": "https://www.myjoyonline.com/st-augustines-mfantsipim-prempeh-and-corpus-christi-battle-for-2026-investment-quiz-crown/",
-      "summary": "Defending champions St Augustine’s College will this afternoon face Prempeh College, Corpus Christi SHS and Mfantsipim School in the grand finale of the 2026 National Investment Quiz. The four schools booked their places after coming through a series of prelim",
-      "publishedAt": "2026-10-02T12:13:44+00:00",
-      "source": "MyJoyOnline Business",
-      "category": "Business news"
-    },
-    {
-      "title": "Ignite Social Enterprise to partner Ghanaian watch manufacturer to boost global sales",
-      "url": "https://www.myjoyonline.com/ignite-social-enterprise-to-partner-ghanaian-watch-manufacturer-to-boost-global-sales/",
-      "summary": "Ignite Social Enterprise Limited has announced plans to partner with a local Ghanaian watch manufacturer to promote Made-in-Ghana watches on the global market. The initiative was disclosed by Nathan Kwabena Adisi, popularly known as Bola Ray, a Global Advisory",
-      "publishedAt": "2026-10-02T10:30:37+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
@@ -685,7 +685,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-02T16:33:15.602456+00:00"
+      "fetchedAt": "2026-10-03T15:04:51.391799+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -694,7 +694,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-02T16:33:15.602456+00:00"
+      "fetchedAt": "2026-10-03T15:04:51.391799+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -703,7 +703,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-02T16:33:15.602456+00:00"
+      "fetchedAt": "2026-10-03T15:04:51.391799+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -712,7 +712,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-02T16:33:15.602456+00:00"
+      "fetchedAt": "2026-10-03T15:04:51.391799+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -721,7 +721,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-02T16:33:15.602456+00:00"
+      "fetchedAt": "2026-10-03T15:04:51.391799+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -730,7 +730,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-02T16:33:15.602456+00:00"
+      "fetchedAt": "2026-10-03T15:04:51.391799+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -739,7 +739,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-10-02T16:33:15.602456+00:00"
+      "fetchedAt": "2026-10-03T15:04:51.391799+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -748,7 +748,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-02T16:33:15.602456+00:00"
+      "fetchedAt": "2026-10-03T15:04:51.391799+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -757,7 +757,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-02T16:33:15.602456+00:00"
+      "fetchedAt": "2026-10-03T15:04:51.391799+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -766,7 +766,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-02T16:33:15.602456+00:00"
+      "fetchedAt": "2026-10-03T15:04:51.391799+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -775,7 +775,7 @@
       "kind": "rss",
       "ok": false,
       "error": "HTTP Error 404: Not Found",
-      "fetchedAt": "2026-10-02T16:33:15.602456+00:00"
+      "fetchedAt": "2026-10-03T15:04:51.391799+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -784,7 +784,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-02T16:33:15.602456+00:00"
+      "fetchedAt": "2026-10-03T15:04:51.391799+00:00"
     },
     {
       "name": "Citi Business News",
@@ -793,7 +793,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-02T16:33:15.602456+00:00"
+      "fetchedAt": "2026-10-03T15:04:51.391799+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -802,7 +802,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-02T16:33:15.602456+00:00"
+      "fetchedAt": "2026-10-03T15:04:51.391799+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -811,7 +811,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-02T16:33:15.602456+00:00"
+      "fetchedAt": "2026-10-03T15:04:51.391799+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -820,7 +820,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-02T16:33:15.602456+00:00"
+      "fetchedAt": "2026-10-03T15:04:51.391799+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -829,7 +829,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-02T16:33:15.602456+00:00"
+      "fetchedAt": "2026-10-03T15:04:51.391799+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -838,7 +838,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-02T16:33:15.602456+00:00"
+      "fetchedAt": "2026-10-03T15:04:51.391799+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -847,7 +847,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-02T16:33:15.602456+00:00"
+      "fetchedAt": "2026-10-03T15:04:51.391799+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -856,7 +856,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-02T16:33:15.602456+00:00"
+      "fetchedAt": "2026-10-03T15:04:51.391799+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -865,7 +865,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-02T16:33:15.602456+00:00"
+      "fetchedAt": "2026-10-03T15:04:51.391799+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -874,7 +874,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-10-02T16:33:15.602456+00:00"
+      "fetchedAt": "2026-10-03T15:04:51.391799+00:00"
     }
   ]
 }
