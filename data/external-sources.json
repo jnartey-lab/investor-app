@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-06T17:04:40.617101+00:00",
-  "generatedAtGhana": "2026-10-06T17:04:40.617101+00:00",
+  "generatedAt": "2026-10-07T17:42:25.153976+00:00",
+  "generatedAtGhana": "2026-10-07T17:42:25.153976+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
@@ -14,19 +14,19 @@
     "bankOfGhana": {
       "policyRate": 14.0,
       "tBill91Day": 4.5881,
-      "inflation": 5.0,
+      "inflation": 5.2,
       "source": "Bank of Ghana",
       "url": "https://www.bog.gov.gh/"
     },
     "fx": {
-      "usdGhsMid": 11.8,
+      "usdGhsMid": 11.83,
       "rateBasis": "public news reported rate",
       "source": "Bank of Ghana Daily Interbank FX Rates",
       "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
       "sourceType": "public_news_fallback",
-      "asOf": "06 Oct 2026",
-      "usdGhsBuying": 11.7941,
-      "usdGhsSelling": 11.8059
+      "asOf": "07 Oct 2026",
+      "usdGhsBuying": 11.8241,
+      "usdGhsSelling": 11.8359
     },
     "ghanaStatisticalService": {
       "cpiInflationYoy": 5.0,
@@ -229,7 +229,7 @@
       "category": "Official macro"
     },
     {
-      "title": "Day's Weighted Average Rate Day’s Weighted Median Rate: 11.8000 table.wpDataTable td.numdata { text-align: right !important; } /* buttons font color */ .wpDataTables .wdt-checkbox-filter.btn, .wpDataTables .selecter .selecter-selected, .wdt-frontend-modal .btn:not(.dropdown-toggle), div.dt-button-collection a.dt-button.active:not(.disabled), div.dt-button-collection button.dt-button.active:not(.disabled) { color: #222222 !important; } /** buttons background hover color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { background-color: #ebbd3f !important; background-image: none !important; } /** buttons hover border color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { border-color: #222222 !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } .wpdt-c .wpDataTablesWrapper table.wpDataTable thead tr:nth-child(2) th { overflow: visible; }",
+      "title": "Day's Weighted Average Rate Day’s Weighted Median Rate: 11.8300 table.wpDataTable td.numdata { text-align: right !important; } /* buttons font color */ .wpDataTables .wdt-checkbox-filter.btn, .wpDataTables .selecter .selecter-selected, .wdt-frontend-modal .btn:not(.dropdown-toggle), div.dt-button-collection a.dt-button.active:not(.disabled), div.dt-button-collection button.dt-button.active:not(.disabled) { color: #222222 !important; } /** buttons background hover color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { background-color: #ebbd3f !important; background-image: none !important; } /** buttons hover border color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { border-color: #222222 !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } .wpdt-c .wpDataTablesWrapper table.wpDataTable thead tr:nth-child(2) th { overflow: visible; }",
       "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
       "summary": "",
       "publishedAt": null,
@@ -517,6 +517,46 @@
       "category": "Sovereign credit research"
     },
     {
+      "title": "World Bank revises Africa’s growth upwards to 4.3%",
+      "url": "https://www.ghanabusinessnews.com/2026/10/07/world-bank-revises-africas-growth-upwards-to-4-3/",
+      "summary": "The World Bank has raised its 2026 growth forecast for Sub-Saharan Africa by 0.3 percentage points to 4.3 per cent, citing stronger domestic demand and improved economic resilience. The post World Bank revises Africa’s growth upwards to 4.3% appeared first on ",
+      "publishedAt": "2026-10-07T14:23:30+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Farmers protest destruction of their farm produce",
+      "url": "https://www.ghanabusinessnews.com/2026/10/07/farmers-protest-destruction-of-their-farm-produce/",
+      "summary": "More than 700 cash and food crop farmers at Agona Kwesi Twikrom in the Agona East District of the Central region have lost their only source of livelihood following the destruction of their farms by an investor. The post Farmers protest destruction of their fa",
+      "publishedAt": "2026-10-07T07:18:08+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Ghana to launch mapping of baobab population",
+      "url": "https://www.ghanabusinessnews.com/2026/10/07/ghana-to-launch-mapping-of-baobab-population/",
+      "summary": "Ghana has begun moves to establish a validated national inventory atlas and geodatabase to support baobab conservation, sustainable use, policy, investment and community livelihoods. The post Ghana to launch mapping of baobab population appeared first on Ghana",
+      "publishedAt": "2026-10-07T07:05:00+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Local Government Service authorises rationalisation, redistribution of staff",
+      "url": "https://www.ghanabusinessnews.com/2026/10/07/local-government-service-authorises-rationalisation-redistribution-of-staff/",
+      "summary": "The Local Government Service (LGS) has authorised the rationalisation and redistribution of staff across Metropolitan, Municipal and District Assemblies (MMDAs) to address disparities in staffing levels and improve efficiency in local government administration",
+      "publishedAt": "2026-10-07T06:52:40+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Ghana to apply for BRICS membership – Ablakwa",
+      "url": "https://www.ghanabusinessnews.com/2026/10/07/ghana-to-apply-for-brics-membership-ablakwa/",
+      "summary": "Ghana will formally apply for membership of BRICS, a bloc of major emerging economies seeking greater influence in global economic and political governance, following Cabinet approval. The post Ghana to apply for BRICS membership – Ablakwa appeared first on Gh",
+      "publishedAt": "2026-10-07T06:42:15+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
       "title": "President grants pardon to 863 prisoners in commemoration of Ghana’s 70th Independence Anniversary",
       "url": "https://www.ghanabusinessnews.com/2026/10/06/president-grants-pardon-to-863-prisoners-in-commemoration-of-ghanas-70th-independence-anniversary/",
       "summary": "President John Dramani Mahama has in accordance with Article 72 (1) of the 1992 Constitution and following consultation with the Council of State, exercised the prerogative of mercy to grant presidential pardon to 863 convicted persons. The post President gran",
@@ -541,106 +581,66 @@
       "category": "Business news"
     },
     {
-      "title": "West Africa must modernise agriculture for food security – Experts",
-      "url": "https://www.ghanabusinessnews.com/2026/10/06/west-africa-must-modernise-agriculture-for-food-security-experts/",
-      "summary": "Experts have called for the urgent modernisation of agriculture across West Africa, stressing the need to move beyond increased production and focus on transforming agricultural value chains to ensure food security and improved nutrition amid growing climate a",
-      "publishedAt": "2026-10-06T07:02:18+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Ghana and Egypt explore fresh avenues in defense, pharmaceuticals, and infrastructure",
-      "url": "https://www.ghanabusinessnews.com/2026/10/06/ghana-and-egypt-explore-fresh-avenues-in-defense-pharmaceuticals-and-infrastructure/",
-      "summary": "President John Dramani Mahama and Egyptian President Abdel Fattah el-Sisi have reaffirmed the longstanding historic ties between their two nations, pledging to deepen cooperation across key strategic sectors, including trade, security, pharmaceuticals and infr",
-      "publishedAt": "2026-10-06T06:54:57+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Government to remodel 24-Hour Economy Markets as District Economy Markets",
-      "url": "https://www.ghanabusinessnews.com/2026/10/06/government-to-remodel-24-hour-economy-markets-as-district-economy-markets/",
-      "summary": "Mr Mahama Ayariga, the Minister of Local Government, Chieftaincy and Religious Affairs, has announced the government's decision to remodel its flagship programme, 24-Hour Economy Markets, to be known as District Economy Markets. The post Government to remodel ",
-      "publishedAt": "2026-10-06T06:48:33+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Africa urged to equip youth for AI-driven solopreneurship",
-      "url": "https://www.ghanabusinessnews.com/2026/10/06/africa-urged-to-equip-youth-for-ai-driven-solopreneurship/",
-      "summary": "Mr John Healy, Head of Development and Strategy at Brainify, has urged Africa to equip its youth with skills to pursue solopreneurship as AI reshapes work. The post Africa urged to equip youth for AI-driven solopreneurship appeared first on Ghana Business News",
-      "publishedAt": "2026-10-06T06:41:56+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Investors favour 364-day treasury bill in latest debt auction",
-      "url": "https://www.ghanabusinessnews.com/2026/10/05/investors-favour-364-day-treasury-bill-in-latest-debt-auction/",
-      "summary": "Investors showed strong preference for the 364-day Treasury bill in the latest government debt auction, with bids reaching about GH¢474 million. The post Investors favour 364-day treasury bill in latest debt auction appeared first on Ghana Business News .",
-      "publishedAt": "2026-10-05T15:10:41+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Cocoa prices risen by 95% since March 2026, to average US$5,670 in 2026",
-      "url": "https://www.myjoyonline.com/cocoa-prices-risen-by-95-since-march-2026-to-average-us5670-in-2026/",
-      "summary": "El Niño’s adverse weather conditions is expected to place downward pressure on the 2026/27 cocoa output, forecasting cocoa production of 1.7 million tonnes in Côte d’Ivoire and 670,000 tonnes in Ghana.",
-      "publishedAt": "2026-10-06T16:58:45+00:00",
+      "title": "Ghana’s digital finance story still not complete, as more transactions end up as cash – BoG Governor",
+      "url": "https://www.myjoyonline.com/ghanas-digital-finance-story-still-not-complete-as-more-transactions-end-up-as-cash-bog-governor/",
+      "summary": "The governor stated that everything must be done to ensure that people keep their money in digital form to help give real meaning to the quest to have a cashless society.",
+      "publishedAt": "2026-10-07T17:34:47+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Attijariwafa’s acquisition of Societe Generale likely to be ratings neutral; Ghana’s banking environment healthy – Fitch",
-      "url": "https://www.myjoyonline.com/attijariwafas-acquisition-of-societe-generale-likely-to-be-ratings-neutral-ghanas-banking-environment-healthy-fitch/",
-      "summary": "According to the UK-based firm, Société Générale Ghana had assets of less than US$1 billion, or around 1.0% of AWB’s total assets and 11% of its total equity, at end-2025, and its small size compared to AWB means the acquisition is unlikely to materially incre",
-      "publishedAt": "2026-10-06T16:33:35+00:00",
+      "title": "Lastec CEO Lasisi Oseni nominated for Ghana Auto Fix Award",
+      "url": "https://www.myjoyonline.com/lastec-ceo-lasisi-oseni-nominated-for-ghana-auto-fix-award/",
+      "summary": "The nomination recognises his work in vehicle collision repairs and restoration at the auto centre, which provides services including accident repairs, diagnostics, bodywork and servicing.",
+      "publishedAt": "2026-10-07T17:06:01+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "BoG orders banks to give fraud units direct access to CEOs",
-      "url": "https://www.myjoyonline.com/bog-orders-banks-to-give-fraud-units-direct-access-to-ceos/",
-      "summary": "The Bank of Ghana (BoG) has directed banks to strengthen the independence and effectiveness of their fraud management functions, including giving fraud units direct and unrestricted access to managing directors and chief executive officers. Governor Dr Johnson",
-      "publishedAt": "2026-10-06T15:36:14+00:00",
+      "title": "6th Inter Tourism Expo comes off in Cape Coast this October; register now",
+      "url": "https://www.myjoyonline.com/6th-inter-tourism-expo-comes-off-in-cape-coast-this-october-register-now/",
+      "summary": "Businesses, investors and tourism stakeholders are being invited to register for the sixth Inter Tourism Expo, with its conference scheduled for October 21–23, 2026, at the Ridge Royal Hotel in Cape Coast.",
+      "publishedAt": "2026-10-07T16:07:43+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Bond market: Turnover rises 77% to GH¢2.76bn",
-      "url": "https://www.myjoyonline.com/bond-market-turnover-rises-77-to-gh%c2%a22-76bn/",
-      "summary": "The Secondary market activity strengthened, with turnover rising 77.13% week-on-week to GH¢2.76 billion last week. Trading remained concentrated in the 2027-2030 segment, which accounted for 70.08% of turnover at an average yield of 12.37%. The 2031-2034 segme",
-      "publishedAt": "2026-10-06T14:27:47+00:00",
+      "title": "‘Take damaged banknotes to commercial banks for replacement’ – BoG warns against repairing cedi notes for resale",
+      "url": "https://www.myjoyonline.com/take-damaged-banknotes-to-commercial-banks-for-replacement-bog-warns-against-repairing-cedi-notes-for-resale/",
+      "summary": "The Bank of Ghana (BoG) has cautioned the public against repairing and re-joining torn or soiled Ghana Cedi banknotes for re-issuance or recirculation as a business activity.",
+      "publishedAt": "2026-10-07T15:10:28+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "CSA Ghana opens NCSAM 2026 with call for stronger cybersecurity collaboration",
-      "url": "https://www.myjoyonline.com/csa-ghana-opens-ncsam-2026-with-call-for-stronger-cybersecurity-collaboration/",
-      "summary": "…National Cyber Security Awareness Month 2026 opens under theme focused on securing the digital finance ecosystem The Cyber Security Authority (CSA) has marked its fifth anniversary with a call for stronger collaboration across Ghana’s digital finance ecosyste",
-      "publishedAt": "2026-10-06T13:08:18+00:00",
+      "title": "BoG cautions public against digital financial fraud, ‘double-your-money’ schemes",
+      "url": "https://www.myjoyonline.com/bog-cautions-public-against-digital-financial-fraud-double-your-money-schemes/",
+      "summary": "The Bank of Ghana (BoG) has cautioned users of digital financial services to remain vigilant against fraudsters and avoid sharing confidential financial information with unauthorised persons.",
+      "publishedAt": "2026-10-07T15:08:50+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "UBA Group Chairman calls for fundamental shift in Africa’s development model",
-      "url": "https://www.myjoyonline.com/uba-group-chairman-calls-for-fundamental-shift-in-africas-development-model/",
-      "summary": "The Chairman of Heirs Holdings, Tony Elumelu, has called for a fundamental shift in Africa’s development model from dependence on foreign aid to trade, investment, entrepreneurship and private sector-led growth. Mr. Elumelu made the call during a fireside chat",
-      "publishedAt": "2026-10-06T13:02:00+00:00",
+      "title": "Safeguard all personal, financial information, including Mobile Money PINs, ATM PINs – BoG to general public",
+      "url": "https://www.myjoyonline.com/safeguard-all-personal-financial-information-including-mobile-money-pins-atm-pins-bog-to-general-public/",
+      "summary": "In a release, the Central Bank said no legitimate bank, mobile money operator, payment service provider, or financial institution will request a customers’ PIN, password, or OTP via phone calls, text messages, emails, or social media.",
+      "publishedAt": "2026-10-07T14:40:05+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "BoG to tighten banks’ credit risk controls as private-sector lending surges 35.5%",
-      "url": "https://www.myjoyonline.com/bog-to-tighten-banks-credit-risk-controls-as-private-sector-lending-surges-35-5/",
-      "summary": "The Bank of Ghana (BoG)is set to introduce a new Credit Risk Management Directive as private-sector credit growth accelerates sharply, raising the need for stronger safeguards against a deterioration in banks’ loan portfolios. Governor Dr Johnson Asiama said t",
-      "publishedAt": "2026-10-06T12:03:22+00:00",
+      "title": "BoG cautions public against 20 unlicensed mobile loan apps",
+      "url": "https://www.myjoyonline.com/bog-cautions-public-against-20-unlicensed-mobile-loan-apps/",
+      "summary": "The Bank of Ghana (BoG) has warned the public against using 20 mobile loan applications operating without its approval.",
+      "publishedAt": "2026-10-07T14:17:04+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Mahama Ayariga wants banks, companies to adopt and brand streets across Ghana",
-      "url": "https://www.myjoyonline.com/mahama-ayariga-wants-banks-companies-to-adopt-and-brand-streets-across-ghana/",
-      "summary": "Local Government, Chieftaincy and Religious Affairs Minister, Mahama Ayariga, has proposed a partnership with banks and other corporate institutions to adopt, maintain and beautify stretches of roads across the country. Under the proposal, companies would take",
-      "publishedAt": "2026-10-06T11:35:32+00:00",
+      "title": "Cedi will continue to be stable – Deputy Finance Minister",
+      "url": "https://www.myjoyonline.com/cedi-will-continue-to-be-stable-deputy-finance-minister/",
+      "summary": "The Deputy Finance Minister, Thomas Nyarko Ampem, has assured that the cedi will remain stable, describing the stability of the local currency as a major relief for households seeking to finance their homes.",
+      "publishedAt": "2026-10-07T13:23:01+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
@@ -685,7 +685,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-06T17:04:40.617101+00:00"
+      "fetchedAt": "2026-10-07T17:42:25.153976+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -694,7 +694,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-06T17:04:40.617101+00:00"
+      "fetchedAt": "2026-10-07T17:42:25.153976+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -703,7 +703,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-06T17:04:40.617101+00:00"
+      "fetchedAt": "2026-10-07T17:42:25.153976+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -712,7 +712,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-06T17:04:40.617101+00:00"
+      "fetchedAt": "2026-10-07T17:42:25.153976+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -721,7 +721,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-06T17:04:40.617101+00:00"
+      "fetchedAt": "2026-10-07T17:42:25.153976+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -730,7 +730,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-06T17:04:40.617101+00:00"
+      "fetchedAt": "2026-10-07T17:42:25.153976+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -739,7 +739,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-10-06T17:04:40.617101+00:00"
+      "fetchedAt": "2026-10-07T17:42:25.153976+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -748,7 +748,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-06T17:04:40.617101+00:00"
+      "fetchedAt": "2026-10-07T17:42:25.153976+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -757,7 +757,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-06T17:04:40.617101+00:00"
+      "fetchedAt": "2026-10-07T17:42:25.153976+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -766,7 +766,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-06T17:04:40.617101+00:00"
+      "fetchedAt": "2026-10-07T17:42:25.153976+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -775,7 +775,7 @@
       "kind": "rss",
       "ok": false,
       "error": "HTTP Error 404: Not Found",
-      "fetchedAt": "2026-10-06T17:04:40.617101+00:00"
+      "fetchedAt": "2026-10-07T17:42:25.153976+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -784,7 +784,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-06T17:04:40.617101+00:00"
+      "fetchedAt": "2026-10-07T17:42:25.153976+00:00"
     },
     {
       "name": "Citi Business News",
@@ -793,7 +793,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-06T17:04:40.617101+00:00"
+      "fetchedAt": "2026-10-07T17:42:25.153976+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -802,7 +802,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-06T17:04:40.617101+00:00"
+      "fetchedAt": "2026-10-07T17:42:25.153976+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -811,7 +811,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-06T17:04:40.617101+00:00"
+      "fetchedAt": "2026-10-07T17:42:25.153976+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -820,7 +820,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-06T17:04:40.617101+00:00"
+      "fetchedAt": "2026-10-07T17:42:25.153976+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -829,7 +829,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-06T17:04:40.617101+00:00"
+      "fetchedAt": "2026-10-07T17:42:25.153976+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -838,7 +838,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-06T17:04:40.617101+00:00"
+      "fetchedAt": "2026-10-07T17:42:25.153976+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -847,7 +847,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-06T17:04:40.617101+00:00"
+      "fetchedAt": "2026-10-07T17:42:25.153976+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -856,7 +856,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-06T17:04:40.617101+00:00"
+      "fetchedAt": "2026-10-07T17:42:25.153976+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -865,7 +865,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-06T17:04:40.617101+00:00"
+      "fetchedAt": "2026-10-07T17:42:25.153976+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -874,7 +874,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-10-06T17:04:40.617101+00:00"
+      "fetchedAt": "2026-10-07T17:42:25.153976+00:00"
     }
   ]
 }
