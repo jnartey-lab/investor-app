@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-12T20:10:30.411175+00:00",
-  "generatedAtGhana": "2026-10-12T20:10:30.411175+00:00",
+  "generatedAt": "2026-10-13T18:02:48.519125+00:00",
+  "generatedAtGhana": "2026-10-13T18:02:48.519125+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
     "gseIndices": {
-      "asOf": "12/10/2026",
-      "composite": 14403.6,
-      "financialStocks": 7461.49,
+      "asOf": "13/10/2026",
+      "composite": 14383.28,
+      "financialStocks": 7456.59,
       "source": "Ghana Stock Exchange",
       "url": "https://gse.com.gh/"
     },
@@ -19,14 +19,14 @@
       "url": "https://www.bog.gov.gh/"
     },
     "fx": {
-      "usdGhsMid": 11.77,
+      "usdGhsMid": 11.7059,
       "rateBasis": "public news reported rate",
       "source": "Bank of Ghana Daily Interbank FX Rates",
       "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
       "sourceType": "public_news_fallback",
-      "asOf": "12 Oct 2026",
-      "usdGhsBuying": 11.7641,
-      "usdGhsSelling": 11.7759
+      "asOf": "13 Oct 2026",
+      "usdGhsBuying": 11.7,
+      "usdGhsSelling": 11.7118
     },
     "ghanaStatisticalService": {
       "cpiInflationYoy": 5.2,
@@ -229,7 +229,7 @@
       "category": "Official macro"
     },
     {
-      "title": "Day's Weighted Average Rate Day’s Weighted Median Rate: 11.7700 table.wpDataTable td.numdata { text-align: right !important; } /* buttons font color */ .wpDataTables .wdt-checkbox-filter.btn, .wpDataTables .selecter .selecter-selected, .wdt-frontend-modal .btn:not(.dropdown-toggle), div.dt-button-collection a.dt-button.active:not(.disabled), div.dt-button-collection button.dt-button.active:not(.disabled) { color: #222222 !important; } /** buttons background hover color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { background-color: #ebbd3f !important; background-image: none !important; } /** buttons hover border color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { border-color: #222222 !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } .wpdt-c .wpDataTablesWrapper table.wpDataTable thead tr:nth-child(2) th { overflow: visible; }",
+      "title": "Day's Weighted Average Rate Day’s Weighted Median Rate: 11.7059 table.wpDataTable td.numdata { text-align: right !important; } /* buttons font color */ .wpDataTables .wdt-checkbox-filter.btn, .wpDataTables .selecter .selecter-selected, .wdt-frontend-modal .btn:not(.dropdown-toggle), div.dt-button-collection a.dt-button.active:not(.disabled), div.dt-button-collection button.dt-button.active:not(.disabled) { color: #222222 !important; } /** buttons background hover color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { background-color: #ebbd3f !important; background-image: none !important; } /** buttons hover border color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { border-color: #222222 !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } .wpdt-c .wpDataTablesWrapper table.wpDataTable thead tr:nth-child(2) th { overflow: visible; }",
       "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
       "summary": "",
       "publishedAt": null,
@@ -517,6 +517,22 @@
       "category": "Sovereign credit research"
     },
     {
+      "title": "DVLA introduces six local languages for driving tests",
+      "url": "https://www.ghanabusinessnews.com/2026/10/13/dvla-introduces-six-local-languages-for-driving-tests/",
+      "summary": "The Driver and Vehicle Licensing Authority (DVLA) has introduced six Ghanaian languages into its computer-based driving test to improve access for applicants who face language barriers. The post DVLA introduces six local languages for driving tests appeared fi",
+      "publishedAt": "2026-10-13T14:25:58+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Education Minister assures teachers of salary adjustments by October 16",
+      "url": "https://www.ghanabusinessnews.com/2026/10/13/education-minister-assures-teachers-of-salary-adjustments-by-october-16/",
+      "summary": "The government is working to pay eligible teachers their outstanding promotion-related salary adjustments by October 16, 2026, Education Minister Haruna Iddrisu has said. The post Education Minister assures teachers of salary adjustments by October 16 appeared",
+      "publishedAt": "2026-10-13T14:17:22+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
       "title": "Ghana cedi depreciates against major trading currencies in weekly pricing window",
       "url": "https://www.ghanabusinessnews.com/2026/10/12/ghana-cedi-depreciates-against-major-trading-currencies-in-weekly-pricing-window/",
       "summary": "The Ghana cedi depreciated against the major trading currencies during the weekly pricing window from October 5 to October 12. The post Ghana cedi depreciates against major trading currencies in weekly pricing window appeared first on Ghana Business News .",
@@ -565,82 +581,66 @@
       "category": "Business news"
     },
     {
-      "title": "US engaging Ghana to review rejected health compact agreement – Mahama",
-      "url": "https://www.ghanabusinessnews.com/2026/10/11/us-engaging-ghana-to-review-rejected-health-compact-agreement-mahama/",
-      "summary": "The United States is engaging Ghana to review the health compact agreement that was previously rejected by the Government, President John Dramani Mahama has disclosed. The post US engaging Ghana to review rejected health compact agreement – Mahama appeared fir",
-      "publishedAt": "2026-10-11T11:03:38+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "About 22 injured in road accident at Sege",
-      "url": "https://www.ghanabusinessnews.com/2026/10/11/about-22-injured-in-road-accident-at-sege/",
-      "summary": "About 22 people were injured in a road accident at Sege after a Sprinter bus suffered a tyre burst and overturned on Friday, October 09, 2026. The post About 22 injured in road accident at Sege appeared first on Ghana Business News .",
-      "publishedAt": "2026-10-11T11:00:30+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "AGI urges investment in skills and raw materials to strengthen local manufacturing",
-      "url": "https://www.myjoyonline.com/agi-urges-investment-in-skills-and-raw-materials-to-strengthen-local-manufacturing/",
-      "summary": "The Association of Ghana Industries (AGI) is stepping up efforts to strengthen Ghana's garment, textiles and leather sector, following the government's decision to engage local manufacturers to produce uniforms and other apparel for the security services.",
-      "publishedAt": "2026-10-12T19:30:48+00:00",
+      "title": "We will upgrade Ghana’s credit ratings if government maintains fiscal discipline, policy effectiveness – Moody’s",
+      "url": "https://www.myjoyonline.com/we-will-upgrade-ghanas-credit-ratings-if-government-maintains-fiscal-discipline-policy-effectiveness-moodys/",
+      "summary": "According to the ratings agency, a progress in addressing fiscal risks would reinforce confidence around the durability of fiscal improvements.",
+      "publishedAt": "2026-10-13T15:45:47+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Sankofa Gold targets 70kg output after 9-month shutdown",
-      "url": "https://www.myjoyonline.com/sankofa-gold-targets-70kg-output-after-9-month-shutdown/",
-      "summary": "Prestea Sankofa Gold Limited is targeting 70 kilogrammes of gold production by the end of October 2026 following a nine-month shutdown, as the state-owned company works to restore operations and improve processing efficiency. The company has resumed production",
-      "publishedAt": "2026-10-12T19:19:05+00:00",
+      "title": "UMB MD wins ‘CEO of the Year’, banking category at 2026 Ghana Credit Excellence Awards",
+      "url": "https://www.myjoyonline.com/umb-md-wins-ceo-of-the-year-banking-category-at-2026-ghana-credit-excellence-awards/",
+      "summary": "The Managing Director of Universal Merchant Bank, Dr. Philip Oti-Mensah, has been named CEO of the Year – Banking at the 2026 Ghana Credit Excellence Awards. This was in recognition of his leadership and contribution to the growth and development of Ghana’s ba",
+      "publishedAt": "2026-10-13T15:41:09+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Cedi extends depreciation against dollar; going for GH¢12.10 at forex bureaus",
-      "url": "https://www.myjoyonline.com/cedi-extends-depreciation-against-dollar-going-for-gh%c2%a212-10-at-forex-bureaus/",
-      "summary": "In the interbank market, the cedi weakened by 1.42% against the US dollar and 1.29% to the pound. It sold at GH¢11.79 to the dollar and GH¢15.60 to the pound.",
-      "publishedAt": "2026-10-12T18:44:40+00:00",
+      "title": "GEXIM Bank donates GH¢200,000 worth of medical equipment to Korle-Bu Child Health Department",
+      "url": "https://www.myjoyonline.com/gexim-bank-donates-gh%c2%a2200000-worth-of-medical-equipment-to-korle-bu-child-health-department/",
+      "summary": "The Head of Sustainability and Strategic Impact at the Ghana Export-Import Bank (GEXIM), Dr Abena Nyarkoa Asomaning, has presented medical equipment and supplies worth approximately GH¢200,000 to the Department of Child Health at the Korle-Bu Teaching Hospital",
+      "publishedAt": "2026-10-13T14:51:46+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Moody’s upgrades Ghana’s credit ratings to B3, but changes outlook to stable",
-      "url": "https://www.myjoyonline.com/moodys-upgrades-ghanas-credit-ratings-to-b3-but-changes-outlook-to-stable/",
-      "summary": "Ratings agency Moody’s has upgraded Ghana’s credit ratings to B3 from Caa1. The US-based firm, however, changed the country’s outlook from positive to stable. This was captured in the Agency’s latest report on the country on Friday October 9, 2026. According t",
-      "publishedAt": "2026-10-12T18:24:58+00:00",
+      "title": "GEXIM urges banks to support refurbishment of Korle-Bu Teaching Hospital’s Child Health Department",
+      "url": "https://www.myjoyonline.com/gexim-urges-banks-to-support-refurbishment-of-korle-bu-teaching-hospitals-child-health-department/",
+      "summary": "The Ghana Export-Import Bank (GEXIM) has called on financial institutions to support the refurbishment of the Child Health Department of the Korle-Bu Teaching Hospital to improve care for children, particularly those battling childhood cancers.",
+      "publishedAt": "2026-10-13T14:46:43+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "NAPG Summit equips Administrative Professionals for strategic impact and the AI-driven workplace",
-      "url": "https://www.myjoyonline.com/napg-summit-equips-administrative-professionals-for-strategic-impact-and-the-ai-driven-workplace/",
-      "summary": "The Network of Administrative Professionals Ghana has successfully held the Administrative Professionals Summit 2026, bringing together administrative and executive support professionals for two days of learning, collaboration and practical professional develo",
-      "publishedAt": "2026-10-12T17:11:35+00:00",
+      "title": "Ghana needs stronger international cooperation to fight cybercrime – CSA",
+      "url": "https://www.myjoyonline.com/ghana-needs-stronger-international-cooperation-to-fight-cybercrime-csa/",
+      "summary": "Ghana needs stronger international cooperation to tackle cybercrime as digital threats increasingly cross national borders, Director-General of the Cyber Security Authority (CSA), Dr Divine Selase Agbeti, has said. He said Ghana could not address the growing c",
+      "publishedAt": "2026-10-13T14:40:18+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Maiden GEXPO 2026 set for November to catalyse Mahama’s accelerated export agenda",
-      "url": "https://www.myjoyonline.com/maiden-gexpo-2026-set-for-november-to-catalyse-mahamas-accelerated-export-agenda/",
-      "summary": "Accra Markets & Expo Limited has opened exhibitor registration for the maiden edition of the Ghana Export and SME Fair (GEXPO 2026), scheduled to take place from Wednesday, 18 November to Sunday, 22 November 2026, at the Black Star Square, Accra. Convened unde",
-      "publishedAt": "2026-10-12T16:54:00+00:00",
+      "title": "GCB customers call for more frequent engagement with bank leadership",
+      "url": "https://www.myjoyonline.com/gcb-customers-call-for-more-frequent-engagement-with-bank-leadership/",
+      "summary": "Customers of GCB Bank PLC have called for more direct engagement with the Bank's leadership while sharing feedback on their business needs, growth ambitions and banking experiences during a Customer Town Hall led by Managing Director, Farihan Alhassan.",
+      "publishedAt": "2026-10-13T13:30:01+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Fidelity Bank completes 15th School under its Orange Impact Initiative with inauguration of Ogome Anglican Basic School",
-      "url": "https://www.myjoyonline.com/fidelity-bank-completes-15th-school-under-its-orange-impact-initiative-with-inauguration-of-ogome-anglican-basic-school/",
-      "summary": "Fidelity Bank Ghana has fulfilled its commitment to build or renovate 15 basic schools in underserved communities across Ghana, inaugurating newly constructed and renovated facilities at Ogome Anglican Basic School in the Yilo Krobo Municipality.",
-      "publishedAt": "2026-10-12T16:53:00+00:00",
+      "title": "Central banks should avoid reacting too strongly to headline inflation – IMF",
+      "url": "https://www.myjoyonline.com/central-banks-should-avoid-reacting-too-strongly-to-headline-inflation-imf/",
+      "summary": "According to the Fund, they should, however, respond if higher inflation starts feeding into expectations or wage setting or if technology-driven activity starts strengthening pass-through from headline to core inflation.",
+      "publishedAt": "2026-10-13T12:44:57+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Ministers, CEOs, policymakers to grace 7th Africa Public Sector Conference in Accra",
-      "url": "https://www.myjoyonline.com/ministers-ceos-policymakers-to-grace-7th-africa-public-sector-conference-in-accra/",
-      "summary": "Accra is set to become a major meeting point for Africa’s public-sector, technology and business leadership as the 7th Africa Public Sector Conference & Awards (APSCA 2026) takes place from 14th–16th October 2026 at the Kempinski Hotel Gold Coast City, Accra. ",
-      "publishedAt": "2026-10-12T15:11:27+00:00",
+      "title": "Global economy proving resilient, growth projected at 3.1% in 2026 – IMF",
+      "url": "https://www.myjoyonline.com/global-economy-proving-resilient-growth-projected-at-3-1-in-2026-imf/",
+      "summary": "Again, the Bretton Woods institution said world trade volume growth is projected to slow in 2026 and stabilise in 2027, reflecting the drag from tariffs, adjustment in production chains, and continued strength in technology-related trade.",
+      "publishedAt": "2026-10-13T12:27:48+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
@@ -685,7 +685,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-12T20:10:30.411175+00:00"
+      "fetchedAt": "2026-10-13T18:02:48.519125+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -694,7 +694,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-12T20:10:30.411175+00:00"
+      "fetchedAt": "2026-10-13T18:02:48.519125+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -703,7 +703,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-12T20:10:30.411175+00:00"
+      "fetchedAt": "2026-10-13T18:02:48.519125+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -712,7 +712,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-12T20:10:30.411175+00:00"
+      "fetchedAt": "2026-10-13T18:02:48.519125+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -721,7 +721,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-12T20:10:30.411175+00:00"
+      "fetchedAt": "2026-10-13T18:02:48.519125+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -730,7 +730,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-12T20:10:30.411175+00:00"
+      "fetchedAt": "2026-10-13T18:02:48.519125+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -739,7 +739,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-10-12T20:10:30.411175+00:00"
+      "fetchedAt": "2026-10-13T18:02:48.519125+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -748,7 +748,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-12T20:10:30.411175+00:00"
+      "fetchedAt": "2026-10-13T18:02:48.519125+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -757,7 +757,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-12T20:10:30.411175+00:00"
+      "fetchedAt": "2026-10-13T18:02:48.519125+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -766,7 +766,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-12T20:10:30.411175+00:00"
+      "fetchedAt": "2026-10-13T18:02:48.519125+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -775,7 +775,7 @@
       "kind": "rss",
       "ok": false,
       "error": "HTTP Error 404: Not Found",
-      "fetchedAt": "2026-10-12T20:10:30.411175+00:00"
+      "fetchedAt": "2026-10-13T18:02:48.519125+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -784,7 +784,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-12T20:10:30.411175+00:00"
+      "fetchedAt": "2026-10-13T18:02:48.519125+00:00"
     },
     {
       "name": "Citi Business News",
@@ -793,7 +793,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-12T20:10:30.411175+00:00"
+      "fetchedAt": "2026-10-13T18:02:48.519125+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -802,7 +802,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-12T20:10:30.411175+00:00"
+      "fetchedAt": "2026-10-13T18:02:48.519125+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -811,7 +811,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-12T20:10:30.411175+00:00"
+      "fetchedAt": "2026-10-13T18:02:48.519125+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -820,7 +820,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-12T20:10:30.411175+00:00"
+      "fetchedAt": "2026-10-13T18:02:48.519125+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -829,7 +829,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-12T20:10:30.411175+00:00"
+      "fetchedAt": "2026-10-13T18:02:48.519125+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -838,7 +838,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-12T20:10:30.411175+00:00"
+      "fetchedAt": "2026-10-13T18:02:48.519125+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -847,7 +847,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-12T20:10:30.411175+00:00"
+      "fetchedAt": "2026-10-13T18:02:48.519125+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -856,7 +856,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-12T20:10:30.411175+00:00"
+      "fetchedAt": "2026-10-13T18:02:48.519125+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -865,7 +865,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-12T20:10:30.411175+00:00"
+      "fetchedAt": "2026-10-13T18:02:48.519125+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -874,7 +874,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-10-12T20:10:30.411175+00:00"
+      "fetchedAt": "2026-10-13T18:02:48.519125+00:00"
     }
   ]
 }
