@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-14T15:44:11.093088+00:00",
-  "generatedAtGhana": "2026-10-14T15:44:11.093088+00:00",
+  "generatedAt": "2026-10-15T15:31:33.450059+00:00",
+  "generatedAtGhana": "2026-10-15T15:31:33.450059+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
     "gseIndices": {
-      "asOf": "13/10/2026",
-      "composite": 14383.28,
-      "financialStocks": 7456.59,
+      "asOf": "14/10/2026",
+      "composite": 14368.2,
+      "financialStocks": 7411.97,
       "source": "Ghana Stock Exchange",
       "url": "https://gse.com.gh/"
     },
@@ -19,14 +19,14 @@
       "url": "https://www.bog.gov.gh/"
     },
     "fx": {
-      "usdGhsMid": 11.7059,
+      "usdGhsMid": 11.675,
       "rateBasis": "public news reported rate",
       "source": "Bank of Ghana Daily Interbank FX Rates",
       "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
       "sourceType": "public_news_fallback",
-      "asOf": "13 Oct 2026",
-      "usdGhsBuying": 11.7,
-      "usdGhsSelling": 11.7118
+      "asOf": "14 Oct 2026",
+      "usdGhsBuying": 11.6692,
+      "usdGhsSelling": 11.6808
     },
     "ghanaStatisticalService": {
       "cpiInflationYoy": 5.2,
@@ -229,7 +229,7 @@
       "category": "Official macro"
     },
     {
-      "title": "Day's Weighted Average Rate Day’s Weighted Median Rate: 11.7059 table.wpDataTable td.numdata { text-align: right !important; } /* buttons font color */ .wpDataTables .wdt-checkbox-filter.btn, .wpDataTables .selecter .selecter-selected, .wdt-frontend-modal .btn:not(.dropdown-toggle), div.dt-button-collection a.dt-button.active:not(.disabled), div.dt-button-collection button.dt-button.active:not(.disabled) { color: #222222 !important; } /** buttons background hover color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { background-color: #ebbd3f !important; background-image: none !important; } /** buttons hover border color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { border-color: #222222 !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } .wpdt-c .wpDataTablesWrapper table.wpDataTable thead tr:nth-child(2) th { overflow: visible; }",
+      "title": "Day's Weighted Average Rate Day’s Weighted Median Rate: 11.6750 table.wpDataTable td.numdata { text-align: right !important; } /* buttons font color */ .wpDataTables .wdt-checkbox-filter.btn, .wpDataTables .selecter .selecter-selected, .wdt-frontend-modal .btn:not(.dropdown-toggle), div.dt-button-collection a.dt-button.active:not(.disabled), div.dt-button-collection button.dt-button.active:not(.disabled) { color: #222222 !important; } /** buttons background hover color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { background-color: #ebbd3f !important; background-image: none !important; } /** buttons hover border color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { border-color: #222222 !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } .wpdt-c .wpDataTablesWrapper table.wpDataTable thead tr:nth-child(2) th { overflow: visible; }",
       "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
       "summary": "",
       "publishedAt": null,
@@ -517,6 +517,62 @@
       "category": "Sovereign credit research"
     },
     {
+      "title": "Gamal Nkrumah, son of Ghana’s first President, dies in Cairo",
+      "url": "https://www.ghanabusinessnews.com/2026/10/15/gamal-nkrumah-son-of-ghanas-first-president-dies-in-cairo/",
+      "summary": "Gamal Gorkeh Nkrumah, son of Ghana’s first President, Osagyefo Dr Kwame Nkrumah, has died in Cairo, Egypt, following a prolonged illness. The post Gamal Nkrumah, son of Ghana’s first President, dies in Cairo appeared first on Ghana Business News .",
+      "publishedAt": "2026-10-15T14:43:59+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Ghana urged to strengthen domestic funding for scientific research",
+      "url": "https://www.ghanabusinessnews.com/2026/10/15/ghana-urged-to-strengthen-domestic-funding-for-scientific-research/",
+      "summary": "Professor Abigail Opoku Mensah, Acting Administrator of the Ghana National Research Fund (GNRF), has called for increased domestic investment in scientific research and innovation to reduce reliance on foreign grants and accelerate technological development. T",
+      "publishedAt": "2026-10-15T14:39:52+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Media scrutiny should not be mistaken for disloyalty",
+      "url": "https://www.ghanabusinessnews.com/2026/10/15/media-scrutiny-should-not-be-mistaken-for-disloyalty/",
+      "summary": "The Chief of Staff at the Office of the President, Dr. Julius Samuel Debrah, has made a bold statement that should make supporters of the various political parties to understand the working of journalists and not equate, media scrutiny with disloyalty. What it",
+      "publishedAt": "2026-10-15T14:36:05+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Communities get involved in health outcomes",
+      "url": "https://www.ghanabusinessnews.com/2026/10/15/communities-get-involved-in-health-outcomes/",
+      "summary": "At the heart of delivering quality health care is the critical question of meeting the needs of clients visiting health facilities and ensuring that their exp The post Communities get involved in health outcomes appeared first on Ghana Business News .",
+      "publishedAt": "2026-10-15T14:29:17+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Five new telephony cell sites to be activated in October 2026 – Minister",
+      "url": "https://www.ghanabusinessnews.com/2026/10/15/five-new-telephony-cell-sites-to-be-activated-in-october-2026-minister/",
+      "summary": "Five new telephony sites in the Ashanti region will be activated by the end of October 2026. The post Five new telephony cell sites to be activated in October 2026 – Minister appeared first on Ghana Business News .",
+      "publishedAt": "2026-10-15T14:21:54+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Health sector pension scheme assets reach GH¢6.7b",
+      "url": "https://www.ghanabusinessnews.com/2026/10/15/health-sector-pension-scheme-assets-reach-gh%c2%a26-7b/",
+      "summary": "The Health Sector Occupational Pension Scheme has grown its assets to GH¢6.7 billion as of the end of 2025, following increased contributions and investment returns, Mr. Frederick Mensah Acheampong, Chairman of the Board of Trustees, has said. The post Health ",
+      "publishedAt": "2026-10-15T14:11:56+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Family demands answers over 14-year-old student’s death at Abomosu STEM SHS",
+      "url": "https://www.ghanabusinessnews.com/2026/10/15/family-demands-answers-over-14-year-old-students-death-at-abomosu-stem-shs/",
+      "summary": "The family of a 14-year-old student who died barely two weeks after reporting to Abomosu STEM Senior High School in the Eastern Region, is demanding a thorough investigation into the circumstances surrounding his death. The post Family demands answers over 14-",
+      "publishedAt": "2026-10-15T14:07:22+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
       "title": "DVLA introduces six local languages for driving tests",
       "url": "https://www.ghanabusinessnews.com/2026/10/13/dvla-introduces-six-local-languages-for-driving-tests/",
       "summary": "The Driver and Vehicle Licensing Authority (DVLA) has introduced six Ghanaian languages into its computer-based driving test to improve access for applicants who face language barriers. The post DVLA introduces six local languages for driving tests appeared fi",
@@ -525,122 +581,66 @@
       "category": "Business news"
     },
     {
-      "title": "Education Minister assures teachers of salary adjustments by October 16",
-      "url": "https://www.ghanabusinessnews.com/2026/10/13/education-minister-assures-teachers-of-salary-adjustments-by-october-16/",
-      "summary": "The government is working to pay eligible teachers their outstanding promotion-related salary adjustments by October 16, 2026, Education Minister Haruna Iddrisu has said. The post Education Minister assures teachers of salary adjustments by October 16 appeared",
-      "publishedAt": "2026-10-13T14:17:22+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Ghana cedi depreciates against major trading currencies in weekly pricing window",
-      "url": "https://www.ghanabusinessnews.com/2026/10/12/ghana-cedi-depreciates-against-major-trading-currencies-in-weekly-pricing-window/",
-      "summary": "The Ghana cedi depreciated against the major trading currencies during the weekly pricing window from October 5 to October 12. The post Ghana cedi depreciates against major trading currencies in weekly pricing window appeared first on Ghana Business News .",
-      "publishedAt": "2026-10-12T15:03:13+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Bank of Ghana develops AI rules for financial sector",
-      "url": "https://www.ghanabusinessnews.com/2026/10/12/bank-of-ghana-develops-ai-rules-for-financial-sector/",
-      "summary": "The Bank of Ghana (BoG) is developing a directive to regulate the use of artificial intelligence (AI) in the financial sector, as it seeks to promote innovation while addressing emerging risks. The post Bank of Ghana develops AI rules for financial sector appe",
-      "publishedAt": "2026-10-12T14:49:59+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "UN cautions against forced evictions without prior consultation",
-      "url": "https://www.ghanabusinessnews.com/2026/10/12/un-cautions-against-forced-evictions-without-prior-consultation/",
-      "summary": "The United Nations (UN) has cautioned Ghanaian authorities to be wary of the threat of forced evictions without prior consultation. The post UN cautions against forced evictions without prior consultation appeared first on Ghana Business News .",
-      "publishedAt": "2026-10-12T14:46:16+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Bank of Ghana to review cybersecurity compliance of commercial banks",
-      "url": "https://www.ghanabusinessnews.com/2026/10/12/bank-of-ghana-to-review-cybersecurity-compliance-of-commercial-banks/",
-      "summary": "The Bank of Ghana (BoG) says it will undertake thematic reviews of banks’ compliance with its revised Cyber and Information Security Directive amid growing concerns about digital fraud, cyber threats and other risks associated with digital financial services. ",
-      "publishedAt": "2026-10-12T14:42:05+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Financial institutions urged to expand digital credit for oil palm farmers",
-      "url": "https://www.ghanabusinessnews.com/2026/10/12/financial-institutions-urged-to-expand-digital-credit-for-oil-palm-farmers/",
-      "summary": "Financial institutions have been urged to use digital payment records to expand farmers’ access to credit, savings and insurance in Ghana’s oil palm sector. The post Financial institutions urged to expand digital credit for oil palm farmers appeared first on G",
-      "publishedAt": "2026-10-12T14:35:02+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Don’t let speed of information become your judgement – CJ tells new lawyers.",
-      "url": "https://www.ghanabusinessnews.com/2026/10/11/dont-let-speed-of-information-become-your-judgement-cj-tells-new-lawyers/",
-      "summary": "Chief Justice Paul Baffoe-Bonnie has urged 1,568 newly qualified lawyers to verify information before expressing opinions, warning against the dangers of misinformation and hasty public commentary. The post Don’t let speed of information become your judgement ",
-      "publishedAt": "2026-10-11T11:19:32+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Public money belongs to the people, not government officials – Ato Forson",
-      "url": "https://www.myjoyonline.com/public-money-belongs-to-the-people-not-government-officials-ato-forson/",
-      "summary": "Dr. Forson stressed that government officials are custodians of the nation’s resources, not their owners, and must manage those resources with a clear sense of responsibility to citizens.",
-      "publishedAt": "2026-10-14T13:25:47+00:00",
+      "title": "Twelve Golden Rules of real estate development in Ghana, Africa",
+      "url": "https://www.myjoyonline.com/twelve-golden-rules-of-real-estate-development-in-ghana-africa/",
+      "summary": "Real estate development is one of Africa's greatest opportunities for economic growth and wealth creation. With a young population, rapidly expanding cities, and rising demand for quality housing, commercial, industrial and mixed-use properties, the potential ",
+      "publishedAt": "2026-10-15T15:27:25+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Total number of jobs advertised increased 32% year-on-year to 3,578 in 7 months of 2026",
-      "url": "https://www.myjoyonline.com/total-number-of-jobs-advertised-increased-32-year-on-year-to-3578-in-7-months-of-2026/",
-      "summary": "Conversely, on a month-on-month basis, the number of job vacancies in July 2026 marginally declined by 1.4% from the 3,629 jobs advertised in June 2026.",
-      "publishedAt": "2026-10-14T12:58:14+00:00",
+      "title": "GhIG pushes for legislation to regulate geoscientists’ activities",
+      "url": "https://www.myjoyonline.com/ghig-pushes-for-legislation-to-regulate-geoscientists-activities/",
+      "summary": "The Ghana Institute of Geoscientists (GhIG) is pushing for a legal framework to regulate the practice of geoscience in Ghana, saying the move is critical to enforcing professional standards, ethical conduct and accountability. The Institute says it has prepare",
+      "publishedAt": "2026-10-15T15:10:24+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Passenger arrivals at airport improved by 23% in first 7 months of 2026",
-      "url": "https://www.myjoyonline.com/passenger-arrivals-at-airport-improved-by-23-in-first-7-months-of-2026/",
-      "summary": "Also, international trade at the country’s two main harbours (Tema and Takoradi), as measured by laden container traffic for inbound and outbound containers, improved during the period under review.",
-      "publishedAt": "2026-10-14T12:39:34+00:00",
+      "title": "AI is forcing professionals to rethink how they deliver value – Hubtel CEO",
+      "url": "https://www.myjoyonline.com/ai-is-forcing-professionals-to-rethink-how-they-deliver-value-hubtel-ceo/",
+      "summary": "The Chief Executive Officer of Hubtel, Alex Bram, has urged lawyers, doctors and accountants to rethink how they deliver their services as artificial intelligence (AI) increasingly makes specialised knowledge accessible to the public. He believes the growing a",
+      "publishedAt": "2026-10-15T15:01:55+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Economic activities mixed in 7 months of 2026; Cement sales decline by 10%",
-      "url": "https://www.myjoyonline.com/economic-activities-mixed-in-7-months-of-2026-cement-sales-decline-by-10/",
-      "summary": "Retail sales, however, declined by 1.5% (year-on-year) to GH¢236.41 million in July 2026, down from the GH¢239.89 million recorded in the same period in 2025.",
-      "publishedAt": "2026-10-14T12:26:57+00:00",
+      "title": "Hubtel willing to contribute to Ghana’s proposed AI fund – CEO",
+      "url": "https://www.myjoyonline.com/hubtel-willing-to-contribute-to-ghanas-proposed-ai-fund-ceo/",
+      "summary": "The Chief Executive Officer of Hubtel, Alex Bram, has expressed the company's willingness to contribute to Ghana's proposed Artificial Intelligence (AI) Fund, as the government seeks private-sector support to finance the country's ambitious AI development prog",
+      "publishedAt": "2026-10-15T14:47:58+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "SEC to develop Social Bond Guidelines; over half of listed firms report on ESG indicators",
-      "url": "https://www.myjoyonline.com/sec-to-develop-social-bond-guidelines-over-half-of-listed-firms-report-on-esg-indicators/",
-      "summary": "According to the SEC, the guidelines would aim to encourage the development of a credible and transparent social bond market, promote financing for projects that deliver positive social outcomes while ensuring integrity, transparency, and accountability in the",
-      "publishedAt": "2026-10-14T11:57:35+00:00",
+      "title": "Ghana targets $5bn in annual economic gains from AI – Sam George",
+      "url": "https://www.myjoyonline.com/ghana-targets-5bn-in-annual-economic-gains-from-ai-sam-george/",
+      "summary": "The Minister for Communication, Digital Technology and Innovations, Sam George, says Ghana is targeting approximately US$5 billion in annual economic gains through the adoption of artificial intelligence (AI), with the government banking on improved agricultur",
+      "publishedAt": "2026-10-15T14:08:46+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Insurance firms have up till January 2027 to incorporate ESG in financial reporting",
-      "url": "https://www.myjoyonline.com/insurance-firms-have-up-till-january-2027-to-incorporate-esg-in-financial-reporting/",
-      "summary": "This follows the integration of ESG principles within the insurance industry in 2023 by the National Insurance Commission (NIC).",
-      "publishedAt": "2026-10-14T11:52:11+00:00",
+      "title": "AI could deepen rural-urban inequality without better connectivity – Sam George",
+      "url": "https://www.myjoyonline.com/ai-could-deepen-rural-urban-inequality-without-better-connectivity-sam-george/",
+      "summary": "The Minister for Communication, Digital Technology and Innovations, Sam George, has warned that Ghana's adoption of artificial intelligence (AI) could deepen existing inequalities between rural and urban communities unless deliberate investments are made to im",
+      "publishedAt": "2026-10-15T14:01:51+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Rollover cost of T-bills reduced substantially, one-year bill yield drops 19% since December 2024",
-      "url": "https://www.myjoyonline.com/rollover-cost-of-t-bills-reduced-substantially-one-year-bill-yield-drops-19-since-december-2024/",
-      "summary": "Last week, the government increased its T-bills uptake reflecting higher financing needs following weeks of below-target acceptances.",
-      "publishedAt": "2026-10-14T11:40:44+00:00",
+      "title": "Sam George cautions ministers against reading unverified AI-generated speeches",
+      "url": "https://www.myjoyonline.com/sam-george-cautions-ministers-against-reading-unverified-ai-generated-speeches/",
+      "summary": "The Minister for Communication, Digital Technology and Innovations, Sam George, has cautioned government ministers against delivering speeches generated by artificial intelligence (AI) without verifying their accuracy, revealing that some directors are already",
+      "publishedAt": "2026-10-15T13:53:26+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "COCOBOD raises GH¢3.4bn as Cocoa Capital PLC lists inaugural commercial paper on GFIM",
-      "url": "https://www.myjoyonline.com/cocobod-raises-gh%c2%a23-4bn-as-cocoa-capital-plc-lists-inaugural-commercial-paper-on-gfim/",
-      "summary": "The Ghana Cocoa Board (COCOBOD) has raised GH¢3.396 billion from domestic institutional investors through its inaugural commercial paper issuance, as the cocoa regulator moves to diversify its financing sources and reduce reliance on external borrowing. The fu",
-      "publishedAt": "2026-10-14T10:20:45+00:00",
+      "title": "CUTS welcomes VAT collection on cross-border digital services, urges fair treatment of Distance Learning students on overseas programmes",
+      "url": "https://www.myjoyonline.com/cuts-welcomes-vat-collection-on-cross-border-digital-services-urges-fair-treatment-of-distance-learning-students-on-overseas-programmes/",
+      "summary": "A leading research and public policy think tank CUTS International, Accra, has welcomed the implementation of real-time tax collection on taxable cross-border digital services as a necessary step towards protecting Ghana’s revenue base and ensuring fair compet",
+      "publishedAt": "2026-10-15T13:30:13+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
@@ -661,7 +661,7 @@
       "category": "Public FX fallback"
     },
     {
-      "title": "Cedi edges higher as GoldBod boosts dollar supply to banks",
+      "title": "Cedi depreciates by 7.11% against dollar in August 2026 – BoG report",
       "url": "https://www.myjoyonline.com/?s=cedi+dollar",
       "summary": "",
       "publishedAt": null,
@@ -669,7 +669,7 @@
       "category": "Public FX fallback"
     },
     {
-      "title": "Cedi extends depreciation against dollar; going for GH¢12.10 at forex bureaus",
+      "title": "Cedi edges higher as GoldBod boosts dollar supply to banks",
       "url": "https://www.myjoyonline.com/?s=cedi+dollar",
       "summary": "",
       "publishedAt": null,
@@ -685,7 +685,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-14T15:44:11.093088+00:00"
+      "fetchedAt": "2026-10-15T15:31:33.450059+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -694,7 +694,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-14T15:44:11.093088+00:00"
+      "fetchedAt": "2026-10-15T15:31:33.450059+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -703,7 +703,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-14T15:44:11.093088+00:00"
+      "fetchedAt": "2026-10-15T15:31:33.450059+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -712,7 +712,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-14T15:44:11.093088+00:00"
+      "fetchedAt": "2026-10-15T15:31:33.450059+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -721,7 +721,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-14T15:44:11.093088+00:00"
+      "fetchedAt": "2026-10-15T15:31:33.450059+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -730,7 +730,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-14T15:44:11.093088+00:00"
+      "fetchedAt": "2026-10-15T15:31:33.450059+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -739,7 +739,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-10-14T15:44:11.093088+00:00"
+      "fetchedAt": "2026-10-15T15:31:33.450059+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -748,7 +748,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-14T15:44:11.093088+00:00"
+      "fetchedAt": "2026-10-15T15:31:33.450059+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -757,7 +757,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-14T15:44:11.093088+00:00"
+      "fetchedAt": "2026-10-15T15:31:33.450059+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -766,7 +766,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-14T15:44:11.093088+00:00"
+      "fetchedAt": "2026-10-15T15:31:33.450059+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -775,7 +775,7 @@
       "kind": "rss",
       "ok": false,
       "error": "HTTP Error 404: Not Found",
-      "fetchedAt": "2026-10-14T15:44:11.093088+00:00"
+      "fetchedAt": "2026-10-15T15:31:33.450059+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -784,7 +784,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-14T15:44:11.093088+00:00"
+      "fetchedAt": "2026-10-15T15:31:33.450059+00:00"
     },
     {
       "name": "Citi Business News",
@@ -793,7 +793,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-14T15:44:11.093088+00:00"
+      "fetchedAt": "2026-10-15T15:31:33.450059+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -802,7 +802,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-14T15:44:11.093088+00:00"
+      "fetchedAt": "2026-10-15T15:31:33.450059+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -811,7 +811,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-14T15:44:11.093088+00:00"
+      "fetchedAt": "2026-10-15T15:31:33.450059+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -820,7 +820,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-14T15:44:11.093088+00:00"
+      "fetchedAt": "2026-10-15T15:31:33.450059+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -829,7 +829,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-14T15:44:11.093088+00:00"
+      "fetchedAt": "2026-10-15T15:31:33.450059+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -838,7 +838,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-14T15:44:11.093088+00:00"
+      "fetchedAt": "2026-10-15T15:31:33.450059+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -847,7 +847,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-14T15:44:11.093088+00:00"
+      "fetchedAt": "2026-10-15T15:31:33.450059+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -856,7 +856,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-14T15:44:11.093088+00:00"
+      "fetchedAt": "2026-10-15T15:31:33.450059+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -865,7 +865,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-14T15:44:11.093088+00:00"
+      "fetchedAt": "2026-10-15T15:31:33.450059+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -874,7 +874,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-10-14T15:44:11.093088+00:00"
+      "fetchedAt": "2026-10-15T15:31:33.450059+00:00"
     }
   ]
 }
