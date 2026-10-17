@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-16T15:18:05.219459+00:00",
-  "generatedAtGhana": "2026-10-16T15:18:05.219459+00:00",
+  "generatedAt": "2026-10-17T14:06:17.940515+00:00",
+  "generatedAtGhana": "2026-10-17T14:06:17.940515+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
     "gseIndices": {
-      "asOf": "15/10/2026",
-      "composite": 14167.0,
-      "financialStocks": 7489.75,
+      "asOf": "16/10/2026",
+      "composite": 14394.77,
+      "financialStocks": 7498.54,
       "source": "Ghana Stock Exchange",
       "url": "https://gse.com.gh/"
     },
@@ -19,14 +19,14 @@
       "url": "https://www.bog.gov.gh/"
     },
     "fx": {
-      "usdGhsMid": 11.65,
+      "usdGhsMid": 11.665,
       "rateBasis": "public news reported rate",
       "source": "Bank of Ghana Daily Interbank FX Rates",
       "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
       "sourceType": "public_news_fallback",
-      "asOf": "15 Oct 2026",
-      "usdGhsBuying": 11.6442,
-      "usdGhsSelling": 11.6558
+      "asOf": "16 Oct 2026",
+      "usdGhsBuying": 11.6592,
+      "usdGhsSelling": 11.6708
     },
     "ghanaStatisticalService": {
       "cpiInflationYoy": 5.2,
@@ -229,7 +229,7 @@
       "category": "Official macro"
     },
     {
-      "title": "Day's Weighted Average Rate Day’s Weighted Median Rate: 11.6500 table.wpDataTable td.numdata { text-align: right !important; } /* buttons font color */ .wpDataTables .wdt-checkbox-filter.btn, .wpDataTables .selecter .selecter-selected, .wdt-frontend-modal .btn:not(.dropdown-toggle), div.dt-button-collection a.dt-button.active:not(.disabled), div.dt-button-collection button.dt-button.active:not(.disabled) { color: #222222 !important; } /** buttons background hover color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { background-color: #ebbd3f !important; background-image: none !important; } /** buttons hover border color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { border-color: #222222 !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } .wpdt-c .wpDataTablesWrapper table.wpDataTable thead tr:nth-child(2) th { overflow: visible; }",
+      "title": "Day's Weighted Average Rate Day’s Weighted Median Rate: 11.6650 table.wpDataTable td.numdata { text-align: right !important; } /* buttons font color */ .wpDataTables .wdt-checkbox-filter.btn, .wpDataTables .selecter .selecter-selected, .wdt-frontend-modal .btn:not(.dropdown-toggle), div.dt-button-collection a.dt-button.active:not(.disabled), div.dt-button-collection button.dt-button.active:not(.disabled) { color: #222222 !important; } /** buttons background hover color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { background-color: #ebbd3f !important; background-image: none !important; } /** buttons hover border color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { border-color: #222222 !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } .wpdt-c .wpDataTablesWrapper table.wpDataTable thead tr:nth-child(2) th { overflow: visible; }",
       "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
       "summary": "",
       "publishedAt": null,
@@ -581,66 +581,66 @@
       "category": "Business news"
     },
     {
-      "title": "Trade Minister engages Russia, UAE and UNDP to boost trade, investment",
-      "url": "https://www.myjoyonline.com/trade-minister-engages-russia-uae-and-undp-to-boost-trade-investment/",
-      "summary": "The Minister for Trade, Agribusiness and Industry, Elizabeth Ofosu-Adjare, has held separate meetings with representatives of Russia, the United Arab Emirates (UAE) and the United Nations Development Programme (UNDP) to strengthen cooperation in trade, investm",
-      "publishedAt": "2026-10-16T15:00:58+00:00",
+      "title": "Credit growth rose 34% to GH¢128.3 billion as of August 2026 – BoG",
+      "url": "https://www.myjoyonline.com/credit-growth-rose-34-to-gh%c2%a2128-3-billion-as-of-august-2026-bog/",
+      "summary": "According to the September 2026 Monetary Policy Report, stronger lending to the private sector and a rebound in public sector credit drove the expansion.",
+      "publishedAt": "2026-10-17T13:25:16+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Mahama, Trade Minister, tours Afienya and Tema factories, schedules meeting on Free Zones incentives",
-      "url": "https://www.myjoyonline.com/mahama-trade-minister-tours-afienya-and-tema-factories-schedules-meeting-on-free-zones-incentives/",
-      "summary": "President John Dramani Mahama has scheduled a meeting with the Ministry of Trade, Agribusiness and Industry, the Ghana Free Zones Authority and the Ministry of Finance to address concerns over the Customs Act, 2026, and its impact on incentives for free zone e",
-      "publishedAt": "2026-10-16T14:34:07+00:00",
+      "title": "From passion to enterprise: Exzanita Aidoo journey into fashion entrepreneurship",
+      "url": "https://www.myjoyonline.com/from-passion-to-enterprise-exzanita-aidoo-journey-into-fashion-entrepreneurship/",
+      "summary": "In an era where entrepreneurship is increasingly becoming an attractive pathway for young people seeking financial independence, personal fulfilment and economic empowerment, the story of Exzanita Aidoo offers an interesting perspective on the power of passion",
+      "publishedAt": "2026-10-17T13:18:34+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Fiabci-Ghana inaugurated to promote professionalism and global collaboration in real estate sector",
-      "url": "https://www.myjoyonline.com/fiabci-ghana-inaugurated-to-promote-professionalism-and-global-collaboration-in-real-estate-sector/",
-      "summary": "The International Real Estate Federation (FIABCI), has launched its Ghana Chapter to connect the country’s real estate industry to a global network of professionals, investors and institutions while promoting higher professional standards across the built envi",
-      "publishedAt": "2026-10-16T13:58:09+00:00",
+      "title": "Dep. Finance Minister calls for stronger internal controls to protect public funds",
+      "url": "https://www.myjoyonline.com/dep-finance-minister-calls-for-stronger-internal-controls-to-protect-public-funds/",
+      "summary": "Speaking at the 25th anniversary of the Institute of Internal Auditors Ghana, Mr Ampem said internal auditors must move beyond identifying weaknesses after they had occurred to helping institutions prevent financial losses.",
+      "publishedAt": "2026-10-17T12:55:47+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Ghana and BRICS: Strategic opportunity, economic imperative or geopolitical gamble?",
-      "url": "https://www.myjoyonline.com/ghana-and-brics-strategic-opportunity-economic-imperative-or-geopolitical-gamble/",
-      "summary": "BRICS today is no longer simply a forum for emerging economies. It represents a broader vision for increasing the influence of developing nations within global governance structures. For many countries across Africa, Asia and Latin America, the appeal of BRICS",
-      "publishedAt": "2026-10-16T13:48:56+00:00",
+      "title": "Social engineering, not hacking, driving MoMo fraud in Ghana – MobileMoney Fintech",
+      "url": "https://www.myjoyonline.com/social-engineering-not-hacking-driving-momo-fraud-in-ghana-mobilemoney-fintech/",
+      "summary": "Mobile money fraudsters in Ghana are increasingly exploiting human behaviour rather than relying on sophisticated hacking techniques to steal customers’ money, according to MobileMoney Fintech Limited’s Senior Manager for Financial Crimes, Moses Tetteh. He sai",
+      "publishedAt": "2026-10-17T12:43:52+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "SML vs GRA: Court grants preservation order in dispute over US$500 million investment",
-      "url": "https://www.myjoyonline.com/sml-vs-gra-court-grants-preservation-order-in-dispute-over-us500-million-investment/",
-      "summary": "The High Court (Commercial Court 3), Accra, presided by Her Lordship Justice Doris Awuah Dabanka-Bekoe on Friday granted a preservation order in favour of Strategic Mobilization Ghana Limited (SML), directing the preservation of the company’s equipment install",
-      "publishedAt": "2026-10-16T13:48:20+00:00",
+      "title": "CompuGhana launches cashback festival with two BYD cars, cash prizes on offer",
+      "url": "https://www.myjoyonline.com/compughana-launches-cashback-festival-with-two-byd-cars-cash-prizes-on-offer/",
+      "summary": "Technology retailer CompuGhana has launched a cashback sales festival, offering customers the opportunity to win two brand-new 2026 BYD vehicles, cash prizes, and other electronic appliances.",
+      "publishedAt": "2026-10-16T21:12:39+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Ekumfi: How $6m EXIM participation built a $53m industrial asset — now poised for a 24-Hour Economy breakthrough",
-      "url": "https://www.myjoyonline.com/ekumfi-how-6m-exim-participation-built-a-53m-industrial-asset-now-poised-for-a-24-hour-economy-breakthrough/",
-      "summary": "With Ghana EXIM Bank participation — its existing credit now restructured to approximately US$6 million — Ekumfi has built an industrial enterprise with an estimated asset value of US$53 million — a modern fruit-processing facility, Ghanaian juice brands, and ",
-      "publishedAt": "2026-10-16T13:00:53+00:00",
+      "title": "Rafimex Ghana Limited supports Big Street Feast with free beverage distribution",
+      "url": "https://www.myjoyonline.com/rafimex-ghana-limited-supports-big-street-feast-with-free-beverage-distribution/",
+      "summary": "Fast-moving consumer goods (FMCG) company Rafimex Ghana Limited has partnered with Chef Abby’s Big Street Feast, distributing free beverages to participants as part of activities to mark World Food Day.",
+      "publishedAt": "2026-10-16T21:03:25+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Dr. Mohammed Amin Adam writes: Ghana’s 2026 domestic debt financing",
-      "url": "https://www.myjoyonline.com/dr-mohammed-amin-adam-writes-ghanas-2026-domestic-debt-financing/",
-      "summary": "Ghana’s recent public debt situation appears to have improved, but the central policy question is whether the debt position and financing system have become durable, transparent, and market based. The recovery has benefited from debt-service relief under the D",
-      "publishedAt": "2026-10-16T11:53:50+00:00",
+      "title": "Ghana to host UN convention signing on digital cargo documents on October 26",
+      "url": "https://www.myjoyonline.com/ghana-to-host-un-convention-signing-on-digital-cargo-documents-on-october-26/",
+      "summary": "Ghana is set to host the signing ceremony for the United Nations Convention on Negotiable Cargo Documents on October 26, 2026, in a move expected to support the digitalisation of trade documentation and improve the efficiency of cross-border transactions. Chie",
+      "publishedAt": "2026-10-16T19:59:01+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Kosmos Energy, Eni, TotalEnergies and AGL Win Big at African Energy Awards",
-      "url": "https://www.myjoyonline.com/kosmos-energy-eni-totalenergies-and-agl-win-big-at-african-energy-awards/",
-      "summary": "Kosmos Energy Ghana and its CEO, Andrew Inglis, were among the top winners at the 2026 African Energy Awards. Eni, TotalEnergies, and Africa Global Logistics (AGL) were also recognised for their work in entrepreneurship, petroleum production, exploration, rene",
-      "publishedAt": "2026-10-16T11:42:36+00:00",
+      "title": "Bold ambitions, fragile foundations: Is Ghana ready for the AI and Data Centre risks it is inviting?",
+      "url": "https://www.myjoyonline.com/bold-ambitions-fragile-foundations-is-ghana-ready-for-the-ai-and-data-centre-risks-it-is-inviting/",
+      "summary": "Ghana is betting big on artificial intelligence. In April 2026, President John Dramani Mahama announced a $250 million investment to build a world-class AI Computing Centre, alongside $20 million to fund the rollout of the country’s National AI Strategy. Inter",
+      "publishedAt": "2026-10-16T15:59:30+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
@@ -685,7 +685,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-16T15:18:05.219459+00:00"
+      "fetchedAt": "2026-10-17T14:06:17.940515+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -694,7 +694,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-16T15:18:05.219459+00:00"
+      "fetchedAt": "2026-10-17T14:06:17.940515+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -703,7 +703,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-16T15:18:05.219459+00:00"
+      "fetchedAt": "2026-10-17T14:06:17.940515+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -712,7 +712,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-16T15:18:05.219459+00:00"
+      "fetchedAt": "2026-10-17T14:06:17.940515+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -721,7 +721,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-16T15:18:05.219459+00:00"
+      "fetchedAt": "2026-10-17T14:06:17.940515+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -730,7 +730,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-16T15:18:05.219459+00:00"
+      "fetchedAt": "2026-10-17T14:06:17.940515+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -739,7 +739,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-10-16T15:18:05.219459+00:00"
+      "fetchedAt": "2026-10-17T14:06:17.940515+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -748,7 +748,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-16T15:18:05.219459+00:00"
+      "fetchedAt": "2026-10-17T14:06:17.940515+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -757,7 +757,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-16T15:18:05.219459+00:00"
+      "fetchedAt": "2026-10-17T14:06:17.940515+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -766,7 +766,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-16T15:18:05.219459+00:00"
+      "fetchedAt": "2026-10-17T14:06:17.940515+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -775,7 +775,7 @@
       "kind": "rss",
       "ok": false,
       "error": "HTTP Error 404: Not Found",
-      "fetchedAt": "2026-10-16T15:18:05.219459+00:00"
+      "fetchedAt": "2026-10-17T14:06:17.940515+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -784,7 +784,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-16T15:18:05.219459+00:00"
+      "fetchedAt": "2026-10-17T14:06:17.940515+00:00"
     },
     {
       "name": "Citi Business News",
@@ -793,7 +793,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-16T15:18:05.219459+00:00"
+      "fetchedAt": "2026-10-17T14:06:17.940515+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -802,7 +802,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-16T15:18:05.219459+00:00"
+      "fetchedAt": "2026-10-17T14:06:17.940515+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -811,7 +811,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-16T15:18:05.219459+00:00"
+      "fetchedAt": "2026-10-17T14:06:17.940515+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -820,7 +820,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-16T15:18:05.219459+00:00"
+      "fetchedAt": "2026-10-17T14:06:17.940515+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -829,7 +829,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-16T15:18:05.219459+00:00"
+      "fetchedAt": "2026-10-17T14:06:17.940515+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -838,7 +838,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-16T15:18:05.219459+00:00"
+      "fetchedAt": "2026-10-17T14:06:17.940515+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -847,7 +847,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-16T15:18:05.219459+00:00"
+      "fetchedAt": "2026-10-17T14:06:17.940515+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -856,7 +856,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-16T15:18:05.219459+00:00"
+      "fetchedAt": "2026-10-17T14:06:17.940515+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -865,7 +865,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-16T15:18:05.219459+00:00"
+      "fetchedAt": "2026-10-17T14:06:17.940515+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -874,7 +874,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-10-16T15:18:05.219459+00:00"
+      "fetchedAt": "2026-10-17T14:06:17.940515+00:00"
     }
   ]
 }
