@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-18T14:22:01.917046+00:00",
-  "generatedAtGhana": "2026-10-18T14:22:01.917046+00:00",
+  "generatedAt": "2026-10-19T17:22:04.458774+00:00",
+  "generatedAtGhana": "2026-10-19T17:22:04.458774+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
@@ -24,7 +24,7 @@
       "source": "Bank of Ghana Daily Interbank FX Rates",
       "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
       "sourceType": "public_news_fallback",
-      "asOf": "16 Oct 2026",
+      "asOf": "19 Oct 2026",
       "usdGhsBuying": 11.6592,
       "usdGhsSelling": 11.6708
     },
@@ -517,6 +517,38 @@
       "category": "Sovereign credit research"
     },
     {
+      "title": "Scientists call for stronger action against health misinformation",
+      "url": "https://www.ghanabusinessnews.com/2026/10/19/scientists-call-for-stronger-action-against-health-misinformation/",
+      "summary": "Scientists have called for stronger public education, community engagement and science journalism to combat health misinformation and strengthen public trust in scientific research. The post Scientists call for stronger action against health misinformation app",
+      "publishedAt": "2026-10-19T14:46:35+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Bawumia criticizes government over economic hardships",
+      "url": "https://www.ghanabusinessnews.com/2026/10/19/bawumia-criticizes-government-over-economic-hardships/",
+      "summary": "The Former Vice President Alhaji Dr Mahamudu Bawumia, the Election 2028 flagbearer of the New Patriotic Party (NPP) has criticized the government, saying that President John Dramani Mahama has failed in addressing national the economic challenges. The post Baw",
+      "publishedAt": "2026-10-19T14:36:01+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Ghana to host signing of UN Convention on Negotiable Cargo Documents",
+      "url": "https://www.ghanabusinessnews.com/2026/10/19/ghana-to-host-signing-of-un-convention-on-negotiable-cargo-documents/",
+      "summary": "Ghana will host the signing ceremony of the United Nations Convention on Negotiable Cargo Documents (NCDs) on October 26, 2026, in a move to support trade facilitation and digital transformation. The post Ghana to host signing of UN Convention on Negotiable Ca",
+      "publishedAt": "2026-10-19T14:21:56+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "African leaders call for greater local processing of minerals",
+      "url": "https://www.ghanabusinessnews.com/2026/10/19/african-leaders-call-for-greater-local-processing-of-minerals/",
+      "summary": "African leaders Monday called for stronger cooperation among countries on mineral policies and increased local processing of mineral resources to create jobs, develop industries and ensure the continent retains more value from its natural wealth. The post Afri",
+      "publishedAt": "2026-10-19T14:18:10+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
       "title": "Bank of Ghana woos Asian investors with lower inflation, improved credit rating",
       "url": "https://www.ghanabusinessnews.com/2026/10/17/bank-of-ghana-woos-asian-investors-with-lower-inflation-improved-credit-rating/",
       "summary": "The Bank of Ghana (BoG) has urged Asian investors to take advantage of Ghana’s easing inflation, improved debt sustainability and upgraded sovereign credit rating to explore investment opportunities in the country. The post Bank of Ghana woos Asian investors w",
@@ -549,98 +581,66 @@
       "category": "Business news"
     },
     {
-      "title": "Aayalolo contra-flow moves over 8,000 passengers daily – GAPTE boss",
-      "url": "https://www.ghanabusinessnews.com/2026/10/17/aayalolo-contra-flow-moves-over-8000-passengers-daily-gapte-boss/",
-      "summary": "More than 8,000 passengers are transported daily by the Aayalolo contra-flow system being implemented by the government to ease passenger congestion in Accra at peak hours. The post Aayalolo contra-flow moves over 8,000 passengers daily – GAPTE boss appeared f",
-      "publishedAt": "2026-10-17T14:22:55+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Narawa Company seeks State intervention to secure its mining concession",
-      "url": "https://www.ghanabusinessnews.com/2026/10/16/narawa-company-seeks-state-intervention-to-secure-its-mining-concession/",
-      "summary": "Narawa Company Limited has appealed to State security agencies and regulatory authorities to help secure its mining concession, restore access to its operations and address reported damage to assets at the site. The post Narawa Company seeks State intervention",
-      "publishedAt": "2026-10-16T12:54:01+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Goosie Tanoh calls for stronger research-market linkages to boost jobs",
-      "url": "https://www.ghanabusinessnews.com/2026/10/16/goosie-tanoh-calls-for-stronger-research-market-linkages-to-boost-jobs/",
-      "summary": "Mr Augustus Goosie Obuadum Tanoh, Presidential Advisor on the 24-Hour Economy, has called for stronger linkages between scientific research and markets to boost local production, strengthen domestic value chains and create jobs. The post Goosie Tanoh calls for",
-      "publishedAt": "2026-10-16T12:49:44+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Non-Teaching staff threaten industrial action over unpaid allowances since 2021",
-      "url": "https://www.ghanabusinessnews.com/2026/10/16/non-teaching-staff-threaten-industrial-action-over-unpaid-allowances-since-2021/",
-      "summary": "The Association of Non-Teaching Staff of the Ghana Education Service (ANTS) has threatened to embark on industrial action over the Government's failure to address outstanding grievances, including unpaid transfer grants and allowances dating back to 2021. The ",
-      "publishedAt": "2026-10-16T12:45:53+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Cocoa Hubs Project advances gender mainstreaming in rural agricultural service delivery",
-      "url": "https://www.myjoyonline.com/cocoa-hubs-project-advances-gender-mainstreaming-in-rural-agricultural-service-delivery/",
-      "summary": "The Cocoa Hubs Project, implemented by Fairtrade Africa, is taking steps to advance gender mainstreaming in rural agricultural service delivery by strengthening women’s participation and leadership across cocoa-growing regions in Ghana. As part of this initiat",
-      "publishedAt": "2026-10-18T12:16:43+00:00",
+      "title": "We must strengthen our financial institutions to fund infrastructure development – Seth Terkper",
+      "url": "https://www.myjoyonline.com/we-must-strengthen-our-financial-institutions-to-fund-infrastructure-development-seth-terkper/",
+      "summary": "Former Finance Minister and Economic Adviser to the President, John Mahama, Seth Terkper, has called for stronger development finance institutions to support the country’s infrastructure needs and economic transformation.",
+      "publishedAt": "2026-10-19T16:54:17+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "MobileMoney Fintech LTD engages 500 customers to deepen cashless economic drive",
-      "url": "https://www.myjoyonline.com/mobilemoney-fintech-ltd-engages-500-customers-to-deepen-cashless-economic-drive/",
-      "summary": "In line with its commitment to customer-centricity and financial inclusion, Ghana's pioneer digital payments platform, MobileMoney Fintech LTD, has organized a customer engagement forum at the Accra Metropolitan Assembly's auditorium in Accra.",
-      "publishedAt": "2026-10-18T12:04:52+00:00",
+      "title": "Wilmar Africa Limited wins two prestigious awards at 37th CIMG Marketing Performance Awards",
+      "url": "https://www.myjoyonline.com/wilmar-africa-limited-wins-two-prestigious-awards-at-37th-cimg-marketing-performance-awards/",
+      "summary": "Wilmar Africa Limited has reaffirmed its commitment to excellence in marketing, innovation and consumer satisfaction after winning two prestigious awards at the 37th Annual Marketing Performance Awards organised by the Chartered Institute of Marketing, Ghana (",
+      "publishedAt": "2026-10-19T15:42:53+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Sam George unveils plan to connect 48 government data registries for AI-driven planning",
-      "url": "https://www.myjoyonline.com/sam-george-unveils-plan-to-connect-48-government-data-registries-for-ai-driven-planning/",
-      "summary": "The Minister for Communication, Digital Technology and Innovations, Sam George, has disclosed that the government is developing a national data exchange hub to connect 48 data registries across public institutions, as part of efforts to improve national planni",
-      "publishedAt": "2026-10-18T01:08:12+00:00",
+      "title": "World Bank President warns 1.2bn young people will compete for 400m jobs in next 15 years",
+      "url": "https://www.myjoyonline.com/world-bank-president-warns-1-2bn-young-people-will-compete-for-400m-jobs-in-next-15-years/",
+      "summary": "Making remarks at the 2026 World Bank/International Monetary Fund Annual Meetings Plenary in Bangkok, Thailand, he said this generation will shape the next century. Therefore, “the choices we make today will help determine how”.",
+      "publishedAt": "2026-10-19T14:25:55+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Japan Motors MD Salem Kalmoni named CIMG Marketing Man of the Year",
-      "url": "https://www.myjoyonline.com/japan-motors-md-salem-kalmoni-named-cimg-marketing-man-of-the-year/",
-      "summary": "The Managing Director of Japan Motors, Salem Kalmoni, has been named Marketing Man of the Year at the 37th Annual National Marketing Performance Awards organised by the Chartered Institute of Marketing, Ghana (CIMG). The award was presented at a ceremony at th",
-      "publishedAt": "2026-10-18T00:45:55+00:00",
+      "title": "Mahama targets 2030 end to raw mineral ore exports",
+      "url": "https://www.myjoyonline.com/mahama-targets-2030-end-to-raw-mineral-ore-exports/",
+      "summary": "President John Dramani Mahama has outlined plans to progressively halt the export of unprocessed mineral ores by 2030, seeking to make domestic processing a central part of Ghana’s mining industry.",
+      "publishedAt": "2026-10-19T14:19:42+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "GSE Managing Director Abena Amoah named 2025 CIMG Marketing Woman of the Year",
-      "url": "https://www.myjoyonline.com/gse-managing-director-abena-amoah-named-2025-cimg-marketing-woman-of-the-year/",
-      "summary": "The Managing Director of the Ghana Stock Exchange (GSE), Abena Amoah, has been named Marketing Woman of the Year at the 37th Annual National Marketing Performance Awards organised by the Chartered Institute of Marketing, Ghana (CIMG). The award was presented a",
-      "publishedAt": "2026-10-18T00:33:25+00:00",
+      "title": "Experts call for community action, stronger regulation to safeguard Ghana’s blue economy",
+      "url": "https://www.myjoyonline.com/experts-call-for-community-action-stronger-regulation-to-safeguard-ghanas-blue-economy/",
+      "summary": "Participants also pointed to illegal small-scale mining (galamsey), which discharges heavy metals and silt into rivers that empty into the sea, as well as the use of banned chemicals such as DDT and re-labelled toxic agrochemicals in fishing. Other threats dis",
+      "publishedAt": "2026-10-19T13:57:15+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Hubtel deployed AI to help ECG identify suspected electricity theft – CEO",
-      "url": "https://www.myjoyonline.com/hubtel-deployed-ai-to-help-ecg-identify-suspected-electricity-theft-ceo/",
-      "summary": "The Chief Executive Officer of Hubtel, Alex Bram, has disclosed that the company worked with the Electricity Company of Ghana (ECG) to use artificial intelligence (AI) to help identify customers suspected of stealing electricity.",
-      "publishedAt": "2026-10-17T20:29:58+00:00",
+      "title": "Leadership Changes: Richard Sammy exits Republic Financial Holdings as Karen Yip Chuck takes over",
+      "url": "https://www.myjoyonline.com/leadership-changes-richard-sammy-exits-republic-financial-holdings-as-karen-yip-chuck-takes-over/",
+      "summary": "Republic Financial Holdings Limited (RFHL) and Republic Bank Limited (RBL) have announced leadership changes as Richard S. Sammy exits the Group. In a statement issued in Port of Spain, Trinidad, on October 15, 2026, the two institutions said Mr. Sammy exited ",
+      "publishedAt": "2026-10-19T13:42:40+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Government appoints AI focal persons across ministries to drive national strategy",
-      "url": "https://www.myjoyonline.com/government-appoints-ai-focal-persons-across-ministries-to-drive-national-strategy/",
-      "summary": "The Minister for Communication, Digital Technology and Innovations, Sam George, has disclosed that the government has appointed artificial intelligence (AI) focal persons across all ministries as part of efforts to prepare public institutions for the adoption ",
-      "publishedAt": "2026-10-17T20:28:54+00:00",
+      "title": "Humanise policy, says Bernard Otabil",
+      "url": "https://www.myjoyonline.com/humanise-policy-says-bernard-otabil/",
+      "summary": "The Director of Communications of the Bank of Ghana, Mr Bernard Otabil, has urged members of the Bank of Ghana Press Corps to humanise monetary policy and translate technical policy decisions into stories that reflect the lives of ordinary Ghanaians. Mr Otabil",
+      "publishedAt": "2026-10-19T13:35:45+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Ghana needs AI engineers and data scientists, not just computing infrastructure – Hubtel CEO",
-      "url": "https://www.myjoyonline.com/ghana-needs-ai-engineers-and-data-scientists-not-just-computing-infrastructure-hubtel-ceo/",
-      "summary": "The Chief Executive Officer of Hubtel, Alex Bram, has urged the government to match its planned investments in artificial intelligence (AI) infrastructure with funding for specialised training, warning that Ghana’s shortage of skilled professionals could under",
-      "publishedAt": "2026-10-17T20:27:13+00:00",
+      "title": "Ghana to halt raw ore exports by 2030 – President Mahama",
+      "url": "https://www.myjoyonline.com/ghana-to-halt-raw-ore-exports-by-2030-president-mahama/",
+      "summary": "President John Dramani Mahama says Ghana will phase out exports of unprocessed mineral ores by 2030 to promote local processing and retain more economic value from the country’s mineral resources. He said the government would introduce a phased prohibition on ",
+      "publishedAt": "2026-10-19T12:53:00+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
@@ -685,7 +685,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-18T14:22:01.917046+00:00"
+      "fetchedAt": "2026-10-19T17:22:04.458774+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -694,7 +694,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-18T14:22:01.917046+00:00"
+      "fetchedAt": "2026-10-19T17:22:04.458774+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -703,7 +703,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-18T14:22:01.917046+00:00"
+      "fetchedAt": "2026-10-19T17:22:04.458774+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -712,7 +712,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-18T14:22:01.917046+00:00"
+      "fetchedAt": "2026-10-19T17:22:04.458774+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -721,7 +721,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-18T14:22:01.917046+00:00"
+      "fetchedAt": "2026-10-19T17:22:04.458774+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -730,7 +730,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-18T14:22:01.917046+00:00"
+      "fetchedAt": "2026-10-19T17:22:04.458774+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -739,7 +739,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-10-18T14:22:01.917046+00:00"
+      "fetchedAt": "2026-10-19T17:22:04.458774+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -748,7 +748,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-18T14:22:01.917046+00:00"
+      "fetchedAt": "2026-10-19T17:22:04.458774+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -757,7 +757,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-18T14:22:01.917046+00:00"
+      "fetchedAt": "2026-10-19T17:22:04.458774+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -766,7 +766,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-18T14:22:01.917046+00:00"
+      "fetchedAt": "2026-10-19T17:22:04.458774+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -775,7 +775,7 @@
       "kind": "rss",
       "ok": false,
       "error": "HTTP Error 404: Not Found",
-      "fetchedAt": "2026-10-18T14:22:01.917046+00:00"
+      "fetchedAt": "2026-10-19T17:22:04.458774+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -784,7 +784,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-18T14:22:01.917046+00:00"
+      "fetchedAt": "2026-10-19T17:22:04.458774+00:00"
     },
     {
       "name": "Citi Business News",
@@ -793,7 +793,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-18T14:22:01.917046+00:00"
+      "fetchedAt": "2026-10-19T17:22:04.458774+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -802,7 +802,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-18T14:22:01.917046+00:00"
+      "fetchedAt": "2026-10-19T17:22:04.458774+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -811,7 +811,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-18T14:22:01.917046+00:00"
+      "fetchedAt": "2026-10-19T17:22:04.458774+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -820,7 +820,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-18T14:22:01.917046+00:00"
+      "fetchedAt": "2026-10-19T17:22:04.458774+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -829,7 +829,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-18T14:22:01.917046+00:00"
+      "fetchedAt": "2026-10-19T17:22:04.458774+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -838,7 +838,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-18T14:22:01.917046+00:00"
+      "fetchedAt": "2026-10-19T17:22:04.458774+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -847,7 +847,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-18T14:22:01.917046+00:00"
+      "fetchedAt": "2026-10-19T17:22:04.458774+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -856,7 +856,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-18T14:22:01.917046+00:00"
+      "fetchedAt": "2026-10-19T17:22:04.458774+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -865,7 +865,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-18T14:22:01.917046+00:00"
+      "fetchedAt": "2026-10-19T17:22:04.458774+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -874,7 +874,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-10-18T14:22:01.917046+00:00"
+      "fetchedAt": "2026-10-19T17:22:04.458774+00:00"
     }
   ]
 }
