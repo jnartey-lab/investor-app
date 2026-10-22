@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-21T15:52:13.648830+00:00",
-  "generatedAtGhana": "2026-10-21T15:52:13.648830+00:00",
+  "generatedAt": "2026-10-22T15:48:45.589855+00:00",
+  "generatedAtGhana": "2026-10-22T15:48:45.589855+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
@@ -19,14 +19,14 @@
       "url": "https://www.bog.gov.gh/"
     },
     "fx": {
-      "usdGhsMid": 11.6058,
+      "usdGhsMid": 11.655,
       "rateBasis": "public news reported rate",
       "source": "Bank of Ghana Daily Interbank FX Rates",
       "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
       "sourceType": "public_news_fallback",
-      "asOf": "20 Oct 2026",
-      "usdGhsBuying": 11.6,
-      "usdGhsSelling": 11.6116
+      "asOf": "21 Oct 2026",
+      "usdGhsBuying": 11.6492,
+      "usdGhsSelling": 11.6608
     },
     "ghanaStatisticalService": {
       "cpiInflationYoy": 5.2,
@@ -229,7 +229,7 @@
       "category": "Official macro"
     },
     {
-      "title": "Day's Weighted Average Rate Day’s Weighted Median Rate: 11.6058 table.wpDataTable td.numdata { text-align: right !important; } /* buttons font color */ .wpDataTables .wdt-checkbox-filter.btn, .wpDataTables .selecter .selecter-selected, .wdt-frontend-modal .btn:not(.dropdown-toggle), div.dt-button-collection a.dt-button.active:not(.disabled), div.dt-button-collection button.dt-button.active:not(.disabled) { color: #222222 !important; } /** buttons background hover color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { background-color: #ebbd3f !important; background-image: none !important; } /** buttons hover border color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { border-color: #222222 !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } .wpdt-c .wpDataTablesWrapper table.wpDataTable thead tr:nth-child(2) th { overflow: visible; }",
+      "title": "Day's Weighted Average Rate Day’s Weighted Median Rate: 11.6550 table.wpDataTable td.numdata { text-align: right !important; } /* buttons font color */ .wpDataTables .wdt-checkbox-filter.btn, .wpDataTables .selecter .selecter-selected, .wdt-frontend-modal .btn:not(.dropdown-toggle), div.dt-button-collection a.dt-button.active:not(.disabled), div.dt-button-collection button.dt-button.active:not(.disabled) { color: #222222 !important; } /** buttons background hover color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { background-color: #ebbd3f !important; background-image: none !important; } /** buttons hover border color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { border-color: #222222 !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } .wpdt-c .wpDataTablesWrapper table.wpDataTable thead tr:nth-child(2) th { overflow: visible; }",
       "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
       "summary": "",
       "publishedAt": null,
@@ -517,6 +517,62 @@
       "category": "Sovereign credit research"
     },
     {
+      "title": "Eduwatch calls for nationwide audit of teacher-student sexual harassment",
+      "url": "https://www.ghanabusinessnews.com/2026/10/22/eduwatch-calls-for-nationwide-audit-of-teacher-student-sexual-harassment/",
+      "summary": "The Africa Education Watch (Eduwatch), an education policy advocacy organisation, has called for a nationwide audit of teacher-student sexual misconduct and safeguarding systems in all secondary schools to identify institutional weaknesses and strengthen accou",
+      "publishedAt": "2026-10-22T10:40:55+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Professor Ato Quayson inaugurated as fifth Kwame Nkrumah Chair in African Studies",
+      "url": "https://www.ghanabusinessnews.com/2026/10/22/professor-ato-quayson-inaugurated-as-fifth-kwame-nkrumah-chair-in-african-studies/",
+      "summary": "Professor Ato Quayson, a scholar of English and Interdisciplinary Studies at Stanford University, was on Wednesday inaugurated as the fifth Kwame Nkrumah Chair in African Studies at the University of Ghana. The post Professor Ato Quayson inaugurated as fifth K",
+      "publishedAt": "2026-10-22T10:34:33+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Youth group demands transparency in $20m low-carbon cement project",
+      "url": "https://www.ghanabusinessnews.com/2026/10/22/youth-group-demands-transparency-in-20m-low-carbon-cement-project/",
+      "summary": "The Strategic Youth Network for Development (SYND) GenZs have called on the International Finance Corporation (IFC), Continental Blue Investment (CBI) Ghana Limited and the Environmental Protection Authority (EPA) to disclose progress on environmental and soci",
+      "publishedAt": "2026-10-22T10:31:21+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Ghana Publishing expands online access to laws, gazette verification",
+      "url": "https://www.ghanabusinessnews.com/2026/10/22/ghana-publishing-expands-online-access-to-laws-gazette-verification/",
+      "summary": "The Ghana Publishing Company Limited (GPCL) has introduced online ordering of printed laws and digital verification of official gazettes to improve access to authentic government publications. The post Ghana Publishing expands online access to laws, gazette ve",
+      "publishedAt": "2026-10-22T06:29:22+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Woman remanded over boyfriend’s death after alleged stabbing",
+      "url": "https://www.ghanabusinessnews.com/2026/10/22/woman-remanded-over-boyfriends-death-after-alleged-stabbing/",
+      "summary": "Emmanuella Asare, a 19-year-old woman, has been remanded into police custody over the death of her boyfriend, Enoch Abrokwa, following an alleged stabbing. The post Woman remanded over boyfriend’s death after alleged stabbing appeared first on Ghana Business N",
+      "publishedAt": "2026-10-22T06:25:56+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Let the law take its course in Obuasi SHTS sex abuse scandal – Vice President",
+      "url": "https://www.ghanabusinessnews.com/2026/10/22/let-the-law-take-its-course-in-obuasi-shts-sex-abuse-scandal-vice-president/",
+      "summary": "Vice President Professor Jane Naana Opoku-Agyemang has called for due process in investigations into allegations of sexual abuse against Mr Zakaria Abdulai, Headmaster of the Obuasi Senior High Technical School (SHTS), saying the matter is of serious concern t",
+      "publishedAt": "2026-10-22T06:15:31+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "EU is not looking for trade war with China – German Chancellor",
+      "url": "https://www.ghanabusinessnews.com/2026/10/22/eu-is-not-looking-for-trade-war-with-china-german-chancellor/",
+      "summary": "The EU intends to strengthen its defensive instruments in the fight against unfair trade practices by countries such as China. However, German head of government Merz says this does not amount to a conflict or a \"trade war.\" The post EU is not looking for trad",
+      "publishedAt": "2026-10-22T06:03:38+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
       "title": "Global framework launched to track effects of extreme heat on pregnant women and children",
       "url": "https://www.ghanabusinessnews.com/2026/10/21/global-framework-launched-to-track-effects-of-extreme-heat-on-pregnant-women-and-children/",
       "summary": "As extreme heat intensifies around the world, the World Health Organization (WHO), the World Meteorological Organization (WMO), UNICEF and the United Nations Population Fund (UNFPA) today launched the first-ever set of priority indicators to help countries tra",
@@ -525,122 +581,66 @@
       "category": "Business news"
     },
     {
-      "title": "Mining, manufacturing push producer inflation to 4.8%",
-      "url": "https://www.ghanabusinessnews.com/2026/10/21/mining-manufacturing-push-producer-inflation-to-4-8/",
-      "summary": "Producer prices in Ghana rose to 4.8 per cent in September 2026, up from 4.4 per cent in August, the latest Producer Price Index (PPI) released by the Statistical Service disclosed on Tuesday. The post Mining, manufacturing push producer inflation to 4.8% appe",
-      "publishedAt": "2026-10-21T07:05:12+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Ghana is a strategic gateway for business investment in Africa – Turkish Investor",
-      "url": "https://www.ghanabusinessnews.com/2026/10/21/ghana-is-a-strategic-gateway-for-business-investment-in-africa-turkish-investor/",
-      "summary": "Mr Utku Bengisu, a Turkish businessman and President of the World Cooperation Industries (WCI) Forum, has described Ghana as a strategic gateway for foreign investors seeking access to the African market for trade and commerce. The post Ghana is a strategic ga",
-      "publishedAt": "2026-10-21T07:01:33+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "NDPC boss pushes for evidence-based planning to drive inclusive development",
-      "url": "https://www.ghanabusinessnews.com/2026/10/21/ndpc-boss-pushes-for-evidence-based-planning-to-drive-inclusive-development/",
-      "summary": "Dr Audrey Smock Amoah, Director-General of the National Development Planning Commission (NDPC), has called on stakeholders within the evaluation community to deepen the use of evaluation evidence in national development planning to enhance policy implementatio",
-      "publishedAt": "2026-10-21T06:46:16+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Cape Coast Assembly disburses GH¢680,084 disability funds",
-      "url": "https://www.ghanabusinessnews.com/2026/10/21/cape-coast-assembly-disburses-gh%c2%a2680084-disability-funds/",
-      "summary": "The Cape Coast Metropolitan Assembly (CCMA) has disbursed an amount of GH¢680,084.25 as its 2026 District Assemblies’ Common Fund (DACF) disability allocation for 208 Persons with Disabilities (PWDs) and Associations in the Metropolis. The post Cape Coast Asse",
-      "publishedAt": "2026-10-21T06:44:00+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "CHASS demands prompt release of free SHS funds, payment of arrears",
-      "url": "https://www.ghanabusinessnews.com/2026/10/21/chass-demands-prompt-release-of-free-shs-funds-payment-of-arrears/",
-      "summary": "The Conference of Heads of Assisted Secondary Schools (CHASS) has urged the Government to release funds to senior high schools promptly, settle outstanding arrears and review tax and procurement measures it says are placing additional financial pressure on sch",
-      "publishedAt": "2026-10-21T06:40:57+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Volkswagen recalls over 70,000 EVs worldwide due to faulty batteries",
-      "url": "https://www.ghanabusinessnews.com/2026/10/21/volkswagen-recalls-over-70000-evs-worldwide-due-to-faulty-batteries/",
-      "summary": "Volkswagen has issued a recall for nearly 72,700 electric vehicles due to faulty batteries, according to data from the German Federal Motor Transport Authority (KBA) published on Tuesday. The post Volkswagen recalls over 70,000 EVs worldwide due to faulty batt",
-      "publishedAt": "2026-10-21T06:38:26+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Women groups condemn Obuasi SHTS sexual abuse scandal",
-      "url": "https://www.ghanabusinessnews.com/2026/10/21/women-groups-condemn-obuasi-shts-sexual-abuse-scandal/",
-      "summary": "The Network of Peace and Security Women in the ECOWAS Space (NOPSWECO-Ghana) and the Working Group on Women, Youth, Peace and Security (WGWYPS) have condemned allegations of sexual abuse and rape involving female students of Obuasi Senior High Technical School",
-      "publishedAt": "2026-10-21T06:34:13+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "GH¢24.8bn paid to statutory funds on time and in full — Ato Forson",
-      "url": "https://www.myjoyonline.com/gh%c2%a224-8bn-paid-to-statutory-funds-on-time-and-in-full-ato-forson/",
-      "summary": "According to him, the payments reflect a departure from the delays, capping and arrears that previously affected the release of statutory funds.",
-      "publishedAt": "2026-10-21T13:56:44+00:00",
+      "title": "We’re mining actively; it’s untrue that we’re only treating existing stockpiles – Damang Gold Mine Manager",
+      "url": "https://www.myjoyonline.com/were-mining-actively-its-untrue-that-were-only-treating-existing-stockpiles-damang-gold-mine-manager/",
+      "summary": "Damang Gold Mine Ltd’s Manager of Mining, Frank Dankyi Agyei, has dismissed claims that the mine is relying solely on existing stockpiles for its operations, insisting that active mining is ongoing at multiple pits.",
+      "publishedAt": "2026-10-22T15:17:28+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Macroprudential assessment shows systemic vulnerabilities within banking industry remain subdued – BoG",
-      "url": "https://www.myjoyonline.com/macroprudential-assessment-shows-systemic-vulnerabilities-within-banking-industry-remain-subdued-bog/",
-      "summary": "According to the Bank of Ghana, the macro-financial risks remained contained on account of favourable macroeconomic conditions, declining sovereign risk perceptions, and strengthening investor confidence, thereby diminishing the risk of capital flight.",
-      "publishedAt": "2026-10-21T13:46:32+00:00",
+      "title": "Chief of Staff calls for more transparency in delivery of public private partnership projects",
+      "url": "https://www.myjoyonline.com/chief-of-staff-calls-for-more-transparency-in-delivery-of-public-private-partnership-projects/",
+      "summary": "Speaking at the summit, Dr. Debrah said this is critical to safeguard expenditure and ensure timely delivery of infrastructure for citizens.",
+      "publishedAt": "2026-10-22T12:53:27+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Size of Ghana’s economy to hit $128bn, maintaining 8th largest economy in Africa",
-      "url": "https://www.myjoyonline.com/size-of-ghanas-economy-to-hit-128bn-maintaining-8th-largest-economy-in-africa/",
-      "summary": "This means the size of the Ghanaian economy will take a quantum leap from the earlier $114.71 billion.",
-      "publishedAt": "2026-10-21T13:33:05+00:00",
+      "title": "Overdependence on gold, cocoa leaves Ghana exposed to changes in global commodity prices – ISSER",
+      "url": "https://www.myjoyonline.com/overdependence-on-gold-cocoa-leaves-ghana-exposed-to-changes-in-global-commodity-prices-isser/",
+      "summary": "“A strong trade surplus does not necessarily indicate that the economy has become more diversified or internationally competitive”, it warned.",
+      "publishedAt": "2026-10-22T12:43:54+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "YEA targets 11,200 beneficiaries under US$3.6m AfDB-backed programme",
-      "url": "https://www.myjoyonline.com/yea-targets-11200-beneficiaries-under-us3-6m-afdb-backed-programme/",
-      "summary": "The Youth Employment Agency (YEA) is preparing to train and create employment opportunities for 11,200 beneficiaries under the Ghana Women and Youth Employment and Social Cohesion Programme (GWYESCO), with approximately US$3.6 million earmarked for the Agency.",
-      "publishedAt": "2026-10-21T12:04:08+00:00",
+      "title": "Ghana’s fiscal consolidation in 2025 largely driven by expenditure restraint, not revenue growth – ISSER",
+      "url": "https://www.myjoyonline.com/ghanas-fiscal-consolidation-in-2025-largely-driven-by-expenditure-restraint-not-revenue-growth-isser/",
+      "summary": "According to the economic research firm of the University of Ghana, though smaller deficits and lower debt reduce pressure on government financing and create conditions for greater macroeconomic stability, fiscal adjustment achieved through sharp reductions in",
+      "publishedAt": "2026-10-22T12:17:50+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Daily Insight for CEOs: Aligning Resources with Strategic Ambition.",
-      "url": "https://www.myjoyonline.com/daily-insight-for-ceos-aligning-resources-with-strategic-ambition/",
-      "summary": "An organisation cannot achieve its strategic ambitions if its resources remain tied to outdated priorities. CEOs must ensure that budgets, talent, technology, and operational capacity are aligned with the results the organisation intends to deliver.",
-      "publishedAt": "2026-10-21T10:08:08+00:00",
+      "title": "Financial performance as collateral: First National Bank expands access to unsecured business finance",
+      "url": "https://www.myjoyonline.com/financial-performance-as-collateral-first-national-bank-expands-access-to-unsecured-business-finance/",
+      "summary": "Access to finance remains one of the biggest challenges facing small and medium-sized enterprises (SMEs), often due to limited collateral and inadequate financial records. In response, First National Bank is making it easier for qualifying businesses to obtain",
+      "publishedAt": "2026-10-22T11:59:35+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Affo-Toffey welcomes Phase II agreement for US$28bn Petroleum Hub Project, pushes for local benefits",
-      "url": "https://www.myjoyonline.com/affo-toffey-welcomes-phase-ii-agreement-for-us28bn-petroleum-hub-project-pushes-for-local-benefits/",
-      "summary": "The Deputy Minister for Transport, Dorcas Affo-Toffey, welcomed the signing of the Phase II agreement for Ghana’s US$28 billion Petroleum Hub Project, calling it a major opportunity to create jobs and stimulate local economic growth.",
-      "publishedAt": "2026-10-21T09:43:45+00:00",
+      "title": "Sustain economic stability, expand productive employment and create better jobs – ISSER to government",
+      "url": "https://www.myjoyonline.com/sustain-economic-stability-expand-productive-employment-and-create-better-jobs-isser-to-government/",
+      "summary": "In its State of Ghana Economic Report (SGER), ISSER said Ghana’s macroeconomic recovery gained momentum in 2025, but growth remained uneven across sector.",
+      "publishedAt": "2026-10-22T11:48:37+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "ADB crowned Best Bank in Service Quality, excels in Customer Satisfaction and Loyalty",
-      "url": "https://www.myjoyonline.com/adb-crowned-best-bank-in-service-quality-excels-in-customer-satisfaction-and-loyalty/",
-      "summary": "Agricultural Development Bank (ADB) PLC has reinforced its reputation as a customer-focused financial institution, emerging as the Best Bank in Service Quality, Business Banking Category, at the Chartered Institute of Marketing, Ghana (CIMG) Annual National Ma",
-      "publishedAt": "2026-10-21T09:27:24+00:00",
+      "title": "Uganda Airlines to deploy Boeing 737-800 on four weekly Accra flights",
+      "url": "https://www.myjoyonline.com/uganda-airlines-to-deploy-boeing-737-800-on-four-weekly-accra-flights/",
+      "summary": "Uganda Airlines will deploy a Boeing 737-800 on its new four-times-weekly service to Accra from October 27, expanding its West African presence and adding capacity to air links between Ghana and East Africa.",
+      "publishedAt": "2026-10-22T09:13:00+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Absa Place achieves IFC EDGE Advanced Green Building Certification",
-      "url": "https://www.myjoyonline.com/absa-place-achieves-ifc-edge-advanced-green-building-certification/",
-      "summary": "Absa Bank Ghana LTD’s new headquarters, Absa Place, has achieved EDGE Advanced certification from the International Finance Corporation (IFC), recognising the building’s high standards of energy and water efficiency.",
-      "publishedAt": "2026-10-21T08:51:07+00:00",
+      "title": "Advans Ghana, Group leadership visit BoG Governor",
+      "url": "https://www.myjoyonline.com/advans-ghana-group-leadership-visit-bog-governor/",
+      "summary": "Advans Group and Advans Ghana Savings and Loans Ltd., have reaffirmed their commitment to responsible finance and financial inclusion following a courtesy call on the Governor of the Bank of Ghana, Dr. Johnson P. Asiama during Advans Group Board Week 2026 from",
+      "publishedAt": "2026-10-22T08:47:31+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
@@ -661,7 +661,7 @@
       "category": "Public FX fallback"
     },
     {
-      "title": "Cedi depreciates by 7.11% against dollar in August 2026 – BoG report",
+      "title": "Cedi extends three-week rally as GoldBod dollar supply boosts liquidity",
       "url": "https://www.myjoyonline.com/?s=cedi+dollar",
       "summary": "",
       "publishedAt": null,
@@ -669,7 +669,7 @@
       "category": "Public FX fallback"
     },
     {
-      "title": "Cedi edges higher as GoldBod boosts dollar supply to banks",
+      "title": "Cedi depreciates by 7.11% against dollar in August 2026 – BoG report",
       "url": "https://www.myjoyonline.com/?s=cedi+dollar",
       "summary": "",
       "publishedAt": null,
@@ -685,7 +685,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-21T15:52:13.648830+00:00"
+      "fetchedAt": "2026-10-22T15:48:45.589855+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -694,7 +694,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-21T15:52:13.648830+00:00"
+      "fetchedAt": "2026-10-22T15:48:45.589855+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -703,7 +703,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-21T15:52:13.648830+00:00"
+      "fetchedAt": "2026-10-22T15:48:45.589855+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -712,7 +712,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-21T15:52:13.648830+00:00"
+      "fetchedAt": "2026-10-22T15:48:45.589855+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -721,7 +721,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-21T15:52:13.648830+00:00"
+      "fetchedAt": "2026-10-22T15:48:45.589855+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -730,7 +730,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-21T15:52:13.648830+00:00"
+      "fetchedAt": "2026-10-22T15:48:45.589855+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -739,7 +739,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-10-21T15:52:13.648830+00:00"
+      "fetchedAt": "2026-10-22T15:48:45.589855+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -748,7 +748,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-21T15:52:13.648830+00:00"
+      "fetchedAt": "2026-10-22T15:48:45.589855+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -757,7 +757,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-21T15:52:13.648830+00:00"
+      "fetchedAt": "2026-10-22T15:48:45.589855+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -766,7 +766,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-21T15:52:13.648830+00:00"
+      "fetchedAt": "2026-10-22T15:48:45.589855+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -775,7 +775,7 @@
       "kind": "rss",
       "ok": false,
       "error": "HTTP Error 404: Not Found",
-      "fetchedAt": "2026-10-21T15:52:13.648830+00:00"
+      "fetchedAt": "2026-10-22T15:48:45.589855+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -784,7 +784,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-21T15:52:13.648830+00:00"
+      "fetchedAt": "2026-10-22T15:48:45.589855+00:00"
     },
     {
       "name": "Citi Business News",
@@ -793,7 +793,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-21T15:52:13.648830+00:00"
+      "fetchedAt": "2026-10-22T15:48:45.589855+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -802,7 +802,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-21T15:52:13.648830+00:00"
+      "fetchedAt": "2026-10-22T15:48:45.589855+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -811,7 +811,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-21T15:52:13.648830+00:00"
+      "fetchedAt": "2026-10-22T15:48:45.589855+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -820,7 +820,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-21T15:52:13.648830+00:00"
+      "fetchedAt": "2026-10-22T15:48:45.589855+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -829,7 +829,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-21T15:52:13.648830+00:00"
+      "fetchedAt": "2026-10-22T15:48:45.589855+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -838,7 +838,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-21T15:52:13.648830+00:00"
+      "fetchedAt": "2026-10-22T15:48:45.589855+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -847,7 +847,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-21T15:52:13.648830+00:00"
+      "fetchedAt": "2026-10-22T15:48:45.589855+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -856,7 +856,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-21T15:52:13.648830+00:00"
+      "fetchedAt": "2026-10-22T15:48:45.589855+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -865,7 +865,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-21T15:52:13.648830+00:00"
+      "fetchedAt": "2026-10-22T15:48:45.589855+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -874,7 +874,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-10-21T15:52:13.648830+00:00"
+      "fetchedAt": "2026-10-22T15:48:45.589855+00:00"
     }
   ]
 }
