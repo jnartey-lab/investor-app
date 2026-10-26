@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-25T14:53:38.885191+00:00",
-  "generatedAtGhana": "2026-10-25T14:53:38.885191+00:00",
+  "generatedAt": "2026-10-26T17:10:38.954799+00:00",
+  "generatedAtGhana": "2026-10-26T17:10:38.954799+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
     "gseIndices": {
-      "asOf": "23/10/2026",
-      "composite": 14107.58,
-      "financialStocks": 7428.53,
+      "asOf": "26/10/2026",
+      "composite": 14014.16,
+      "financialStocks": 7353.38,
       "source": "Ghana Stock Exchange",
       "url": "https://gse.com.gh/"
     },
@@ -24,7 +24,7 @@
       "source": "Bank of Ghana Daily Interbank FX Rates",
       "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
       "sourceType": "public_news_fallback",
-      "asOf": "23 Oct 2026",
+      "asOf": "26 Oct 2026",
       "usdGhsBuying": 11.6442,
       "usdGhsSelling": 11.6558
     },
@@ -517,6 +517,62 @@
       "category": "Sovereign credit research"
     },
     {
+      "title": "TOR briefs IMF on recovery efforts, inherited debt, sustainability plans",
+      "url": "https://www.ghanabusinessnews.com/2026/10/26/tor-briefs-imf-on-recovery-efforts-inherited-debt-sustainability-plans/",
+      "summary": "The Tema Oil Refinery (TOR) has briefed a delegation from the International Monetary Fund (IMF) on its operational recovery efforts, inherited debt obligations and plans to improve financial sustainability. The post TOR briefs IMF on recovery efforts, inherite",
+      "publishedAt": "2026-10-26T07:25:55+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "China’s zero-tariff policy could drive manufacturing and value addition in Ghana – Ambassador",
+      "url": "https://www.ghanabusinessnews.com/2026/10/26/chinas-zero-tariff-policy-could-drive-manufacturing-and-value-addition-in-ghana-ambassador/",
+      "summary": "Mr Cong Song, China’s Ambassador to Ghana, said China’s zero-tariff policy can support manufacturing and local processing in Ghana by improving the commercial case for producing value-added goods for the Chinese market. The post China’s zero-tariff policy coul",
+      "publishedAt": "2026-10-26T07:20:12+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "MCAG apprehensive over non-performing loans, strategises for redress – Director",
+      "url": "https://www.ghanabusinessnews.com/2026/10/26/mcag-apprehensive-over-non-performing-loans-strategises-for-redress-director/",
+      "summary": "Mr Ebenezer Quartey, Executive Director of Microfinance Association Ghana has said the Association is apprehensive about the rising non-performing loans as a serious concern not only for micro-credit institutions, but for Ghana's wider banking and financial se",
+      "publishedAt": "2026-10-26T07:09:13+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Nurse rescues mother, newborn after unplanned delivery in bush",
+      "url": "https://www.ghanabusinessnews.com/2026/10/26/nurse-rescues-mother-newborn-after-unplanned-delivery-in-bush/",
+      "summary": "Ms Esther Ali, a Community Health Nurse (CHN) at the Pumpungu Community-based Health Planning and Services (CHPS) compound in the Bolgatanga Municipality, has helped save the lives of a mother and her newborn after the baby was unexpectedly delivered at home b",
+      "publishedAt": "2026-10-26T06:48:23+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Aseidu Nketia urges NDC aspirants to unite after constituency elections",
+      "url": "https://www.ghanabusinessnews.com/2026/10/26/aseidu-nketia-urges-ndc-aspirants-to-unite-after-constituency-elections/",
+      "summary": "Mr Johnson Asiedu Nketia, National Chairman of the National Democratic Congress (NDC), has urged aspirants in the party’s constituency executive elections to accept the outcomes and work together to strengthen the party. The post Aseidu Nketia urges NDC aspira",
+      "publishedAt": "2026-10-26T06:45:21+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "From family tradition to market competition: What makes brands endure in Ghana",
+      "url": "https://www.ghanabusinessnews.com/2026/10/26/from-family-tradition-to-market-competition-what-makes-brands-endure-in-ghana/",
+      "summary": "President John Dramani Mahama has described Nestlé Ghana Limited as an institution deeply woven into the lives of generations of Ghanaians, recalling how Ideal Milk, alongside Milo, Cerelac, Nescafé and Carnation, had become familiar products in households acr",
+      "publishedAt": "2026-10-26T06:39:23+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Rejoinder: I am not on the run",
+      "url": "https://www.ghanabusinessnews.com/2026/10/26/rejoinder-i-am-not-on-the-run/",
+      "summary": "One of the respondents in a land dispute before an Accra Circuit Court, Samuel Essuman writes this rejoinder disputing a news report on the case that said he was on the run. The post Rejoinder: I am not on the run appeared first on Ghana Business News .",
+      "publishedAt": "2026-10-26T05:35:31+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
       "title": "UPSA targets 30% local production of laptop components in three years",
       "url": "https://www.ghanabusinessnews.com/2026/10/25/upsa-targets-30-local-production-of-laptop-components-in-three-years/",
       "summary": "The University of Professional Studies, Accra (UPSA) plans to produce about 30 per cent of the components used in assembling its laptops locally within the next three years. The post UPSA targets 30% local production of laptop components in three years appeare",
@@ -525,122 +581,66 @@
       "category": "Business news"
     },
     {
-      "title": "German foreign minister says shipping disruptions resulting from conflicts could lead to famine",
-      "url": "https://www.ghanabusinessnews.com/2026/10/25/german-foreign-minister-says-shipping-disruptions-resulting-from-conflicts-could-lead-to-famine/",
-      "summary": "German Foreign Minister Johann Wadephul on Friday called for joint action to protect international shipping routes ahead of talks with counterparts from seven countries in Istanbul. The post German foreign minister says shipping disruptions resulting from conf",
-      "publishedAt": "2026-10-25T12:32:47+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Localize tourism for communities to benefit",
-      "url": "https://www.ghanabusinessnews.com/2026/10/25/localize-tourism-for-communities-to-benefit/",
-      "summary": "There is a special kind of tourism that does more than entertain—it uplifts households. It turns history into income, communities into champions, and visitors into supporters who spend long after they leave. The post Localize tourism for communities to benefit",
-      "publishedAt": "2026-10-25T12:24:25+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Cancer patients benefit from Ghana Medical Trust Fund – Surgeon",
-      "url": "https://www.ghanabusinessnews.com/2026/10/25/cancer-patients-benefit-from-ghana-medical-trust-fund-surgeon/",
-      "summary": "Dr Victor Dassah, a Surgeon at the Upper East Regional Hospital, has commended the Ghana Medical Trust Fund (GMTF) for extending its support to cancer patients. The post Cancer patients benefit from Ghana Medical Trust Fund – Surgeon appeared first on Ghana Bu",
-      "publishedAt": "2026-10-25T11:59:23+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Director appeals for oncology unit for the Upper East Regional Hospital",
-      "url": "https://www.ghanabusinessnews.com/2026/10/25/director-appeals-for-oncology-unit-for-the-upper-east-regional-hospital/",
-      "summary": "Dr Joseph Kojo Tambil, the Director of the Upper East Regional Hospital has appealed for the establishment of an oncology unit and other specialized diagnostic facilities to improve cancer care to reduce referrals to other health facilities. The post Director ",
-      "publishedAt": "2026-10-25T11:47:11+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Uganda Revenue Authority delegation visits TOR to study refining operations",
-      "url": "https://www.ghanabusinessnews.com/2026/10/25/uganda-revenue-authority-delegation-visits-tor-to-study-refining-operations/",
-      "summary": "A delegation from the Uganda Revenue Authority (URA) has visited the Tema Oil Refinery (TOR) to learn from Ghana's crude oil refining experience as Uganda advances plans to establish its own refinery. The post Uganda Revenue Authority delegation visits TOR to ",
-      "publishedAt": "2026-10-25T11:34:07+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Study highlights gaps in readiness for AI adoption across African Universities",
-      "url": "https://www.ghanabusinessnews.com/2026/10/24/study-highlights-gaps-in-readiness-for-ai-adoption-across-african-universities/",
-      "summary": "A study involving researchers from the College of Science, Kwame Nkrumah University of Science and Technology (KNUST), has found that African universities face significant challenges integrating Artificial Intelligence (AI) into higher education. The post Stud",
-      "publishedAt": "2026-10-24T05:44:45+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Micro-Credit Association Ghana mobilises GH¢3.534m in 2025",
-      "url": "https://www.ghanabusinessnews.com/2026/10/24/micro-credit-association-ghana-mobilises-gh%c2%a23-534m-in-2025/",
-      "summary": "Micro-Credit Association Ghana (MCAG) has recorded a total income of GH¢3.534 million in 2025, up from GH¢2.433 million in 2024, which constitute an increase of approximately 45 per cent. The post Micro-Credit Association Ghana mobilises GH¢3.534m in 2025 appe",
-      "publishedAt": "2026-10-24T05:41:44+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Art can give ecological restoration a local voice – World Resources Institute",
-      "url": "https://www.myjoyonline.com/art-can-give-ecological-restoration-a-local-voice-world-resources-institute/",
-      "summary": "The World Resources Institute (WRI) says art and culture can help make ecological restoration more meaningful to local communities. This is according to the institute’s Landscape Restoration Manager for the Ghana Cocoa Belt, Eric Lartey, who made this known at",
-      "publishedAt": "2026-10-25T12:48:47+00:00",
+      "title": "MIIF, Forestry Commission partner to reforest Subri Forest Reserve",
+      "url": "https://www.myjoyonline.com/miif-forestry-commission-partner-to-reforest-subri-forest-reserve/",
+      "summary": "The Minerals Income Investment Fund (MIIF), with support from Zijin Golden Ridge Limited, Ghana International Bank and three other financial institutions has partnered with the Forestry Commission of Ghana to rehabilitate and restore 50 acres of degraded land ",
+      "publishedAt": "2026-10-26T15:14:28+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Trade Minister urges laboratories, factories to work as partners",
-      "url": "https://www.myjoyonline.com/trade-minister-urges-laboratories-factories-to-work-as-partners/",
-      "summary": "The Minister for Trade, Agribusiness and Industry, Elizabeth Ofosu-Adjare, has called for stronger collaboration between research laboratories and factories to enable Ghana to produce more of the goods it consumes and expand its manufacturing capacity.",
-      "publishedAt": "2026-10-24T21:39:03+00:00",
+      "title": "Time to reform the Ghana Reference Rate: From Treasury Bill Yields to Banks’ Deposit Costs",
+      "url": "https://www.myjoyonline.com/time-to-reform-the-ghana-reference-rate-from-treasury-bill-yields-to-banks-deposit-costs-2/",
+      "summary": "For businesses borrowing to buy equipment, restock a shop or meet payroll, the price of credit affects everyday decisions. The Ghana Reference Rate (GRR) provides a common starting point for that price. Its usefulness depends on whether the formula reflects fi",
+      "publishedAt": "2026-10-26T14:38:19+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "MOMO FinTech Lab backs young innovators in northern Ghana",
-      "url": "https://www.myjoyonline.com/momo-fintech-lab-backs-young-innovators-in-northern-ghana/",
-      "summary": "Young innovators in northern Ghana are getting an opportunity to turn ideas into technology-driven solutions to local challenges, as MOMO FinTech steps up efforts to nurture talent beyond Accra and develop the next generation of financial technology entreprene",
-      "publishedAt": "2026-10-24T06:08:10+00:00",
+      "title": "Government is taking poultry sector seriously – Dumelo",
+      "url": "https://www.myjoyonline.com/government-is-taking-poultry-sector-seriously-dumelo/",
+      "summary": "Deputy Minister of Food and Agriculture John Dumelo says the government is taking the country’s poultry sector seriously and is committed to addressing challenges affecting local production.",
+      "publishedAt": "2026-10-26T14:03:28+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "CBG calls for increased climate finance to scale nature-based solutions in Ghana",
-      "url": "https://www.myjoyonline.com/cbg-calls-for-increased-climate-finance-to-scale-nature-based-solutions-in-ghana/",
-      "summary": "Consolidated Bank Ghana (CBG) has identified limited access to finance, grants and donor support as major barriers to scaling up nature-based solutions in Ghana and across Africa. The bank’s Head of Sustainable Financing and Impact Department, Mrs Eva Ackuaku,",
-      "publishedAt": "2026-10-23T16:11:06+00:00",
+      "title": "Republic Bank Ghana wins climate finance award at WSBI-ESBG SDG Awards in Bangkok",
+      "url": "https://www.myjoyonline.com/republic-bank-ghana-wins-climate-finance-award-at-wsbi-esbg-sdg-awards-in-bangkok/",
+      "summary": "Republic Bank (Ghana) PLC has received recognition in the Climate Finance category at the WSBI-ESBG SDG Awards in Bangkok, Thailand, which happened alongside the 2026 IMF Annual Meeting, for its investment in water projects across four locations in Ghana. The ",
+      "publishedAt": "2026-10-26T14:00:06+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "GCB Bank warns customers against scams, urges the public to verify before clicking links",
-      "url": "https://www.myjoyonline.com/gcb-bank-warns-customers-against-scams-urges-the-public-to-verify-before-clicking-links/",
-      "summary": "GCB Bank PLC has urged the public to be vigilant against financial scams, warning customers not to share their passwords, personal identification numbers (PINs), and card details with people claiming to represent banks and other trusted institutions.",
-      "publishedAt": "2026-10-23T14:12:26+00:00",
+      "title": "TOR records GH¢1.24bn profit in 2025 after a decade of losses",
+      "url": "https://www.myjoyonline.com/tor-records-gh%c2%a21-24bn-profit-in-2025-after-a-decade-of-losses/",
+      "summary": "The Tema Oil Refinery (TOR) recorded a profit before tax of GH¢1.24 billion in 2025, marking its first return to profitability in a decade, Managing Director Edmond Kombat has disclosed.",
+      "publishedAt": "2026-10-26T13:39:24+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Petra Pension Schemes record returns of up to 15.63%",
-      "url": "https://www.myjoyonline.com/petra-pension-schemes-record-returns-of-up-to-15-63/",
-      "summary": "Petra Master Trust says its pension schemes have recorded returns of up to 15.63%, exceeding inflation and helping preserve contributors’ purchasing power. Speaking at the Petra Master Trust Scheme Annual General Meeting, Head of Portfolio Management and Opera",
-      "publishedAt": "2026-10-23T14:06:59+00:00",
+      "title": "We are spending where it matters most, five statutory funds paid in full – Ato Forson",
+      "url": "https://www.myjoyonline.com/we-are-spending-where-it-matters-most-five-statutory-funds-paid-in-full-ato-forson/",
+      "summary": "Finance Minister Dr. Cassiel Ato Forson says the government is directing spending towards essential services Ghanaians rely on, following the timely and full payment of third-quarter allocations to five statutory funds.",
+      "publishedAt": "2026-10-26T13:39:14+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "2026 Luv FM-Republic Bank Habitat Fair launched to offer homeownership solutions in Kumasi",
-      "url": "https://www.myjoyonline.com/2026-luv-fm-republic-bank-habitat-fair-launched-to-offer-homeownership-solutions-in-kumasi/",
-      "summary": "The 2026 edition of the Republic Bank Luv FM Habitat Fair has been launched with a target to make homeownership accessible to the average Ghanaian.",
-      "publishedAt": "2026-10-23T12:52:05+00:00",
+      "title": "CICMG calls for flexible lending conditions to expand credit access",
+      "url": "https://www.myjoyonline.com/cicmg-calls-for-flexible-lending-conditions-to-expand-credit-access/",
+      "summary": "The Chartered Institute of Credit Management, Ghana (CICMG), is calling for more flexible lending conditions, increased credit capital and stronger financial literacy programmes to improve access to finance for small and medium-sized enterprises (SMEs) and inf",
+      "publishedAt": "2026-10-26T13:33:12+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Ghana, 2 others offer vehicle assembly growth in Sub-Saharan Africa – Fitch Solutions",
-      "url": "https://www.myjoyonline.com/ghana-2-others-offer-vehicle-assembly-growth-in-sub-saharan-africa-fitch-solutions/",
-      "summary": "According to Fitch Solutions, Ghana are best positioned to attract new assembly investment over the medium term in Sub-Saharan Africa.",
-      "publishedAt": "2026-10-23T12:02:27+00:00",
+      "title": "Afreximbank records net income growth of 24% to US$813.5m; assets and contingencies exceed US$54.1bn",
+      "url": "https://www.myjoyonline.com/afreximbank-records-net-income-growth-of-24-to-us813-5m-assets-and-contingencies-exceed-us54-1bn/",
+      "summary": "Commenting on the results, Denys Denya, Afreximbank's Senior Executive Vice President, said, “This performance underscores Afreximbank’s ability to deliver strong and sustainable performance while continuing to fulfil its development mandate across Africa and ",
+      "publishedAt": "2026-10-26T13:27:50+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
@@ -685,7 +685,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-25T14:53:38.885191+00:00"
+      "fetchedAt": "2026-10-26T17:10:38.954799+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -694,7 +694,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-25T14:53:38.885191+00:00"
+      "fetchedAt": "2026-10-26T17:10:38.954799+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -703,7 +703,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-25T14:53:38.885191+00:00"
+      "fetchedAt": "2026-10-26T17:10:38.954799+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -712,7 +712,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-25T14:53:38.885191+00:00"
+      "fetchedAt": "2026-10-26T17:10:38.954799+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -721,7 +721,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-25T14:53:38.885191+00:00"
+      "fetchedAt": "2026-10-26T17:10:38.954799+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -730,7 +730,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-25T14:53:38.885191+00:00"
+      "fetchedAt": "2026-10-26T17:10:38.954799+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -739,7 +739,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-10-25T14:53:38.885191+00:00"
+      "fetchedAt": "2026-10-26T17:10:38.954799+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -748,7 +748,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-25T14:53:38.885191+00:00"
+      "fetchedAt": "2026-10-26T17:10:38.954799+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -757,7 +757,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-25T14:53:38.885191+00:00"
+      "fetchedAt": "2026-10-26T17:10:38.954799+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -766,7 +766,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-25T14:53:38.885191+00:00"
+      "fetchedAt": "2026-10-26T17:10:38.954799+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -775,7 +775,7 @@
       "kind": "rss",
       "ok": false,
       "error": "HTTP Error 404: Not Found",
-      "fetchedAt": "2026-10-25T14:53:38.885191+00:00"
+      "fetchedAt": "2026-10-26T17:10:38.954799+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -784,7 +784,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-25T14:53:38.885191+00:00"
+      "fetchedAt": "2026-10-26T17:10:38.954799+00:00"
     },
     {
       "name": "Citi Business News",
@@ -793,7 +793,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-25T14:53:38.885191+00:00"
+      "fetchedAt": "2026-10-26T17:10:38.954799+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -802,7 +802,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-25T14:53:38.885191+00:00"
+      "fetchedAt": "2026-10-26T17:10:38.954799+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -811,7 +811,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-25T14:53:38.885191+00:00"
+      "fetchedAt": "2026-10-26T17:10:38.954799+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -820,7 +820,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-25T14:53:38.885191+00:00"
+      "fetchedAt": "2026-10-26T17:10:38.954799+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -829,7 +829,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-25T14:53:38.885191+00:00"
+      "fetchedAt": "2026-10-26T17:10:38.954799+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -838,7 +838,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-25T14:53:38.885191+00:00"
+      "fetchedAt": "2026-10-26T17:10:38.954799+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -847,7 +847,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-25T14:53:38.885191+00:00"
+      "fetchedAt": "2026-10-26T17:10:38.954799+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -856,7 +856,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-25T14:53:38.885191+00:00"
+      "fetchedAt": "2026-10-26T17:10:38.954799+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -865,7 +865,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-25T14:53:38.885191+00:00"
+      "fetchedAt": "2026-10-26T17:10:38.954799+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -874,7 +874,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-10-25T14:53:38.885191+00:00"
+      "fetchedAt": "2026-10-26T17:10:38.954799+00:00"
     }
   ]
 }
