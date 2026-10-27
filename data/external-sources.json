@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-26T17:10:38.954799+00:00",
-  "generatedAtGhana": "2026-10-26T17:10:38.954799+00:00",
+  "generatedAt": "2026-10-27T16:16:29.402661+00:00",
+  "generatedAtGhana": "2026-10-27T16:16:29.402661+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
@@ -19,14 +19,14 @@
       "url": "https://www.bog.gov.gh/"
     },
     "fx": {
-      "usdGhsMid": 11.65,
+      "usdGhsMid": 11.66,
       "rateBasis": "public news reported rate",
       "source": "Bank of Ghana Daily Interbank FX Rates",
       "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
       "sourceType": "public_news_fallback",
-      "asOf": "26 Oct 2026",
-      "usdGhsBuying": 11.6442,
-      "usdGhsSelling": 11.6558
+      "asOf": "27 Oct 2026",
+      "usdGhsBuying": 11.6542,
+      "usdGhsSelling": 11.6658
     },
     "ghanaStatisticalService": {
       "cpiInflationYoy": 5.2,
@@ -229,7 +229,7 @@
       "category": "Official macro"
     },
     {
-      "title": "Day's Weighted Average Rate Day’s Weighted Median Rate: 11.6500 table.wpDataTable td.numdata { text-align: right !important; } /* buttons font color */ .wpDataTables .wdt-checkbox-filter.btn, .wpDataTables .selecter .selecter-selected, .wdt-frontend-modal .btn:not(.dropdown-toggle), div.dt-button-collection a.dt-button.active:not(.disabled), div.dt-button-collection button.dt-button.active:not(.disabled) { color: #222222 !important; } /** buttons background hover color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { background-color: #ebbd3f !important; background-image: none !important; } /** buttons hover border color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { border-color: #222222 !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } .wpdt-c .wpDataTablesWrapper table.wpDataTable thead tr:nth-child(2) th { overflow: visible; }",
+      "title": "Day's Weighted Average Rate Day’s Weighted Median Rate: 11.6600 table.wpDataTable td.numdata { text-align: right !important; } /* buttons font color */ .wpDataTables .wdt-checkbox-filter.btn, .wpDataTables .selecter .selecter-selected, .wdt-frontend-modal .btn:not(.dropdown-toggle), div.dt-button-collection a.dt-button.active:not(.disabled), div.dt-button-collection button.dt-button.active:not(.disabled) { color: #222222 !important; } /** buttons background hover color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { background-color: #ebbd3f !important; background-image: none !important; } /** buttons hover border color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { border-color: #222222 !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } .wpdt-c .wpDataTablesWrapper table.wpDataTable thead tr:nth-child(2) th { overflow: visible; }",
       "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
       "summary": "",
       "publishedAt": null,
@@ -517,6 +517,22 @@
       "category": "Sovereign credit research"
     },
     {
+      "title": "North- East Region turns to solar power water system to tackle climate change",
+      "url": "https://www.ghanabusinessnews.com/2026/10/27/north-east-region-turns-to-solar-power-water-system-to-tackle-climate-change/",
+      "summary": "The North-East Regional Coordinating Council is promoting solar-powered water systems and dry-season farming to help communities adapt to climate change, as rivers dry up and traditional sources of irrigation become increasingly unreliable. The post North- Eas",
+      "publishedAt": "2026-10-27T07:06:24+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Tema Oil Refinery considers Stock Exchange listing to raise capital",
+      "url": "https://www.ghanabusinessnews.com/2026/10/27/tema-oil-refinery-considers-stock-exchange-listing-to-raise-capital/",
+      "summary": "The Tema Oil Refinery (TOR) is considering a listing on the Ghana Stock Exchange (GSE) to attract investment and raise additional capital to support its recovery, rehabilitation and expansion plans. The post Tema Oil Refinery considers Stock Exchange listing t",
+      "publishedAt": "2026-10-27T07:02:23+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
       "title": "TOR briefs IMF on recovery efforts, inherited debt, sustainability plans",
       "url": "https://www.ghanabusinessnews.com/2026/10/26/tor-briefs-imf-on-recovery-efforts-inherited-debt-sustainability-plans/",
       "summary": "The Tema Oil Refinery (TOR) has briefed a delegation from the International Monetary Fund (IMF) on its operational recovery efforts, inherited debt obligations and plans to improve financial sustainability. The post TOR briefs IMF on recovery efforts, inherite",
@@ -565,82 +581,66 @@
       "category": "Business news"
     },
     {
-      "title": "Rejoinder: I am not on the run",
-      "url": "https://www.ghanabusinessnews.com/2026/10/26/rejoinder-i-am-not-on-the-run/",
-      "summary": "One of the respondents in a land dispute before an Accra Circuit Court, Samuel Essuman writes this rejoinder disputing a news report on the case that said he was on the run. The post Rejoinder: I am not on the run appeared first on Ghana Business News .",
-      "publishedAt": "2026-10-26T05:35:31+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "UPSA targets 30% local production of laptop components in three years",
-      "url": "https://www.ghanabusinessnews.com/2026/10/25/upsa-targets-30-local-production-of-laptop-components-in-three-years/",
-      "summary": "The University of Professional Studies, Accra (UPSA) plans to produce about 30 per cent of the components used in assembling its laptops locally within the next three years. The post UPSA targets 30% local production of laptop components in three years appeare",
-      "publishedAt": "2026-10-25T13:26:48+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "MIIF, Forestry Commission partner to reforest Subri Forest Reserve",
-      "url": "https://www.myjoyonline.com/miif-forestry-commission-partner-to-reforest-subri-forest-reserve/",
-      "summary": "The Minerals Income Investment Fund (MIIF), with support from Zijin Golden Ridge Limited, Ghana International Bank and three other financial institutions has partnered with the Forestry Commission of Ghana to rehabilitate and restore 50 acres of degraded land ",
-      "publishedAt": "2026-10-26T15:14:28+00:00",
+      "title": "IERPP demands account of $4bn 24-Hour Economy before rollout of $10bn New Economy",
+      "url": "https://www.myjoyonline.com/ierpp-demands-account-of-4bn-24-hour-economy-before-rollout-of-10bn-new-economy/",
+      "summary": "The Institute of Economic Research and Public Policy (IERPP) has challenged the Mahama administration to account for the financing, projects and jobs associated with its $4 billion 24-Hour Economy programme before proceeding with the proposed $10 billion New E",
+      "publishedAt": "2026-10-27T16:08:14+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Time to reform the Ghana Reference Rate: From Treasury Bill Yields to Banks’ Deposit Costs",
-      "url": "https://www.myjoyonline.com/time-to-reform-the-ghana-reference-rate-from-treasury-bill-yields-to-banks-deposit-costs-2/",
-      "summary": "For businesses borrowing to buy equipment, restock a shop or meet payroll, the price of credit affects everyday decisions. The Ghana Reference Rate (GRR) provides a common starting point for that price. Its usefulness depends on whether the formula reflects fi",
-      "publishedAt": "2026-10-26T14:38:19+00:00",
+      "title": "FarmYield and GIZ launch agricultural project to empower over 200 women and youth in Northern Ghana",
+      "url": "https://www.myjoyonline.com/farmyield-and-giz-launch-agricultural-project-to-empower-over-200-women-and-youth-in-northern-ghana/",
+      "summary": "For 38-year-old Leticia Bopaah, learning to operate a tractor was more than the fulfilment of a childhood dream. It offered the prospect of reducing her farming costs and earning additional income to support her two children.",
+      "publishedAt": "2026-10-27T15:45:40+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Government is taking poultry sector seriously – Dumelo",
-      "url": "https://www.myjoyonline.com/government-is-taking-poultry-sector-seriously-dumelo/",
-      "summary": "Deputy Minister of Food and Agriculture John Dumelo says the government is taking the country’s poultry sector seriously and is committed to addressing challenges affecting local production.",
-      "publishedAt": "2026-10-26T14:03:28+00:00",
+      "title": "Average building cost increases by 5.1% in September 2026 -GSS",
+      "url": "https://www.myjoyonline.com/average-building-cost-increases-by-5-1-in-september-2026-gss/",
+      "summary": "The year-on-year inflation rate measured by the Prime Building Cost Index (PBCI) has increased to 5.1 percent in September 2026 from 4.6 percent in August 2026 By this, building costs were 5.1% higher than a year ago and 0.03% higher than in August 2026. Plant",
+      "publishedAt": "2026-10-27T13:40:54+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Republic Bank Ghana wins climate finance award at WSBI-ESBG SDG Awards in Bangkok",
-      "url": "https://www.myjoyonline.com/republic-bank-ghana-wins-climate-finance-award-at-wsbi-esbg-sdg-awards-in-bangkok/",
-      "summary": "Republic Bank (Ghana) PLC has received recognition in the Climate Finance category at the WSBI-ESBG SDG Awards in Bangkok, Thailand, which happened alongside the 2026 IMF Annual Meeting, for its investment in water projects across four locations in Ghana. The ",
-      "publishedAt": "2026-10-26T14:00:06+00:00",
+      "title": "Gold Fields’ US$4.26bn local spend puts mining value retention in focus",
+      "url": "https://www.myjoyonline.com/gold-fields-us4-26bn-local-spend-puts-mining-value-retention-in-focus/",
+      "summary": "Gold Fields’ procurement record will be among the issues providing context for the company’s Suppliers Conference 2026, scheduled for October 28 and 29 under the theme, “Partnership for Enduring Value: Building Resilient Supply Chains Beyond Mining.”",
+      "publishedAt": "2026-10-27T13:40:51+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "TOR records GH¢1.24bn profit in 2025 after a decade of losses",
-      "url": "https://www.myjoyonline.com/tor-records-gh%c2%a21-24bn-profit-in-2025-after-a-decade-of-losses/",
-      "summary": "The Tema Oil Refinery (TOR) recorded a profit before tax of GH¢1.24 billion in 2025, marking its first return to profitability in a decade, Managing Director Edmond Kombat has disclosed.",
-      "publishedAt": "2026-10-26T13:39:24+00:00",
+      "title": "How Hubtel is rethinking AI in Ghana: Own your data, rent the intelligence",
+      "url": "https://www.myjoyonline.com/how-hubtel-is-rethinking-ai-in-ghana-own-your-data-rent-the-intelligence/",
+      "summary": "From the trader at Makola checking prices on her phone to the graduate in Kumasi searching for work, one question is getting louder across Ghana. Will artificial intelligence make life better, or will it take away what people already have? Ghana has placed its",
+      "publishedAt": "2026-10-27T13:37:12+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "We are spending where it matters most, five statutory funds paid in full – Ato Forson",
-      "url": "https://www.myjoyonline.com/we-are-spending-where-it-matters-most-five-statutory-funds-paid-in-full-ato-forson/",
-      "summary": "Finance Minister Dr. Cassiel Ato Forson says the government is directing spending towards essential services Ghanaians rely on, following the timely and full payment of third-quarter allocations to five statutory funds.",
-      "publishedAt": "2026-10-26T13:39:14+00:00",
+      "title": "Building inflation increases to 5.1% in September 2026, but cement inflation stood at -6.1%",
+      "url": "https://www.myjoyonline.com/building-inflation-increases-to-5-1-in-september-2026-but-cement-inflation-stood-at-6-1/",
+      "summary": "The year-on-year inflation rate of the Prime Building Cost Index (PBCI) was 5.1% in September 2026, up from 4.6% in August 2026. The monthly change rate for September 2026 was 0.03%. According to the Ghana Statistical Service, building inflation remains low, d",
+      "publishedAt": "2026-10-27T13:31:36+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "CICMG calls for flexible lending conditions to expand credit access",
-      "url": "https://www.myjoyonline.com/cicmg-calls-for-flexible-lending-conditions-to-expand-credit-access/",
-      "summary": "The Chartered Institute of Credit Management, Ghana (CICMG), is calling for more flexible lending conditions, increased credit capital and stronger financial literacy programmes to improve access to finance for small and medium-sized enterprises (SMEs) and inf",
-      "publishedAt": "2026-10-26T13:33:12+00:00",
+      "title": "Agriculture recovery in 2025 was encouraging but uneven, industrial slowdown highlights broader development – ISSER",
+      "url": "https://www.myjoyonline.com/agriculture-recovery-in-2025-was-encouraging-but-uneven-industrial-slowdown-highlights-broader-development-isser/",
+      "summary": "In its 2025 State of the Ghana Economy Report (SGER), ISSER said expanding effective irrigation, mechanisation and extension services, with greater attention to crop yields will raise agricultural productivity.",
+      "publishedAt": "2026-10-27T12:44:41+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Afreximbank records net income growth of 24% to US$813.5m; assets and contingencies exceed US$54.1bn",
-      "url": "https://www.myjoyonline.com/afreximbank-records-net-income-growth-of-24-to-us813-5m-assets-and-contingencies-exceed-us54-1bn/",
-      "summary": "Commenting on the results, Denys Denya, Afreximbank's Senior Executive Vice President, said, “This performance underscores Afreximbank’s ability to deliver strong and sustainable performance while continuing to fulfil its development mandate across Africa and ",
-      "publishedAt": "2026-10-26T13:27:50+00:00",
+      "title": "GCB Bank partners with UnionPay to launch Ghana’s first RMB debit and prepaid cards",
+      "url": "https://www.myjoyonline.com/gcb-bank-partners-unionpay-to-launch-ghanas-first-rmb-debit-and-prepaid-cards/",
+      "summary": "GCB Bank PLC has partnered with UnionPay International to introduce Ghana’s first Renminbi (RMB) debit and prepaid cards, allowing customers to make payments directly in the Chinese currency without intermediate currency conversions.",
+      "publishedAt": "2026-10-26T19:54:09+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
@@ -685,7 +685,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-26T17:10:38.954799+00:00"
+      "fetchedAt": "2026-10-27T16:16:29.402661+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -694,7 +694,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-26T17:10:38.954799+00:00"
+      "fetchedAt": "2026-10-27T16:16:29.402661+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -703,7 +703,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-26T17:10:38.954799+00:00"
+      "fetchedAt": "2026-10-27T16:16:29.402661+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -712,7 +712,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-26T17:10:38.954799+00:00"
+      "fetchedAt": "2026-10-27T16:16:29.402661+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -721,7 +721,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-26T17:10:38.954799+00:00"
+      "fetchedAt": "2026-10-27T16:16:29.402661+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -730,7 +730,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-26T17:10:38.954799+00:00"
+      "fetchedAt": "2026-10-27T16:16:29.402661+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -739,7 +739,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-10-26T17:10:38.954799+00:00"
+      "fetchedAt": "2026-10-27T16:16:29.402661+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -748,7 +748,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-26T17:10:38.954799+00:00"
+      "fetchedAt": "2026-10-27T16:16:29.402661+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -757,7 +757,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-26T17:10:38.954799+00:00"
+      "fetchedAt": "2026-10-27T16:16:29.402661+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -766,7 +766,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-26T17:10:38.954799+00:00"
+      "fetchedAt": "2026-10-27T16:16:29.402661+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -775,7 +775,7 @@
       "kind": "rss",
       "ok": false,
       "error": "HTTP Error 404: Not Found",
-      "fetchedAt": "2026-10-26T17:10:38.954799+00:00"
+      "fetchedAt": "2026-10-27T16:16:29.402661+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -784,7 +784,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-26T17:10:38.954799+00:00"
+      "fetchedAt": "2026-10-27T16:16:29.402661+00:00"
     },
     {
       "name": "Citi Business News",
@@ -793,7 +793,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-26T17:10:38.954799+00:00"
+      "fetchedAt": "2026-10-27T16:16:29.402661+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -802,7 +802,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-26T17:10:38.954799+00:00"
+      "fetchedAt": "2026-10-27T16:16:29.402661+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -811,7 +811,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-26T17:10:38.954799+00:00"
+      "fetchedAt": "2026-10-27T16:16:29.402661+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -820,7 +820,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-26T17:10:38.954799+00:00"
+      "fetchedAt": "2026-10-27T16:16:29.402661+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -829,7 +829,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-26T17:10:38.954799+00:00"
+      "fetchedAt": "2026-10-27T16:16:29.402661+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -838,7 +838,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-26T17:10:38.954799+00:00"
+      "fetchedAt": "2026-10-27T16:16:29.402661+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -847,7 +847,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-26T17:10:38.954799+00:00"
+      "fetchedAt": "2026-10-27T16:16:29.402661+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -856,7 +856,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-26T17:10:38.954799+00:00"
+      "fetchedAt": "2026-10-27T16:16:29.402661+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -865,7 +865,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-26T17:10:38.954799+00:00"
+      "fetchedAt": "2026-10-27T16:16:29.402661+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -874,7 +874,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-10-26T17:10:38.954799+00:00"
+      "fetchedAt": "2026-10-27T16:16:29.402661+00:00"
     }
   ]
 }
