@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-28T17:01:58.297234+00:00",
-  "generatedAtGhana": "2026-10-28T17:01:58.297234+00:00",
+  "generatedAt": "2026-10-29T17:20:26.407906+00:00",
+  "generatedAtGhana": "2026-10-29T17:20:26.407906+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
@@ -19,14 +19,14 @@
       "url": "https://www.bog.gov.gh/"
     },
     "fx": {
-      "usdGhsMid": 11.6258,
+      "usdGhsMid": 11.6515,
       "rateBasis": "public news reported rate",
       "source": "Bank of Ghana Daily Interbank FX Rates",
       "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
       "sourceType": "public_news_fallback",
-      "asOf": "28 Oct 2026",
-      "usdGhsBuying": 11.62,
-      "usdGhsSelling": 11.6316
+      "asOf": "29 Oct 2026",
+      "usdGhsBuying": 11.6457,
+      "usdGhsSelling": 11.6573
     },
     "ghanaStatisticalService": {
       "cpiInflationYoy": 5.2,
@@ -229,7 +229,7 @@
       "category": "Official macro"
     },
     {
-      "title": "Day's Weighted Average Rate Day’s Weighted Median Rate: 11.6258 table.wpDataTable td.numdata { text-align: right !important; } /* buttons font color */ .wpDataTables .wdt-checkbox-filter.btn, .wpDataTables .selecter .selecter-selected, .wdt-frontend-modal .btn:not(.dropdown-toggle), div.dt-button-collection a.dt-button.active:not(.disabled), div.dt-button-collection button.dt-button.active:not(.disabled) { color: #222222 !important; } /** buttons background hover color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { background-color: #ebbd3f !important; background-image: none !important; } /** buttons hover border color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { border-color: #222222 !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } .wpdt-c .wpDataTablesWrapper table.wpDataTable thead tr:nth-child(2) th { overflow: visible; }",
+      "title": "Day's Weighted Average Rate Day’s Weighted Median Rate: 11.6515 table.wpDataTable td.numdata { text-align: right !important; } /* buttons font color */ .wpDataTables .wdt-checkbox-filter.btn, .wpDataTables .selecter .selecter-selected, .wdt-frontend-modal .btn:not(.dropdown-toggle), div.dt-button-collection a.dt-button.active:not(.disabled), div.dt-button-collection button.dt-button.active:not(.disabled) { color: #222222 !important; } /** buttons background hover color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { background-color: #ebbd3f !important; background-image: none !important; } /** buttons hover border color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { border-color: #222222 !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } .wpdt-c .wpDataTablesWrapper table.wpDataTable thead tr:nth-child(2) th { overflow: visible; }",
       "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
       "summary": "",
       "publishedAt": null,
@@ -517,130 +517,130 @@
       "category": "Sovereign credit research"
     },
     {
-      "title": "EXIM Bank fraud case: Court to conduct CMC on November 2",
-      "url": "https://www.ghanabusinessnews.com/2026/10/28/exim-bank-fraud-case-court-to-conduct-cmc-on-november-2/",
-      "summary": "The High Court in Accra, hearing the GH¢30 million financial loss case against Bernard Antwi Boasiako, popularly known as Wontumi, has adjourned the matter to November 2, 2026, for a Case Management Conference (CMC). The post EXIM Bank fraud case: Court to con",
-      "publishedAt": "2026-10-28T07:10:45+00:00",
+      "title": "MTN Ghana invests $1.1b in network expansion over three years",
+      "url": "https://www.ghanabusinessnews.com/2026/10/29/mtn-ghana-invests-1-1b-in-network-expansion-over-three-years/",
+      "summary": "MTN Ghana has announced plans to invest $1.1 billion over three years, including approximately $380 million in 2026, to improve network capacity, service quality and infrastructure resilience across the country. The post MTN Ghana invests $1.1b in network expa",
+      "publishedAt": "2026-10-29T15:00:54+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "RUDN University confers honorary doctorate degree on President Mahama",
-      "url": "https://www.ghanabusinessnews.com/2026/10/28/rudn-university-confers-honorary-doctorate-degree-on-president-mahama/",
-      "summary": "The Patrice Lumumba Peoples' Friendship University of Russia (RUDN University) in Moscow on Tuesday conferred an honorary doctorate degree on President John Dramani Mahama. The post RUDN University confers honorary doctorate degree on President Mahama appeared",
-      "publishedAt": "2026-10-28T07:07:43+00:00",
+      "title": "Coalition demands compensation for Laboma, La Pleasure Beach demolition victims",
+      "url": "https://www.ghanabusinessnews.com/2026/10/29/coalition-demands-compensation-for-laboma-la-pleasure-beach-demolition-victims/",
+      "summary": "The Coalition of La Associations (COLA) is demanding fair compensation for businesses and individuals affected by the demolition exercises at Laboma Beach Resort and La Pleasure Beach, warning that affected families must not be abandoned in the name of develop",
+      "publishedAt": "2026-10-29T14:57:46+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Need for a streetlights agency to ensure safety, power jobs, and the 24-hour economy",
-      "url": "https://www.ghanabusinessnews.com/2026/10/28/need-for-a-streetlights-agency-to-ensure-safety-power-jobs-and-the-24-hour-economy/",
-      "summary": "On January 12, 2025, the call was made with urgency—and it remains urgent today. Across Ghana’s towns, cities, and highways, dysfunctional streetlights and failing traffic signals have continued to undermine public safety and weaken economic activity after dar",
-      "publishedAt": "2026-10-28T07:03:38+00:00",
+      "title": "GAIP promotes Germination Index Insurance to protect farmers against climate risks",
+      "url": "https://www.ghanabusinessnews.com/2026/10/29/gaip-promotes-germination-index-insurance-to-protect-farmers-against-climate-risks/",
+      "summary": "The Ghana Agricultural Insurance Pool (GAIP) is promoting an innovative insurance product, the Germination Index Insurance (GII), to protect farmers against seed germination failure resulting from prolonged drought or excessive rainfall. The post GAIP promotes",
+      "publishedAt": "2026-10-29T11:48:43+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Speaker assures GJA of parliament’s support for journalists’ welfare bill",
-      "url": "https://www.ghanabusinessnews.com/2026/10/28/speaker-assures-gja-of-parliaments-support-for-journalists-welfare-bill/",
-      "summary": "Speaker of Parliament Alban Sumana Kingsford Bagbin has assured the Ghana Journalists Association (GJA) of Parliament’s readiness to partner the Association in drafting a Private Member’s Bill aimed at improving the working conditions of journalists in the cou",
-      "publishedAt": "2026-10-28T06:39:56+00:00",
+      "title": "Ministry asked to remove 20% excise tax on locally produced fruit juices",
+      "url": "https://www.ghanabusinessnews.com/2026/10/29/ministry-asked-to-remove-20-excise-tax-on-locally-produced-fruit-juices/",
+      "summary": "Vision for Accelerated Sustainable Development, Ghana (VAST Ghana) has called on the Ministry of Finance to reconsider the removal of the 20 per cent excise tax on locally produced fruit juices under the Excise Tax Act 2026. The post Ministry asked to remove 2",
+      "publishedAt": "2026-10-29T11:41:51+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Wontumi’s counsel seeks recall of witness in Akonta mining trial",
-      "url": "https://www.ghanabusinessnews.com/2026/10/28/wontumis-counsel-seeks-recall-of-witness-in-akonta-mining-trial/",
-      "summary": "An Accra High Court has ordered lawyers for Mr Bernard Antwi-Boasiako, standing trial in the Tano Nnimire Forest Reserve illegal mining case, to formally apply to recall a discharged prosecution witness. The post Wontumi’s counsel seeks recall of witness in Ak",
-      "publishedAt": "2026-10-28T06:34:57+00:00",
+      "title": "Hidden costs undermine free basic education policy – Study",
+      "url": "https://www.ghanabusinessnews.com/2026/10/29/hidden-costs-undermine-free-basic-education-policy-study/",
+      "summary": "Hidden costs borne by parents continue to undermine Ghana’s Free Basic Education policy, with families paying for items and services that place additional financial burdens on households, a study has revealed. The post Hidden costs undermine free basic educati",
+      "publishedAt": "2026-10-29T11:32:31+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Christ Apostolic Church receives 1,500 bags of fertiliser under Feed Ghana Programme",
-      "url": "https://www.ghanabusinessnews.com/2026/10/28/christ-apostolic-church-receives-1500-bags-of-fertiliser-under-feed-ghana-programme/",
-      "summary": "The Christ Apostolic Church International (CACI) has received 1,500 bags of fertiliser valued at more than GH¢700,000 under the Government’s Feed Ghana Programme to support institutional farming and boost agricultural production. The post Christ Apostolic Chur",
-      "publishedAt": "2026-10-28T06:30:52+00:00",
+      "title": "Ghana’s Black Maidens beat Argentina to reach FIFA U-17 Women’s World Cup quarterfinals",
+      "url": "https://www.ghanabusinessnews.com/2026/10/29/ghanas-black-maidens-beat-argentina-to-reach-fifa-u-17-womens-world-cup-quarterfinals/",
+      "summary": "The Black Maidens of Ghana secured a place in the quarterfinals of the 2026 FIFA U-17 Women's World Cup after beating Argentina 5-4 on penalties. The post Ghana’s Black Maidens beat Argentina to reach FIFA U-17 Women’s World Cup quarterfinals appeared first on",
+      "publishedAt": "2026-10-29T07:13:53+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "DSAG calls for expanded NHIS coverage for children with Down syndrome",
-      "url": "https://www.ghanabusinessnews.com/2026/10/28/dsag-calls-for-expanded-nhis-coverage-for-children-with-down-syndrome/",
-      "summary": "The Down Syndrome Association of Ghana (DSAG) has called for expanded National Health Insurance Scheme (NHIS) coverage to provide comprehensive healthcare for children with Down syndrome. The post DSAG calls for expanded NHIS coverage for children with Down sy",
-      "publishedAt": "2026-10-28T06:27:07+00:00",
+      "title": "Ghana government and Labour agree on 8% base pay rise for 2027, 10% for 2028",
+      "url": "https://www.ghanabusinessnews.com/2026/10/29/ghana-government-and-labour-agree-on-8-base-pay-rise-for-2027-10-for-2028/",
+      "summary": "The Ghana government and Organised Labour have agreed to an eight per cent increase in base pay for public sector workers in 2027 and a 10 per cent increase in 2028. The post Ghana government and Labour agree on 8% base pay rise for 2027, 10% for 2028 appeared",
+      "publishedAt": "2026-10-29T07:08:21+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "North- East Region turns to solar power water system to tackle climate change",
-      "url": "https://www.ghanabusinessnews.com/2026/10/27/north-east-region-turns-to-solar-power-water-system-to-tackle-climate-change/",
-      "summary": "The North-East Regional Coordinating Council is promoting solar-powered water systems and dry-season farming to help communities adapt to climate change, as rivers dry up and traditional sources of irrigation become increasingly unreliable. The post North- Eas",
-      "publishedAt": "2026-10-27T07:06:24+00:00",
+      "title": "MTN Ghana Mobile Money transaction value grows 44.4%",
+      "url": "https://www.ghanabusinessnews.com/2026/10/29/mtn-ghana-mobile-money-transaction-value-grows-44-4/",
+      "summary": "The value of transactions on MTN Ghana's Mobile Money (MoMo) platform grew by 44.4 per cent year-on-year in the first half of 2026, reflecting the platform's expanding role in digital financial transactions across the country. The post MTN Ghana Mobile Money t",
+      "publishedAt": "2026-10-29T06:58:27+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "AngloGold Ashanti Obuasi Mine to host maiden West Africa Mine rescue competition from November 2",
-      "url": "https://www.myjoyonline.com/anglogold-ashanti-obuasi-mine-to-host-maiden-west-africa-mine-rescue-competition-from-november-2/",
-      "summary": "AngloGold Ashanti’s Obuasi Mine and Endeavour Mining will jointly host the 2026 West Africa Mine Rescue and Emergency Response Competition (WAMRERC) from November 2 to 6 in Obuasi, Ghana, in an initiative aimed at strengthening mine safety and emergency prepar",
-      "publishedAt": "2026-10-28T16:20:33+00:00",
+      "title": "Minerals Commission defends termination of Northern Ashanti Mines’ mineral rights over $8.3m debt",
+      "url": "https://www.myjoyonline.com/minerals-commission-defends-termination-of-northern-ashanti-mines-mineral-rights-over-8-3m-debt/",
+      "summary": "The Minerals Commission has defended its decision to terminate the mineral rights of Northern Ashanti Mines Limited, formerly Owere Mines, insisting that the company persistently failed to meet its statutory financial obligations despite several opportunities ",
+      "publishedAt": "2026-10-29T17:16:10+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Trade Minister pushes for stronger Ghana-Guinea trade and industrial ties",
-      "url": "https://www.myjoyonline.com/trade-minister-pushes-for-stronger-ghana-guinea-trade-and-industrial-ties/",
-      "summary": "The Minister for Trade, Agribusiness and Industry, Elizabeth Ofosu-Adjare, has called for stronger economic cooperation between Ghana and Guinea to expand bilateral trade, promote industrial development and boost tourism.",
-      "publishedAt": "2026-10-28T16:16:06+00:00",
+      "title": "Ghana at risk of missing 2030 methane emissions target, AMA warns, as stakeholders push for more funding and waste separation",
+      "url": "https://www.myjoyonline.com/ghana-at-risk-of-missing-2030-methane-emissions-target-ama-warns-as-stakeholders-push-for-more-funding-and-waste-separation/",
+      "summary": "Ghana risks missing its target of cutting methane emissions from the waste sector by 30 percent by 2030, officials of the Accra Metropolitan Assembly (AMA) have warned, citing funding shortfalls and weak waste collection. The warning came on Wednesday at the A",
+      "publishedAt": "2026-10-29T17:04:32+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Ghana Bauxite Company secures US$250m Ecobank Financing to improve operations ahead of refinery",
-      "url": "https://www.myjoyonline.com/ghana-bauxite-company-secures-us250m-ecobank-financing-to-improve-operations-ahead-of-refinery/",
-      "summary": "Ghana Bauxite Company secures US$250m Ecobank Financing to improve operations ahead of refinery.",
-      "publishedAt": "2026-10-28T15:47:45+00:00",
+      "title": "MTN Ghana extends National Business Pitch to all 16 regions, offers GH¢300,000 grand prize",
+      "url": "https://www.myjoyonline.com/mtn-ghana-extends-national-business-pitch-to-all-16-regions-offers-gh%c2%a2300000-grand-prize/",
+      "summary": "Small and medium-sized enterprises (SMEs) across Ghana will have the opportunity to compete for a GH¢300,000 national grand prize under MTN Ghana’s National Business Pitch, which is being extended to all 16 regions. The competition will select 48 businesses, w",
+      "publishedAt": "2026-10-29T15:30:45+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Public sector workers to receive 9% pay increase in 2027 and 10% in 2028",
-      "url": "https://www.myjoyonline.com/public-sector-workers-to-receive-9-pay-increase-in-2027-and-10-in-2028/",
-      "summary": "Public sector workers are set to receive a 9 per cent increase in total remuneration in 2027, followed by a 10 per cent across-the-board salary increase in 2028.",
-      "publishedAt": "2026-10-28T14:52:31+00:00",
+      "title": "Mahama says Ghana is in talks with Russia over first nuclear power station",
+      "url": "https://www.myjoyonline.com/mahama-says-ghana-is-in-talks-with-russia-over-first-nuclear-power-station/",
+      "summary": "President John Dramani Mahama says Ghana has initiated discussions with Russia’s state nuclear corporation, Rosatom, over the establishment of the country’s first nuclear power station. He said the proposed cooperation forms part of Ghana’s efforts to secure r",
+      "publishedAt": "2026-10-29T15:17:33+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Russia–Africa Summit – Ghana must count the cost of a deeper partnership",
-      "url": "https://www.myjoyonline.com/russia-africa-summit-ghana-must-count-the-cost-of-a-deeper-partnership/",
-      "summary": "As Moscow courts African governments with promises of trade, investment and security cooperation, Accra must guard against opaque deals, resource dependence and commercial relationships that leave the country carrying more risk than reward.Ghana’s growing econ",
-      "publishedAt": "2026-10-28T13:34:13+00:00",
+      "title": "Brent crude to fall to an average US$81 per barrel in 2027 – Fitch Solutions",
+      "url": "https://www.myjoyonline.com/brent-crude-to-fall-to-an-average-us81-per-barrel-in-2027-fitch-solutions/",
+      "summary": "According to Fitch Solutions, these dynamics will push global supply above demand – even accounting for global restocking needs – lowering prices through the year.",
+      "publishedAt": "2026-10-29T14:31:00+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "From windfall to wealth: how to make your money last",
-      "url": "https://www.myjoyonline.com/from-windfall-to-wealth-how-to-make-your-money-last/",
-      "summary": "As more young people focus on financial independence and long-term wealth creation, young adults are encouraged to view a financial windfall not as spending money, but as a foundation for future financial security.",
-      "publishedAt": "2026-10-28T13:25:13+00:00",
+      "title": "Ghana CEO Vision Expo seeks solutions to bridge gaps in government’s reset agenda",
+      "url": "https://www.myjoyonline.com/ghana-ceo-vision-expo-seeks-solutions-to-bridge-gaps-in-governments-reset-agenda/",
+      "summary": "Ghanaian business leaders are calling for stronger private sector participation in the government’s reset agenda, with emphasis on local production, innovation and digital finance to drive economic growth. The call was made at the 5th Ghana CEO Vision Expo and",
+      "publishedAt": "2026-10-29T14:07:11+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Gold, cocoa and crude export earnings grew strongly in 8 months of 2026, but NTEs declined by 3%",
-      "url": "https://www.myjoyonline.com/gold-cocoa-and-crude-export-earnings-grew-strongly-in-8-months-of-2026-but-ntes-declined-by-3/",
-      "summary": "The country’s trade surplus improved significantly to US$8.80 billion during the first eight months of the year, up from US$6.69 billion in the corresponding period of 2025. This was underpinned by robust growth in export earnings that outpaced the rise in imp",
-      "publishedAt": "2026-10-28T11:52:00+00:00",
+      "title": "IEA launches one-year project to support Ghana’s Nuclear Power Programme",
+      "url": "https://www.myjoyonline.com/iea-launches-one-year-project-to-support-ghanas-nuclear-power-programme/",
+      "summary": "The initiative, titled the Ghana Nuclear Phase II Completion and Investment Readiness Support Programme, is designed to strengthen institutional coordination, human resource capacity, regulatory preparedness and the policy and investment frameworks necessary t",
+      "publishedAt": "2026-10-29T13:48:11+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Absa Bank spotlights Ezra Appiah’s solo exhibition at L’Atelier event",
-      "url": "https://www.myjoyonline.com/absa-bank-spotlights-ezra-appiahs-solo-exhibition-at-latelier-event/",
-      "summary": "A new exhibition by Ghanaian artist Ezra Appiah will invite audiences to revisit the memories and stories held in family photographs, as Ghanaian photographer and environmental activist Reginald Boateng joins the 2026 Absa Bank L’Atelier Art Ambassador Award w",
-      "publishedAt": "2026-10-28T11:49:04+00:00",
+      "title": "Ato Forson to present 2027 Budget on Nov. 12 as jobs take centre stage",
+      "url": "https://www.myjoyonline.com/ato-forson-to-present-2027-budget-on-nov-12-as-jobs-take-centre-stage/",
+      "summary": "Finance Minister Dr Cassiel Ato Forson will present the 2027 Budget to Parliament on November 12, Deputy Finance Minister Thomas Nyarko Ampem has announced.",
+      "publishedAt": "2026-10-29T13:13:13+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
@@ -685,7 +685,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-28T17:01:58.297234+00:00"
+      "fetchedAt": "2026-10-29T17:20:26.407906+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -694,7 +694,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-28T17:01:58.297234+00:00"
+      "fetchedAt": "2026-10-29T17:20:26.407906+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -703,7 +703,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-28T17:01:58.297234+00:00"
+      "fetchedAt": "2026-10-29T17:20:26.407906+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -712,7 +712,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-28T17:01:58.297234+00:00"
+      "fetchedAt": "2026-10-29T17:20:26.407906+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -721,7 +721,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-28T17:01:58.297234+00:00"
+      "fetchedAt": "2026-10-29T17:20:26.407906+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -730,7 +730,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-28T17:01:58.297234+00:00"
+      "fetchedAt": "2026-10-29T17:20:26.407906+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -739,7 +739,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-10-28T17:01:58.297234+00:00"
+      "fetchedAt": "2026-10-29T17:20:26.407906+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -748,7 +748,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-28T17:01:58.297234+00:00"
+      "fetchedAt": "2026-10-29T17:20:26.407906+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -757,7 +757,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-28T17:01:58.297234+00:00"
+      "fetchedAt": "2026-10-29T17:20:26.407906+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -766,7 +766,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-28T17:01:58.297234+00:00"
+      "fetchedAt": "2026-10-29T17:20:26.407906+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -775,7 +775,7 @@
       "kind": "rss",
       "ok": false,
       "error": "HTTP Error 404: Not Found",
-      "fetchedAt": "2026-10-28T17:01:58.297234+00:00"
+      "fetchedAt": "2026-10-29T17:20:26.407906+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -784,7 +784,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-28T17:01:58.297234+00:00"
+      "fetchedAt": "2026-10-29T17:20:26.407906+00:00"
     },
     {
       "name": "Citi Business News",
@@ -793,7 +793,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-28T17:01:58.297234+00:00"
+      "fetchedAt": "2026-10-29T17:20:26.407906+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -802,7 +802,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-28T17:01:58.297234+00:00"
+      "fetchedAt": "2026-10-29T17:20:26.407906+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -811,7 +811,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-28T17:01:58.297234+00:00"
+      "fetchedAt": "2026-10-29T17:20:26.407906+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -820,7 +820,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-28T17:01:58.297234+00:00"
+      "fetchedAt": "2026-10-29T17:20:26.407906+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -829,7 +829,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-28T17:01:58.297234+00:00"
+      "fetchedAt": "2026-10-29T17:20:26.407906+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -838,7 +838,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-28T17:01:58.297234+00:00"
+      "fetchedAt": "2026-10-29T17:20:26.407906+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -847,7 +847,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-28T17:01:58.297234+00:00"
+      "fetchedAt": "2026-10-29T17:20:26.407906+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -856,7 +856,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-28T17:01:58.297234+00:00"
+      "fetchedAt": "2026-10-29T17:20:26.407906+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -865,7 +865,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-28T17:01:58.297234+00:00"
+      "fetchedAt": "2026-10-29T17:20:26.407906+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -874,7 +874,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-10-28T17:01:58.297234+00:00"
+      "fetchedAt": "2026-10-29T17:20:26.407906+00:00"
     }
   ]
 }
