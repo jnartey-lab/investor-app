@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-30T16:57:31.427294+00:00",
-  "generatedAtGhana": "2026-10-30T16:57:31.427294+00:00",
+  "generatedAt": "2026-10-31T15:58:37.500300+00:00",
+  "generatedAtGhana": "2026-10-31T15:58:37.500300+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
     "gseIndices": {
-      "asOf": "29/10/2026",
-      "composite": 14246.71,
-      "financialStocks": 7428.72,
+      "asOf": "30/10/2026",
+      "composite": 14302.27,
+      "financialStocks": 7388.15,
       "source": "Ghana Stock Exchange",
       "url": "https://gse.com.gh/"
     },
@@ -517,6 +517,54 @@
       "category": "Sovereign credit research"
     },
     {
+      "title": "Three held over Momo vendor’s killing at Kasoa",
+      "url": "https://www.ghanabusinessnews.com/2026/10/31/three-held-over-momo-vendors-killing-at-kasoa/",
+      "summary": "The Central East Regional Police Command has arrested two persons and a juvenile in connection with the alleged killing of a mobile money vendor at a guest house near Kasoa in the Central Region. The post Three held over Momo vendor’s killing at Kasoa appeared",
+      "publishedAt": "2026-10-31T08:01:31+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Banking sector intensifies cyber fraud awareness",
+      "url": "https://www.ghanabusinessnews.com/2026/10/31/banking-sector-intensifies-cyber-fraud-awareness/",
+      "summary": "Ghana's banking industry is intensifying anti-fraud education as social engineering scams become an increasing cyber security and financial risk. The post Banking sector intensifies cyber fraud awareness appeared first on Ghana Business News .",
+      "publishedAt": "2026-10-31T07:53:51+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "UCC inaugurates centre to tackle food fraud in Africa",
+      "url": "https://www.ghanabusinessnews.com/2026/10/31/ucc-inaugurates-centre-to-tackle-food-fraud-in-africa/",
+      "summary": "The University of Cape Coast (UCC) has inaugurated the Africa Centre for Food Integrity (AFIC) to address food safety and quality challenges in Ghana and Africa. The post UCC inaugurates centre to tackle food fraud in Africa appeared first on Ghana Business Ne",
+      "publishedAt": "2026-10-31T07:48:14+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Researchers target manufacturing emissions under Laser4NetZero project in push for greener EVs",
+      "url": "https://www.ghanabusinessnews.com/2026/10/31/researchers-target-manufacturing-emissions-under-laser4netzero-project-in-push-for-greener-evs/",
+      "summary": "Researchers under a project called Lasers4NetZero are developing advanced laser technologies and artificial intelligence (AI) systems, to reduce manufacturing emissions, material waste and production costs associated with Electric Vehicles (EVs). The post Rese",
+      "publishedAt": "2026-10-31T07:44:43+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Parliamentary Committee commends Ghanaian expertise in constructing $59m solar farm at Galga",
+      "url": "https://www.ghanabusinessnews.com/2026/10/31/parliamentary-committee-commends-ghanaian-expertise-in-constructing-59m-solar-farm-at-galga/",
+      "summary": "Mr Emmanuel Kwasi Bedzrah, Chairman of Parliamentary Select Committee on Energy and Mines has commended the use of indigenous Ghanaian expertise in the construction of a 50-megawatt solar farm at Galgu in the Yendi Municipality of the Northern Region. The post",
+      "publishedAt": "2026-10-31T07:39:10+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
+      "title": "Court remands four over Worawora disturbances",
+      "url": "https://www.ghanabusinessnews.com/2026/10/31/court-remands-four-over-worawora-disturbances/",
+      "summary": "The Dambai Circuit Court has remanded four persons into police custody over their alleged involvement in disturbances at Dwabrem-Worawora in the Oti Region. The post Court remands four over Worawora disturbances appeared first on Ghana Business News .",
+      "publishedAt": "2026-10-31T07:35:32+00:00",
+      "source": "Ghana Business News",
+      "category": "Business news"
+    },
+    {
       "title": "Ghana’s economy grows to GH¢1.4 trillion but fails to create decent jobs – GSS",
       "url": "https://www.ghanabusinessnews.com/2026/10/30/ghanas-economy-grows-to-gh%c2%a21-4-trillion-but-fails-to-create-decent-jobs-gss/",
       "summary": "Ghana’s economy grew by six per cent in 2025, reaching GH¢1.4 trillion, but the expansion has not translated into the creation of enough decent jobs, the Ghana Statistical Service (GSS) said in a report launched in Accra on Thursday. The post Ghana’s economy g",
@@ -533,114 +581,66 @@
       "category": "Business news"
     },
     {
-      "title": "President Mahama hails Russia’s ‘historical solidarity’ with Africa",
-      "url": "https://www.ghanabusinessnews.com/2026/10/30/president-mahama-hails-russias-historical-solidarity-with-africa/",
-      "summary": "President John Dramani Mahama has delivered a personal and historically grounded address at the Russia-Africa Summit in Moscow, thanking Russian President Vladimir Putin and all Russians for decades of support to the African continent. The post President Maham",
-      "publishedAt": "2026-10-30T06:48:50+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Forestry Commission to deploy armed teams, surveillance technology in Subri Forest Reserve to fight galamsey",
-      "url": "https://www.ghanabusinessnews.com/2026/10/30/forestry-commission-to-deploy-armed-teams-surveillance-technology-in-subri-forest-reserve-to-fight-galamsey/",
-      "summary": "The Western Regional Office of the Forestry Commission (FC) has proposed a new security strategy involving the deployment of armed security camps and surveillance technology to prevent illegal miners from returning to the Subri River Forest Reserve. The post F",
-      "publishedAt": "2026-10-30T06:45:28+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Switch on the traffic lights and stop the promises!",
-      "url": "https://www.ghanabusinessnews.com/2026/10/30/switch-on-the-traffic-lights-and-stop-the-promises/",
-      "summary": "Greater Accra has waited long enough for order on its roads. For years, residents have endured the same daily reality: traffic lights that refuse to work, congestion that refuses to ease, and streets that become hazardous for motorists and pedestrians alike. T",
-      "publishedAt": "2026-10-30T06:42:39+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "All outstanding driving licenses to be delivered by next month — DVLA CEO",
-      "url": "https://www.ghanabusinessnews.com/2026/10/30/all-outstanding-driving-licenses-to-be-delivered-by-next-month-dvla-ceo/",
-      "summary": "Mr Julius Neequaye Kotey, the Chief Executive Officer of the Driver and Vehicle Licensing Authority (DVLA), has assured motorists that all outstanding driver’s license currently with the Authority, will be delivered by the end of November. The post All outstan",
-      "publishedAt": "2026-10-30T06:32:07+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "MTN Ghana invests $1.1b in network expansion over three years",
-      "url": "https://www.ghanabusinessnews.com/2026/10/29/mtn-ghana-invests-1-1b-in-network-expansion-over-three-years/",
-      "summary": "MTN Ghana has announced plans to invest $1.1 billion over three years, including approximately $380 million in 2026, to improve network capacity, service quality and infrastructure resilience across the country. The post MTN Ghana invests $1.1b in network expa",
-      "publishedAt": "2026-10-29T15:00:54+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Coalition demands compensation for Laboma, La Pleasure Beach demolition victims",
-      "url": "https://www.ghanabusinessnews.com/2026/10/29/coalition-demands-compensation-for-laboma-la-pleasure-beach-demolition-victims/",
-      "summary": "The Coalition of La Associations (COLA) is demanding fair compensation for businesses and individuals affected by the demolition exercises at Laboma Beach Resort and La Pleasure Beach, warning that affected families must not be abandoned in the name of develop",
-      "publishedAt": "2026-10-29T14:57:46+00:00",
-      "source": "Ghana Business News",
-      "category": "Business news"
-    },
-    {
-      "title": "Jumia Black Friday 2026 begins October 30 with month-long deals and free delivery",
-      "url": "https://www.myjoyonline.com/jumia-black-friday-2026-begins-october-30-with-month-long-deals-and-free-delivery/",
-      "summary": "Jumia Ghana’s 14th Black Friday shopping festival begins on Friday, October 30, 2026, with a month-long promotion featuring discounts on electronics, fashion, home appliances, beauty products and groceries.",
-      "publishedAt": "2026-10-30T16:37:25+00:00",
+      "title": "COCOBOD CEO woos investors with Ghana’s new cocoa financing model at New York forum",
+      "url": "https://www.myjoyonline.com/cocobod-ceo-woos-investors-with-ghanas-new-cocoa-financing-model-at-new-york-forum/",
+      "summary": "The Chief Executive Officer of the Ghana Cocoa Board (COCOBOD), Dr Ransford Anertey Abbey, has presented Ghana’s new cocoa financing model and outlined reforms aimed at strengthening the cocoa sector at the Africa Cocoa Finance & Investment Forum (ACFIF) in Ne",
+      "publishedAt": "2026-10-31T14:27:08+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Techiman North moves to end post-harvest losses with new storage facilities and irrigation plans",
-      "url": "https://www.myjoyonline.com/techiman-north-moves-to-end-post-harvest-losses-with-new-storage-facilities-and-irrigation-plans/",
-      "summary": "In a significant move to bolster the local agricultural sector, the Techiman North District Assembly has announced ambitious plans to establish modern storage facilities and develop irrigation systems.",
-      "publishedAt": "2026-10-30T14:42:35+00:00",
+      "title": "Zenith Bank Ghana steps up staff wellness, SME support and digital lending — MD",
+      "url": "https://www.myjoyonline.com/zenith-bank-ghana-steps-up-staff-wellness-sme-support-and-digital-lending-md/",
+      "summary": "The Managing Director and Chief Executive Officer of Zenith Bank (Ghana) Limited, Henry C. Onwuzurigbo, says the bank is strengthening its focus on employee wellness, SME financing and digital banking as part of efforts to support business growth and improve c",
+      "publishedAt": "2026-10-31T14:26:09+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Swiss Group unveils Jetour G700 and F700 at 2026 auto expo in Ghana",
-      "url": "https://www.myjoyonline.com/swiss-group-unveils-jetour-g700-and-f700-at-2026-auto-expo-in-ghana/",
-      "summary": "Swiss Group Limited, the official distributor of Jetour and Soueast vehicles in Ghana, has unveiled two new models, the Jetour G700 SUV and F700 pickup truck, at the Swiss Auto Expo 2026. The expo showcased a wide range of vehicles featuring contemporary desig",
-      "publishedAt": "2026-10-30T14:25:00+00:00",
+      "title": "Zenith Bank holds annual health walk to promote fitness and healthy living",
+      "url": "https://www.myjoyonline.com/zenith-bank-md-highlights-health-benefits-as-bank-marks-21st-anniversary-with-wellness-walk/",
+      "summary": "The Managing Director and Chief Executive Officer of Zenith Bank (Ghana) Limited, Henry C. Onwuzurigbo, has highlighted the importance of physical fitness and employee wellness, describing the bank’s annual health walk as a key initiative for promoting healthy",
+      "publishedAt": "2026-10-31T13:24:12+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Vivo Energy leads pack with quadruple win at National PR and Communications Excellence Awards",
-      "url": "https://www.myjoyonline.com/vivo-energy-ghana-plc-leads-pack-with-quadruple-win-at-national-pr-and-communications-excellence-awards/",
-      "summary": "Commenting on the awards, the Corporate Communications Manager of Vivo Energy Ghana, Shirley Tony Kum said the recognition of Vivo Energy Ghana as PR Organisation of the Year in both the Commercial and Energy and Utilities categories further reinforces the com",
-      "publishedAt": "2026-10-30T13:52:20+00:00",
+      "title": "COPEC projects petrol price to fall; diesel to go up on November 1 pricing window",
+      "url": "https://www.myjoyonline.com/copec-projects-petrol-price-to-fall-diesel-to-go-up-on-november-1-pricing-window/",
+      "summary": "The Chamber of Petroleum Consumers (COPEC) is predicting petrol prices to go down while diesel price go up at the pumps in the first pricing window starting, November 1, 2026. In statement, COPEC forecast petrol price to go down by 1.71 and diesel to go up by ",
+      "publishedAt": "2026-10-31T11:12:49+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "About 22 laws introduced to lock in reforms and protect Ghana’s economic gains – Ato Forson",
-      "url": "https://www.myjoyonline.com/about-22-laws-introduced-to-lock-in-reforms-and-protect-ghanas-economic-gains-ato-forson/",
-      "summary": "Finance Minister Dr. Cassiel Ato Forson says the government has introduced about 22 laws over the past 18 months to make its reforms last and protect the economic stability Ghanaians have sacrificed to achieve. He said the aim is to prevent future governments ",
-      "publishedAt": "2026-10-30T13:41:10+00:00",
+      "title": "5G investment underscores our commitment to network quality and supporting Ghana’s digital connectivity – MTN",
+      "url": "https://www.myjoyonline.com/we-believe-5g-investment-underscores-our-commitment-to-sustaining-network-quality-supporting-ghanas-growing-digital-connectivity-mtn/",
+      "summary": "“We believe this investment underscores our commitment to sustaining network quality and building the capacity required to support Ghana’s growing digital connectivity needs”, it disclosed in its quarter 3 2026 financial report.",
+      "publishedAt": "2026-10-31T02:41:49+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Societe Generale Ghana rewards four customers with GH¢10,000 each in First Deposit & Win Mini Draw",
-      "url": "https://www.myjoyonline.com/societe-generale-ghana-rewards-four-customers-with-gh%c2%a210000-each-in-first-deposit-win-mini-draw/",
-      "summary": "Societe Generale Ghana has rewarded four customers with GH¢10,000 each in the first mini draw of its 2026 Deposit & Win Promo. Held at the Bank’s premium Airport branch, the draw forms part of the Deposit & Win Promo, which gives customers multiple opportuniti",
-      "publishedAt": "2026-10-30T12:05:00+00:00",
+      "title": "Youth unemployment exceeds 32%; about 12m Ghanaians are between 15 and 35 years – GSS",
+      "url": "https://www.myjoyonline.com/youth-unemployment-exceeds-32-about-12m-ghanaians-are-between-15-and-35-years-gss/",
+      "summary": "About 12 million Ghanaians were aged 15 to 35 in 2025, roughly one in every three people and the largest youth population in the country’s history. The figures are presented in Ghana in Numbers, 2025, the new annual flagship publication of the Ghana Statistica",
+      "publishedAt": "2026-10-31T01:54:20+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Absa introduces instant loans for eligible salaried customers",
-      "url": "https://www.myjoyonline.com/absa-introduces-instant-loans-for-eligible-salaried-customers/",
-      "summary": "Absa Bank Ghana is expanding access to personal loans with its Instant Loans solution, allowing eligible salaried customers to borrow up to GH¢350,000 through the Bank’s digital banking platforms.",
-      "publishedAt": "2026-10-30T11:06:51+00:00",
+      "title": "MTN Ghana reports 44.4% growth in mobile money transactions as digital services expand",
+      "url": "https://www.myjoyonline.com/mtn-ghana-reports-44-4-growth-in-mobile-money-transactions-as-digital-services-expand/",
+      "summary": "MTN Ghana has reported a 44.4 per cent year-on-year increase in the value of Mobile Money transactions for the first half of 2026, alongside plans to invest US$1.1 billion over three years to expand its network infrastructure and digital services across the co",
+      "publishedAt": "2026-10-30T23:34:56+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Youth in Amansie communities benefit from Asanko Gold Ghana Ltd apprenticeship programme",
-      "url": "https://www.myjoyonline.com/youth-in-amansie-communities-benefit-from-asanko-gold-ghana-ltd-apprenticeship-programme/",
-      "summary": "Youth from communities in the Amansie South and Amansie West districts are benefiting from a Community Skills and Apprenticeship Programme spearheaded by Asanko Gold Ghana Ltd. The beneficiaries, categorised under the first and second cohorts, have been engage",
-      "publishedAt": "2026-10-30T05:05:00+00:00",
+      "title": "Ghana and Burkina Faso seek stronger trade and industrial cooperation at SIAO 2026",
+      "url": "https://www.myjoyonline.com/ghana-and-burkina-faso-seek-stronger-trade-and-industrial-cooperation-at-siao-2026/",
+      "summary": "Ghana has reaffirmed its commitment to strengthening trade and investment relations with Burkina Faso through a proposed bilateral trade agreement aimed at promoting industrial cooperation, cross-border trade and value addition.",
+      "publishedAt": "2026-10-30T22:24:57+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
@@ -685,7 +685,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-30T16:57:31.427294+00:00"
+      "fetchedAt": "2026-10-31T15:58:37.500300+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -694,7 +694,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-30T16:57:31.427294+00:00"
+      "fetchedAt": "2026-10-31T15:58:37.500300+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -703,7 +703,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-30T16:57:31.427294+00:00"
+      "fetchedAt": "2026-10-31T15:58:37.500300+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -712,7 +712,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-30T16:57:31.427294+00:00"
+      "fetchedAt": "2026-10-31T15:58:37.500300+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -721,7 +721,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-30T16:57:31.427294+00:00"
+      "fetchedAt": "2026-10-31T15:58:37.500300+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -730,7 +730,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-30T16:57:31.427294+00:00"
+      "fetchedAt": "2026-10-31T15:58:37.500300+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -739,7 +739,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-10-30T16:57:31.427294+00:00"
+      "fetchedAt": "2026-10-31T15:58:37.500300+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -748,7 +748,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-30T16:57:31.427294+00:00"
+      "fetchedAt": "2026-10-31T15:58:37.500300+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -757,7 +757,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-30T16:57:31.427294+00:00"
+      "fetchedAt": "2026-10-31T15:58:37.500300+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -766,7 +766,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-30T16:57:31.427294+00:00"
+      "fetchedAt": "2026-10-31T15:58:37.500300+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -775,7 +775,7 @@
       "kind": "rss",
       "ok": false,
       "error": "HTTP Error 404: Not Found",
-      "fetchedAt": "2026-10-30T16:57:31.427294+00:00"
+      "fetchedAt": "2026-10-31T15:58:37.500300+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -784,7 +784,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-30T16:57:31.427294+00:00"
+      "fetchedAt": "2026-10-31T15:58:37.500300+00:00"
     },
     {
       "name": "Citi Business News",
@@ -793,7 +793,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-30T16:57:31.427294+00:00"
+      "fetchedAt": "2026-10-31T15:58:37.500300+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -802,7 +802,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-30T16:57:31.427294+00:00"
+      "fetchedAt": "2026-10-31T15:58:37.500300+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -811,7 +811,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-30T16:57:31.427294+00:00"
+      "fetchedAt": "2026-10-31T15:58:37.500300+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -820,7 +820,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-30T16:57:31.427294+00:00"
+      "fetchedAt": "2026-10-31T15:58:37.500300+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -829,7 +829,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-30T16:57:31.427294+00:00"
+      "fetchedAt": "2026-10-31T15:58:37.500300+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -838,7 +838,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-30T16:57:31.427294+00:00"
+      "fetchedAt": "2026-10-31T15:58:37.500300+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -847,7 +847,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-30T16:57:31.427294+00:00"
+      "fetchedAt": "2026-10-31T15:58:37.500300+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -856,7 +856,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-30T16:57:31.427294+00:00"
+      "fetchedAt": "2026-10-31T15:58:37.500300+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -865,7 +865,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-10-30T16:57:31.427294+00:00"
+      "fetchedAt": "2026-10-31T15:58:37.500300+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -874,7 +874,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-10-30T16:57:31.427294+00:00"
+      "fetchedAt": "2026-10-31T15:58:37.500300+00:00"
     }
   ]
 }
