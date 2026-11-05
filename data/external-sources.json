@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-04T18:30:13.322192+00:00",
-  "generatedAtGhana": "2026-11-04T18:30:13.322192+00:00",
+  "generatedAt": "2026-11-05T18:34:16.641993+00:00",
+  "generatedAtGhana": "2026-11-05T18:34:16.641993+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
     "gseIndices": {
-      "asOf": "04/11/2026",
-      "composite": 14112.83,
-      "financialStocks": 7347.62,
+      "asOf": "05/11/2026",
+      "composite": 13966.79,
+      "financialStocks": 7268.98,
       "source": "Ghana Stock Exchange",
       "url": "https://gse.com.gh/"
     },
@@ -24,7 +24,7 @@
       "source": "Bank of Ghana Daily Interbank FX Rates",
       "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
       "sourceType": "public_news_fallback",
-      "asOf": "04 Nov 2026",
+      "asOf": "05 Nov 2026",
       "usdGhsBuying": 11.6542,
       "usdGhsSelling": 11.6658
     },
@@ -517,130 +517,130 @@
       "category": "Sovereign credit research"
     },
     {
-      "title": "SSNIT’s real estate gamble: Vacant towers, failing infrastructure, and a mounting threat to workers’ pensions",
-      "url": "https://www.ghanabusinessnews.com/2026/11/04/ssnits-real-estate-gamble-vacant-towers-failing-infrastructure-and-a-mounting-threat-to-workers-pensions/",
-      "summary": "Accra is dotted with buildings meant to secure the future of Ghana’s workforce. But across SSNIT’s real estate portfolio, which is valued in billions of cedis, an alarming pattern has emerged: under-occupied properties, unresolved electromechanical failures, a",
-      "publishedAt": "2026-11-04T13:34:24+00:00",
+      "title": "Ghana’s Economy holding strong despite global pressures – Mahama",
+      "url": "https://www.ghanabusinessnews.com/2026/11/05/ghanas-economy-holding-strong-despite-global-pressures-mahama/",
+      "summary": "President John Mahama has reassured Ghanaians in the Caribbean that Ghana’s economy remains resilient despite global economic challenges, stressing that key indicators such as inflation, interest rates, and the Cedi are holding steady. The post Ghana’s Economy",
+      "publishedAt": "2026-11-05T16:29:49+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Government will sanction local government officials condoning illegal mining – Minister",
-      "url": "https://www.ghanabusinessnews.com/2026/11/04/government-will-sanction-local-government-officials-condoning-illegal-mining-minister/",
-      "summary": "Mr Mahama Ayariga, Minister for Local Government, Chieftaincy and Religious Affairs, has warned local government officials against engaging in or condoning illegal mining activities. The post Government will sanction local government officials condoning illega",
-      "publishedAt": "2026-11-04T12:58:09+00:00",
+      "title": "Ghana’s Mobile Money growth needs an AI agent permission test",
+      "url": "https://www.ghanabusinessnews.com/2026/11/05/ghanas-mobile-money-growth-needs-an-ai-agent-permission-test/",
+      "summary": "Ghana’s mobile money expansion makes a practical AI-security question urgent: who can stop an automated assistant before it moves funds or exposes customer data? The post Ghana’s Mobile Money growth needs an AI agent permission test appeared first on Ghana Bus",
+      "publishedAt": "2026-11-05T16:27:12+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Speaker Bagbin to mention names of MPs obstructing reconsideration of Anti-Gay Bill",
-      "url": "https://www.ghanabusinessnews.com/2026/11/04/speaker-bagbin-to-mention-names-of-mps-obstructing-reconsideration-of-anti-gay-bill/",
-      "summary": "Mr Alban Sumana Kingsford Bagbin, Speaker of Parliament, has cautioned Members of Parliament against attempts to deliberately obstruct the reconsideration of the Human Sexual Rights and Family Values Bill, 2025, popularly known as the Anti-Gay Bill. The post S",
-      "publishedAt": "2026-11-04T12:40:12+00:00",
+      "title": "IMF releases final $371m of $3b loan programme to Ghana",
+      "url": "https://www.ghanabusinessnews.com/2026/11/05/imf-releases-final-371m-of-3b-loan-programme-to-ghana/",
+      "summary": "The International Monetary Fund (IMF) has released the final $371 million of the $3 billion Extended Credit Facility (ECF) programme with Ghana. to the country. The post IMF releases final $371m of $3b loan programme to Ghana appeared first on Ghana Business N",
+      "publishedAt": "2026-11-05T15:26:00+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Plastic waste hindering trawler access to Jamestown Fishing Harbour – Manager",
-      "url": "https://www.ghanabusinessnews.com/2026/11/04/plastic-waste-hindering-trawler-access-to-jamestown-fishing-harbour-manager/",
-      "summary": "Plastic waste accumulating in the northern section of the Jamestown Fishing Harbour is preventing trawlers from accessing the facility for repairs, Engineer Stephen Kwame Owiah, the General Manager, Jamestown Fishing Habour, has said. The post Plastic waste hi",
-      "publishedAt": "2026-11-04T07:11:34+00:00",
+      "title": "NPP accuses government of pampering drug activities",
+      "url": "https://www.ghanabusinessnews.com/2026/11/05/npp-accuses-government-of-pampering-drug-activities/",
+      "summary": "The Opposition New Patriotic Party (NPP) has accused the Mahama Government of pampering cocaine and illicit drug activities in the country. The post NPP accuses government of pampering drug activities appeared first on Ghana Business News .",
+      "publishedAt": "2026-11-05T14:21:30+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Ghana to establish 21,000-tonne grain storage facility in Upper West",
-      "url": "https://www.ghanabusinessnews.com/2026/11/04/ghana-to-establish-21000-tonne-grain-storage-facility-in-upper-west/",
-      "summary": "The Ministry of Food and Agriculture has signed a Memorandum of Understanding (MoU) with DMT Collateral Management to establish a 21,000-metric-tonne grain storage facility in the Upper West Region. The post Ghana to establish 21,000-tonne grain storage facili",
-      "publishedAt": "2026-11-04T07:08:09+00:00",
+      "title": "TraffiTech: The State must obey the law first",
+      "url": "https://www.ghanabusinessnews.com/2026/11/05/traffitech-the-state-must-obey-the-law-first/",
+      "summary": "If TraffiTech-GH, the automated traffic law enforcement system, developed by the Ghana Police Service, but managed by Nationwide Traffic Management and Enforcement Limited (NTMEL), can photograph a speeding driver, but cannot do same to a missing school sign p",
+      "publishedAt": "2026-11-05T11:25:48+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Private cars, SUVs contribute significantly to traffic congestion and air pollution – Study",
-      "url": "https://www.ghanabusinessnews.com/2026/11/04/private-cars-suvs-contribute-significantly-to-traffic-congestion-and-air-pollution-study/",
-      "summary": "Private cars and sport utility vehicles (SUVs) dominate traffic on major roads in parts of Ghana, contributing to congestion, inefficient road use and transport-related air pollution, a study has found. The post Private cars, SUVs contribute significantly to t",
-      "publishedAt": "2026-11-04T07:01:58+00:00",
+      "title": "Ghana inflation edges up to 5.5% in October",
+      "url": "https://www.ghanabusinessnews.com/2026/11/05/ghana-inflation-edges-up-to-5-5-in-october/",
+      "summary": "Ghana’s headline inflation rose for a third consecutive time to 5.5 per cent in October 2026, up from 5.2 per cent in September, driven by transport and services cost, the Ghana Statistical Service (GSS) announced on Wednesday. The post Ghana inflation edges u",
+      "publishedAt": "2026-11-05T10:50:40+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Government favours media self-regulation over state control – Samuel George",
-      "url": "https://www.ghanabusinessnews.com/2026/11/04/government-favours-media-self-regulation-over-state-control-samuel-george/",
-      "summary": "The government says it favours peer regulation of the media over state control, has thus urged the media to take responsibility for regulating its own activities to prevent excessive government intervention and safeguard press freedom. The post Government favo",
-      "publishedAt": "2026-11-04T06:59:00+00:00",
+      "title": "King Charles describes slave trade as shameful chapter of history",
+      "url": "https://www.ghanabusinessnews.com/2026/11/05/king-charles-describes-slave-trade-as-shameful-chapter-of-history/",
+      "summary": "King Charles III of the United Kingdom and Head of the Commonwealth has described slave trade as shameful chapter of human history. The post King Charles describes slave trade as shameful chapter of history appeared first on Ghana Business News .",
+      "publishedAt": "2026-11-05T10:44:13+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Ministry to pay JUSAG salary arrears in two instalments",
-      "url": "https://www.ghanabusinessnews.com/2026/11/04/ministry-to-pay-jusag-salary-arrears-in-two-instalments/",
-      "summary": "The Ministry of Finance has approved the payment of reviewed salary arrears to members of the Judicial Service Staff Association of Ghana (JUSAG) and the lower court bench in two instalments, beginning in November 2026. The post Ministry to pay JUSAG salary ar",
-      "publishedAt": "2026-11-04T06:55:45+00:00",
+      "title": "Ghana, Trinidad and Tobago explore joint mechanism for reparatory justice",
+      "url": "https://www.ghanabusinessnews.com/2026/11/05/ghana-trinidad-and-tobago-explore-joint-mechanism-for-reparatory-justice/",
+      "summary": "Ghana and Trinidad and Tobago are exploring the establishment of a dedicated mechanism, potentially co-chaired by the African Union (AU) and the Caribbean Community (CARICOM), to advance the reparatory justice agenda and facilitate structured engagement with t",
+      "publishedAt": "2026-11-05T10:29:29+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "BoG hosts Queen of Netherlands to discuss Ghana’s financial health",
-      "url": "https://www.myjoyonline.com/bog-hosts-queen-of-netherlands-to-discuss-ghanas-financial-health/",
-      "summary": "Speaking to welcome the Queen, who also doubles as the United Nations Secretary-General’s Special Advocate for Financial Health, the Governor highlighted the country’s financial achievements and some challenges facing the sector.",
-      "publishedAt": "2026-11-04T17:26:34+00:00",
+      "title": "GH¢31bn informal cross-border trade faces hurdles despite AfCFTA commitments",
+      "url": "https://www.myjoyonline.com/gh%c2%a231bn-informal-cross-border-trade-faces-hurdles-despite-afcfta-commitments/",
+      "summary": "Informal cross-border trade in Ghana, estimated at GH¢31 billion in the first three quarters of 2025, continues to face significant operational challenges, raising concerns about the country's ability to fully harness the benefits of the African Continental Fr",
+      "publishedAt": "2026-11-05T17:34:28+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "GSE annual return hits 63%, listed firms’ Q3 performance impressive",
-      "url": "https://www.myjoyonline.com/gse-annual-return-hits-63-listed-firms-q3-performance-impressive/",
-      "summary": "Aggregate market turnover rose by 2.3% week-on-week(w/w) to US$4.8 million, with Scancom Plc (MTN GH) driving activity and contributing 81.6% of the total value traded.",
-      "publishedAt": "2026-11-04T16:23:38+00:00",
+      "title": "Cross-border traders allege harassment, illegal levies without formal complaint channels",
+      "url": "https://www.myjoyonline.com/cross-border-traders-allege-harassment-illegal-levies-without-formal-complaint-channels/",
+      "summary": "Women engaged in cross-border trading in Ghana continue to face harassment, arbitrary charges, confiscation of goods and security risks, with no formal mechanisms to report abuses at the country's borders, stakeholders have revealed.",
+      "publishedAt": "2026-11-05T17:33:10+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Beyond oil and gold: Ghana and Saudi Arabia build a new era of economic cooperation",
-      "url": "https://www.myjoyonline.com/beyond-oil-and-gold-ghana-and-saudi-arabia-build-a-new-era-of-economic-cooperation/",
-      "summary": "The future of investment is no longer shaped by capital alone. It is increasingly shaped by strategic partnerships, policy credibility, and countries’ ability to connect opportunity with confidence. Ghana’s engagement with Saudi Arabia’s investment community i",
-      "publishedAt": "2026-11-04T16:05:17+00:00",
+      "title": "Ghana targets financial health with new inclusion strategy for 2027–2031",
+      "url": "https://www.myjoyonline.com/ghana-targets-financial-health-with-new-inclusion-strategy-for-2027-2031/",
+      "summary": "Ghana is taking steps to shift its financial inclusion agenda from expanding access to financial services to improving the financial health and well-being of citizens. The Ministry of Finance, in collaboration with the United Nations Secretary-General’s Specia",
+      "publishedAt": "2026-11-05T15:02:09+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Ghana’s next investment chapter: Turning recovery into resilience",
-      "url": "https://www.myjoyonline.com/ghanas-next-investment-chapter-turning-recovery-into-resilience/",
-      "summary": "RMB’s assessment covers 31 African economies and evaluates 20 indicators across economic performance and potential, market accessibility and innovation, economic stability and investment environment, and social and human development.",
-      "publishedAt": "2026-11-04T15:57:49+00:00",
+      "title": "New economy to ensure a stronger economy delivers financial security for Ghanaians",
+      "url": "https://www.myjoyonline.com/new-economy-to-ensure-a-stronger-economy-delivers-financial-security-for-ghanaians/",
+      "summary": "Finance Minister Dr Cassiel Ato Forson has said Ghana’s economic progress must translate into greater financial security for its people, describing household wellbeing as a key goal of the New Economy. The Minister made the remarks after hosting Her Majesty Qu",
+      "publishedAt": "2026-11-05T14:58:52+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Crude oil to average $79 per barrel in 2027 – World Bank",
-      "url": "https://www.myjoyonline.com/crude-oil-to-average-79-per-barrel-in-2027-world-bank/",
-      "summary": "According to the report, global oil consumption is anticipated to contract by 2.5% in 2026, the third-largest decline on record, after the pandemic year of 2020 and the oil market turmoil of 1980.",
-      "publishedAt": "2026-11-04T15:28:19+00:00",
+      "title": "Prudential Bank charts new path for growth at post-recapitalisation town hall",
+      "url": "https://www.myjoyonline.com/prudential-bank-charts-new-path-for-growth-at-post-recapitalisation-town-hall/",
+      "summary": "The halls of Prudential Bank Ltd. came alive last Friday as staff gathered for a much-anticipated Staff Durbar and Town Hall meeting following the recently announced successful recapitalisation of GHS1.13 billion. The engagement formed part of the bank’s inter",
+      "publishedAt": "2026-11-05T14:34:07+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Trade Minister urges Ghanaian artisans to leverage SIAO 2026 for business growth",
-      "url": "https://www.myjoyonline.com/trade-minister-urges-ghanaian-artisans-to-leverage-siao-2026-for-business-growth/",
-      "summary": "The Minister for Trade, Agribusiness and Industry, Elizabeth Ofosu-Adjare, has urged Ghanaian artisans and businesses to take advantage of the 18th International Arts and Handicraft Trade Show of Ouagadougou (SIAO 2026) to expand their businesses and explore o",
-      "publishedAt": "2026-11-04T14:05:46+00:00",
+      "title": "IMF says Ghana’s 2027 Budget is built on strong foundations",
+      "url": "https://www.myjoyonline.com/imf-says-ghanas-2027-budget-is-built-on-strong-foundations/",
+      "summary": "The International Monetary Fund (IMF) has described Ghana’s 2027 Budget as being built on strong foundations, saying its fiscal targets are consistent with the country’s Policy Coordination Instrument (PCI) programme.",
+      "publishedAt": "2026-11-05T12:08:47+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Imperial General Assurance supports infrastructure upgrade at Ghana National Fire Service in Sekondi-Takoradi",
-      "url": "https://www.myjoyonline.com/imperial-general-assurance-supports-infrastructure-upgrade-at-ghana-national-fire-service-in-sekondi-takoradi/",
-      "summary": "Imperial General Assurance has donated bags of cement to the Ghana National Fire Service (GNFS) in the Sekondi-Takoradi Metropolis to support the Service’s ongoing infrastructure projects.",
-      "publishedAt": "2026-11-04T13:32:32+00:00",
+      "title": "PIAC elects Peter Quartey as new Chair for one-year term",
+      "url": "https://www.myjoyonline.com/prof-peter-quartey-elected-piac-chair-begins-one-year-term/",
+      "summary": "Economist and Development Finance Expert, Professor Peter Quartey has been elected Chair of the Public Interest and Accountability Committee (PIAC), to serve a one-year term, effective 3rd November, 2026.",
+      "publishedAt": "2026-11-05T11:45:21+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "CBG urges businesses to leverage Green Finance Taxonomy to access funding",
-      "url": "https://www.myjoyonline.com/cbg-urges-businesses-to-leverage-green-finance-taxonomy-to-access-funding/",
-      "summary": "Consolidated Bank Ghana (CBG) is urging businesses to leverage Ghana's Green Finance Taxonomy to identify sustainable investment opportunities and strengthen their readiness to access green financing. The bank says environmental sustainability is increasingly ",
-      "publishedAt": "2026-11-04T12:24:23+00:00",
+      "title": "Ghana remains exposed to volatility in gold, cocoa and oil prices; domestic risks also persist – IMF",
+      "url": "https://www.myjoyonline.com/ghana-remains-exposed-to-volatility-in-gold-cocoa-and-oil-prices-domestic-risks-also-persist-imf/",
+      "summary": "On the performance of the PCI, it said “Performance under the PCI has been broadly satisfactory. Most quantitative targets under this review are met. In response to the decline in foreign exchange reserves in recent months, the authorities [Ministry of Finance",
+      "publishedAt": "2026-11-05T11:44:02+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
@@ -685,7 +685,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-04T18:30:13.322192+00:00"
+      "fetchedAt": "2026-11-05T18:34:16.641993+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -694,7 +694,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-04T18:30:13.322192+00:00"
+      "fetchedAt": "2026-11-05T18:34:16.641993+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -703,7 +703,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-04T18:30:13.322192+00:00"
+      "fetchedAt": "2026-11-05T18:34:16.641993+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -712,7 +712,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-04T18:30:13.322192+00:00"
+      "fetchedAt": "2026-11-05T18:34:16.641993+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -721,7 +721,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-04T18:30:13.322192+00:00"
+      "fetchedAt": "2026-11-05T18:34:16.641993+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -730,7 +730,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-04T18:30:13.322192+00:00"
+      "fetchedAt": "2026-11-05T18:34:16.641993+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -739,7 +739,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-11-04T18:30:13.322192+00:00"
+      "fetchedAt": "2026-11-05T18:34:16.641993+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -748,7 +748,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-04T18:30:13.322192+00:00"
+      "fetchedAt": "2026-11-05T18:34:16.641993+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -757,7 +757,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-04T18:30:13.322192+00:00"
+      "fetchedAt": "2026-11-05T18:34:16.641993+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -766,7 +766,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-04T18:30:13.322192+00:00"
+      "fetchedAt": "2026-11-05T18:34:16.641993+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -775,7 +775,7 @@
       "kind": "rss",
       "ok": false,
       "error": "HTTP Error 404: Not Found",
-      "fetchedAt": "2026-11-04T18:30:13.322192+00:00"
+      "fetchedAt": "2026-11-05T18:34:16.641993+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -784,7 +784,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-04T18:30:13.322192+00:00"
+      "fetchedAt": "2026-11-05T18:34:16.641993+00:00"
     },
     {
       "name": "Citi Business News",
@@ -793,7 +793,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-04T18:30:13.322192+00:00"
+      "fetchedAt": "2026-11-05T18:34:16.641993+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -802,7 +802,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-04T18:30:13.322192+00:00"
+      "fetchedAt": "2026-11-05T18:34:16.641993+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -811,7 +811,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-04T18:30:13.322192+00:00"
+      "fetchedAt": "2026-11-05T18:34:16.641993+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -820,7 +820,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-04T18:30:13.322192+00:00"
+      "fetchedAt": "2026-11-05T18:34:16.641993+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -829,7 +829,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-04T18:30:13.322192+00:00"
+      "fetchedAt": "2026-11-05T18:34:16.641993+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -838,7 +838,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-04T18:30:13.322192+00:00"
+      "fetchedAt": "2026-11-05T18:34:16.641993+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -847,7 +847,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-04T18:30:13.322192+00:00"
+      "fetchedAt": "2026-11-05T18:34:16.641993+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -856,7 +856,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-04T18:30:13.322192+00:00"
+      "fetchedAt": "2026-11-05T18:34:16.641993+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -865,7 +865,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-04T18:30:13.322192+00:00"
+      "fetchedAt": "2026-11-05T18:34:16.641993+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -874,7 +874,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-11-04T18:30:13.322192+00:00"
+      "fetchedAt": "2026-11-05T18:34:16.641993+00:00"
     }
   ]
 }
