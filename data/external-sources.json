@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-05T18:34:16.641993+00:00",
-  "generatedAtGhana": "2026-11-05T18:34:16.641993+00:00",
+  "generatedAt": "2026-11-06T17:51:11.058815+00:00",
+  "generatedAtGhana": "2026-11-06T17:51:11.058815+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
     "gseIndices": {
-      "asOf": "05/11/2026",
-      "composite": 13966.79,
-      "financialStocks": 7268.98,
+      "asOf": "06/11/2026",
+      "composite": 14000.37,
+      "financialStocks": 7269.22,
       "source": "Ghana Stock Exchange",
       "url": "https://gse.com.gh/"
     },
@@ -19,14 +19,14 @@
       "url": "https://www.bog.gov.gh/"
     },
     "fx": {
-      "usdGhsMid": 11.66,
+      "usdGhsMid": 11.64,
       "rateBasis": "public news reported rate",
       "source": "Bank of Ghana Daily Interbank FX Rates",
       "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
       "sourceType": "public_news_fallback",
-      "asOf": "05 Nov 2026",
-      "usdGhsBuying": 11.6542,
-      "usdGhsSelling": 11.6658
+      "asOf": "06 Nov 2026",
+      "usdGhsBuying": 11.6342,
+      "usdGhsSelling": 11.6458
     },
     "ghanaStatisticalService": {
       "cpiInflationYoy": 5.5,
@@ -229,7 +229,7 @@
       "category": "Official macro"
     },
     {
-      "title": "Day's Weighted Average Rate Day’s Weighted Median Rate: 11.6600 table.wpDataTable td.numdata { text-align: right !important; } /* buttons font color */ .wpDataTables .wdt-checkbox-filter.btn, .wpDataTables .selecter .selecter-selected, .wdt-frontend-modal .btn:not(.dropdown-toggle), div.dt-button-collection a.dt-button.active:not(.disabled), div.dt-button-collection button.dt-button.active:not(.disabled) { color: #222222 !important; } /** buttons background hover color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { background-color: #ebbd3f !important; background-image: none !important; } /** buttons hover border color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { border-color: #222222 !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } .wpdt-c .wpDataTablesWrapper table.wpDataTable thead tr:nth-child(2) th { overflow: visible; }",
+      "title": "Day's Weighted Average Rate Day’s Weighted Median Rate: 11.6400 table.wpDataTable td.numdata { text-align: right !important; } /* buttons font color */ .wpDataTables .wdt-checkbox-filter.btn, .wpDataTables .selecter .selecter-selected, .wdt-frontend-modal .btn:not(.dropdown-toggle), div.dt-button-collection a.dt-button.active:not(.disabled), div.dt-button-collection button.dt-button.active:not(.disabled) { color: #222222 !important; } /** buttons background hover color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { background-color: #ebbd3f !important; background-image: none !important; } /** buttons hover border color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { border-color: #222222 !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } .wpdt-c .wpDataTablesWrapper table.wpDataTable thead tr:nth-child(2) th { overflow: visible; }",
       "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
       "summary": "",
       "publishedAt": null,
@@ -517,130 +517,130 @@
       "category": "Sovereign credit research"
     },
     {
-      "title": "Ghana’s Economy holding strong despite global pressures – Mahama",
-      "url": "https://www.ghanabusinessnews.com/2026/11/05/ghanas-economy-holding-strong-despite-global-pressures-mahama/",
-      "summary": "President John Mahama has reassured Ghanaians in the Caribbean that Ghana’s economy remains resilient despite global economic challenges, stressing that key indicators such as inflation, interest rates, and the Cedi are holding steady. The post Ghana’s Economy",
-      "publishedAt": "2026-11-05T16:29:49+00:00",
+      "title": "Ghana shifts focus to financial wellbeing with new inclusion strategy",
+      "url": "https://www.ghanabusinessnews.com/2026/11/06/ghana-shifts-focus-to-financial-wellbeing-with-new-inclusion-strategy/",
+      "summary": "Ghana has begun developing its second National Financial Inclusion and Development Strategy (NFIDS) for 2027 to 2031, placing financial health at the centre of the countrywide initiative. The post Ghana shifts focus to financial wellbeing with new inclusion st",
+      "publishedAt": "2026-11-06T09:05:19+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Ghana’s Mobile Money growth needs an AI agent permission test",
-      "url": "https://www.ghanabusinessnews.com/2026/11/05/ghanas-mobile-money-growth-needs-an-ai-agent-permission-test/",
-      "summary": "Ghana’s mobile money expansion makes a practical AI-security question urgent: who can stop an automated assistant before it moves funds or exposes customer data? The post Ghana’s Mobile Money growth needs an AI agent permission test appeared first on Ghana Bus",
-      "publishedAt": "2026-11-05T16:27:12+00:00",
+      "title": "Ghana Navy intercepts 4.8 tonnes of suspected marijuana destined for Nigeria",
+      "url": "https://www.ghanabusinessnews.com/2026/11/06/ghana-navy-intercepts-4-8-tonnes-of-suspected-marijuana-destined-for-nigeria/",
+      "summary": "The Ghana Navy has intercepted two boats carrying approximately 4.8 tonnes of suspected marijuana allegedly destined for Nigeria in an intelligence-led operation on the Volta Lake. The post Ghana Navy intercepts 4.8 tonnes of suspected marijuana destined for N",
+      "publishedAt": "2026-11-06T09:02:44+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "IMF releases final $371m of $3b loan programme to Ghana",
-      "url": "https://www.ghanabusinessnews.com/2026/11/05/imf-releases-final-371m-of-3b-loan-programme-to-ghana/",
-      "summary": "The International Monetary Fund (IMF) has released the final $371 million of the $3 billion Extended Credit Facility (ECF) programme with Ghana. to the country. The post IMF releases final $371m of $3b loan programme to Ghana appeared first on Ghana Business N",
-      "publishedAt": "2026-11-05T15:26:00+00:00",
+      "title": "MoFA develops strategy to mitigate El Niño impact on agriculture",
+      "url": "https://www.ghanabusinessnews.com/2026/11/06/mofa-develops-strategy-to-mitigate-el-nino-impact-on-agriculture/",
+      "summary": "The Ministry of Food and Agriculture (MoFA) is developing a national response strategy to mitigate the anticipated effects of a very strong El Niño event on agricultural production and farmers’ livelihoods. The post MoFA develops strategy to mitigate El Niño i",
+      "publishedAt": "2026-11-06T08:59:14+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "NPP accuses government of pampering drug activities",
-      "url": "https://www.ghanabusinessnews.com/2026/11/05/npp-accuses-government-of-pampering-drug-activities/",
-      "summary": "The Opposition New Patriotic Party (NPP) has accused the Mahama Government of pampering cocaine and illicit drug activities in the country. The post NPP accuses government of pampering drug activities appeared first on Ghana Business News .",
-      "publishedAt": "2026-11-05T14:21:30+00:00",
+      "title": "GSA to shift focus from certification to business competitiveness",
+      "url": "https://www.ghanabusinessnews.com/2026/11/06/gsa-to-shift-focus-from-certification-to-business-competitiveness/",
+      "summary": "The Ghana Standards Authority (GSA), through its Systems Certification Department, is embarking on a transformation agenda to shift the focus of certification from merely obtaining certificates to improving business competitiveness and performance. The post GS",
+      "publishedAt": "2026-11-06T08:50:24+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "TraffiTech: The State must obey the law first",
-      "url": "https://www.ghanabusinessnews.com/2026/11/05/traffitech-the-state-must-obey-the-law-first/",
-      "summary": "If TraffiTech-GH, the automated traffic law enforcement system, developed by the Ghana Police Service, but managed by Nationwide Traffic Management and Enforcement Limited (NTMEL), can photograph a speeding driver, but cannot do same to a missing school sign p",
-      "publishedAt": "2026-11-05T11:25:48+00:00",
+      "title": "Mahama urges patience with TraffiTech",
+      "url": "https://www.ghanabusinessnews.com/2026/11/06/mahama-urges-patience-with-traffitech/",
+      "summary": "President John Dramani Mahama has appealed to Ghanaians to exercise patience with the newly introduced Traffitech traffic management system, assuring the public that the technology will significantly reduce road accidents and save lives. The post Mahama urges ",
+      "publishedAt": "2026-11-06T08:39:19+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Ghana inflation edges up to 5.5% in October",
-      "url": "https://www.ghanabusinessnews.com/2026/11/05/ghana-inflation-edges-up-to-5-5-in-october/",
-      "summary": "Ghana’s headline inflation rose for a third consecutive time to 5.5 per cent in October 2026, up from 5.2 per cent in September, driven by transport and services cost, the Ghana Statistical Service (GSS) announced on Wednesday. The post Ghana inflation edges u",
-      "publishedAt": "2026-11-05T10:50:40+00:00",
+      "title": "Ministry of the Interior reviews curfew hours for Hamile Township and environs",
+      "url": "https://www.ghanabusinessnews.com/2026/11/06/ministry-of-the-interior-reviews-curfew-hours-for-hamile-township-and-environs/",
+      "summary": "The Minister for the Interior, acting on the advice of the National Security Council and by Executive Instrument, has reviewed the curfew hours imposed on Hamile Township and its environs in the Lambussie District of the Upper West Region. The post Ministry of",
+      "publishedAt": "2026-11-06T08:27:34+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "King Charles describes slave trade as shameful chapter of history",
-      "url": "https://www.ghanabusinessnews.com/2026/11/05/king-charles-describes-slave-trade-as-shameful-chapter-of-history/",
-      "summary": "King Charles III of the United Kingdom and Head of the Commonwealth has described slave trade as shameful chapter of human history. The post King Charles describes slave trade as shameful chapter of history appeared first on Ghana Business News .",
-      "publishedAt": "2026-11-05T10:44:13+00:00",
+      "title": "Women’s Development Bank, 24-Hour Economy incentives and $10b plan top expectations for 2027 budget",
+      "url": "https://www.ghanabusinessnews.com/2026/11/06/womens-development-bank-24-hour-economy-incentives-and-10b-plan-top-expectations-for-2027-budget/",
+      "summary": "As Ghanaians await the presentation of the 2027 Budget Statement and Economic Policy, attention is likely to focus not only on measures to ease the cost of living but also on how the government intends to implement its broader economic transformation agenda. T",
+      "publishedAt": "2026-11-06T08:21:20+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Ghana, Trinidad and Tobago explore joint mechanism for reparatory justice",
-      "url": "https://www.ghanabusinessnews.com/2026/11/05/ghana-trinidad-and-tobago-explore-joint-mechanism-for-reparatory-justice/",
-      "summary": "Ghana and Trinidad and Tobago are exploring the establishment of a dedicated mechanism, potentially co-chaired by the African Union (AU) and the Caribbean Community (CARICOM), to advance the reparatory justice agenda and facilitate structured engagement with t",
-      "publishedAt": "2026-11-05T10:29:29+00:00",
+      "title": "Opposition MP demands probe into two FIFA World Cup raffles",
+      "url": "https://www.ghanabusinessnews.com/2026/11/06/opposition-mp-demands-probe-into-two-fifa-world-cup-raffles/",
+      "summary": "Mr Vincent Ekow Assafuah, Member of Parliament (MP) for Old Tafo and Ranking Member on Parliament's Youth and Sports Committee, has called for a full-scale investigation into two raffles organised in connection with Ghana's participation in the 2026 FIFA World",
+      "publishedAt": "2026-11-06T08:06:21+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "GH¢31bn informal cross-border trade faces hurdles despite AfCFTA commitments",
-      "url": "https://www.myjoyonline.com/gh%c2%a231bn-informal-cross-border-trade-faces-hurdles-despite-afcfta-commitments/",
-      "summary": "Informal cross-border trade in Ghana, estimated at GH¢31 billion in the first three quarters of 2025, continues to face significant operational challenges, raising concerns about the country's ability to fully harness the benefits of the African Continental Fr",
-      "publishedAt": "2026-11-05T17:34:28+00:00",
+      "title": "Institute of Packaging Ghana to strengthen collaboration with farmers, agribusinesses to boost packaging industry",
+      "url": "https://www.myjoyonline.com/institute-of-packaging-ghana-to-strengthen-collaboration-with-farmers-agribusinesses-to-boost-packaging-industry/",
+      "summary": "The Institute of Packaging, Ghana (IOPG) says it will deepen collaboration with farmers, agro-processors and other stakeholders in the agricultural value chain to improve packaging solutions, reduce post-harvest losses and enhance the competitiveness of locall",
+      "publishedAt": "2026-11-06T16:54:14+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Cross-border traders allege harassment, illegal levies without formal complaint channels",
-      "url": "https://www.myjoyonline.com/cross-border-traders-allege-harassment-illegal-levies-without-formal-complaint-channels/",
-      "summary": "Women engaged in cross-border trading in Ghana continue to face harassment, arbitrary charges, confiscation of goods and security risks, with no formal mechanisms to report abuses at the country's borders, stakeholders have revealed.",
-      "publishedAt": "2026-11-05T17:33:10+00:00",
+      "title": "IMF acknowledges Ghana’s strong revenue performance and progress in tax administration reforms",
+      "url": "https://www.myjoyonline.com/imf-acknowledges-ghanas-strong-revenue-performance-and-progress-in-tax-administration-reforms/",
+      "summary": "The IMF highlighted the early completion of the review of customs and excise legislation, ongoing digitalization through the Integrated Tax Administration System (ITAS) and electronic fiscal devices, and prospects for increased non-oil revenue in 2027.",
+      "publishedAt": "2026-11-06T14:34:55+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Ghana targets financial health with new inclusion strategy for 2027–2031",
-      "url": "https://www.myjoyonline.com/ghana-targets-financial-health-with-new-inclusion-strategy-for-2027-2031/",
-      "summary": "Ghana is taking steps to shift its financial inclusion agenda from expanding access to financial services to improving the financial health and well-being of citizens. The Ministry of Finance, in collaboration with the United Nations Secretary-General’s Specia",
-      "publishedAt": "2026-11-05T15:02:09+00:00",
+      "title": "Cashew crisis: Usibras imports Ivorian kernels to save Ghanaian jobs",
+      "url": "https://www.myjoyonline.com/cashew-crisis-usibras-imports-ivorian-kernels-to-save-ghanaian-jobs/",
+      "summary": "In a dramatic shift highlighting systemic pressures on domestic agro-processors, leading Ghanaian cashew processor Usibras has turned to importing semi-processed cashew kernels from neighboring Côte d’Ivoire to keep its factory operational.",
+      "publishedAt": "2026-11-06T13:55:00+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "New economy to ensure a stronger economy delivers financial security for Ghanaians",
-      "url": "https://www.myjoyonline.com/new-economy-to-ensure-a-stronger-economy-delivers-financial-security-for-ghanaians/",
-      "summary": "Finance Minister Dr Cassiel Ato Forson has said Ghana’s economic progress must translate into greater financial security for its people, describing household wellbeing as a key goal of the New Economy. The Minister made the remarks after hosting Her Majesty Qu",
-      "publishedAt": "2026-11-05T14:58:52+00:00",
+      "title": "10 young fintech innovators to pitch for national-stage places at MoMo Fintech Lab Accra Hackathon",
+      "url": "https://www.myjoyonline.com/10-young-fintech-innovators-to-pitch-for-national-stage-places-at-momo-fintech-lab-accra-hackathon/",
+      "summary": "Ten innovators from the Southern Zone of the 2026 MoMo Fintech Lab will pitch their solutions to a panel of industry experts on Friday, November 6, 2026, competing for five places in the National Mentorship Programme.",
+      "publishedAt": "2026-11-06T12:14:48+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Prudential Bank charts new path for growth at post-recapitalisation town hall",
-      "url": "https://www.myjoyonline.com/prudential-bank-charts-new-path-for-growth-at-post-recapitalisation-town-hall/",
-      "summary": "The halls of Prudential Bank Ltd. came alive last Friday as staff gathered for a much-anticipated Staff Durbar and Town Hall meeting following the recently announced successful recapitalisation of GHS1.13 billion. The engagement formed part of the bank’s inter",
-      "publishedAt": "2026-11-05T14:34:07+00:00",
+      "title": "Preliminary studies affirm viability of proposed national airline; roadmap for establishment agreed – Gov’t",
+      "url": "https://www.myjoyonline.com/preliminary-studies-affirm-viability-of-proposed-national-airline-roadmap-for-establishment-agreed-govt/",
+      "summary": "Government says preliminary studies have affirmed the viability of establishing a new national airline.",
+      "publishedAt": "2026-11-06T10:24:10+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "IMF says Ghana’s 2027 Budget is built on strong foundations",
-      "url": "https://www.myjoyonline.com/imf-says-ghanas-2027-budget-is-built-on-strong-foundations/",
-      "summary": "The International Monetary Fund (IMF) has described Ghana’s 2027 Budget as being built on strong foundations, saying its fiscal targets are consistent with the country’s Policy Coordination Instrument (PCI) programme.",
-      "publishedAt": "2026-11-05T12:08:47+00:00",
+      "title": "El Niño could drive up food prices and inflation – Government Statistician",
+      "url": "https://www.myjoyonline.com/el-nino-could-drive-up-food-prices-and-inflation-government-statistician/",
+      "summary": "Government Statistician Dr Alhassan Iddrisu has warned that Ghana could face fresh inflationary pressures from an anticipated severe El Niño weather event, which threatens to disrupt agricultural production, electricity generation and international supply chai",
+      "publishedAt": "2026-11-06T09:40:11+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "PIAC elects Peter Quartey as new Chair for one-year term",
-      "url": "https://www.myjoyonline.com/prof-peter-quartey-elected-piac-chair-begins-one-year-term/",
-      "summary": "Economist and Development Finance Expert, Professor Peter Quartey has been elected Chair of the Public Interest and Accountability Committee (PIAC), to serve a one-year term, effective 3rd November, 2026.",
-      "publishedAt": "2026-11-05T11:45:21+00:00",
+      "title": "IFS calls for reforms in 2027 budget to boost domestic revenue mobilisation",
+      "url": "https://www.myjoyonline.com/ifs-calls-for-reforms-in-2027-budget-to-boost-domestic-revenue-mobilisation/",
+      "summary": "The Institute for Fiscal Studies (IFS) is warning that Ghana’s weak domestic revenue mobilisation is undermining the country’s capacity to finance critical infrastructure, improve public sector wages and accelerate national development. Speaking at a pre-budge",
+      "publishedAt": "2026-11-06T07:18:56+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Ghana remains exposed to volatility in gold, cocoa and oil prices; domestic risks also persist – IMF",
-      "url": "https://www.myjoyonline.com/ghana-remains-exposed-to-volatility-in-gold-cocoa-and-oil-prices-domestic-risks-also-persist-imf/",
-      "summary": "On the performance of the PCI, it said “Performance under the PCI has been broadly satisfactory. Most quantitative targets under this review are met. In response to the decline in foreign exchange reserves in recent months, the authorities [Ministry of Finance",
-      "publishedAt": "2026-11-05T11:44:02+00:00",
+      "title": "Chinese malls taking 60% of Ghana’s retail market – GUTA laments",
+      "url": "https://www.myjoyonline.com/chinese-malls-taking-60-of-ghanas-retail-market-guta-laments/",
+      "summary": "The Ghana Union of Traders’ Associations (GUTA) has raised concerns over the rapid expansion of Chinese-owned shopping malls in the country, claiming that they are taking an estimated 60 per cent share of the market and putting pressure on local businesses. Th",
+      "publishedAt": "2026-11-06T04:52:06+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
@@ -685,7 +685,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-05T18:34:16.641993+00:00"
+      "fetchedAt": "2026-11-06T17:51:11.058815+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -694,7 +694,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-05T18:34:16.641993+00:00"
+      "fetchedAt": "2026-11-06T17:51:11.058815+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -703,7 +703,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-05T18:34:16.641993+00:00"
+      "fetchedAt": "2026-11-06T17:51:11.058815+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -712,7 +712,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-05T18:34:16.641993+00:00"
+      "fetchedAt": "2026-11-06T17:51:11.058815+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -721,7 +721,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-05T18:34:16.641993+00:00"
+      "fetchedAt": "2026-11-06T17:51:11.058815+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -730,7 +730,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-05T18:34:16.641993+00:00"
+      "fetchedAt": "2026-11-06T17:51:11.058815+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -739,7 +739,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-11-05T18:34:16.641993+00:00"
+      "fetchedAt": "2026-11-06T17:51:11.058815+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -748,7 +748,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-05T18:34:16.641993+00:00"
+      "fetchedAt": "2026-11-06T17:51:11.058815+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -757,7 +757,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-05T18:34:16.641993+00:00"
+      "fetchedAt": "2026-11-06T17:51:11.058815+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -766,7 +766,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-05T18:34:16.641993+00:00"
+      "fetchedAt": "2026-11-06T17:51:11.058815+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -775,7 +775,7 @@
       "kind": "rss",
       "ok": false,
       "error": "HTTP Error 404: Not Found",
-      "fetchedAt": "2026-11-05T18:34:16.641993+00:00"
+      "fetchedAt": "2026-11-06T17:51:11.058815+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -784,7 +784,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-05T18:34:16.641993+00:00"
+      "fetchedAt": "2026-11-06T17:51:11.058815+00:00"
     },
     {
       "name": "Citi Business News",
@@ -793,7 +793,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-05T18:34:16.641993+00:00"
+      "fetchedAt": "2026-11-06T17:51:11.058815+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -802,7 +802,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-05T18:34:16.641993+00:00"
+      "fetchedAt": "2026-11-06T17:51:11.058815+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -811,7 +811,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-05T18:34:16.641993+00:00"
+      "fetchedAt": "2026-11-06T17:51:11.058815+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -820,7 +820,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-05T18:34:16.641993+00:00"
+      "fetchedAt": "2026-11-06T17:51:11.058815+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -829,7 +829,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-05T18:34:16.641993+00:00"
+      "fetchedAt": "2026-11-06T17:51:11.058815+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -838,7 +838,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-05T18:34:16.641993+00:00"
+      "fetchedAt": "2026-11-06T17:51:11.058815+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -847,7 +847,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-05T18:34:16.641993+00:00"
+      "fetchedAt": "2026-11-06T17:51:11.058815+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -856,7 +856,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-05T18:34:16.641993+00:00"
+      "fetchedAt": "2026-11-06T17:51:11.058815+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -865,7 +865,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-05T18:34:16.641993+00:00"
+      "fetchedAt": "2026-11-06T17:51:11.058815+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -874,7 +874,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-11-05T18:34:16.641993+00:00"
+      "fetchedAt": "2026-11-06T17:51:11.058815+00:00"
     }
   ]
 }
