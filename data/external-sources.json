@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-09T21:20:07.775140+00:00",
-  "generatedAtGhana": "2026-11-09T21:20:07.775140+00:00",
+  "generatedAt": "2026-11-10T18:31:30.611739+00:00",
+  "generatedAtGhana": "2026-11-10T18:31:30.611739+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
     "gseIndices": {
-      "asOf": "09/11/2026",
-      "composite": 14010.02,
-      "financialStocks": 7265.88,
+      "asOf": "10/11/2026",
+      "composite": 13944.0,
+      "financialStocks": 7226.06,
       "source": "Ghana Stock Exchange",
       "url": "https://gse.com.gh/"
     },
@@ -19,14 +19,14 @@
       "url": "https://www.bog.gov.gh/"
     },
     "fx": {
-      "usdGhsMid": 11.69,
+      "usdGhsMid": 11.7,
       "rateBasis": "public news reported rate",
       "source": "Bank of Ghana Daily Interbank FX Rates",
       "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
       "sourceType": "public_news_fallback",
-      "asOf": "09 Nov 2026",
-      "usdGhsBuying": 11.6842,
-      "usdGhsSelling": 11.6958
+      "asOf": "10 Nov 2026",
+      "usdGhsBuying": 11.6942,
+      "usdGhsSelling": 11.7059
     },
     "ghanaStatisticalService": {
       "cpiInflationYoy": 5.5,
@@ -229,7 +229,7 @@
       "category": "Official macro"
     },
     {
-      "title": "Day's Weighted Average Rate Day’s Weighted Median Rate: 11.6900 table.wpDataTable td.numdata { text-align: right !important; } /* buttons font color */ .wpDataTables .wdt-checkbox-filter.btn, .wpDataTables .selecter .selecter-selected, .wdt-frontend-modal .btn:not(.dropdown-toggle), div.dt-button-collection a.dt-button.active:not(.disabled), div.dt-button-collection button.dt-button.active:not(.disabled) { color: #222222 !important; } /** buttons background hover color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { background-color: #ebbd3f !important; background-image: none !important; } /** buttons hover border color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { border-color: #222222 !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } .wpdt-c .wpDataTablesWrapper table.wpDataTable thead tr:nth-child(2) th { overflow: visible; }",
+      "title": "Day's Weighted Average Rate Day’s Weighted Median Rate: 11.7000 table.wpDataTable td.numdata { text-align: right !important; } /* buttons font color */ .wpDataTables .wdt-checkbox-filter.btn, .wpDataTables .selecter .selecter-selected, .wdt-frontend-modal .btn:not(.dropdown-toggle), div.dt-button-collection a.dt-button.active:not(.disabled), div.dt-button-collection button.dt-button.active:not(.disabled) { color: #222222 !important; } /** buttons background hover color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { background-color: #ebbd3f !important; background-image: none !important; } /** buttons hover border color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { border-color: #222222 !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } .wpdt-c .wpDataTablesWrapper table.wpDataTable thead tr:nth-child(2) th { overflow: visible; }",
       "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
       "summary": "",
       "publishedAt": null,
@@ -517,130 +517,130 @@
       "category": "Sovereign credit research"
     },
     {
-      "title": "AGI advocates trade policy restrictions for foreign shopping malls",
-      "url": "https://www.ghanabusinessnews.com/2026/11/09/agi-advocates-trade-policy-restrictions-for-foreign-shopping-malls/",
-      "summary": "The Association of Ghana Industries (AGI) has called for a trade policy that requires foreign-owned shopping malls operating in Ghana to allocate a specified percentage of their shelf space to made-in-Ghana products to support local industrial growth. The post",
-      "publishedAt": "2026-11-09T17:17:28+00:00",
+      "title": "JUSAG suspends nationwide strike",
+      "url": "https://www.ghanabusinessnews.com/2026/11/10/jusag-suspends-nationwide-strike/",
+      "summary": "The Judicial Service Staff Association of Ghana (JUSAG) has suspended its “indefinite” nationwide strike, which began on November 2, following an agreement with the Government on revised salaries and allowances. The post JUSAG suspends nationwide strike appear",
+      "publishedAt": "2026-11-10T13:01:00+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Foreign Affairs Ministry interdicts two officials over alleged illegal sale of Service Passports",
-      "url": "https://www.ghanabusinessnews.com/2026/11/09/foreign-affairs-ministry-interdicts-two-officials-over-alleged-illegal-sale-of-service-passports/",
-      "summary": "The Ministry of Foreign Affairs has interdicted two senior officials and referred them to the Ghana Police Service for investigation over an alleged scheme involving the illegal issuance of Service Passports in exchange for money. The post Foreign Affairs Mini",
-      "publishedAt": "2026-11-09T03:51:42+00:00",
+      "title": "Stop procurement waste, protect 70% of national spending – Minister",
+      "url": "https://www.ghanabusinessnews.com/2026/11/10/stop-procurement-waste-protect-70-of-national-spending-minister/",
+      "summary": "Dr Cassiel Ato Baah Forson, Finance Minister, has charged procurement officers to protect the public purse from waste in national spending by strictly enforcing compliance mechanisms. The post Stop procurement waste, protect 70% of national spending – Minister",
+      "publishedAt": "2026-11-10T12:57:31+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Mahama announces GH¢685m to combat coastal erosion",
-      "url": "https://www.ghanabusinessnews.com/2026/11/09/mahama-announces-gh%c2%a2685m-to-combat-coastal-erosion/",
-      "summary": "President John Dramani Mahama has announced a GH¢685 million allocation to commence coastal protection works under the West African Coastal Areas Resilience Investment Project (WACA), assuring coastal communities that their anxieties over repeated displacement",
-      "publishedAt": "2026-11-09T03:46:33+00:00",
+      "title": "Ghana cedi remains relatively stable over one-week trading window",
+      "url": "https://www.ghanabusinessnews.com/2026/11/10/ghana-cedi-remains-relatively-stable-over-one-week-trading-window/",
+      "summary": "The Ghana cedi recorded relative stability against the major trading currencies over a one-week trading window, according to the Bank of Ghana’s daily exchange rate data. The post Ghana cedi remains relatively stable over one-week trading window appeared first",
+      "publishedAt": "2026-11-10T04:15:31+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Galamsey poisons in rivers, lands may need 100 and 300 years to heal – Professor warns",
-      "url": "https://www.ghanabusinessnews.com/2026/11/09/galamsey-poisons-in-rivers-lands-may-need-100-and-300-years-to-heal-professor-warns/",
-      "summary": "A Professor of Civil and Environmental Engineering at the University of Cape Coast (UCC), Prof Albert Ebo Duncan has warned that empirical research evidence indicates that Ghana's water bodies polluted by illegal mining, popularly known as galamsey, could take",
-      "publishedAt": "2026-11-09T03:44:09+00:00",
+      "title": "Finance Minister urged to create tax environment that stimulates business growth",
+      "url": "https://www.ghanabusinessnews.com/2026/11/10/finance-minister-urged-to-create-tax-environment-that-stimulates-business-growth/",
+      "summary": "Youth in the Volta Region have appealed to the Minister for Finance, Dr. Cassiel Ato Forson, to establish a favorable tax environment that stimulates business growth and addresses critical youth unemployment. The post Finance Minister urged to create tax envir",
+      "publishedAt": "2026-11-10T04:12:02+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "UCC crop scientist calls for investment in neglected crops to boost food security",
-      "url": "https://www.ghanabusinessnews.com/2026/11/09/ucc-crop-scientist-calls-for-investment-in-neglected-crops-to-boost-food-security/",
-      "summary": "Professor Michael Osei Adu, a Professor of Crop Ecophysiology and Improvement at the University of Cape Coast (UCC), has called for more research and increased investment in neglected and underutilised food crops to strengthen food security in Ghana and Africa",
-      "publishedAt": "2026-11-09T03:40:12+00:00",
+      "title": "Mahama announces Seven firms shortlisted to start Keta Port",
+      "url": "https://www.ghanabusinessnews.com/2026/11/10/mahama-announces-seven-firms-shortlisted-to-start-keta-port/",
+      "summary": "President John Dramani Mahama has given the clearest signal yet that the long-awaited Keta Port is moving from paper to action. The post Mahama announces Seven firms shortlisted to start Keta Port appeared first on Ghana Business News .",
+      "publishedAt": "2026-11-10T04:09:00+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Journalists are not enemies of the state, security institutions – Dwumfour",
-      "url": "https://www.ghanabusinessnews.com/2026/11/09/journalists-are-not-enemies-of-the-state-security-institutions-dwumfour/",
-      "summary": "Mr Albert Kwabena Dwumfour, President of the Ghana Journalists Association (GJA), has called for justice for media practitioners attacked or assaulted in the line of duty. The post Journalists are not enemies of the state, security institutions – Dwumfour appe",
-      "publishedAt": "2026-11-09T03:36:35+00:00",
+      "title": "IEA urges Ghana to secure investment, technology transfers through BRICS",
+      "url": "https://www.ghanabusinessnews.com/2026/11/10/iea-urges-ghana-to-secure-investment-technology-transfers-through-brics/",
+      "summary": "The Institute of Economic Affairs (IEA) has urged the Government to use Ghana’s proposed partnership with BRICS to attract investment, technology transfers and industrial partnerships to strengthen the country’s productive capacity. The post IEA urges Ghana to",
+      "publishedAt": "2026-11-10T04:05:21+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Without media, economic policy means nothing to citizens – Governor",
-      "url": "https://www.ghanabusinessnews.com/2026/11/09/without-media-economic-policy-means-nothing-to-citizens-governor/",
-      "summary": "Economic policy means nothing to citizens if they do not understand it, Dr Johnson Pandit Asiam, Governor of the Bank of Ghana (BoG), has said, describing the media is an essential partner in promoting public understanding of Ghana’s economic developments. The",
-      "publishedAt": "2026-11-09T03:33:48+00:00",
+      "title": "Ghana calls for more climate funding to protect vulnerable countries",
+      "url": "https://www.ghanabusinessnews.com/2026/11/10/ghana-calls-for-more-climate-funding-to-protect-vulnerable-countries/",
+      "summary": "Ghana has joined other African countries in calling for more financial support to help developing nations tackle the effects of climate change and protect their communities and economies. The post Ghana calls for more climate funding to protect vulnerable coun",
+      "publishedAt": "2026-11-10T04:03:29+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Dangote to join President Mahama at GIPA Invest Ghana Summit",
-      "url": "https://www.ghanabusinessnews.com/2026/11/09/dangote-to-join-president-mahama-at-gipa-invest-ghana-summit/",
-      "summary": "Mr Aliko Dangote, Africa’s foremost industrialist, and Chief Executive of the Dangote Group, West Africa’s largest conglomerate, will join President John Dramani Mahama to open the Invest Ghana Summit (IGS) 2026. The post Dangote to join President Mahama at GI",
-      "publishedAt": "2026-11-09T03:30:11+00:00",
+      "title": "JUSAG, SSAJUG extend strike",
+      "url": "https://www.ghanabusinessnews.com/2026/11/10/jusag-ssajug-extend-strike/",
+      "summary": "The Judicial Service Staff Association of Ghana (JUSAG) says all courts will remain closed as its indefinite strike continue, on Monday, November 9, 2026. The post JUSAG, SSAJUG extend strike appeared first on Ghana Business News .",
+      "publishedAt": "2026-11-10T04:01:25+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "2027 Budget must answer 3 key questions on the ‘New Economy’ – US-based economist",
-      "url": "https://www.myjoyonline.com/2027-budget-must-answer-3-key-questions-on-the-new-economy-us-based-economist/",
-      "summary": "These important questions are “How much of the announced investment is genuinely new? How will the government finance the larger fiscal deficit? And how will the investment programme be reconciled with the government's ambitious foreign reserve accumulation st",
-      "publishedAt": "2026-11-09T18:48:20+00:00",
+      "title": "Policy implementation gap undermining West African trade integration- GSA",
+      "url": "https://www.myjoyonline.com/policy-implementation-gap-undermining-west-african-trade-integration-gsa/",
+      "summary": "The Ghana Shippers Authority (GSA) has warned that the gap between regional trade policy commitments and their actual implementation continues to undermine economic integration and cross-border trade in West Africa. Deputy Chief Executive of the Authority, Sil",
+      "publishedAt": "2026-11-10T18:03:33+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Ghana’s 2027 Budget: Three important policy questions about the New Economy",
-      "url": "https://www.myjoyonline.com/ghanas-2027-budget-three-important-policy-questions-about-the-new-economy/",
-      "summary": "The shift from macroeconomic stabilisation toward investment-led growth is a welcome policy direction. Having made significant progress in restoring macroeconomic stability, Ghana now has an opportunity to build on these gains by addressing structural constrai",
-      "publishedAt": "2026-11-09T18:16:07+00:00",
+      "title": "Ecobank Ghana launches GH¢1m Blue Christmas promo for customers",
+      "url": "https://www.myjoyonline.com/ecobank-ghana-launches-gh%c2%a21m-blue-christmas-promo-for-customers/",
+      "summary": "Ecobank Ghana PLC has launched its annual Blue Christmas promotion, committing more than GH¢1 million in cash prizes and vouchers to reward new and existing customers for their loyalty and banking activities. The promotion, dubbed “Ecobank Save, Refer and Win”",
+      "publishedAt": "2026-11-10T17:57:17+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Ghana in final talks with Boeing over revival of national airline – Victor Smith",
-      "url": "https://www.myjoyonline.com/ghana-in-final-talks-with-boeing-over-revival-of-national-airline-victor-smith/",
-      "summary": "Ghana’s Ambassador to the United States, Victor Smith, says negotiations with Boeing over the establishment of a national airline are nearing completion. Speaking in an interview on JoyNews, Mr Smith said the government was working to finalise arrangements to ",
-      "publishedAt": "2026-11-09T17:24:20+00:00",
+      "title": "Ghana’s lithium future: Will local communities get a fair share?",
+      "url": "https://www.myjoyonline.com/ghana-sets-daily-minimum-wage-at-gh%c2%a225-04-for-2027-gh%c2%a228-79-for-2028/",
+      "summary": "Ghana's ambition to become a lithium producer is entering a new phase as Chinese mining giant Zhejiang Huayou Cobalt moves closer to gaining control of Atlantic Lithium, the company behind the country's first proposed commercial lithium mine. The development i",
+      "publishedAt": "2026-11-10T17:51:03+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Two Ghanaian mothers win all-expenses-paid vacation as Nestlé NIDO concludes 3rd Obaatanpa Mo Promo",
-      "url": "https://www.myjoyonline.com/two-ghanaian-mothers-win-all-expenses-paid-vacation-as-nestle-nido-concludes-3rd-obaatanpa-mo-promo/",
-      "summary": "Apprey and Kasoa-based baker Gifty Antwi emerged as the grand prize winners, securing an all-expenses-paid family vacation to the tropical island of São Tomé, plus a £300 spending stipend each. An emotional Apprey told reporters following the ceremony that she",
-      "publishedAt": "2026-11-09T16:27:36+00:00",
+      "title": "Jospong Group showcases Ghanaian waste management solutions at COP31 in Türkiye",
+      "url": "https://www.myjoyonline.com/jospong-group-showcases-ghanaian-waste-management-solutions-at-cop31-in-turkiye/",
+      "summary": "Ghanaian conglomerate Jospong Group of Companies is showcasing its waste management and recycling solutions at the 31st United Nations Climate Change Conference (COP31) in Antalya, Türkiye, as it seeks to attract investment and expand its environmental service",
+      "publishedAt": "2026-11-10T17:38:04+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "WhiteBIT on Ghana’s Digital Asset Future: Moving from adoption to real-world utility",
-      "url": "https://www.myjoyonline.com/whitebit-on-ghanas-digital-asset-future-moving-from-adoption-to-real-world-utility/",
-      "summary": "As Ghana advances its regulatory framework for digital assets, the global cryptocurrency exchange outlined potential applications of blockchain technology at AVAS 2026. WhiteBIT, a global cryptocurrency exchange and part of the W Group fintech ecosystem, has c",
-      "publishedAt": "2026-11-09T15:26:14+00:00",
+      "title": "Ghana’s black gold and the quest for value",
+      "url": "https://www.myjoyonline.com/ghanas-black-gold-and-the-quest-for-value/",
+      "summary": "The modern era of Ghana's petroleum industry began with the establishment of the Ghana National Petroleum Corporation (GNPC) in 1983 under the Ghana National Petroleum Corporation Act (PNDCL 64). The GNPC was mandated to lead the nation's efforts to explore oi",
+      "publishedAt": "2026-11-10T17:30:22+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "ISSER calls for increased capital spending to support businesses",
-      "url": "https://www.myjoyonline.com/isser-calls-for-increased-capital-spending-to-support-businesses/",
-      "summary": "The Director of the Institute of Statistical, Social and Economic Research (ISSER), Professor Robert Darko Osei, is urging government to increase capital expenditure to support businesses and improve efficiency in the economy. He says government’s reliance on ",
-      "publishedAt": "2026-11-09T15:11:44+00:00",
+      "title": "GNPC welcomes Nya Gyidie-1X Hydrocarbon Discovery, sees new potential for Ghana’s Upstream Sector",
+      "url": "https://www.myjoyonline.com/gnpc-welcomes-nya-gyidie-1x-hydrocarbon-discovery-sees-new-potential-for-ghanas-upstream-sector/",
+      "summary": "The Ghana National Petroleum Corporation (GNPC) has welcomed the discovery of hydrocarbons at the Nya Gyidie-1X exploration well in the Deepwater Cape Three Points (DWCTP) Block offshore Ghana.",
+      "publishedAt": "2026-11-10T17:26:41+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Ghana Energy Awards announces 2026 shortlisted nominees after record-breaking 600+ submissions",
-      "url": "https://www.myjoyonline.com/ghana-energy-awards-announces-2026-shortlisted-nominees-after-record-breaking-600-submissions/",
-      "summary": "The Secretariat of the prestigious Ghana Energy Awards (GEA) has officially announced the shortlisted nominees for the 2026 edition of the Awards, marking a significant milestone in the scheme’s 10-year journey of recognising excellence, innovation and outstan",
-      "publishedAt": "2026-11-09T14:27:27+00:00",
+      "title": "GNPC outlines plans to strengthen indigenous operatorship and local content development",
+      "url": "https://www.myjoyonline.com/gnpc-outlines-plans-to-strengthen-indigenous-operatorship-and-local-content-development/",
+      "summary": "The Ghana National Petroleum Corporation (GNPC) has outlined plans to expand its role as an indigenous petroleum operator while strengthening opportunities for Ghanaian businesses and professionals in the upstream petroleum industry.",
+      "publishedAt": "2026-11-10T17:21:51+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Some OMCs drop fuel prices ahead of November 16 review as competition intensifies",
-      "url": "https://www.myjoyonline.com/some-omcs-drop-fuel-prices-ahead-of-november-16-review-as-competition-intensifies/",
-      "summary": "Under the current regulations governing the pricing of petroleum products, prices are supposed to be reviewed on the 1st and 16th of each month.",
-      "publishedAt": "2026-11-09T14:14:15+00:00",
+      "title": "Finance Minister reaffirms government’s rice quota policy to increase local consumption",
+      "url": "https://www.myjoyonline.com/finance-minister-reaffirms-governments-rice-quota-policy-to-increase-local-consumption/",
+      "summary": "Finance Minister, Dr. Cassiel Ato Forson has reaffirmed that rice importers may be required to purchase 50 percent of locally produced rice before permitted to import the remaining 50 percent to encourage consumption of riced produced in Ghana. He explained th",
+      "publishedAt": "2026-11-10T16:43:26+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
@@ -685,7 +685,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-09T21:20:07.775140+00:00"
+      "fetchedAt": "2026-11-10T18:31:30.611739+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -694,7 +694,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-09T21:20:07.775140+00:00"
+      "fetchedAt": "2026-11-10T18:31:30.611739+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -703,7 +703,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-09T21:20:07.775140+00:00"
+      "fetchedAt": "2026-11-10T18:31:30.611739+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -712,7 +712,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-09T21:20:07.775140+00:00"
+      "fetchedAt": "2026-11-10T18:31:30.611739+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -721,7 +721,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-09T21:20:07.775140+00:00"
+      "fetchedAt": "2026-11-10T18:31:30.611739+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -730,7 +730,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-09T21:20:07.775140+00:00"
+      "fetchedAt": "2026-11-10T18:31:30.611739+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -739,7 +739,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-11-09T21:20:07.775140+00:00"
+      "fetchedAt": "2026-11-10T18:31:30.611739+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -748,7 +748,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-09T21:20:07.775140+00:00"
+      "fetchedAt": "2026-11-10T18:31:30.611739+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -757,7 +757,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-09T21:20:07.775140+00:00"
+      "fetchedAt": "2026-11-10T18:31:30.611739+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -766,7 +766,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-09T21:20:07.775140+00:00"
+      "fetchedAt": "2026-11-10T18:31:30.611739+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -775,7 +775,7 @@
       "kind": "rss",
       "ok": false,
       "error": "HTTP Error 404: Not Found",
-      "fetchedAt": "2026-11-09T21:20:07.775140+00:00"
+      "fetchedAt": "2026-11-10T18:31:30.611739+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -784,7 +784,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-09T21:20:07.775140+00:00"
+      "fetchedAt": "2026-11-10T18:31:30.611739+00:00"
     },
     {
       "name": "Citi Business News",
@@ -793,7 +793,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-09T21:20:07.775140+00:00"
+      "fetchedAt": "2026-11-10T18:31:30.611739+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -802,7 +802,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-09T21:20:07.775140+00:00"
+      "fetchedAt": "2026-11-10T18:31:30.611739+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -811,7 +811,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-09T21:20:07.775140+00:00"
+      "fetchedAt": "2026-11-10T18:31:30.611739+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -820,7 +820,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-09T21:20:07.775140+00:00"
+      "fetchedAt": "2026-11-10T18:31:30.611739+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -829,7 +829,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-09T21:20:07.775140+00:00"
+      "fetchedAt": "2026-11-10T18:31:30.611739+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -838,7 +838,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-09T21:20:07.775140+00:00"
+      "fetchedAt": "2026-11-10T18:31:30.611739+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -847,7 +847,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-09T21:20:07.775140+00:00"
+      "fetchedAt": "2026-11-10T18:31:30.611739+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -856,7 +856,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-09T21:20:07.775140+00:00"
+      "fetchedAt": "2026-11-10T18:31:30.611739+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -865,7 +865,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-09T21:20:07.775140+00:00"
+      "fetchedAt": "2026-11-10T18:31:30.611739+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -874,7 +874,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-11-09T21:20:07.775140+00:00"
+      "fetchedAt": "2026-11-10T18:31:30.611739+00:00"
     }
   ]
 }
