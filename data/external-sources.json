@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-11T18:28:31.363976+00:00",
-  "generatedAtGhana": "2026-11-11T18:28:31.363976+00:00",
+  "generatedAt": "2026-11-12T18:44:18.566988+00:00",
+  "generatedAtGhana": "2026-11-12T18:44:18.566988+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
     "gseIndices": {
-      "asOf": "11/11/2026",
-      "composite": 13972.36,
-      "financialStocks": 7224.1,
+      "asOf": "12/11/2026",
+      "composite": 13996.43,
+      "financialStocks": 7184.53,
       "source": "Ghana Stock Exchange",
       "url": "https://gse.com.gh/"
     },
@@ -19,14 +19,14 @@
       "url": "https://www.bog.gov.gh/"
     },
     "fx": {
-      "usdGhsMid": 11.68,
+      "usdGhsMid": 11.71,
       "rateBasis": "public news reported rate",
       "source": "Bank of Ghana Daily Interbank FX Rates",
       "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
       "sourceType": "public_news_fallback",
-      "asOf": "11 Nov 2026",
-      "usdGhsBuying": 11.6742,
-      "usdGhsSelling": 11.6858
+      "asOf": "12 Nov 2026",
+      "usdGhsBuying": 11.7041,
+      "usdGhsSelling": 11.7159
     },
     "ghanaStatisticalService": {
       "cpiInflationYoy": 5.5,
@@ -229,7 +229,7 @@
       "category": "Official macro"
     },
     {
-      "title": "Day's Weighted Average Rate Day’s Weighted Median Rate: 11.6800 table.wpDataTable td.numdata { text-align: right !important; } /* buttons font color */ .wpDataTables .wdt-checkbox-filter.btn, .wpDataTables .selecter .selecter-selected, .wdt-frontend-modal .btn:not(.dropdown-toggle), div.dt-button-collection a.dt-button.active:not(.disabled), div.dt-button-collection button.dt-button.active:not(.disabled) { color: #222222 !important; } /** buttons background hover color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { background-color: #ebbd3f !important; background-image: none !important; } /** buttons hover border color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { border-color: #222222 !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } .wpdt-c .wpDataTablesWrapper table.wpDataTable thead tr:nth-child(2) th { overflow: visible; }",
+      "title": "Day's Weighted Average Rate Day’s Weighted Median Rate: 11.7100 table.wpDataTable td.numdata { text-align: right !important; } /* buttons font color */ .wpDataTables .wdt-checkbox-filter.btn, .wpDataTables .selecter .selecter-selected, .wdt-frontend-modal .btn:not(.dropdown-toggle), div.dt-button-collection a.dt-button.active:not(.disabled), div.dt-button-collection button.dt-button.active:not(.disabled) { color: #222222 !important; } /** buttons background hover color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { background-color: #ebbd3f !important; background-image: none !important; } /** buttons hover border color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { border-color: #222222 !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } .wpdt-c .wpDataTablesWrapper table.wpDataTable thead tr:nth-child(2) th { overflow: visible; }",
       "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
       "summary": "",
       "publishedAt": null,
@@ -397,7 +397,7 @@
       "category": "Investment research"
     },
     {
-      "title": "BDCs Face Concentrated Asset Risk per Fitch’s Adverse AI Stress Test",
+      "title": "Democrat Wins Mixed for US AI, Energy, Healthcare & Defense",
       "url": "https://www.fitchratings.com/",
       "summary": "",
       "publishedAt": null,
@@ -525,130 +525,130 @@
       "category": "Sovereign credit research"
     },
     {
-      "title": "Ghana eyes $10.5 trillion non-interest market as three banks seek licences",
-      "url": "https://www.ghanabusinessnews.com/2026/11/11/ghana-eyes-10-5-trillion-non-interest-market-as-three-banks-seek-licences/",
-      "summary": "Ghana is positioning itself to tap into the fast-growing global non-interest finance market, projected to reach $10.5 trillion by 2030, as three banks apply to operate non-interest banking in the country. The post Ghana eyes $10.5 trillion non-interest market ",
-      "publishedAt": "2026-11-11T07:01:45+00:00",
+      "title": "President launches Ghana’s new Heritage Series cedi banknotes",
+      "url": "https://www.ghanabusinessnews.com/2026/11/12/president-launches-ghanas-new-heritage-series-cedi-banknotes/",
+      "summary": "President John Dramani Mahama on Thursday launched the Bank of Ghana’s (BoG) upgraded Heritage Series banknotes at the Bank Square in Accra, describing the new currency as a symbol of national pride, confidence and shared heritage. The post President launches ",
+      "publishedAt": "2026-11-12T16:09:15+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Ghana Parliament rescinds decision on third reading of Anti-Gay Bill",
-      "url": "https://www.ghanabusinessnews.com/2026/11/11/ghana-parliament-rescinds-decision-on-third-reading-of-anti-gay-bill/",
-      "summary": "Parliament has rescinded its earlier decision taken on May 29, 2026, on the Third Reading of the Human Sexual Rights and Family Values Bill, 2025, popularly known as the Anti-Gay Bill. The post Ghana Parliament rescinds decision on third reading of Anti-Gay Bi",
-      "publishedAt": "2026-11-11T06:58:03+00:00",
+      "title": "West Africa Editors Society demands immediate release of Nigerian journalist Daniel Ojukwu",
+      "url": "https://www.ghanabusinessnews.com/2026/11/12/west-africa-editors-society-demands-immediate-release-of-nigerian-journalist-daniel-ojukwu/",
+      "summary": "The West Africa Editors Society (WAES) is calling on the Nigerian authorities to immediately drop all charges against and release the journalist, Daniel Ojukwu from detention. The post West Africa Editors Society demands immediate release of Nigerian journalis",
+      "publishedAt": "2026-11-12T15:26:50+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Christian Council backs GoldBod objectives but demands stronger accountability",
-      "url": "https://www.ghanabusinessnews.com/2026/11/11/christian-council-backs-goldbod-objectives-but-demands-stronger-accountability/",
-      "summary": "The Christian Council of Ghana (CCG) has called for greater transparency, independent oversight and financial accountability in GoldBod’s operations, while expressing support for the national objectives underpinning the institution. The post Christian Council ",
-      "publishedAt": "2026-11-11T06:27:35+00:00",
+      "title": "The SSNIT Real Estate Gamble: Premier Towers: Empty floors, broken systems and unanswered questions",
+      "url": "https://www.ghanabusinessnews.com/2026/11/12/the-ssnit-real-estate-gamble-premier-towers-empty-floors-broken-systems-and-unanswered-questions/",
+      "summary": "Premier Towers occupies a prominent place in Accra’s Ministries enclave, beside SSNIT Pension House. But location alone has not delivered what a pension-funded commercial property should: dependable rental income supported by reliable facilities. The post The ",
+      "publishedAt": "2026-11-12T15:18:09+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Entrepreneur calls for job-focused investments in 2027 Budget",
-      "url": "https://www.ghanabusinessnews.com/2026/11/11/entrepreneur-calls-for-job-focused-investments-in-2027-budget/",
-      "summary": "Mr Richard Adjorlolo, an entrepreneur, has called on the government to prioritise job creation, infrastructure development and local industrialisation in the 2027 Budget Statement to accelerate economic growth and improve upon living conditions. The post Entre",
-      "publishedAt": "2026-11-11T06:15:09+00:00",
+      "title": "The fight against child stunting begins in the family permagarden",
+      "url": "https://www.ghanabusinessnews.com/2026/11/12/the-fight-against-child-stunting-begins-in-the-family-permagarden/",
+      "summary": "A child's growth depends on more than age. The food they eat, the nutrients they receive and the conditions in which they live all influence their physical development. When access to adequate nutrition is limited over a prolonged period, the consequences can ",
+      "publishedAt": "2026-11-12T06:55:33+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "ICSG launches campaign to educate traders on compulsory cargo insurance",
-      "url": "https://www.ghanabusinessnews.com/2026/11/11/icsg-launches-campaign-to-educate-traders-on-compulsory-cargo-insurance/",
-      "summary": "Insurance Claims Specialist Group (ICSG) Limited has launched a public education campaign to improve awareness of compulsory marine cargo insurance and equip importers and exporters with the knowledge to manage cargo losses and insurance claims. The post ICSG ",
-      "publishedAt": "2026-11-11T06:08:49+00:00",
+      "title": "GNPC welcomes offshore hydrocarbon discovery, signals boost for petroleum sector",
+      "url": "https://www.ghanabusinessnews.com/2026/11/12/gnpc-welcomes-offshore-hydrocarbon-discovery-signals-boost-for-petroleum-sector/",
+      "summary": "The Ghana National Petroleum Corporation (GNPC) has welcomed the discovery of hydrocarbons at the Nya Gyidie-1X exploration well in the Deepwater Cape Three Points (DWCTP) Block offshore Ghana, describing it as a significant boost to efforts aimed at sustainin",
+      "publishedAt": "2026-11-12T06:06:19+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "EOCO, Lands Commission conduct valuation of Wontumi’s Tema property",
-      "url": "https://www.ghanabusinessnews.com/2026/11/11/eoco-lands-commission-conduct-valuation-of-wontumis-tema-property/",
-      "summary": "Officials of the Economic and Organised Crime Office (EOCO) and the Lands Commission have visited a property in Tema belonging to Mr Bernard Antwi Boasiako, also known as Chairman Wontumi, to conduct a professional valuation. The post EOCO, Lands Commission co",
-      "publishedAt": "2026-11-11T04:22:33+00:00",
+      "title": "MIIF CEO woos international investors to unlock Ghana’s mineral wealth",
+      "url": "https://www.ghanabusinessnews.com/2026/11/12/miif-ceo-woos-international-investors-to-unlock-ghanas-mineral-wealth/",
+      "summary": "The Chief Executive Officer (CEO) of the Minerals Income Investment Fund (MIIF), Mrs Justina Nelson, has called for stronger partnerships with international investors to unlock Ghana’s mineral wealth and promote value addition. The post MIIF CEO woos internati",
+      "publishedAt": "2026-11-12T06:02:28+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Ghana secures $2b investment in petroleum agreements",
-      "url": "https://www.ghanabusinessnews.com/2026/11/11/ghana-secures-2b-investment-in-petroleum-agreements/",
-      "summary": "Ghana has secured about $2 billion in additional investments from partners in the Jubilee and Tweneboa-Enyenra-Ntomme (TEN) oil fields to boost production following the extension of the respective petroleum agreements to the end of 2040. The post Ghana secures",
-      "publishedAt": "2026-11-11T04:21:11+00:00",
+      "title": "Ghana calls for stronger regional cooperation, climate finance to address climate mobility",
+      "url": "https://www.ghanabusinessnews.com/2026/11/12/ghana-calls-for-stronger-regional-cooperation-climate-finance-to-address-climate-mobility/",
+      "summary": "Ghana has called for increased climate adaptation financing, stronger regional cooperation and improved protection for vulnerable communities to address the growing threat of climate-induced displacement. The post Ghana calls for stronger regional cooperation,",
+      "publishedAt": "2026-11-12T05:52:01+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Government launches REWARD-Ghana to strengthen rice production",
-      "url": "https://www.ghanabusinessnews.com/2026/11/11/government-launches-reward-ghana-to-strengthen-rice-production/",
-      "summary": "The government has launched the Regional West Africa Resilient Rice Value Chain Development project (REWARD-Ghana) to strengthen rice production in the country. The post Government launches REWARD-Ghana to strengthen rice production appeared first on Ghana Bus",
-      "publishedAt": "2026-11-11T04:14:37+00:00",
+      "title": "Ghana advocates stronger global cooperation to bridge Africa’s digital divide",
+      "url": "https://www.ghanabusinessnews.com/2026/11/12/ghana-advocates-stronger-global-cooperation-to-bridge-africas-digital-divide/",
+      "summary": "Mr Samuel Nartey George, Minister for Communication, Digital Technology and Innovations, has called for stronger international cooperation and investment to bridge Africa’s digital divide and expand access to emerging technologies. The post Ghana advocates str",
+      "publishedAt": "2026-11-12T05:47:47+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "GITEX World RobotiX 2026 to showcase humanoid robots, embodied AI and next-generation automation in Dubai",
-      "url": "https://www.myjoyonline.com/gitex-world-robotix-2026-to-showcase-humanoid-robots-embodied-ai-and-next-generation-automation-in-dubai/",
-      "summary": "The showcase will demonstrate how machines capable of perceiving, reasoning and acting in the physical world are reshaping sectors such as manufacturing, logistics, healthcare, hospitality and smart infrastructure.",
-      "publishedAt": "2026-11-11T18:16:44+00:00",
+      "title": "2027 Budget: Ato Forson pledges disciplined use of fiscal space to create jobs and boost production",
+      "url": "https://www.myjoyonline.com/2027-budget-ato-forson-pledges-disciplined-use-of-fiscal-space-to-create-jobs-and-boost-production/",
+      "summary": "Finance Minister Dr Cassiel Ato Forson says the government must use every cedi of fiscal space to generate jobs, strengthen domestic production and create lasting value for Ghanaians. Presenting the 2027 Budget to Parliament on Thursday, November 12, 2026, he ",
+      "publishedAt": "2026-11-12T18:39:57+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Npontu Technologies marks 10 years of building digital solutions, eyes Africa’s AI future",
-      "url": "https://www.myjoyonline.com/npontu-technologies-marks-10-years-of-building-digital-solutions-eyes-africas-ai-future/",
-      "summary": "Ghanaian technology company Npontu Technologies is marking its 10th anniversary, reflecting on a decade of developing digital solutions and pursuing its ambition to contribute to Africa’s artificial intelligence ecosystem. Founded in November 2016, the company",
-      "publishedAt": "2026-11-11T18:08:51+00:00",
+      "title": "Best Assurance donates 28,500 exercise books worth GH¢100,000 to GETFund",
+      "url": "https://www.myjoyonline.com/best-assurance-donates-28500-exercise-books-worth-gh%c2%a2100000-to-getfund/",
+      "summary": "The Ghana Education Trust Fund (GETFund) has received 28,500 exercise books valued at GH¢100,000 from Best Assurance Company Limited as part of a strategic partnership aimed at strengthening teaching and learning resources in educational institutions across Gh",
+      "publishedAt": "2026-11-12T17:27:31+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "TOR considers BDCs partners in downstream petroleum market – Kombat",
-      "url": "https://www.myjoyonline.com/tor-considers-bdcs-partners-in-downstream-petroleum-market-kombat/",
-      "summary": "The Tema Oil Refinery (TOR) says Bulk Distribution Companies (BDCs) should be considered partners in its operations rather than competitors as it seeks to strengthen its position in Ghana’s downstream petroleum market. Managing Director of TOR, Edmond Kombat s",
-      "publishedAt": "2026-11-11T17:19:32+00:00",
+      "title": "Social Enterprise Ghana to mark 10 years with push for jobs and investment",
+      "url": "https://www.myjoyonline.com/social-enterprise-ghana-to-mark-10-years-with-push-for-jobs-and-investment/",
+      "summary": "Social Enterprise Ghana will mark its 10th anniversary with a national forum focused on expanding investment, creating jobs and strengthening businesses that address social and environmental challenges.",
+      "publishedAt": "2026-11-12T17:14:32+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "ICC, TikTok launch free digital commerce labs to prepare Ghanaian SMEs for cross-border trade",
-      "url": "https://www.myjoyonline.com/icc-tiktok-launch-free-digital-commerce-labs-to-prepare-ghanaian-smes-for-cross-border-trade/",
-      "summary": "Small and medium-sized enterprises (SMEs) across Ghana, including those in rural communities, can now access free training to sell beyond their local markets following the launch of the ICC-TikTok Digital Commerce Labs at the Institute of Statistical, Social a",
-      "publishedAt": "2026-11-11T17:15:38+00:00",
+      "title": "BoG prepares new Currency Act to tackle cedi counterfeiting and abuse",
+      "url": "https://www.myjoyonline.com/bog-prepares-new-currency-act-to-tackle-cedi-counterfeiting-and-abuse/",
+      "summary": "The Bank of Ghana (BoG) is working with stakeholders on a new Currency Act to deter counterfeiting and impose proportionate penalties, Governor Dr Johnson Asiama said.",
+      "publishedAt": "2026-11-12T16:52:51+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Lattice Energy secures NPA licence for bulk petroleum importation and distribution.",
-      "url": "https://www.myjoyonline.com/lattice-energy-secures-npa-licence-for-bulk-petroleum-importation-and-distribution/",
-      "summary": "Lattice Energy Ltd, a member of Abagona Legacy Holdings, has secured a Bulk Import, Distribution and Export (BIDEC) licence from the National Petroleum Authority (NPA), allowing it to expand into bulk petroleum trading in Ghana and the West African sub-region.",
-      "publishedAt": "2026-11-11T16:51:11+00:00",
+      "title": "NPA CEO calls for clearer regulatory roles to attract investment across petroleum value chain",
+      "url": "https://www.myjoyonline.com/npa-ceo-calls-for-clearer-regulatory-roles-to-attract-investment-across-petroleum-value-chain/",
+      "summary": "The Chief Executive of the National Petroleum Authority (NPA), Godwin Kudzo Tameklo, has called for stronger institutional coordination and clearly defined regulatory responsibilities to improve investment opportunities across Ghana’s petroleum and gas value c",
+      "publishedAt": "2026-11-12T16:00:14+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "TOR seeks private investors to shield refinery from political interference",
-      "url": "https://www.myjoyonline.com/tor-seeks-private-investors-to-shield-refinery-from-political-interference/",
-      "summary": "The Tema Oil Refinery (TOR) is working to attract private-sector investors as part of efforts to strengthen its governance structure and protect the state-owned facility from political interference. Managing Director of TOR, Edmond Kombat , says opening up the",
-      "publishedAt": "2026-11-11T16:51:01+00:00",
+      "title": "2027 budget should ensure fiscal discipline, direct investment towards productive enterprises and jobs – Deloitte",
+      "url": "https://www.myjoyonline.com/2027-budget-should-ensure-fiscal-discipline-direct-investment-towards-productive-enterprises-and-jobs-deloitte/",
+      "summary": "Deloitte Ghana has called for prudent fiscal discipline for the 2027 fiscal year. This call was contained in the professional services firm’s pre-budget analysis ahead of Ghana’s 2027 budget reading. The firm believes that while real gross domestic product gre",
+      "publishedAt": "2026-11-12T15:47:50+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Ghana Police intercepts GH₵20m worth of fake GTP fabric",
-      "url": "https://www.myjoyonline.com/ghana-police-intercepts-gh%e2%82%b520m-worth-of-fake-gtp-fabric/",
-      "summary": "The Special Operations Team of the Inspector General of Police has intercepted counterfeit wax prints from Nigeria with imitated designs of Tex Styles Ghana Limited, producers of GTP fabrics. This follows a tip off received by the special team. The product, ma",
-      "publishedAt": "2026-11-11T16:37:36+00:00",
+      "title": "‘The cedi knows no political parties’ – Mahama calls for collective responsibility",
+      "url": "https://www.myjoyonline.com/the-cedi-knows-no-political-parties-mahama-calls-for-collective-responsibility/",
+      "summary": "President John Dramani Mahama has called on Ghanaians to put aside political differences and take collective responsibility for protecting the cedi, insisting that the national currency belongs to everyone and should be valued beyond party lines.",
+      "publishedAt": "2026-11-12T14:02:51+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "TOR reduces negative equity from GH¢7.5bn to GH¢5bn – Kombat",
-      "url": "https://www.myjoyonline.com/tor-reduces-negative-equity-from-gh%c2%a27-5bn-to-gh%c2%a25bn-kombat/",
-      "summary": "The Tema Oil Refinery (TOR) says it has reduced its negative equity from GH¢7.5 billion to GH¢5 billion as part of efforts to restore its financial stability. Managing Director of TOR, Edmond Kombat, says the improvement forms part of a broader restructuring p",
-      "publishedAt": "2026-11-11T15:58:05+00:00",
+      "title": "Africa needs $4bn yearly to expand clean cooking access by 2030 – Samira Bawumia",
+      "url": "https://www.myjoyonline.com/africa-needs-4bn-yearly-to-expand-clean-cooking-access-by-2030-samira-bawumia/",
+      "summary": "Former Second Lady Hajia Samira Bawumia has called for an annual investment of about US$4 billion to accelerate Africa’s transition to clean cooking, warning that inadequate funding is worsening health risks, deforestation and gender inequalities. She said the",
+      "publishedAt": "2026-11-12T13:45:21+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
@@ -685,7 +685,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-11T18:28:31.363976+00:00"
+      "fetchedAt": "2026-11-12T18:44:18.566988+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -694,7 +694,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-11T18:28:31.363976+00:00"
+      "fetchedAt": "2026-11-12T18:44:18.566988+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -703,7 +703,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-11T18:28:31.363976+00:00"
+      "fetchedAt": "2026-11-12T18:44:18.566988+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -712,7 +712,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-11T18:28:31.363976+00:00"
+      "fetchedAt": "2026-11-12T18:44:18.566988+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -721,7 +721,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-11T18:28:31.363976+00:00"
+      "fetchedAt": "2026-11-12T18:44:18.566988+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -730,7 +730,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-11T18:28:31.363976+00:00"
+      "fetchedAt": "2026-11-12T18:44:18.566988+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -739,7 +739,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-11-11T18:28:31.363976+00:00"
+      "fetchedAt": "2026-11-12T18:44:18.566988+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -748,7 +748,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-11T18:28:31.363976+00:00"
+      "fetchedAt": "2026-11-12T18:44:18.566988+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -757,7 +757,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-11T18:28:31.363976+00:00"
+      "fetchedAt": "2026-11-12T18:44:18.566988+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -766,7 +766,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-11T18:28:31.363976+00:00"
+      "fetchedAt": "2026-11-12T18:44:18.566988+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -775,7 +775,7 @@
       "kind": "rss",
       "ok": false,
       "error": "HTTP Error 404: Not Found",
-      "fetchedAt": "2026-11-11T18:28:31.363976+00:00"
+      "fetchedAt": "2026-11-12T18:44:18.566988+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -784,7 +784,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-11T18:28:31.363976+00:00"
+      "fetchedAt": "2026-11-12T18:44:18.566988+00:00"
     },
     {
       "name": "Citi Business News",
@@ -793,7 +793,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-11T18:28:31.363976+00:00"
+      "fetchedAt": "2026-11-12T18:44:18.566988+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -802,7 +802,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-11T18:28:31.363976+00:00"
+      "fetchedAt": "2026-11-12T18:44:18.566988+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -811,7 +811,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-11T18:28:31.363976+00:00"
+      "fetchedAt": "2026-11-12T18:44:18.566988+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -820,7 +820,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-11T18:28:31.363976+00:00"
+      "fetchedAt": "2026-11-12T18:44:18.566988+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -829,7 +829,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-11T18:28:31.363976+00:00"
+      "fetchedAt": "2026-11-12T18:44:18.566988+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -838,7 +838,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-11T18:28:31.363976+00:00"
+      "fetchedAt": "2026-11-12T18:44:18.566988+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -847,7 +847,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-11T18:28:31.363976+00:00"
+      "fetchedAt": "2026-11-12T18:44:18.566988+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -856,7 +856,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-11T18:28:31.363976+00:00"
+      "fetchedAt": "2026-11-12T18:44:18.566988+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -865,7 +865,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-11T18:28:31.363976+00:00"
+      "fetchedAt": "2026-11-12T18:44:18.566988+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -874,7 +874,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-11-11T18:28:31.363976+00:00"
+      "fetchedAt": "2026-11-12T18:44:18.566988+00:00"
     }
   ]
 }
