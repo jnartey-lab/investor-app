@@ -1,32 +1,32 @@
 {
-  "generatedAt": "2026-11-15T17:37:04.636927+00:00",
-  "generatedAtGhana": "2026-11-15T17:37:04.636927+00:00",
+  "generatedAt": "2026-11-16T20:51:15.518927+00:00",
+  "generatedAtGhana": "2026-11-16T20:51:15.518927+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
     "gseIndices": {
-      "asOf": "13/11/2026",
-      "composite": 13960.4,
-      "financialStocks": 7148.52,
+      "asOf": "16/11/2026",
+      "composite": 13892.29,
+      "financialStocks": 7092.18,
       "source": "Ghana Stock Exchange",
       "url": "https://gse.com.gh/"
     },
     "bankOfGhana": {
       "policyRate": 14.0,
-      "tBill91Day": 4.5109,
+      "tBill91Day": 4.5058,
       "inflation": 5.5,
       "source": "Bank of Ghana",
       "url": "https://www.bog.gov.gh/"
     },
     "fx": {
-      "usdGhsMid": 11.69,
+      "usdGhsMid": 11.73,
       "rateBasis": "public news reported rate",
       "source": "Bank of Ghana Daily Interbank FX Rates",
       "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
       "sourceType": "public_news_fallback",
-      "asOf": "13 Nov 2026",
-      "usdGhsBuying": 11.6842,
-      "usdGhsSelling": 11.6958
+      "asOf": "16 Nov 2026",
+      "usdGhsBuying": 11.7241,
+      "usdGhsSelling": 11.7359
     },
     "ghanaStatisticalService": {
       "cpiInflationYoy": 5.5,
@@ -229,7 +229,7 @@
       "category": "Official macro"
     },
     {
-      "title": "Day's Weighted Average Rate Day’s Weighted Median Rate: 11.6900 table.wpDataTable td.numdata { text-align: right !important; } /* buttons font color */ .wpDataTables .wdt-checkbox-filter.btn, .wpDataTables .selecter .selecter-selected, .wdt-frontend-modal .btn:not(.dropdown-toggle), div.dt-button-collection a.dt-button.active:not(.disabled), div.dt-button-collection button.dt-button.active:not(.disabled) { color: #222222 !important; } /** buttons background hover color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { background-color: #ebbd3f !important; background-image: none !important; } /** buttons hover border color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { border-color: #222222 !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } .wpdt-c .wpDataTablesWrapper table.wpDataTable thead tr:nth-child(2) th { overflow: visible; }",
+      "title": "Day's Weighted Average Rate Day’s Weighted Median Rate: 11.7300 table.wpDataTable td.numdata { text-align: right !important; } /* buttons font color */ .wpDataTables .wdt-checkbox-filter.btn, .wpDataTables .selecter .selecter-selected, .wdt-frontend-modal .btn:not(.dropdown-toggle), div.dt-button-collection a.dt-button.active:not(.disabled), div.dt-button-collection button.dt-button.active:not(.disabled) { color: #222222 !important; } /** buttons background hover color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { background-color: #ebbd3f !important; background-image: none !important; } /** buttons hover border color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { border-color: #222222 !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } .wpdt-c .wpDataTablesWrapper table.wpDataTable thead tr:nth-child(2) th { overflow: visible; }",
       "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
       "summary": "",
       "publishedAt": null,
@@ -355,6 +355,70 @@
       "publishedAt": null,
       "source": "Ghana Statistical Service",
       "category": "Official macro"
+    },
+    {
+      "title": "Research & Insights",
+      "url": "https://www.sasghana.com/brokerage/research",
+      "summary": "",
+      "publishedAt": null,
+      "source": "SAS Finance Group Research",
+      "category": "Investment research"
+    },
+    {
+      "title": "Our Research Coverage",
+      "url": "https://www.sasghana.com/brokerage/research",
+      "summary": "",
+      "publishedAt": null,
+      "source": "SAS Finance Group Research",
+      "category": "Investment research"
+    },
+    {
+      "title": "Equity Research",
+      "url": "https://www.sasghana.com/brokerage/research",
+      "summary": "",
+      "publishedAt": null,
+      "source": "SAS Finance Group Research",
+      "category": "Investment research"
+    },
+    {
+      "title": "Fixed Income Analysis",
+      "url": "https://www.sasghana.com/brokerage/research",
+      "summary": "",
+      "publishedAt": null,
+      "source": "SAS Finance Group Research",
+      "category": "Investment research"
+    },
+    {
+      "title": "Economic Research",
+      "url": "https://www.sasghana.com/brokerage/research",
+      "summary": "",
+      "publishedAt": null,
+      "source": "SAS Finance Group Research",
+      "category": "Investment research"
+    },
+    {
+      "title": "Sector Analysis",
+      "url": "https://www.sasghana.com/brokerage/research",
+      "summary": "",
+      "publishedAt": null,
+      "source": "SAS Finance Group Research",
+      "category": "Investment research"
+    },
+    {
+      "title": "Research Publications",
+      "url": "https://www.sasghana.com/brokerage/research",
+      "summary": "",
+      "publishedAt": null,
+      "source": "SAS Finance Group Research",
+      "category": "Investment research"
+    },
+    {
+      "title": "Daily Market Summary",
+      "url": "https://www.sasghana.com/brokerage/research",
+      "summary": "",
+      "publishedAt": null,
+      "source": "SAS Finance Group Research",
+      "category": "Investment research"
     },
     {
       "title": "daily equity market report",
@@ -525,156 +589,92 @@
       "category": "Sovereign credit research"
     },
     {
-      "title": "CNN Travel names Nzulezu among Africa’s most amazing places to visit in Ghana",
-      "url": "https://www.ghanabusinessnews.com/2026/11/15/cnn-travel-names-nzulezu-among-africas-most-amazing-places-to-visit-in-ghana/",
-      "summary": "International media outlet CNN Travel has named Ghana’s historic stilt village of Nzulezu among the 31 most amazing places to visit in Africa, spotlighting the Western Region community as a premier destination for cultural and eco-tourism on the continent. The",
-      "publishedAt": "2026-11-15T08:15:16+00:00",
+      "title": "Ghana offers carbon market roadmap to African countries",
+      "url": "https://www.ghanabusinessnews.com/2026/11/16/ghana-offers-carbon-market-roadmap-to-african-countries/",
+      "summary": "Ghana has offered to share its experience in carbon credit generation and transfer with other African countries to support their participation in international carbon markets. The post Ghana offers carbon market roadmap to African countries appeared first on G",
+      "publishedAt": "2026-11-16T14:05:14+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Assembly Member calls on Minister to terminate contract on stalled Afadzato South road",
-      "url": "https://www.ghanabusinessnews.com/2026/11/15/assembly-member-calls-on-minister-to-terminate-contract-on-stalled-afadzato-south-road/",
-      "summary": "The Assembly Member for Leklebi, Mr Joseph Kofi Gakpo, has called on the Minister for Roads and Highways to terminate the contract for the construction of the Logba Vuinta to Ve Koloenu road and re-award it to a serious contractor. The post Assembly Member cal",
-      "publishedAt": "2026-11-15T08:11:12+00:00",
+      "title": "Ghana said to receive up to 62 tonnes of mercury annually through illicit channels",
+      "url": "https://www.ghanabusinessnews.com/2026/11/16/ghana-said-to-receive-up-to-62-tonnes-of-mercury-annually-through-illicit-channels/",
+      "summary": "Ghana receives between 42.5 and 62 tonnes of mercury annually through illicit channels for use in artisanal and small-scale gold mining, stakeholders have disclosed. The post Ghana said to receive up to 62 tonnes of mercury annually through illicit channels ap",
+      "publishedAt": "2026-11-16T07:07:42+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Ghana government urged to expand free primary healthcare policy at district levels",
-      "url": "https://www.ghanabusinessnews.com/2026/11/15/ghana-government-urged-to-expand-free-primary-healthcare-policy-at-district-levels/",
-      "summary": "The Ghana government has been urged to speed up the expansion of the Free Primary Care (FPHC) Policy to all districts across the country, to save the lives of people with chronic diseases. The post Ghana government urged to expand free primary healthcare polic",
-      "publishedAt": "2026-11-15T08:03:24+00:00",
+      "title": "African countries urged to reject unfunded climate obligations at COP31",
+      "url": "https://www.ghanabusinessnews.com/2026/11/16/african-countries-urged-to-reject-unfunded-climate-obligations-at-cop31/",
+      "summary": "African countries should not accept new climate obligations without adequate financial, technological and capacity-building support, Dr Zanetor Agyeman-Rawlings, Minister of Environment, Science and Technology, has said. The post African countries urged to rej",
+      "publishedAt": "2026-11-16T07:05:35+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Asante-Akim Central chiefs seek President’s intervention in Northern Ashanti Mines takeover",
-      "url": "https://www.ghanabusinessnews.com/2026/11/15/asante-akim-central-chiefs-seek-presidents-intervention-in-northern-ashanti-mines-takeover/",
-      "summary": "Traditional authorities in Asante-Akim Central Municipality have appealed to President John Dramani Mahama to intervene in the takeover of Northern Ashanti Mines Limited. The post Asante-Akim Central chiefs seek President’s intervention in Northern Ashanti Min",
-      "publishedAt": "2026-11-15T07:54:44+00:00",
+      "title": "Sir Sam Jonah advocates restoration of Acheampong’s military rank",
+      "url": "https://www.ghanabusinessnews.com/2026/11/16/sir-sam-jonah-advocates-restoration-of-acheampongs-military-rank/",
+      "summary": "Sir Sam Jonah, a Knight of the Order of the British Empire (KBE), has called for the restoration of former Head of State General Ignatius Kutu Acheampong's military rank. The post Sir Sam Jonah advocates restoration of Acheampong’s military rank appeared first",
+      "publishedAt": "2026-11-16T07:02:08+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Two suspects remanded over murder of 39-year-old woman",
-      "url": "https://www.ghanabusinessnews.com/2026/11/15/two-suspects-remanded-over-murder-of-39-year-old-woman/",
-      "summary": "Two men have been remanded into prison custody by the Dambai Magistrate Court for their alleged involvement in the murder of a 39-year-old woman, Madam Rejoice Sena Akpaku, whose body was discovered in a bush near Adumadum in the Krachi East Municipality of th",
-      "publishedAt": "2026-11-15T07:45:27+00:00",
+      "title": "No one will be shielded over sexual abuses in schools – Minister assures",
+      "url": "https://www.ghanabusinessnews.com/2026/11/16/no-one-will-be-shielded-over-sexual-abuses-in-schools-minister-assures/",
+      "summary": "Mr Haruna Iddrisu, the Minister for Education has assured that no one will be shielded in matters relating to sexual abuses in schools. The post No one will be shielded over sexual abuses in schools – Minister assures appeared first on Ghana Business News .",
+      "publishedAt": "2026-11-16T06:57:21+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Germany’s solar power production nears record level",
-      "url": "https://www.ghanabusinessnews.com/2026/11/15/germanys-solar-power-production-nears-record-level/",
-      "summary": "Solar energy in net electricity generation in Germany is fast approaching a record total of more than 100 terawatt-hours in a single calendar year. The post Germany’s solar power production nears record level appeared first on Ghana Business News .",
-      "publishedAt": "2026-11-15T07:41:05+00:00",
+      "title": "VW targets record 9% rate of return by 2030 despite crisis",
+      "url": "https://www.ghanabusinessnews.com/2026/11/16/vw-targets-record-9-rate-of-return-by-2030-despite-crisis/",
+      "summary": "Volkswagen chief executive Oliver Blume has set ambitious targets for his struggling carmaker, telling Germany's mass-circulation Bild newspaper that he wants to sell 9 million vehicles worldwide by 2030 with a 9% rate of return. The post VW targets record 9% ",
+      "publishedAt": "2026-11-16T06:51:02+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Africa tells COP31 that a just transition must be an African transition",
-      "url": "https://www.ghanabusinessnews.com/2026/11/14/africa-tells-cop31-that-a-just-transition-must-be-an-african-transition/",
-      "summary": "As negotiators in Antalya make a push to turn the just transition mechanism agreed in Belém from words into design, the Economic Commission for Africa (ECA) convened its flagship COP31 event at the Africa Pavilion centered on the question: who pays for Africa’",
-      "publishedAt": "2026-11-14T11:16:15+00:00",
+      "title": "Economists urge disciplined implementation of 2027 Budget",
+      "url": "https://www.ghanabusinessnews.com/2026/11/16/economists-urge-disciplined-implementation-of-2027-budget/",
+      "summary": "Economists have urged the government to mobilise resources and ensure effective implementation of flagship programmes to achieve the targets of the 2027 Budget. The post Economists urge disciplined implementation of 2027 Budget appeared first on Ghana Business",
+      "publishedAt": "2026-11-16T06:45:53+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Germany budget committee approves record €560.9b spending plan for 2027",
-      "url": "https://www.ghanabusinessnews.com/2026/11/14/germany-budget-committee-approves-record-e560-9b-spending-plan-for-2027/",
-      "summary": "Germany's parliamentary budget committee approved a record €560.9 billion ($620.3 billion) spending plan for 2027 early on Friday, although the budget still faces a final vote and a proposed electricity tax cut remains unresolved. The post Germany budget commi",
-      "publishedAt": "2026-11-14T10:19:29+00:00",
+      "title": "Priced out of leadership: Ghana’s women, youth decry high cost of political participation",
+      "url": "https://www.ghanabusinessnews.com/2026/11/16/priced-out-of-leadership-ghanas-women-youth-decry-high-cost-of-political-participation/",
+      "summary": "For Ms Hariratah Ibrahim Doudu, the road to leadership has never been an easy one. Growing up in a modest family of 24 siblings, she learnt early that opportunities were not always readily available and that determination was often necessary to overcome life’s",
+      "publishedAt": "2026-11-16T06:21:29+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "African oil producers urged to balance local content with investment",
-      "url": "https://www.myjoyonline.com/african-oil-producers-urged-to-balance-local-content-with-investment/",
-      "summary": "African oil-producing countries have been urged to strengthen local content development by creating a sustainable pipeline of upstream investments and projects, while maintaining an enabling business environment that attracts international investors. The call ",
-      "publishedAt": "2026-11-15T15:51:38+00:00",
+      "title": "GSSTI Director urges passage of national space law to unlock Ghana’s share of US$680bn space economy",
+      "url": "https://www.myjoyonline.com/gssti-director-urges-passage-of-national-space-law-to-unlock-ghanas-share-of-us680bn-space-economy/",
+      "summary": "The Director of the Ghana Space Science and Technology Institute (GSSTI), Dr Joseph Tandoh, has called for the urgent establishment of the Ghana Space Agency and the passage of a national space law to regulate the country's space activities, protect national i",
+      "publishedAt": "2026-11-16T20:13:32+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "African prints, stunning Fugu, waist beads steal the spotlight at Ecobank JoyBusiness SME Fair 2026",
-      "url": "https://www.myjoyonline.com/african-prints-stunning-fugu-waist-beads-steal-the-spotlight-at-ecobank-joybusiness-sme-fair-2026/",
-      "summary": "From beautifully tailored African-print dresses and stylish Fugu to colourful waist beads, bracelets and fashion accessories, Ghanaian creativity is taking centre stage at the Ecobank JoyBusiness SME Fair 2026, offering fashion enthusiasts an exciting opportun",
-      "publishedAt": "2026-11-15T14:00:12+00:00",
+      "title": "Space Hubs Africa urges coordinated approach to make Ghana a key player in Africa’s space industry",
+      "url": "https://www.myjoyonline.com/space-hubs-africa-urges-coordinated-approach-to-make-ghana-a-key-player-in-africas-space-industry/",
+      "summary": "The Director of Space Hubs Africa, Kwaku Sumah, has called for a coordinated national approach to space science and technology, urging Ghana to move beyond discussions and translate its space ambitions into practical outcomes that benefit citizens.",
+      "publishedAt": "2026-11-16T20:13:25+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Shito, grilled chicken, fufu, coconut juice and more: Food lovers spoilt for choice at Ecobank JoyBusiness SME Fair 2026",
-      "url": "https://www.myjoyonline.com/shito-grilled-chicken-fufu-coconut-juice-and-more-food-lovers-spoilt-for-choice-at-ecobank-joybusiness-sme-fair-2026/",
-      "summary": "From delicious Ghanaian delicacies and flavour-packed spices to refreshing coconut juice, natural cocoa beverages, grilled chicken and freshly baked treats, the Ecobank JoyBusiness SME Fair 2026 is serving up an exciting food experience at Ghud Park, Accra Mal",
-      "publishedAt": "2026-11-15T13:54:09+00:00",
+      "title": "NADKANSCO to create 1,500 direct jobs and over 3,000 indirect jobs – MD",
+      "url": "https://www.myjoyonline.com/nadkansco-to-create-1500-direct-jobs-and-over-3000-indirect-jobs-md/",
+      "summary": "The Managing Director of NADKANSCO Cashew Processing Limited, Belinda Akorfa Adokpa, says the company is expected to create 1,500 direct jobs and more than 3,000 indirect jobs as it expands its cashew processing operations.",
+      "publishedAt": "2026-11-16T18:45:35+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
-    },
-    {
-      "title": "Ecobank JoyBusiness SME Fair 2026: Final-day shopping, unbeatable deals, live music await patrons at Ghud Park",
-      "url": "https://www.myjoyonline.com/ecobank-joybusiness-sme-fair-2026-final-day-shopping-unbeatable-deals-live-music-await-patrons-at-ghud-park/",
-      "summary": "The doors are open, the vendors are ready, the music is playing and the bargains are waiting, the Ecobank JoyBusiness SME Fair 2026 has entered its final day, with patrons being urged to make their way to Ghud Park at Accra Mall today, Sunday, November 15, for",
-      "publishedAt": "2026-11-15T09:39:35+00:00",
-      "source": "MyJoyOnline Business",
-      "category": "Business news"
-    },
-    {
-      "title": "Over 80 brands await shoppers on final day of Ecobank JoyBusiness SME Fair at Ghud Park, Accra Mall",
-      "url": "https://www.myjoyonline.com/over-80-brands-await-shoppers-on-final-day-of-ecobank-joybusiness-sme-fair-at-ghud-park-accra-mall/",
-      "summary": "There is still time to shop, discover new brands and enjoy exciting offers at the Ecobank JoyBusiness SME Fair 2026, as the three-day exhibition enters its final day today, Sunday, November 15. If you have not visited yet, today is your last opportunity to mak",
-      "publishedAt": "2026-11-15T05:18:46+00:00",
-      "source": "MyJoyOnline Business",
-      "category": "Business news"
-    },
-    {
-      "title": "COP31: Two-thirds of Africa’s US$2.2bn clean cooking pledges yet to be delivered",
-      "url": "https://www.myjoyonline.com/cop31-two-thirds-of-africas-us2-2bn-clean-cooking-pledges-yet-to-be-delivered/",
-      "summary": "Two years after leaders pledged US$2.2 billion to expand clean cooking in Africa, only about US$740 million has been paid out, leaving roughly two-thirds of the money, about US$1.46 billion, still to be delivered. The figures were presented at a Leaders’ Round",
-      "publishedAt": "2026-11-14T22:40:49+00:00",
-      "source": "MyJoyOnline Business",
-      "category": "Business news"
-    },
-    {
-      "title": "COP 31: Tanzania, Lesotho, Uganda share clean cooking gains as US$1.46bn in pledges is yet to arrive",
-      "url": "https://www.myjoyonline.com/cop-31-tanzania-lesotho-uganda-share-clean-cooking-gains-as-us1-46bn-in-pledges-is-yet-to-arrive/",
-      "summary": "Tanzania, Lesotho and Uganda have shared how they are expanding clean cooking at home, as leaders at COP31 warned that most of the money promised to help Africa make the switch is yet to arrive. The countries presented their progress at a Leaders’ Roundtable o",
-      "publishedAt": "2026-11-14T22:35:32+00:00",
-      "source": "MyJoyOnline Business",
-      "category": "Business news"
-    },
-    {
-      "title": "Sam Jonah calls for renewed agricultural investment, recalls Operation Feed Yourself achievements",
-      "url": "https://www.myjoyonline.com/sam-jonah-calls-for-renewed-agricultural-investment-recalls-operation-feed-yourself-achievements/",
-      "summary": "Business leader Sir Sam Jonah has criticised successive governments for abandoning the agricultural gains of General Ignatius Kutu Acheampong’s Operation Feed Yourself campaign, arguing that Ghana allowed a successful food production initiative to collapse. De",
-      "publishedAt": "2026-11-14T21:26:58+00:00",
-      "source": "MyJoyOnline Business",
-      "category": "Business news"
-    },
-    {
-      "title": "Receive news updates on the go.",
-      "url": "https://www.myjoyonline.com/?s=cedi+dollar",
-      "summary": "",
-      "publishedAt": null,
-      "source": "MyJoyOnline USD GHS Search",
-      "category": "Public FX fallback"
-    },
-    {
-      "title": "Search results for cedi dollar",
-      "url": "https://www.myjoyonline.com/?s=cedi+dollar",
-      "summary": "",
-      "publishedAt": null,
-      "source": "MyJoyOnline USD GHS Search",
-      "category": "Public FX fallback"
-    },
-    {
-      "title": "Cedi strengthens on GoldBod’s boost to forex liquidity; going for GH¢12.15 against a dollar at forex bureaus",
-      "url": "https://www.myjoyonline.com/?s=cedi+dollar",
-      "summary": "",
-      "publishedAt": null,
-      "source": "MyJoyOnline USD GHS Search",
-      "category": "Public FX fallback"
     }
   ],
   "sources": [
@@ -685,7 +685,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-15T17:37:04.636927+00:00"
+      "fetchedAt": "2026-11-16T20:51:15.518927+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -694,7 +694,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-15T17:37:04.636927+00:00"
+      "fetchedAt": "2026-11-16T20:51:15.518927+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -703,7 +703,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-15T17:37:04.636927+00:00"
+      "fetchedAt": "2026-11-16T20:51:15.518927+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -712,7 +712,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-15T17:37:04.636927+00:00"
+      "fetchedAt": "2026-11-16T20:51:15.518927+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -721,7 +721,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-15T17:37:04.636927+00:00"
+      "fetchedAt": "2026-11-16T20:51:15.518927+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -730,16 +730,16 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-15T17:37:04.636927+00:00"
+      "fetchedAt": "2026-11-16T20:51:15.518927+00:00"
     },
     {
       "name": "SAS Finance Group Research",
       "url": "https://www.sasghana.com/brokerage/research",
       "category": "Investment research",
       "kind": "html",
-      "ok": false,
-      "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-11-15T17:37:04.636927+00:00"
+      "ok": true,
+      "error": null,
+      "fetchedAt": "2026-11-16T20:51:15.518927+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -748,7 +748,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-15T17:37:04.636927+00:00"
+      "fetchedAt": "2026-11-16T20:51:15.518927+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -757,7 +757,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-15T17:37:04.636927+00:00"
+      "fetchedAt": "2026-11-16T20:51:15.518927+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -766,7 +766,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-15T17:37:04.636927+00:00"
+      "fetchedAt": "2026-11-16T20:51:15.518927+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -775,7 +775,7 @@
       "kind": "rss",
       "ok": false,
       "error": "HTTP Error 404: Not Found",
-      "fetchedAt": "2026-11-15T17:37:04.636927+00:00"
+      "fetchedAt": "2026-11-16T20:51:15.518927+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -784,7 +784,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-15T17:37:04.636927+00:00"
+      "fetchedAt": "2026-11-16T20:51:15.518927+00:00"
     },
     {
       "name": "Citi Business News",
@@ -793,7 +793,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-15T17:37:04.636927+00:00"
+      "fetchedAt": "2026-11-16T20:51:15.518927+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -802,7 +802,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-15T17:37:04.636927+00:00"
+      "fetchedAt": "2026-11-16T20:51:15.518927+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -811,7 +811,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-15T17:37:04.636927+00:00"
+      "fetchedAt": "2026-11-16T20:51:15.518927+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -820,7 +820,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-15T17:37:04.636927+00:00"
+      "fetchedAt": "2026-11-16T20:51:15.518927+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -829,7 +829,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-15T17:37:04.636927+00:00"
+      "fetchedAt": "2026-11-16T20:51:15.518927+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -838,7 +838,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-15T17:37:04.636927+00:00"
+      "fetchedAt": "2026-11-16T20:51:15.518927+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -847,7 +847,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-15T17:37:04.636927+00:00"
+      "fetchedAt": "2026-11-16T20:51:15.518927+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -856,7 +856,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-15T17:37:04.636927+00:00"
+      "fetchedAt": "2026-11-16T20:51:15.518927+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -865,7 +865,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-15T17:37:04.636927+00:00"
+      "fetchedAt": "2026-11-16T20:51:15.518927+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -874,7 +874,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-11-15T17:37:04.636927+00:00"
+      "fetchedAt": "2026-11-16T20:51:15.518927+00:00"
     }
   ]
 }
