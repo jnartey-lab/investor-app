@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-16T20:51:15.518927+00:00",
-  "generatedAtGhana": "2026-11-16T20:51:15.518927+00:00",
+  "generatedAt": "2026-11-17T19:40:42.726258+00:00",
+  "generatedAtGhana": "2026-11-17T19:40:42.726258+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
     "gseIndices": {
-      "asOf": "16/11/2026",
-      "composite": 13892.29,
-      "financialStocks": 7092.18,
+      "asOf": "17/11/2026",
+      "composite": 13887.1,
+      "financialStocks": 7097.39,
       "source": "Ghana Stock Exchange",
       "url": "https://gse.com.gh/"
     },
@@ -19,14 +19,14 @@
       "url": "https://www.bog.gov.gh/"
     },
     "fx": {
-      "usdGhsMid": 11.73,
+      "usdGhsMid": 11.75,
       "rateBasis": "public news reported rate",
       "source": "Bank of Ghana Daily Interbank FX Rates",
       "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
       "sourceType": "public_news_fallback",
-      "asOf": "16 Nov 2026",
-      "usdGhsBuying": 11.7241,
-      "usdGhsSelling": 11.7359
+      "asOf": "17 Nov 2026",
+      "usdGhsBuying": 11.7441,
+      "usdGhsSelling": 11.7559
     },
     "ghanaStatisticalService": {
       "cpiInflationYoy": 5.5,
@@ -229,7 +229,7 @@
       "category": "Official macro"
     },
     {
-      "title": "Day's Weighted Average Rate Day’s Weighted Median Rate: 11.7300 table.wpDataTable td.numdata { text-align: right !important; } /* buttons font color */ .wpDataTables .wdt-checkbox-filter.btn, .wpDataTables .selecter .selecter-selected, .wdt-frontend-modal .btn:not(.dropdown-toggle), div.dt-button-collection a.dt-button.active:not(.disabled), div.dt-button-collection button.dt-button.active:not(.disabled) { color: #222222 !important; } /** buttons background hover color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { background-color: #ebbd3f !important; background-image: none !important; } /** buttons hover border color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { border-color: #222222 !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } .wpdt-c .wpDataTablesWrapper table.wpDataTable thead tr:nth-child(2) th { overflow: visible; }",
+      "title": "Day's Weighted Average Rate Day’s Weighted Median Rate: 11.7500 table.wpDataTable td.numdata { text-align: right !important; } /* buttons font color */ .wpDataTables .wdt-checkbox-filter.btn, .wpDataTables .selecter .selecter-selected, .wdt-frontend-modal .btn:not(.dropdown-toggle), div.dt-button-collection a.dt-button.active:not(.disabled), div.dt-button-collection button.dt-button.active:not(.disabled) { color: #222222 !important; } /** buttons background hover color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { background-color: #ebbd3f !important; background-image: none !important; } /** buttons hover border color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { border-color: #222222 !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover, div.dt-button-collection button.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } /** buttons hover font color */ .wpDataTables .wdt-checkbox-filter.btn:hover, .wdt-frontend-modal .btn:not(.dropdown-toggle).btn:hover, div.dt-button-collection a.dt-button.active:not(.disabled):hover { color: rgb(0,0,0) !important; } .wpdt-c .wpDataTablesWrapper table.wpDataTable thead tr:nth-child(2) th { overflow: visible; }",
       "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
       "summary": "",
       "publishedAt": null,
@@ -589,90 +589,90 @@
       "category": "Sovereign credit research"
     },
     {
-      "title": "Ghana offers carbon market roadmap to African countries",
-      "url": "https://www.ghanabusinessnews.com/2026/11/16/ghana-offers-carbon-market-roadmap-to-african-countries/",
-      "summary": "Ghana has offered to share its experience in carbon credit generation and transfer with other African countries to support their participation in international carbon markets. The post Ghana offers carbon market roadmap to African countries appeared first on G",
-      "publishedAt": "2026-11-16T14:05:14+00:00",
+      "title": "Inside Deutsche Bank: Leak of 15 million files exposes secrets, scandals and double standards of global financial giant",
+      "url": "https://www.ghanabusinessnews.com/2026/11/17/inside-deutsche-bank-leak-of-15-million-files-exposes-secrets-scandals-and-double-standards-of-global-financial-giant/",
+      "summary": "More than 15 million internal files. Emails from senior executives. Secret risk assessments. Suspicious transaction reports. Private information about billionaires, oligarchs, politicians and royalty. Records involving Donald Trump, Jeffrey Epstein and sanctio",
+      "publishedAt": "2026-11-17T13:12:17+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Ghana said to receive up to 62 tonnes of mercury annually through illicit channels",
-      "url": "https://www.ghanabusinessnews.com/2026/11/16/ghana-said-to-receive-up-to-62-tonnes-of-mercury-annually-through-illicit-channels/",
-      "summary": "Ghana receives between 42.5 and 62 tonnes of mercury annually through illicit channels for use in artisanal and small-scale gold mining, stakeholders have disclosed. The post Ghana said to receive up to 62 tonnes of mercury annually through illicit channels ap",
-      "publishedAt": "2026-11-16T07:07:42+00:00",
+      "title": "Ghana government budgets GH¢25.6b for defence, interior ministries",
+      "url": "https://www.ghanabusinessnews.com/2026/11/17/ghana-government-budgets-gh%c2%a225-6b-for-defence-interior-ministries/",
+      "summary": "The Ghana government has allocated GH¢25.6 billion to the Ministries of Defence and the Interior in the 2027 Budget to strengthen national security and public safety. The post Ghana government budgets GH¢25.6b for defence, interior ministries appeared first on",
+      "publishedAt": "2026-11-17T07:04:38+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "African countries urged to reject unfunded climate obligations at COP31",
-      "url": "https://www.ghanabusinessnews.com/2026/11/16/african-countries-urged-to-reject-unfunded-climate-obligations-at-cop31/",
-      "summary": "African countries should not accept new climate obligations without adequate financial, technological and capacity-building support, Dr Zanetor Agyeman-Rawlings, Minister of Environment, Science and Technology, has said. The post African countries urged to rej",
-      "publishedAt": "2026-11-16T07:05:35+00:00",
+      "title": "Ten African countries to receive $7.6m climate fund to protect vulnerable cities",
+      "url": "https://www.ghanabusinessnews.com/2026/11/17/ten-african-countries-to-receive-7-6m-climate-fund-to-protect-vulnerable-cities/",
+      "summary": "Ten African countries are to receive support to prepare their cities and vulnerable communities to withstand floods, extreme heat and other effects of climate change under a $7.6 million programme approved by the Green Climate Fund. The post Ten African countr",
+      "publishedAt": "2026-11-17T07:00:53+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Sir Sam Jonah advocates restoration of Acheampong’s military rank",
-      "url": "https://www.ghanabusinessnews.com/2026/11/16/sir-sam-jonah-advocates-restoration-of-acheampongs-military-rank/",
-      "summary": "Sir Sam Jonah, a Knight of the Order of the British Empire (KBE), has called for the restoration of former Head of State General Ignatius Kutu Acheampong's military rank. The post Sir Sam Jonah advocates restoration of Acheampong’s military rank appeared first",
-      "publishedAt": "2026-11-16T07:02:08+00:00",
+      "title": "Ghana exports to China under zero-tariff policy reach $290m",
+      "url": "https://www.ghanabusinessnews.com/2026/11/17/ghana-exports-to-china-under-zero-tariff-policy-reach-290m/",
+      "summary": "Ghana's exports to China rose sharply following the implementation of China's zero-tariff policy, with imports from Ghana reaching $290 million in June 2026. The post Ghana exports to China under zero-tariff policy reach $290m appeared first on Ghana Business ",
+      "publishedAt": "2026-11-17T06:57:01+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "No one will be shielded over sexual abuses in schools – Minister assures",
-      "url": "https://www.ghanabusinessnews.com/2026/11/16/no-one-will-be-shielded-over-sexual-abuses-in-schools-minister-assures/",
-      "summary": "Mr Haruna Iddrisu, the Minister for Education has assured that no one will be shielded in matters relating to sexual abuses in schools. The post No one will be shielded over sexual abuses in schools – Minister assures appeared first on Ghana Business News .",
-      "publishedAt": "2026-11-16T06:57:21+00:00",
+      "title": "Africa needs $120b annually for climate adaptation by 2035 – Minister",
+      "url": "https://www.ghanabusinessnews.com/2026/11/17/africa-needs-120b-annually-for-climate-adaptation-by-2035-minister/",
+      "summary": "Africa requires about $120 billion annually by 2035 to address the impacts of climate change, but available adaptation financing remains far below that level. The post Africa needs $120b annually for climate adaptation by 2035 – Minister appeared first on Ghan",
+      "publishedAt": "2026-11-17T06:52:50+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "VW targets record 9% rate of return by 2030 despite crisis",
-      "url": "https://www.ghanabusinessnews.com/2026/11/16/vw-targets-record-9-rate-of-return-by-2030-despite-crisis/",
-      "summary": "Volkswagen chief executive Oliver Blume has set ambitious targets for his struggling carmaker, telling Germany's mass-circulation Bild newspaper that he wants to sell 9 million vehicles worldwide by 2030 with a 9% rate of return. The post VW targets record 9% ",
-      "publishedAt": "2026-11-16T06:51:02+00:00",
+      "title": "Sky Train trial adjourned to November 23 as lawyer seeks withdrawal",
+      "url": "https://www.ghanabusinessnews.com/2026/11/17/sky-train-trial-adjourned-to-november-23-as-lawyer-seeks-withdrawal/",
+      "summary": "An Accra High Court has adjourned the Sky Train trial to November 23 to allow a former Ghana Infrastructure Investment Fund (GIIF) chief executive to secure new legal representation. The post Sky Train trial adjourned to November 23 as lawyer seeks withdrawal ",
+      "publishedAt": "2026-11-17T06:48:39+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Economists urge disciplined implementation of 2027 Budget",
-      "url": "https://www.ghanabusinessnews.com/2026/11/16/economists-urge-disciplined-implementation-of-2027-budget/",
-      "summary": "Economists have urged the government to mobilise resources and ensure effective implementation of flagship programmes to achieve the targets of the 2027 Budget. The post Economists urge disciplined implementation of 2027 Budget appeared first on Ghana Business",
-      "publishedAt": "2026-11-16T06:45:53+00:00",
+      "title": "Climate promises must translate into funding and action at COP32 – AGNA",
+      "url": "https://www.ghanabusinessnews.com/2026/11/17/climate-promises-must-translate-into-funding-and-action-at-cop32-agna/",
+      "summary": "The failure to deliver on existing climate commitments remains a major concern for developing countries and must be addressed at the next United Nations climate conference, Nana Dr Antwi Boasiako Amoah, Chair of the African Group of Negotiators has said. The p",
+      "publishedAt": "2026-11-17T06:45:49+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Priced out of leadership: Ghana’s women, youth decry high cost of political participation",
-      "url": "https://www.ghanabusinessnews.com/2026/11/16/priced-out-of-leadership-ghanas-women-youth-decry-high-cost-of-political-participation/",
-      "summary": "For Ms Hariratah Ibrahim Doudu, the road to leadership has never been an easy one. Growing up in a modest family of 24 siblings, she learnt early that opportunities were not always readily available and that determination was often necessary to overcome life’s",
-      "publishedAt": "2026-11-16T06:21:29+00:00",
+      "title": "King Ayisoba and Rocky Dawuni earn Grammy nomination for Best African Music Performance",
+      "url": "https://www.ghanabusinessnews.com/2026/11/17/king-ayisoba-and-rocky-dawuni-earn-grammy-nomination-for-best-african-music-performance/",
+      "summary": "Ghanaian musicians King Ayisoba and Rocky Dawuni have earned a nomination in the Best African Music Performance category at the Grammy Awards with their collaborative song, \"No Tradition, No Africa.\" The post King Ayisoba and Rocky Dawuni earn Grammy nominatio",
+      "publishedAt": "2026-11-17T06:42:54+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "GSSTI Director urges passage of national space law to unlock Ghana’s share of US$680bn space economy",
-      "url": "https://www.myjoyonline.com/gssti-director-urges-passage-of-national-space-law-to-unlock-ghanas-share-of-us680bn-space-economy/",
-      "summary": "The Director of the Ghana Space Science and Technology Institute (GSSTI), Dr Joseph Tandoh, has called for the urgent establishment of the Ghana Space Agency and the passage of a national space law to regulate the country's space activities, protect national i",
-      "publishedAt": "2026-11-16T20:13:32+00:00",
+      "title": "Ecobank Ghana’s Regina Ofori wins global award for Outstanding Contribution to Marketing",
+      "url": "https://www.myjoyonline.com/ecobank-ghanas-regina-ofori-wins-global-award-for-outstanding-contribution-to-marketing/",
+      "summary": "Head of Marketing and Corporate Communications at Ecobank Ghana PLC, Regina Ofori, has received the Outstanding Contribution to Marketing (Brand) award at the 2026 Global Women in Marketing (WiM) Awards.",
+      "publishedAt": "2026-11-17T18:02:20+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Space Hubs Africa urges coordinated approach to make Ghana a key player in Africa’s space industry",
-      "url": "https://www.myjoyonline.com/space-hubs-africa-urges-coordinated-approach-to-make-ghana-a-key-player-in-africas-space-industry/",
-      "summary": "The Director of Space Hubs Africa, Kwaku Sumah, has called for a coordinated national approach to space science and technology, urging Ghana to move beyond discussions and translate its space ambitions into practical outcomes that benefit citizens.",
-      "publishedAt": "2026-11-16T20:13:25+00:00",
+      "title": "Gold Fields says Tarkwa mine has contributed US$3.3bn to Ghana",
+      "url": "https://www.myjoyonline.com/gold-fields-says-tarkwa-mine-has-contributed-us3-3bn-to-ghana/",
+      "summary": "Gold Fields Ghana Limited says it has paid US$3.3 billion to the Government of Ghana in royalties, corporate taxes and dividends from its operations at the Tarkwa mine. In a media statement issued on Tuesday, November 17, 2026, the company also disclosed that ",
+      "publishedAt": "2026-11-17T17:39:23+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "NADKANSCO to create 1,500 direct jobs and over 3,000 indirect jobs – MD",
-      "url": "https://www.myjoyonline.com/nadkansco-to-create-1500-direct-jobs-and-over-3000-indirect-jobs-md/",
-      "summary": "The Managing Director of NADKANSCO Cashew Processing Limited, Belinda Akorfa Adokpa, says the company is expected to create 1,500 direct jobs and more than 3,000 indirect jobs as it expands its cashew processing operations.",
-      "publishedAt": "2026-11-16T18:45:35+00:00",
+      "title": "GVCA, NOVA Business School organise masterclass on private equity, venture capital",
+      "url": "https://www.myjoyonline.com/gvca-nova-business-school-organise-masterclass-on-private-equity-venture-capital/",
+      "summary": "The Ghana Venture Capital and Private Equity Association (GVCA) and NOVA Business School Africa have held a masterclass to help women and young executives explore career opportunities in Ghana’s private equity and venture capital industry.",
+      "publishedAt": "2026-11-17T17:30:00+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     }
@@ -685,7 +685,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-16T20:51:15.518927+00:00"
+      "fetchedAt": "2026-11-17T19:40:42.726258+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -694,7 +694,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-16T20:51:15.518927+00:00"
+      "fetchedAt": "2026-11-17T19:40:42.726258+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -703,7 +703,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-16T20:51:15.518927+00:00"
+      "fetchedAt": "2026-11-17T19:40:42.726258+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -712,7 +712,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-16T20:51:15.518927+00:00"
+      "fetchedAt": "2026-11-17T19:40:42.726258+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -721,7 +721,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-16T20:51:15.518927+00:00"
+      "fetchedAt": "2026-11-17T19:40:42.726258+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -730,7 +730,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-16T20:51:15.518927+00:00"
+      "fetchedAt": "2026-11-17T19:40:42.726258+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -739,7 +739,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-16T20:51:15.518927+00:00"
+      "fetchedAt": "2026-11-17T19:40:42.726258+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -748,7 +748,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-16T20:51:15.518927+00:00"
+      "fetchedAt": "2026-11-17T19:40:42.726258+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -757,7 +757,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-16T20:51:15.518927+00:00"
+      "fetchedAt": "2026-11-17T19:40:42.726258+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -766,7 +766,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-16T20:51:15.518927+00:00"
+      "fetchedAt": "2026-11-17T19:40:42.726258+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -775,7 +775,7 @@
       "kind": "rss",
       "ok": false,
       "error": "HTTP Error 404: Not Found",
-      "fetchedAt": "2026-11-16T20:51:15.518927+00:00"
+      "fetchedAt": "2026-11-17T19:40:42.726258+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -784,7 +784,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-16T20:51:15.518927+00:00"
+      "fetchedAt": "2026-11-17T19:40:42.726258+00:00"
     },
     {
       "name": "Citi Business News",
@@ -793,7 +793,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-16T20:51:15.518927+00:00"
+      "fetchedAt": "2026-11-17T19:40:42.726258+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -802,7 +802,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-16T20:51:15.518927+00:00"
+      "fetchedAt": "2026-11-17T19:40:42.726258+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -811,7 +811,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-16T20:51:15.518927+00:00"
+      "fetchedAt": "2026-11-17T19:40:42.726258+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -820,7 +820,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-16T20:51:15.518927+00:00"
+      "fetchedAt": "2026-11-17T19:40:42.726258+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -829,7 +829,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-16T20:51:15.518927+00:00"
+      "fetchedAt": "2026-11-17T19:40:42.726258+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -838,7 +838,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-16T20:51:15.518927+00:00"
+      "fetchedAt": "2026-11-17T19:40:42.726258+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -847,7 +847,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-16T20:51:15.518927+00:00"
+      "fetchedAt": "2026-11-17T19:40:42.726258+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -856,7 +856,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-16T20:51:15.518927+00:00"
+      "fetchedAt": "2026-11-17T19:40:42.726258+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -865,7 +865,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-16T20:51:15.518927+00:00"
+      "fetchedAt": "2026-11-17T19:40:42.726258+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -874,7 +874,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-11-16T20:51:15.518927+00:00"
+      "fetchedAt": "2026-11-17T19:40:42.726258+00:00"
     }
   ]
 }
