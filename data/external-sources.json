@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-24T21:01:06.861517+00:00",
-  "generatedAtGhana": "2026-11-24T21:01:06.861517+00:00",
+  "generatedAt": "2026-11-25T20:24:11.629186+00:00",
+  "generatedAtGhana": "2026-11-25T20:24:11.629186+00:00",
   "schedule": "Daily at 11:00 Africa/Accra via GitHub Actions",
   "disclaimer": "Public pages and RSS feeds are used for monitoring and source discovery. Use licensed feeds for trading-grade stock data.",
   "indicators": {
     "gseIndices": {
-      "asOf": "24/11/2026",
-      "composite": 13883.54,
-      "financialStocks": 7057.7,
+      "asOf": "25/11/2026",
+      "composite": 13890.84,
+      "financialStocks": 7051.89,
       "source": "Ghana Stock Exchange",
       "url": "https://gse.com.gh/"
     },
@@ -24,7 +24,7 @@
       "source": "Bank of Ghana Daily Interbank FX Rates",
       "url": "https://www.bog.gov.gh/treasury-and-the-markets/daily-interbank-fx-rates/",
       "sourceType": "public_news_fallback",
-      "asOf": "24 Nov 2026",
+      "asOf": "25 Nov 2026",
       "usdGhsBuying": 11.8441,
       "usdGhsSelling": 11.8559
     },
@@ -525,130 +525,130 @@
       "category": "Sovereign credit research"
     },
     {
-      "title": "German president calls for more investment at Africa business summit in Accra",
-      "url": "https://www.ghanabusinessnews.com/2026/11/24/german-president-calls-for-more-investment-at-africa-business-summit-in-accra/",
-      "summary": "German President Frank-Walter Steinmeier on Tuesday called on the German business community to become more involved in Africa, as he opened an economic forum in Accra with Ghana's President John Mahama. The post German president calls for more investment at Af",
-      "publishedAt": "2026-11-24T20:17:20+00:00",
+      "title": "GH¢30.7m NSA hire-purchase funds diverted to company – Witness",
+      "url": "https://www.ghanabusinessnews.com/2026/11/25/gh%c2%a230-7m-nsa-hire-purchase-funds-diverted-to-company-witness/",
+      "summary": "A police investigator has told an Accra High Court that investigations into an alleged GH¢30.7 million National Service Authority (NSA) hire-purchase scheme, traced the funds through two companies to an account belonging to Amaecom Global Company Limited. The ",
+      "publishedAt": "2026-11-25T15:42:20+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Ghana is open for business – Mahama",
-      "url": "https://www.ghanabusinessnews.com/2026/11/24/ghana-is-open-for-business-mahama/",
-      "summary": "President John Mahama today boldly declared that Ghana is open for business and investments that create jobs. The post Ghana is open for business – Mahama appeared first on Ghana Business News .",
-      "publishedAt": "2026-11-24T20:08:23+00:00",
+      "title": "Chief urges government to strengthen power of traditional rulers",
+      "url": "https://www.ghanabusinessnews.com/2026/11/25/chief-urges-government-to-strengthen-power-of-traditional-rulers/",
+      "summary": "Nana Tabi Agyabeng III, the Chief of Manso-Agroyesum, has stressed the need to strengthen the authority and powers of traditional leaders to enable them to mobilise their people for community development. The post Chief urges government to strengthen power of ",
+      "publishedAt": "2026-11-25T14:49:09+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "From cowries to cotton: New currency notes carry Ghana’s memory",
-      "url": "https://www.ghanabusinessnews.com/2026/11/24/from-cowries-to-cotton-new-currency-notes-carry-ghanas-memory/",
-      "summary": "At Makola, a banknote rarely rests. It passes from customer to trader, trader to supplier, supplier to driver. Before sunset, the same note may have restocked a business, paid a fare and helped put supper on a table. The post From cowries to cotton: New curren",
-      "publishedAt": "2026-11-24T07:23:41+00:00",
+      "title": "Teachers raise concerns over poor implementation of GES collective agreement – Study",
+      "url": "https://www.ghanabusinessnews.com/2026/11/25/teachers-raise-concerns-over-poor-implementation-of-ges-collective-agreement-study/",
+      "summary": "A nationwide study involving 2,512 teachers has revealed a significant gap in the implementation of the 2020 Collective Agreement between the Ghana Education Service (GES) and teacher unions, with majority of respondents describing its overall implementation a",
+      "publishedAt": "2026-11-25T14:41:39+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Germany’s Wadephul vows to defend ‘every inch’ of NATO territory",
-      "url": "https://www.ghanabusinessnews.com/2026/11/24/germanys-wadephul-vows-to-defend-every-inch-of-nato-territory/",
-      "summary": "German Foreign Minister Johann Wadephul underlined NATO's readiness to defend itself on Monday, following the recent Russian violations of Polish airspace. The post Germany’s Wadephul vows to defend ‘every inch’ of NATO territory appeared first on Ghana Busine",
-      "publishedAt": "2026-11-24T07:10:42+00:00",
+      "title": "The power of Africa",
+      "url": "https://www.ghanabusinessnews.com/2026/11/25/the-power-of-africa/",
+      "summary": "Africa is a continent that was tortured and deeply hurt by colonialism. Colonialism was a harsh and brutal period of organized and methodical conquest, savage exploitation and division of the continent by European powers, with profound consequences that contin",
+      "publishedAt": "2026-11-25T08:52:17+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Akwamuman to play key role in $1b pharmaceutical hub – Mahama",
-      "url": "https://www.ghanabusinessnews.com/2026/11/24/akwamuman-to-play-key-role-in-1b-pharmaceutical-hub-mahama/",
-      "summary": "President John Dramani Mahama says Akwamuman will play a key role in a planned $1 billion pharmaceutical and bio-manufacturing hub expected to create about 20,000 jobs and boost local medicine production. The post Akwamuman to play key role in $1b pharmaceutic",
-      "publishedAt": "2026-11-24T07:06:40+00:00",
+      "title": "Agriculture remains Ghana’s largest employer despite lower GDP share",
+      "url": "https://www.ghanabusinessnews.com/2026/11/25/agriculture-remains-ghanas-largest-employer-despite-lower-gdp-share/",
+      "summary": "Agriculture remained Ghana's largest source of employment in 2025, accounting for 37.1 per cent of employed persons, according to the Ghana Statistical Service's (GSS) Productivity, Employment and Growth (PEG) Statistics Report. The post Agriculture remains Gh",
+      "publishedAt": "2026-11-25T08:49:01+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Herbal medicine under threat from chemical spraying, land destruction",
-      "url": "https://www.ghanabusinessnews.com/2026/11/24/herbal-medicine-under-threat-from-chemical-spraying-land-destruction/",
-      "summary": "Mr Joshua Appiah-Kubi of Poget Herbal has expressed concern over the negative impact of indiscriminate chemical spraying by farmers and the activities of illegal miners on medicinal plants used in herbal medicine production. The post Herbal medicine under thre",
-      "publishedAt": "2026-11-24T07:04:09+00:00",
+      "title": "Ghana government develops national framework to address Kayayie challenge",
+      "url": "https://www.ghanabusinessnews.com/2026/11/25/ghana-government-develops-national-framework-to-address-kayayie-challenge/",
+      "summary": "The Ghana government is developing a National Kayayie Management Framework to address unsafe migration, protect vulnerable girls and women, and improve coordination of interventions targeting head porters. The post Ghana government develops national framework ",
+      "publishedAt": "2026-11-25T08:46:39+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Fintech firms urged to develop financing solutions for informal businesses",
-      "url": "https://www.ghanabusinessnews.com/2026/11/24/fintech-firms-urged-to-develop-financing-solutions-for-informal-businesses/",
-      "summary": "Mr Shaibu Haruna, Chief Executive Officer of Mobile Money Fintech Limited (MMFL), has urged fintech companies to develop financial products to improve access to credit for informal businesses. The post Fintech firms urged to develop financing solutions for inf",
-      "publishedAt": "2026-11-24T07:02:09+00:00",
+      "title": "African secondary education systems must transform to prepare youth for jobs – Report",
+      "url": "https://www.ghanabusinessnews.com/2026/11/25/african-secondary-education-systems-must-transform-to-prepare-youth-for-jobs-report/",
+      "summary": "Secondary education systems across Africa must undergo significant transformation to equip young people with relevant skills and prepare them for employment, entrepreneurship and lifelong learning, a new report by the Mastercard Foundation has recommended. The",
+      "publishedAt": "2026-11-25T08:43:50+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "NPA advocates LPG use in boarding schools to curb smoke-related illnesses",
-      "url": "https://www.ghanabusinessnews.com/2026/11/24/npa-advocates-lpg-use-in-boarding-schools-to-curb-smoke-related-illnesses/",
-      "summary": "The National Petroleum Authority (NPA) has urged boarding schools to replace firewood and charcoal with liquefied petroleum gas (LPG) to reduce exposure to smoke-related health risks among kitchen staff and students. The post NPA advocates LPG use in boarding ",
-      "publishedAt": "2026-11-24T06:57:10+00:00",
+      "title": "Ghana poultry farmers urged to prepare for El Niño heat",
+      "url": "https://www.ghanabusinessnews.com/2026/11/25/ghana-poultry-farmers-urged-to-prepare-for-el-nino-heat/",
+      "summary": "Poultry farmers have been advised to take urgent measures against heat stress as a developing El Niño threatens to bring hotter and drier conditions across Ghana from November 2026 to April 2027. The post Ghana poultry farmers urged to prepare for El Niño heat",
+      "publishedAt": "2026-11-25T08:40:55+00:00",
       "source": "Ghana Business News",
       "category": "Business news"
     },
     {
-      "title": "Kantanka Group backs Nkrumah Memorial Park initiative to promote Ghanaian-owned enterprises",
-      "url": "https://www.myjoyonline.com/kantanka-group-backs-nkrumah-memorial-park-initiative-to-promote-ghanaian-owned-enterprises/",
-      "summary": "The Kantanka Group is exploring a partnership with the Kwame Nkrumah Memorial Park under a proposed initiative to promote Ghanaian-owned businesses and advance discussions on economic independence. The group's Chief Executive Officer and leader of the Kristo A",
-      "publishedAt": "2026-11-24T19:47:38+00:00",
+      "title": "Bank of Ghana pushes alternative data lending to widen loan access",
+      "url": "https://www.myjoyonline.com/bank-of-ghana-pushes-alternative-data-lending-to-widen-loan-access/",
+      "summary": "The Bank of Ghana is pushing for the integration of alternative data into the country's credit system to help underserved individuals and small businesses access loans.",
+      "publishedAt": "2026-11-25T20:00:10+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "GSE appoints Kojo Darpaah as head of GFIM",
-      "url": "https://www.myjoyonline.com/gse-appoints-kojo-darpaah-as-head-of-gfim/",
-      "summary": "His career has encompassed trading, treasury management and strategic leadership, positioning him as a financial market professional with deep expertise in market development and institutional growth.",
-      "publishedAt": "2026-11-24T19:19:23+00:00",
+      "title": "Financial institutions urged to use alternative records, including Mobile Money, to boost financing for women farmers",
+      "url": "https://www.myjoyonline.com/financial-institutions-urged-to-use-alternative-records-including-mobile-money-to-boost-financing-for-women-farmers/",
+      "summary": "Women farmers could secure bank loans using their mobile money transaction records instead of relying on physical assets as collateral, as the Ghana Venture Capital and Private Equity Association calls for a review of traditional lending practices to expand ac",
+      "publishedAt": "2026-11-25T19:35:26+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Trade Minister pushes stronger trade and investment ties with Germany",
-      "url": "https://www.myjoyonline.com/trade-minister-pushes-stronger-trade-and-investment-ties-with-germany/",
-      "summary": "The Minister for Trade, Agribusiness and Industry, Elizabeth Ofosu-Adjare, has called for stronger trade and investment partnerships between Ghana and Germany, with emphasis on industrial development, local production, technology transfer and export growth.",
-      "publishedAt": "2026-11-24T18:49:25+00:00",
+      "title": "Maxbuy Goes Black with up to 60%",
+      "url": "https://www.myjoyonline.com/maxbuy-goes-black-with-up-to-60/",
+      "summary": "Ghana’s leading electronics and home appliance retailer and the authorised dealer of Haier appliances, Maxbuy, is set to roll out the mega deals of its annual Black Friday campaign, “Maxbuy Goes Black,” with price cuts of up to 60% for shoppers nationwide.",
+      "publishedAt": "2026-11-25T19:27:09+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "CSA calls for real-time communication platform to strengthen Ghana’s digital finance security",
-      "url": "https://www.myjoyonline.com/csa-calls-for-real-time-communication-platform-to-strengthen-ghanas-digital-finance-security/",
-      "summary": "The Head of Cybersecurity Technology Standards at Ghana’s Cyber Security Authority (CSA), Jake France, has called for a real-time communications platform to enable banks, telecommunications companies, fintechs, regulators and other players in Ghana’s digital f",
-      "publishedAt": "2026-11-24T18:27:46+00:00",
+      "title": "Farmers report expired cocoa fertiliser complaints from various communities – Association president",
+      "url": "https://www.myjoyonline.com/farmers-report-expired-cocoa-fertiliser-complaints-from-various-communities-association-president/",
+      "summary": "The President of the Ghana National Cocoa Farmers Association, Stephen Anane Boateng, says the association has received several complaints from cocoa farmers in different communities over the alleged supply of expired fertiliser.",
+      "publishedAt": "2026-11-25T19:23:06+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "GRA uncovers widespread tax infractions at Circle market, cracks down on mobile phone dealers",
-      "url": "https://www.myjoyonline.com/gra-uncovers-widespread-tax-infractions-at-circle-market-cracks-down-on-mobile-phone-dealers/",
-      "summary": "The Ghana Revenue Authority (GRA) has uncovered widespread tax infractions among many businesses operating in the Kwame Nkrumah Circle enclave. The findings prompted officers of the GRA enforcement team to mount a tax stand and temporarily lock up about 48 mob",
-      "publishedAt": "2026-11-24T17:14:25+00:00",
+      "title": "Bolt urges shared responsibility for road safety, calls on drivers and passengers to use safety features",
+      "url": "https://www.myjoyonline.com/bolt-urges-shared-responsibility-for-road-safety-calls-on-drivers-and-passengers-to-use-safety-features/",
+      "summary": "Bolt Ghana has called for greater collaboration among road safety stakeholders, urging regulators, ride-hailing companies, drivers and passengers to take collective responsibility for reducing road accidents. The company says addressing road safety challenges ",
+      "publishedAt": "2026-11-25T18:37:28+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Finance Minister urges DDEP bondholders to participate in voluntary buyback programme",
-      "url": "https://www.myjoyonline.com/finance-minister-urges-ddep-bondholders-to-participate-in-voluntary-buyback-programme/",
-      "summary": "The auction is scheduled to close tomorrow, Wednesday, November 25, at 3 pm Greenwich Meridian Time (GMT). Interested bondholders should contact an active Primary Dealer to participate.",
-      "publishedAt": "2026-11-24T15:24:52+00:00",
+      "title": "GIHOC targets return to market leadership in Ghana, expansion across West Africa – CEO",
+      "url": "https://www.myjoyonline.com/gihoc-targets-return-to-market-leadership-in-ghana-expansion-across-west-africa-ceo/",
+      "summary": "The Ghana Industrial Holding Company (GIHOC) Distilleries Company Limited says it is committed to restoring its position as a leading alcoholic beverage manufacturer in Ghana and expanding its market presence across West Africa. Chief Executive Officer of GIHO",
+      "publishedAt": "2026-11-25T18:23:07+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "Mahama calls for mutually beneficial Germany-Africa economic partnership",
-      "url": "https://www.myjoyonline.com/mahama-calls-for-mutually-beneficial-germany-africa-economic-partnership/",
-      "summary": "President John Dramani Mahama has called for a stronger economic partnership between Germany and African countries, urging both sides to prioritise trade, investment, technology transfer and industrial cooperation to drive sustainable economic growth. He says ",
-      "publishedAt": "2026-11-24T15:03:44+00:00",
+      "title": "French Ambassador commends Ato Forson’s management of Ghana’s economy",
+      "url": "https://www.myjoyonline.com/french-ambassador-commends-ato-forsons-management-of-ghanas-economy/",
+      "summary": "France’s Ambassador to Ghana, Diarra Dimé-Labille, has expressed confidence in the government’s management of the economy, commending Finance Minister Dr Cassiel Ato Forson for what she describes as impressive performance. Speaking during a courtesy visit to t",
+      "publishedAt": "2026-11-25T17:16:46+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
     {
-      "title": "GCB Bank ranked highest among banks in Ghana Club 100, places fourth overall",
-      "url": "https://www.myjoyonline.com/gcb-bank-ranked-highest-among-banks-in-ghana-club-100-places-fourth-overall/",
-      "summary": "GCB Bank PLC has been ranked fourth among Ghana’s top 100 companies at the 2026 Ghana Club 100 Awards, emerging as the highest-ranked bank in the country. The achievement places the Bank among the top five companies across all industries, reinforcing its posit",
-      "publishedAt": "2026-11-24T15:03:11+00:00",
+      "title": "World Bank Group, Ghana launch Compact with Africa 2.0 pilot to unlock US$245 million in private investment",
+      "url": "https://www.myjoyonline.com/world-bank-group-ghana-launch-compact-with-africa-2-0-pilot-to-unlock-us245-million-in-private-investment/",
+      "summary": "The World Bank Group, the Government of Ghana and development partners have launched the Compact with Africa 2.0 (CwA 2.0) Ghana Pilot. The program aims to turn policy reforms into private investment, wider trade, and more and better jobs. Ghana is one of four",
+      "publishedAt": "2026-11-25T14:40:21+00:00",
       "source": "MyJoyOnline Business",
       "category": "Business news"
     },
@@ -685,7 +685,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-24T21:01:06.861517+00:00"
+      "fetchedAt": "2026-11-25T20:24:11.629186+00:00"
     },
     {
       "name": "GSE Listed Companies",
@@ -694,7 +694,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-24T21:01:06.861517+00:00"
+      "fetchedAt": "2026-11-25T20:24:11.629186+00:00"
     },
     {
       "name": "GSE Disclosure Portal",
@@ -703,7 +703,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-24T21:01:06.861517+00:00"
+      "fetchedAt": "2026-11-25T20:24:11.629186+00:00"
     },
     {
       "name": "Bank of Ghana",
@@ -712,7 +712,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-24T21:01:06.861517+00:00"
+      "fetchedAt": "2026-11-25T20:24:11.629186+00:00"
     },
     {
       "name": "Bank of Ghana FX Rates",
@@ -721,7 +721,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-24T21:01:06.861517+00:00"
+      "fetchedAt": "2026-11-25T20:24:11.629186+00:00"
     },
     {
       "name": "Ghana Statistical Service",
@@ -730,7 +730,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-24T21:01:06.861517+00:00"
+      "fetchedAt": "2026-11-25T20:24:11.629186+00:00"
     },
     {
       "name": "SAS Finance Group Research",
@@ -739,7 +739,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-11-24T21:01:06.861517+00:00"
+      "fetchedAt": "2026-11-25T20:24:11.629186+00:00"
     },
     {
       "name": "SIC Brokerage Daily Equity Market Report",
@@ -748,7 +748,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-24T21:01:06.861517+00:00"
+      "fetchedAt": "2026-11-25T20:24:11.629186+00:00"
     },
     {
       "name": "Fitch Ratings",
@@ -757,7 +757,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-24T21:01:06.861517+00:00"
+      "fetchedAt": "2026-11-25T20:24:11.629186+00:00"
     },
     {
       "name": "Fitch Sovereigns",
@@ -766,7 +766,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-24T21:01:06.861517+00:00"
+      "fetchedAt": "2026-11-25T20:24:11.629186+00:00"
     },
     {
       "name": "Business & Financial Times",
@@ -775,7 +775,7 @@
       "kind": "rss",
       "ok": false,
       "error": "HTTP Error 404: Not Found",
-      "fetchedAt": "2026-11-24T21:01:06.861517+00:00"
+      "fetchedAt": "2026-11-25T20:24:11.629186+00:00"
     },
     {
       "name": "Ghana Business News",
@@ -784,7 +784,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-24T21:01:06.861517+00:00"
+      "fetchedAt": "2026-11-25T20:24:11.629186+00:00"
     },
     {
       "name": "Citi Business News",
@@ -793,7 +793,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-24T21:01:06.861517+00:00"
+      "fetchedAt": "2026-11-25T20:24:11.629186+00:00"
     },
     {
       "name": "MyJoyOnline Business",
@@ -802,7 +802,7 @@
       "kind": "rss",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-24T21:01:06.861517+00:00"
+      "fetchedAt": "2026-11-25T20:24:11.629186+00:00"
     },
     {
       "name": "MyJoyOnline USD GHS Search",
@@ -811,7 +811,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-24T21:01:06.861517+00:00"
+      "fetchedAt": "2026-11-25T20:24:11.629186+00:00"
     },
     {
       "name": "CurrencyRate USD GHS",
@@ -820,7 +820,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-24T21:01:06.861517+00:00"
+      "fetchedAt": "2026-11-25T20:24:11.629186+00:00"
     },
     {
       "name": "MyJoyOnline GSE Search",
@@ -829,7 +829,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-24T21:01:06.861517+00:00"
+      "fetchedAt": "2026-11-25T20:24:11.629186+00:00"
     },
     {
       "name": "MyJoyOnline Policy Rate Search",
@@ -838,7 +838,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-24T21:01:06.861517+00:00"
+      "fetchedAt": "2026-11-25T20:24:11.629186+00:00"
     },
     {
       "name": "MyJoyOnline Treasury Bill Search",
@@ -847,7 +847,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-24T21:01:06.861517+00:00"
+      "fetchedAt": "2026-11-25T20:24:11.629186+00:00"
     },
     {
       "name": "MyJoyOnline Inflation Search",
@@ -856,7 +856,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-24T21:01:06.861517+00:00"
+      "fetchedAt": "2026-11-25T20:24:11.629186+00:00"
     },
     {
       "name": "MyJoyOnline GDP Search",
@@ -865,7 +865,7 @@
       "kind": "html",
       "ok": true,
       "error": null,
-      "fetchedAt": "2026-11-24T21:01:06.861517+00:00"
+      "fetchedAt": "2026-11-25T20:24:11.629186+00:00"
     },
     {
       "name": "Bloomberg Markets",
@@ -874,7 +874,7 @@
       "kind": "html",
       "ok": false,
       "error": "HTTP Error 403: Forbidden",
-      "fetchedAt": "2026-11-24T21:01:06.861517+00:00"
+      "fetchedAt": "2026-11-25T20:24:11.629186+00:00"
     }
   ]
 }
